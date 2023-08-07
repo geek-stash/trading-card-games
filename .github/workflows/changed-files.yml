@@ -39,6 +39,8 @@ jobs:
               pokemonFilePaths+="geek-stash/trading-card-games/main/$file"
             fi
 
-          $echo curl -X POST ${{ secrets.POKEMON_SYNC_ENDPOINT }} -H "Content-Type: application/json" -d '{"filePaths": $pokemonFilePaths}'
+          $echo "$pokemonFilePaths"
+
+          curl -X POST ${{ secrets.POKEMON_SYNC_ENDPOINT }} -H "Content-Type: application/json" -d '{"filePaths": $pokemonFilePaths}'
 
           done
