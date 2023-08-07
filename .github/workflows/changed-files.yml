@@ -39,7 +39,7 @@ jobs:
               pokemonFilePaths+="geek-stash/trading-card-games/main/$file"
             fi
 
-          $response=(curl -X POST ${{ secrets.POKEMON_SYNC_ENDPOINT }} -H "Content-Type: application/json" -d '{"filePaths": $pokemonFilePaths}')
+          response=(curl -X POST ${{ secrets.POKEMON_SYNC_ENDPOINT }} -H "Content-Type: application/json" -d '{"filePaths": $pokemonFilePaths}')
 
           $echo "$response"
 
