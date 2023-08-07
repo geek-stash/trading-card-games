@@ -32,6 +32,15 @@ jobs:
 
       - name: List all changed files
         run: |
+          pokemonFilePaths=()
+
           for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
-            echo "$file was changed"
+            if [[ $file == *"Pokemon"* ]]; then
+              pokemonFilePaths+="geek-stash/trading-card-games/main/$file"
+            fi
+
+          curl -X POST ${{ secrets.POKEMON_SYNC_ENDPOINT }}
+            -H "Content-Type: application/json"
+            -d '{"filePaths": $pokemonFilePaths}'
+
           done
