@@ -38,16 +38,12 @@ jobs:
               pokemonFilePaths+="geek-stash/trading-card-games/main/$file"
             fi
 
-          DATA=${{ format('{"filePaths": {0}}', pokemonFilePaths) }}  
-
-          echo 'DATA'
-
           CODE=`curl --write-out '%{http_code}' \
             --silent \
             --request POST \
             --header 'content-type: application/json' \
             --url '${{ secrets.POKEMON_SYNC_ENDPOINT }}' \
-            --data {"filePaths": $pokemonFilePaths}`
+            --data {"filePaths": pokemonFilePaths}`
           
           echo $CODE
 
