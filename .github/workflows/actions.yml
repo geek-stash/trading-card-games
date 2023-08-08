@@ -37,8 +37,8 @@ jobs:
             if [[ $file == *"Pokemon"* ]]; then
               pokemonFilePaths+="geek-stash/trading-card-games/main/$file"
             fi
-
-          pokemonData={"filePaths": $pokemonFilePaths}
+            
+          echo '${{ toJSON({"filePaths": $pokemonFilePaths}) }}' >> data.json
 
           CODE=`curl --write-out '%{http_code}' \
             --silent \
