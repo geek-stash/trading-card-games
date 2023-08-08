@@ -31,12 +31,14 @@ jobs:
 
       - name: Trigger Sync Jobs
         run: |
-          pokemonFilePaths=()
+          pokemonFilePaths=[]
 
           for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
             if [[ $file == *"Pokemon"* ]]; then
               pokemonFilePaths+="geek-stash/trading-card-games/main/$file"
             fi
+
+          echo $pokemonFilePaths
 
           CODE=`curl --write-out '%{http_code}' \
             --silent \
