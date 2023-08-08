@@ -41,13 +41,13 @@ jobs:
 
           echo "$pokemonFilePaths"
 
-          RESPONSE=`curl -v \
+          CODE=`curl --write-out '%{http_code}' \
             --silent \
             --request POST \
             --header 'content-type: application/json' \
             --url '${{ secrets.POKEMON_SYNC_ENDPOINT }}' \
             --data '{filePaths: $pokemonFilePaths}'`
           
-          echo $RESPONSE
+          echo $CODE
 
           done
