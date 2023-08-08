@@ -38,8 +38,6 @@ jobs:
               pokemonFilePaths+="geek-stash/trading-card-games/main/$file"
             fi
 
-          echo "$pokemonFilePaths"
-
           CODE=`curl --write-out '%{http_code}' \
             --silent \
             --request POST \
