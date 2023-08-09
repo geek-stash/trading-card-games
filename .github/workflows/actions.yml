@@ -41,6 +41,8 @@ jobs:
               pokemonFilePaths+="geek-stash/trading-card-games/main/$file"
             fi
 
+          echo $pokemonFilePaths
+
           done
 
       - name: Trigger Sync Jobs
