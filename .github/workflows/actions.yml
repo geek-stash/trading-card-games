@@ -37,13 +37,15 @@ jobs:
             if [[ $file == *"Pokemon"* ]]; then
               pokemonFilePaths+="geek-stash/trading-card-games/main/$file"
             fi
+          
+          echo [[ toJSON($pokemonFilePaths) ]]
 
           CODE=`curl --write-out '%{http_code}' \
             --silent \
             --request POST \
             --header 'content-type: application/json' \
             --url '${{ secrets.POKEMON_SYNC_ENDPOINT }}' \
-            --data '[[ toJSON($pokemonFilePaths) ]]'`
+            --data [[ toJSON($pokemonFilePaths) ]]`
           
           echo $CODE
 
