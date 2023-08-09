@@ -45,22 +45,12 @@ jobs:
 
           echo $pokemonFilePaths
 
-          done
-
-  job2:
-    runs-on: ubuntu-latest  # windows-latest | macos-latest
-    name: Trigger Sync Jobs
-    steps:
-      - name: Trigger Sync Jobs
-        run: |
-          echo '${{ toJSON(steps.sync-jobs.outputs.pokemonFilePaths) }}'
-  
           CODE=`curl --write-out '%{http_code}' \
             --silent \
             --request POST \
             --header 'content-type: application/json' \
             --url '${{ secrets.POKEMON_SYNC_ENDPOINT }}' \
-            --data '${{ toJSON(steps.sync-jobs.outputs.pokemonFilePaths) }}'`
+            --data $pokemonFilePaths`
             
           echo $CODE
 
