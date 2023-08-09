@@ -36,7 +36,7 @@ jobs:
         run: |
           for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
             if [[ $file == *"pokemon"* ]]; then
-              pokemonFilePaths+='"geek-stash/trading-card-games/main/${file}",'
+              pokemonFilePaths+='"geek-stash/trading-card-games/main/'+'${file}'+'\",'
             fi
 
           pokemonFilePaths=[${pokemonFilePaths::-1}]
