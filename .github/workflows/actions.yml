@@ -30,6 +30,7 @@ jobs:
       # NOTE: `since_last_remote_commit: true` is implied by default and falls back to the previous local commit.
 
       - name: Trigger Sync Jobs
+        id: sync-jobs
         run: |
           pokemonFilePaths=[]
 
@@ -38,7 +39,7 @@ jobs:
               pokemonFilePaths+="geek-stash/trading-card-games/main/$file"
             fi
           
-          echo $pokemonFilePaths.toString()
+          echo ${{ toJSON(steps.sync-jobs.pokemonFilePaths) }}
 
           CODE=`curl --write-out '%{http_code}' \
             --silent \
