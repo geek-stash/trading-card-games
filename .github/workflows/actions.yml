@@ -34,14 +34,12 @@ jobs:
       - name: Build File Path Arrays
         id: sync-jobs
         run: |
-          pokemonFilePaths=[
-
           for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
             if [[ $file == *"pokemon"* ]]; then
               pokemonFilePaths+='"geek-stash/trading-card-games/main/$file",'
             fi
 
-          pokemonFilePaths=${pokemonFilePaths::-1}]
+          pokemonFilePaths=[${pokemonFilePaths::-1}]
 
           echo $pokemonFilePaths
 
