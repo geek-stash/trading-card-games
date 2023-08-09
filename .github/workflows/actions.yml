@@ -47,6 +47,6 @@ jobs:
             --request POST \
             --header 'content-type: application/json' \
             --url '${{ secrets.POKEMON_SYNC_ENDPOINT }}' \
-            --data '${pokemonFilePaths}'`
+            --data ${pokemonFilePaths}`
             
           echo $CODE
