@@ -15,8 +15,10 @@ jobs:
   # ----------------------------------------------------------------------------------------------
   # Event `push`: Compare the preceding remote commit -> to the current commit of the main branch 
   # ----------------------------------------------------------------------------------------------
-  job2:
+  job1:
     runs-on: ubuntu-latest  # windows-latest | macos-latest
+    outputs:
+      pokemonFilePaths: ${{ steps.sync-jobs.outputs.pokemonFilePaths }}
     name: Sync Changed Files
     steps:
       - uses: actions/checkout@v3
@@ -29,7 +31,7 @@ jobs:
 
       # NOTE: `since_last_remote_commit: true` is implied by default and falls back to the previous local commit.
 
-      - name: Trigger Sync Jobs
+      - name: Build File Path Arrays
         id: sync-jobs
         run: |
           pokemonFilePaths=[]
@@ -38,16 +40,20 @@ jobs:
             if [[ $file == *"Pokemon"* ]]; then
               pokemonFilePaths+="geek-stash/trading-card-games/main/$file"
             fi
-          
-          echo ${{ toJSON(steps.sync-jobs.pokemonFilePaths) }}
 
+          done
+
+      - name: Trigger Sync Jobs
+        run: |
+          echo '${{ toJSON(steps.sync-jobs.outputs.pokemonFilePaths) }}'
+  
           CODE=`curl --write-out '%{http_code}' \
             --silent \
             --request POST \
             --header 'content-type: application/json' \
             --url '${{ secrets.POKEMON_SYNC_ENDPOINT }}' \
-            --data [[ toJSON($pokemonFilePaths) ]]`
-          
+            --data '${{ toJSON(steps.sync-jobs.outputs.pokemonFilePaths) }}'`
+            
           echo $CODE
 
           done
