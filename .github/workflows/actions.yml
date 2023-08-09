@@ -17,8 +17,6 @@ jobs:
   # ----------------------------------------------------------------------------------------------
   job1:
     runs-on: ubuntu-latest  # windows-latest | macos-latest
-    outputs:
-      pokemonFilePaths: ${{ steps.sync-jobs.outputs.pokemonFilePaths }}
     name: Sync Changed Files
     steps:
       - uses: actions/checkout@v3
@@ -36,8 +34,9 @@ jobs:
         run: |
           for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
             if [[ $file == *"pokemon"* ]]; then
-              pokemonFilePaths+=$file
+              pokemonFilePaths+='geek-stash/trading-card-games/main/'+${file}+','
             fi
+          done
 
           pokemonFilePaths=[${pokemonFilePaths::-1}]
 
@@ -51,5 +50,3 @@ jobs:
             --data $pokemonFilePaths`
             
           echo $CODE
-
-          done
