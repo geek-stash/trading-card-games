@@ -2,2962 +2,2962 @@
   "setId": "tcg-pokemon-jungle",
   "cardCount": "64",
   "cards": [
-      {
-          "id": "tcg-pokemon-jungle-1",
-          "itemType": "Pokemon",
-          "number": "1",
-          "name": "Clefable",
-          "stage": "Stage 1",
-          "evolvesFrom": "Clefairy",
-          "hp": "70",
-          "types": [
-              "Colorless"
-          ],
-          "rarity": "Rare Holo",
-          "artist": "Mitsuhiro Arita",
-          "text": "A timid Fairy Pokémon that is rarely seen. It will run and hide the moment it senses people.",
-          "level": "34",
-          "attacks": [
-              {
-                  "name": "Metronome",
-                  "damage": "",
-                  "cost": [
-                      "Colorless"
-                  ],
-                  "text": "Choose 1 of the Defending Pokémon's attacks. Metronome copies that attack except for its Energy costs and anything else required in order to use that attack, such as discarding Energy cards. (No matter what type the Defending Pokémon is, Clefable's type is still Colorless.)"
-              },
-              {
-                  "name": "Minimize",
-                  "damage": "",
-                  "cost": [
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": "All damage done by attacks to Clefable during your opponent's next turn is reduced by 20 (after applying Weakness and Resistance)."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fighting",
-                  "value": "×2"
-              }
-          ],
-          "resistances": [
-              {
-                  "type": "Psychic",
-                  "value": "-30"
-              }
-          ],
-          "retreatCost": [
-              "Colorless",
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-2",
-          "itemType": "Pokemon",
-          "number": "2",
-          "name": "Electrode",
-          "stage": "Stage 1",
-          "evolvesFrom": "Voltorb",
-          "hp": "90",
-          "types": [
-              "Lightning"
-          ],
-          "rarity": "Rare Holo",
-          "artist": "Mitsuhiro Arita",
-          "text": "It stores electrical energy under very high pressure. It often explodes with little or no provocation.",
-          "level": "42",
-          "attacks": [
-              {
-                  "name": "Tackle",
-                  "damage": "20",
-                  "cost": [
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": ""
-              },
-              {
-                  "name": "Chain Lightning",
-                  "damage": "20",
-                  "cost": [
-                      "Lightning",
-                      "Lightning",
-                      "Lightning"
-                  ],
-                  "text": "If the Defending Pokémon isn't Colorless, this attack does 10 damage to each Benched Pokémon of the same type as the Defending Pokémon (including your own)."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fighting",
-                  "value": "×2"
-              }
-          ],
-          "retreatCost": [
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-3",
-          "itemType": "Pokemon",
-          "number": "3",
-          "name": "Flareon",
-          "stage": "Stage 1",
-          "evolvesFrom": "Eevee",
-          "hp": "70",
-          "types": [
-              "Fire"
-          ],
-          "rarity": "Rare Holo",
-          "artist": "Kagemaru Himeno",
-          "text": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees.",
-          "level": "28",
-          "attacks": [
-              {
-                  "name": "Quick Attack",
-                  "damage": "10+",
-                  "cost": [
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
-              },
-              {
-                  "name": "Flamethrower",
-                  "damage": "60",
-                  "cost": [
-                      "Fire",
-                      "Fire",
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": "Discard 1 Fire Energy card attached to Flareon in order to use this attack."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Water",
-                  "value": "×2"
-              }
-          ],
-          "retreatCost": [
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-4",
-          "itemType": "Pokemon",
-          "number": "4",
-          "name": "Jolteon",
-          "stage": "Stage 1",
-          "evolvesFrom": "Eevee",
-          "hp": "70",
-          "types": [
-              "Lightning"
-          ],
-          "rarity": "Rare Holo",
-          "artist": "Kagemaru Himeno",
-          "text": "It accumulates negative ions from the atmosphere to blast out 10,000-volt lightning bolts.",
-          "level": "29",
-          "attacks": [
-              {
-                  "name": "Quick Attack",
-                  "damage": "10+",
-                  "cost": [
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
-              },
-              {
-                  "name": "Pin Missile",
-                  "damage": "20×",
-                  "cost": [
-                      "Lightning",
-                      "Lightning",
-                      "Colorless"
-                  ],
-                  "text": "Flip 4 coins. This attack does 20 damage times the number of heads."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fighting",
-                  "value": "×2"
-              }
-          ],
-          "retreatCost": [
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-5",
-          "itemType": "Pokemon",
-          "number": "5",
-          "name": "Kangaskhan",
-          "stage": "Basic",
-          "hp": "90",
-          "types": [
-              "Colorless"
-          ],
-          "rarity": "Rare Holo",
-          "artist": "Mitsuhiro Arita",
-          "text": "The infant rarely ventures out of its mother's protective pouch until it is three years old.",
-          "level": "40",
-          "attacks": [
-              {
-                  "name": "Fetch",
-                  "damage": "",
-                  "cost": [
-                      "Colorless"
-                  ],
-                  "text": "Draw a card."
-              },
-              {
-                  "name": "Comet Punch",
-                  "damage": "20×",
-                  "cost": [
-                      "Colorless",
-                      "Colorless",
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": "Flip 4 coins. This attack does 20 damage times the number of heads."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fighting",
-                  "value": "×2"
-              }
-          ],
-          "resistances": [
-              {
-                  "type": "Psychic",
-                  "value": "-30"
-              }
-          ],
-          "retreatCost": [
-              "Colorless",
-              "Colorless",
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-6",
-          "itemType": "Pokemon",
-          "number": "6",
-          "name": "Mr. Mime",
-          "stage": "Basic",
-          "evolvesFrom": "Mime Jr.",
-          "hp": "40",
-          "types": [
-              "Psychic"
-          ],
-          "rarity": "Rare Holo",
-          "artist": "Ken Sugimori",
-          "abilities": [
-              {
-                  "name": "Invisible Wall",
-                  "text": "Whenever an attack (including your own) does 30 or more damage to Mr. Mime (after applying Weakness and Resistance), prevent that damage. (Any other effects of attacks still happen.) This power can't be used if Mr. Mime is Asleep, Confused, or Paralyzed.",
-                  "type": "Pokémon Power"
-              }
-          ],
-          "text": "If interrupted while miming, it will slap around the enemy with its broad hands.",
-          "level": "28",
-          "attacks": [
-              {
-                  "name": "Meditate",
-                  "damage": "10+",
-                  "cost": [
-                      "Psychic",
-                      "Colorless"
-                  ],
-                  "text": "Does 10 damage plus 10 more damage for each damage counter on the Defending Pokémon."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Psychic",
-                  "value": "×2"
-              }
-          ],
-          "retreatCost": [
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-7",
-          "itemType": "Pokemon",
-          "number": "7",
-          "name": "Nidoqueen",
-          "stage": "Stage 2",
-          "evolvesFrom": "Nidorina",
-          "hp": "90",
-          "types": [
-              "Grass"
-          ],
-          "rarity": "Rare Holo",
-          "artist": "Ken Sugimori",
-          "text": "Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves.",
-          "level": "43",
-          "attacks": [
-              {
-                  "name": "Boyfriends",
-                  "damage": "20+",
-                  "cost": [
-                      "Grass",
-                      "Colorless"
-                  ],
-                  "text": "Does 20 damage plus 20 more damage for each Nidoking you have in play."
-              },
-              {
-                  "name": "Mega Punch",
-                  "damage": "50",
-                  "cost": [
-                      "Grass",
-                      "Grass",
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": ""
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Psychic",
-                  "value": "×2"
-              }
-          ],
-          "retreatCost": [
-              "Colorless",
-              "Colorless",
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-8",
-          "itemType": "Pokemon",
-          "number": "8",
-          "name": "Pidgeot",
-          "stage": "Stage 2",
-          "evolvesFrom": "Pidgeotto",
-          "hp": "80",
-          "types": [
-              "Colorless"
-          ],
-          "rarity": "Rare Holo",
-          "artist": "Kagemaru Himeno",
-          "text": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as Magikarp.",
-          "level": "40",
-          "attacks": [
-              {
-                  "name": "Wing Attack",
-                  "damage": "20",
-                  "cost": [
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": ""
-              },
-              {
-                  "name": "Hurricane",
-                  "damage": "30",
-                  "cost": [
-                      "Colorless",
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": "Unless this attack Knocks Out the Defending Pokémon, return the Defending Pokémon and all cards attached to it to your opponent's hand."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Lightning",
-                  "value": "×2"
-              }
-          ],
-          "resistances": [
-              {
-                  "type": "Fighting",
-                  "value": "-30"
-              }
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-9",
-          "itemType": "Pokemon",
-          "number": "9",
-          "name": "Pinsir",
-          "stage": "Basic",
-          "hp": "60",
-          "types": [
-              "Grass"
-          ],
-          "rarity": "Rare Holo",
-          "artist": "Kagemaru Himeno",
-          "text": "If it fails to crush the victim in its pincers, it will swing its victim around and toss it hard.",
-          "level": "24",
-          "attacks": [
-              {
-                  "name": "Irongrip",
-                  "damage": "20",
-                  "cost": [
-                      "Grass",
-                      "Grass"
-                  ],
-                  "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
-              },
-              {
-                  "name": "Guillotine",
-                  "damage": "50",
-                  "cost": [
-                      "Grass",
-                      "Grass",
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": ""
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fire",
-                  "value": "×2"
-              }
-          ],
-          "retreatCost": [
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-10",
-          "itemType": "Pokemon",
-          "number": "10",
-          "name": "Scyther",
-          "stage": "Basic",
-          "hp": "70",
-          "types": [
-              "Grass"
-          ],
-          "rarity": "Rare Holo",
-          "artist": "Ken Sugimori",
-          "text": "With ninja-like agility and speed, it can create the illusion that there is more than one of it.",
-          "level": "25",
-          "attacks": [
-              {
-                  "name": "Swords Dance",
-                  "damage": "",
-                  "cost": [
-                      "Grass"
-                  ],
-                  "text": "During your next turn, Scyther's Slash attack's base damage is 60 instead of 30."
-              },
-              {
-                  "name": "Slash",
-                  "damage": "30",
-                  "cost": [
-                      "Colorless",
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": ""
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fire",
-                  "value": "×2"
-              }
-          ],
-          "resistances": [
-              {
-                  "type": "Fighting",
-                  "value": "-30"
-              }
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-11",
-          "itemType": "Pokemon",
-          "number": "11",
-          "name": "Snorlax",
-          "stage": "Basic",
-          "evolvesFrom": "Munchlax",
-          "hp": "90",
-          "types": [
-              "Colorless"
-          ],
-          "rarity": "Rare Holo",
-          "artist": "Ken Sugimori",
-          "abilities": [
-              {
-                  "name": "Thick Skinned",
-                  "text": "Snorlax can't become Asleep, Confused, Paralyzed, or Poisoned. This power can't be used if Snorlax is already Asleep, Confused, or Paralyzed.",
-                  "type": "Pokémon Power"
-              }
-          ],
-          "text": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",
-          "level": "20",
-          "attacks": [
-              {
-                  "name": "Body Slam",
-                  "damage": "30",
-                  "cost": [
-                      "Colorless",
-                      "Colorless",
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fighting",
-                  "value": "×2"
-              }
-          ],
-          "resistances": [
-              {
-                  "type": "Psychic",
-                  "value": "-30"
-              }
-          ],
-          "retreatCost": [
-              "Colorless",
-              "Colorless",
-              "Colorless",
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-12",
-          "itemType": "Pokemon",
-          "number": "12",
-          "name": "Vaporeon",
-          "stage": "Stage 1",
-          "evolvesFrom": "Eevee",
-          "hp": "80",
-          "types": [
-              "Water"
-          ],
-          "rarity": "Rare Holo",
-          "artist": "Kagemaru Himeno",
-          "text": "Lives close to water. Its long tail is ridged with a fin that is often mistaken for a mermaid's.",
-          "level": "42",
-          "attacks": [
-              {
-                  "name": "Quick Attack",
-                  "damage": "10+",
-                  "cost": [
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
-              },
-              {
-                  "name": "Water Gun",
-                  "damage": "30+",
-                  "cost": [
-                      "Water",
-                      "Water",
-                      "Colorless"
-                  ],
-                  "text": "Does 30 damage plus 10 more damage for each Water Energy attached to Vaporeon but not used to pay for this attack's Energy cost. Extra Water Energy after the 2nd doesn't count."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Lightning",
-                  "value": "×2"
-              }
-          ],
-          "retreatCost": [
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-13",
-          "itemType": "Pokemon",
-          "number": "13",
-          "name": "Venomoth",
-          "stage": "Stage 1",
-          "evolvesFrom": "Venonat",
-          "hp": "70",
-          "types": [
-              "Grass"
-          ],
-          "rarity": "Rare Holo",
-          "artist": "Ken Sugimori",
-          "abilities": [
-              {
-                  "name": "Shift",
-                  "text": "Once during your turn (before your attack), you may change the type of Venomoth to the type of any other Pokémon in play other than Colorless. This power can't be used if Venomoth is Asleep, Confused, or Paralyzed.",
-                  "type": "Pokémon Power"
-              }
-          ],
-          "text": "The dust-like scales covering its wings are color coded to indicate the kinds of poison it has.",
-          "level": "28",
-          "attacks": [
-              {
-                  "name": "Venom Powder",
-                  "damage": "10",
-                  "cost": [
-                      "Grass",
-                      "Grass"
-                  ],
-                  "text": "Flip a coin. If heads, the Defending Pokémon is now Confused and Poisoned."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fire",
-                  "value": "×2"
-              }
-          ],
-          "resistances": [
-              {
-                  "type": "Fighting",
-                  "value": "-30"
-              }
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-14",
-          "itemType": "Pokemon",
-          "number": "14",
-          "name": "Victreebel",
-          "stage": "Stage 2",
-          "evolvesFrom": "Weepinbell",
-          "hp": "80",
-          "types": [
-              "Grass"
-          ],
-          "rarity": "Rare Holo",
-          "artist": "Ken Sugimori",
-          "text": "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
-          "level": "42",
-          "attacks": [
-              {
-                  "name": "Lure",
-                  "damage": "",
-                  "cost": [
-                      "Grass"
-                  ],
-                  "text": "If your opponent has any Benched Pokémon, choose 1 of them and switch it with his or her Active Pokémon."
-              },
-              {
-                  "name": "Acid",
-                  "damage": "20",
-                  "cost": [
-                      "Grass",
-                      "Grass"
-                  ],
-                  "text": "Flip a coin. If heads, the Defending Pokémon can't retreat during your next turn."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fire",
-                  "value": "×2"
-              }
-          ],
-          "retreatCost": [
-              "Colorless",
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-15",
-          "itemType": "Pokemon",
-          "number": "15",
-          "name": "Vileplume",
-          "stage": "Stage 2",
-          "evolvesFrom": "Gloom",
-          "hp": "80",
-          "types": [
-              "Grass"
-          ],
-          "rarity": "Rare Holo",
-          "artist": "Keiji Kinebuchi",
-          "abilities": [
-              {
-                  "name": "Heal",
-                  "text": "Once during your turn (before your attack), you may flip a coin. If heads, remove 1 damage counter from 1 of your Pokémon. This power can't be used if Vileplume is Asleep, Confused, or Paralyzed.",
-                  "type": "Pokémon Power"
-              }
-          ],
-          "text": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
-          "level": "35",
-          "attacks": [
-              {
-                  "name": "Petal Dance",
-                  "damage": "40×",
-                  "cost": [
-                      "Grass",
-                      "Grass",
-                      "Grass"
-                  ],
-                  "text": "Flip 3 coins. This attack does 40 damage times the number of heads. Vileplume is now Confused (after doing damage)."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fire",
-                  "value": "×2"
-              }
-          ],
-          "retreatCost": [
-              "Colorless",
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-16",
-          "itemType": "Pokemon",
-          "number": "16",
-          "name": "Wigglytuff",
-          "stage": "Stage 1",
-          "evolvesFrom": "Jigglypuff",
-          "hp": "80",
-          "types": [
-              "Colorless"
-          ],
-          "rarity": "Rare Holo",
-          "artist": "Mitsuhiro Arita",
-          "text": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",
-          "level": "36",
-          "attacks": [
-              {
-                  "name": "Lullaby",
-                  "damage": "",
-                  "cost": [
-                      "Colorless"
-                  ],
-                  "text": "The Defending Pokémon is now Asleep."
-              },
-              {
-                  "name": "Do the Wave",
-                  "damage": "10+",
-                  "cost": [
-                      "Colorless",
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": "Does 10 damage plus 10 more damage for each of your Benched Pokémon."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fighting",
-                  "value": "×2"
-              }
-          ],
-          "resistances": [
-              {
-                  "type": "Psychic",
-                  "value": "-30"
-              }
-          ],
-          "retreatCost": [
-              "Colorless",
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-17",
-          "itemType": "Pokemon",
-          "number": "17",
-          "name": "Clefable",
-          "stage": "Stage 1",
-          "evolvesFrom": "Clefairy",
-          "hp": "70",
-          "types": [
-              "Colorless"
-          ],
-          "rarity": "Rare",
-          "artist": "Mitsuhiro Arita",
-          "text": "A timid Fairy Pokémon that is rarely seen. It will run and hide the moment it senses people.",
-          "level": "34",
-          "attacks": [
-              {
-                  "name": "Metronome",
-                  "damage": "",
-                  "cost": [
-                      "Colorless"
-                  ],
-                  "text": "Choose 1 of the Defending Pokémon's attacks. Metronome copies that attack except for its Energy costs and anything else required in order to use that attack, such as discarding Energy cards. (No matter what type the Defending Pokémon is, Clefable's type is still Colorless.)"
-              },
-              {
-                  "name": "Minimize",
-                  "damage": "",
-                  "cost": [
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": "All damage done by attacks to Clefable during your opponent's next turn is reduced by 20 (after applying Weakness and Resistance)."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fighting",
-                  "value": "×2"
-              }
-          ],
-          "resistances": [
-              {
-                  "type": "Psychic",
-                  "value": "-30"
-              }
-          ],
-          "retreatCost": [
-              "Colorless",
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-18",
-          "itemType": "Pokemon",
-          "number": "18",
-          "name": "Electrode",
-          "stage": "Stage 1",
-          "evolvesFrom": "Voltorb",
-          "hp": "90",
-          "types": [
-              "Lightning"
-          ],
-          "rarity": "Rare",
-          "artist": "Mitsuhiro Arita",
-          "text": "It stores electrical energy under very high pressure. It often explodes with little or no provocation.",
-          "level": "42",
-          "attacks": [
-              {
-                  "name": "Tackle",
-                  "damage": "20",
-                  "cost": [
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": ""
-              },
-              {
-                  "name": "Chain Lightning",
-                  "damage": "20",
-                  "cost": [
-                      "Lightning",
-                      "Lightning",
-                      "Lightning"
-                  ],
-                  "text": "If the Defending Pokémon isn't Colorless, this attack does 10 damage to each Benched Pokémon of the same type as the Defending Pokémon (including your own)."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fighting",
-                  "value": "×2"
-              }
-          ],
-          "retreatCost": [
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-19",
-          "itemType": "Pokemon",
-          "number": "19",
-          "name": "Flareon",
-          "stage": "Stage 1",
-          "evolvesFrom": "Eevee",
-          "hp": "70",
-          "types": [
-              "Fire"
-          ],
-          "rarity": "Rare",
-          "artist": "Kagemaru Himeno",
-          "text": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees.",
-          "level": "28",
-          "attacks": [
-              {
-                  "name": "Quick Attack",
-                  "damage": "10+",
-                  "cost": [
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
-              },
-              {
-                  "name": "Flamethrower",
-                  "damage": "60",
-                  "cost": [
-                      "Fire",
-                      "Fire",
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": "Discard 1 Fire Energy card attached to Flareon in order to use this attack."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Water",
-                  "value": "×2"
-              }
-          ],
-          "retreatCost": [
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-20",
-          "itemType": "Pokemon",
-          "number": "20",
-          "name": "Jolteon",
-          "stage": "Stage 1",
-          "evolvesFrom": "Eevee",
-          "hp": "70",
-          "types": [
-              "Lightning"
-          ],
-          "rarity": "Rare",
-          "artist": "Kagemaru Himeno",
-          "text": "It accumulates negative ions from the atmosphere to blast out 10,000-volt lightning bolts.",
-          "level": "29",
-          "attacks": [
-              {
-                  "name": "Quick Attack",
-                  "damage": "10+",
-                  "cost": [
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
-              },
-              {
-                  "name": "Pin Missile",
-                  "damage": "20×",
-                  "cost": [
-                      "Lightning",
-                      "Lightning",
-                      "Colorless"
-                  ],
-                  "text": "Flip 4 coins. This attack does 20 damage times the number of heads."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fighting",
-                  "value": "×2"
-              }
-          ],
-          "retreatCost": [
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-21",
-          "itemType": "Pokemon",
-          "number": "21",
-          "name": "Kangaskhan",
-          "stage": "Basic",
-          "hp": "90",
-          "types": [
-              "Colorless"
-          ],
-          "rarity": "Rare",
-          "artist": "Mitsuhiro Arita",
-          "text": "The infant rarely ventures out of its mother's protective pouch until it is three years old.",
-          "level": "40",
-          "attacks": [
-              {
-                  "name": "Fetch",
-                  "damage": "",
-                  "cost": [
-                      "Colorless"
-                  ],
-                  "text": "Draw a card."
-              },
-              {
-                  "name": "Comet Punch",
-                  "damage": "20×",
-                  "cost": [
-                      "Colorless",
-                      "Colorless",
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": "Flip 4 coins. This attack does 20 damage times the number of heads."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fighting",
-                  "value": "×2"
-              }
-          ],
-          "resistances": [
-              {
-                  "type": "Psychic",
-                  "value": "-30"
-              }
-          ],
-          "retreatCost": [
-              "Colorless",
-              "Colorless",
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-22",
-          "itemType": "Pokemon",
-          "number": "22",
-          "name": "Mr. Mime",
-          "stage": "Basic",
-          "evolvesFrom": "Mime Jr.",
-          "hp": "40",
-          "types": [
-              "Psychic"
-          ],
-          "rarity": "Rare",
-          "artist": "Ken Sugimori",
-          "abilities": [
-              {
-                  "name": "Invisible Wall",
-                  "text": "Whenever an attack (including your own) does 30 or more damage to Mr. Mime (after applying Weakness and Resistance), prevent that damage. (Any other effects of attacks still happen.) This power can't be used if Mr. Mime is Asleep, Confused, or Paralyzed.",
-                  "type": "Pokémon Power"
-              }
-          ],
-          "text": "If interrupted while miming, it will slap around the enemy with its broad hands.",
-          "level": "28",
-          "attacks": [
-              {
-                  "name": "Meditate",
-                  "damage": "10+",
-                  "cost": [
-                      "Psychic",
-                      "Colorless"
-                  ],
-                  "text": "Does 10 damage plus 10 more damage for each damage counter on the Defending Pokémon."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Psychic",
-                  "value": "×2"
-              }
-          ],
-          "retreatCost": [
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-23",
-          "itemType": "Pokemon",
-          "number": "23",
-          "name": "Nidoqueen",
-          "stage": "Stage 2",
-          "evolvesFrom": "Nidorina",
-          "hp": "90",
-          "types": [
-              "Grass"
-          ],
-          "rarity": "Rare",
-          "artist": "Ken Sugimori",
-          "text": "Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves.",
-          "level": "43",
-          "attacks": [
-              {
-                  "name": "Boyfriends",
-                  "damage": "20+",
-                  "cost": [
-                      "Grass",
-                      "Colorless"
-                  ],
-                  "text": "Does 20 damage plus 20 more damage for each Nidoking you have in play."
-              },
-              {
-                  "name": "Mega Punch",
-                  "damage": "50",
-                  "cost": [
-                      "Grass",
-                      "Grass",
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": ""
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Psychic",
-                  "value": "×2"
-              }
-          ],
-          "retreatCost": [
-              "Colorless",
-              "Colorless",
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-24",
-          "itemType": "Pokemon",
-          "number": "24",
-          "name": "Pidgeot",
-          "stage": "Stage 2",
-          "evolvesFrom": "Pidgeotto",
-          "hp": "80",
-          "types": [
-              "Colorless"
-          ],
-          "rarity": "Rare",
-          "artist": "Kagemaru Himeno",
-          "text": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as Magikarp.",
-          "level": "40",
-          "attacks": [
-              {
-                  "name": "Wing Attack",
-                  "damage": "20",
-                  "cost": [
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": ""
-              },
-              {
-                  "name": "Hurricane",
-                  "damage": "30",
-                  "cost": [
-                      "Colorless",
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": "Unless this attack Knocks Out the Defending Pokémon, return the Defending Pokémon and all cards attached to it to your opponent's hand."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Lightning",
-                  "value": "×2"
-              }
-          ],
-          "resistances": [
-              {
-                  "type": "Fighting",
-                  "value": "-30"
-              }
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-25",
-          "itemType": "Pokemon",
-          "number": "25",
-          "name": "Pinsir",
-          "stage": "Basic",
-          "hp": "60",
-          "types": [
-              "Grass"
-          ],
-          "rarity": "Rare",
-          "artist": "Kagemaru Himeno",
-          "text": "If it fails to crush the victim in its pincers, it will swing its victim around and toss it hard.",
-          "level": "24",
-          "attacks": [
-              {
-                  "name": "Irongrip",
-                  "damage": "20",
-                  "cost": [
-                      "Grass",
-                      "Grass"
-                  ],
-                  "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
-              },
-              {
-                  "name": "Guillotine",
-                  "damage": "50",
-                  "cost": [
-                      "Grass",
-                      "Grass",
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": ""
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fire",
-                  "value": "×2"
-              }
-          ],
-          "retreatCost": [
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-26",
-          "itemType": "Pokemon",
-          "number": "26",
-          "name": "Scyther",
-          "stage": "Basic",
-          "hp": "70",
-          "types": [
-              "Grass"
-          ],
-          "rarity": "Rare",
-          "artist": "Ken Sugimori",
-          "text": "With ninja-like agility and speed, it can create the illusion that there is more than one of it.",
-          "level": "25",
-          "attacks": [
-              {
-                  "name": "Swords Dance",
-                  "damage": "",
-                  "cost": [
-                      "Grass"
-                  ],
-                  "text": "During your next turn, Scyther's Slash attack's base damage is 60 instead of 30."
-              },
-              {
-                  "name": "Slash",
-                  "damage": "30",
-                  "cost": [
-                      "Colorless",
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": ""
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fire",
-                  "value": "×2"
-              }
-          ],
-          "resistances": [
-              {
-                  "type": "Fighting",
-                  "value": "-30"
-              }
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-27",
-          "itemType": "Pokemon",
-          "number": "27",
-          "name": "Snorlax",
-          "stage": "Basic",
-          "evolvesFrom": "Munchlax",
-          "hp": "90",
-          "types": [
-              "Colorless"
-          ],
-          "rarity": "Rare",
-          "artist": "Ken Sugimori",
-          "abilities": [
-              {
-                  "name": "Thick Skinned",
-                  "text": "Snorlax can't become Asleep, Confused, Paralyzed, or Poisoned. This power can't be used if Snorlax is already Asleep, Confused, or Paralyzed.",
-                  "type": "Pokémon Power"
-              }
-          ],
-          "text": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",
-          "level": "20",
-          "attacks": [
-              {
-                  "name": "Body Slam",
-                  "damage": "30",
-                  "cost": [
-                      "Colorless",
-                      "Colorless",
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fighting",
-                  "value": "×2"
-              }
-          ],
-          "resistances": [
-              {
-                  "type": "Psychic",
-                  "value": "-30"
-              }
-          ],
-          "retreatCost": [
-              "Colorless",
-              "Colorless",
-              "Colorless",
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-28",
-          "itemType": "Pokemon",
-          "number": "28",
-          "name": "Vaporeon",
-          "stage": "Stage 1",
-          "evolvesFrom": "Eevee",
-          "hp": "80",
-          "types": [
-              "Water"
-          ],
-          "rarity": "Rare",
-          "artist": "Kagemaru Himeno",
-          "text": "Lives close to water. Its long tail is ridged with a fin that is often mistaken for a mermaid's.",
-          "level": "42",
-          "attacks": [
-              {
-                  "name": "Quick Attack",
-                  "damage": "10+",
-                  "cost": [
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
-              },
-              {
-                  "name": "Water Gun",
-                  "damage": "30+",
-                  "cost": [
-                      "Water",
-                      "Water",
-                      "Colorless"
-                  ],
-                  "text": "Does 30 damage plus 10 more damage for each Water Energy attached to Vaporeon but not used to pay for this attack's Energy cost. Extra Water Energy after the 2nd doesn't count."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Lightning",
-                  "value": "×2"
-              }
-          ],
-          "retreatCost": [
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-29",
-          "itemType": "Pokemon",
-          "number": "29",
-          "name": "Venomoth",
-          "stage": "Stage 1",
-          "evolvesFrom": "Venonat",
-          "hp": "70",
-          "types": [
-              "Grass"
-          ],
-          "rarity": "Rare",
-          "artist": "Ken Sugimori",
-          "abilities": [
-              {
-                  "name": "Shift",
-                  "text": "Once during your turn (before your attack), you may change the type of Venomoth to the type of any other Pokémon in play other than Colorless. This power can't be used if Venomoth is Asleep, Confused, or Paralyzed.",
-                  "type": "Pokémon Power"
-              }
-          ],
-          "text": "The dust-like scales covering its wings are color coded to indicate the kinds of poison it has.",
-          "level": "28",
-          "attacks": [
-              {
-                  "name": "Venom Powder",
-                  "damage": "10",
-                  "cost": [
-                      "Grass",
-                      "Grass"
-                  ],
-                  "text": "Flip a coin. If heads, the Defending Pokémon is now Confused and Poisoned."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fire",
-                  "value": "×2"
-              }
-          ],
-          "resistances": [
-              {
-                  "type": "Fighting",
-                  "value": "-30"
-              }
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-30",
-          "itemType": "Pokemon",
-          "number": "30",
-          "name": "Victreebel",
-          "stage": "Stage 2",
-          "evolvesFrom": "Weepinbell",
-          "hp": "80",
-          "types": [
-              "Grass"
-          ],
-          "rarity": "Rare",
-          "artist": "Ken Sugimori",
-          "text": "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
-          "level": "42",
-          "attacks": [
-              {
-                  "name": "Lure",
-                  "damage": "",
-                  "cost": [
-                      "Grass"
-                  ],
-                  "text": "If your opponent has any Benched Pokémon, choose 1 of them and switch it with his or her Active Pokémon."
-              },
-              {
-                  "name": "Acid",
-                  "damage": "20",
-                  "cost": [
-                      "Grass",
-                      "Grass"
-                  ],
-                  "text": "Flip a coin. If heads, the Defending Pokémon can't retreat during your next turn."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fire",
-                  "value": "×2"
-              }
-          ],
-          "retreatCost": [
-              "Colorless",
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-31",
-          "itemType": "Pokemon",
-          "number": "31",
-          "name": "Vileplume",
-          "stage": "Stage 2",
-          "evolvesFrom": "Gloom",
-          "hp": "80",
-          "types": [
-              "Grass"
-          ],
-          "rarity": "Rare",
-          "artist": "Keiji Kinebuchi",
-          "abilities": [
-              {
-                  "name": "Heal",
-                  "text": "Once during your turn (before your attack), you may flip a coin. If heads, remove 1 damage counter from 1 of your Pokémon. This power can't be used if Vileplume is Asleep, Confused, or Paralyzed.",
-                  "type": "Pokémon Power"
-              }
-          ],
-          "text": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
-          "level": "35",
-          "attacks": [
-              {
-                  "name": "Petal Dance",
-                  "damage": "40×",
-                  "cost": [
-                      "Grass",
-                      "Grass",
-                      "Grass"
-                  ],
-                  "text": "Flip 3 coins. This attack does 40 damage times the number of heads. Vileplume is now Confused (after doing damage)."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fire",
-                  "value": "×2"
-              }
-          ],
-          "retreatCost": [
-              "Colorless",
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-32",
-          "itemType": "Pokemon",
-          "number": "32",
-          "name": "Wigglytuff",
-          "stage": "Stage 1",
-          "evolvesFrom": "Jigglypuff",
-          "hp": "80",
-          "types": [
-              "Colorless"
-          ],
-          "rarity": "Rare",
-          "artist": "Mitsuhiro Arita",
-          "text": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",
-          "level": "36",
-          "attacks": [
-              {
-                  "name": "Lullaby",
-                  "damage": "",
-                  "cost": [
-                      "Colorless"
-                  ],
-                  "text": "The Defending Pokémon is now Asleep."
-              },
-              {
-                  "name": "Do the Wave",
-                  "damage": "10+",
-                  "cost": [
-                      "Colorless",
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": "Does 10 damage plus 10 more damage for each of your Benched Pokémon."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fighting",
-                  "value": "×2"
-              }
-          ],
-          "resistances": [
-              {
-                  "type": "Psychic",
-                  "value": "-30"
-              }
-          ],
-          "retreatCost": [
-              "Colorless",
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-33",
-          "itemType": "Pokemon",
-          "number": "33",
-          "name": "Butterfree",
-          "stage": "Stage 2",
-          "evolvesFrom": "Metapod",
-          "hp": "70",
-          "types": [
-              "Grass"
-          ],
-          "rarity": "Uncommon",
-          "artist": "Kagemaru Himeno",
-          "text": "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
-          "level": "28",
-          "attacks": [
-              {
-                  "name": "Whirlwind",
-                  "damage": "20",
-                  "cost": [
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": "If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)"
-              },
-              {
-                  "name": "Mega Drain",
-                  "damage": "40",
-                  "cost": [
-                      "Grass",
-                      "Grass",
-                      "Grass",
-                      "Grass"
-                  ],
-                  "text": "Remove a number of damage counters from Butterfree equal to half the damage done to the Defending Pokémon (after applying Weakness and Resistance) (rounded up to the nearest 10)."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fire",
-                  "value": "×2"
-              }
-          ],
-          "resistances": [
-              {
-                  "type": "Fighting",
-                  "value": "-30"
-              }
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-34",
-          "itemType": "Pokemon",
-          "number": "34",
-          "name": "Dodrio",
-          "stage": "Stage 1",
-          "evolvesFrom": "Doduo",
-          "hp": "70",
-          "types": [
-              "Colorless"
-          ],
-          "rarity": "Uncommon",
-          "artist": "Mitsuhiro Arita",
-          "abilities": [
-              {
-                  "name": "Retreat Aid",
-                  "text": "As long as Dodrio is Benched, pay Colorless less to retreat your Active Pokémon.",
-                  "type": "Pokémon Power"
-              }
-          ],
-          "text": "Uses its three brains to execute complex plans. While two heads sleep, one head stays awake.",
-          "level": "28",
-          "attacks": [
-              {
-                  "name": "Rage",
-                  "damage": "10+",
-                  "cost": [
-                      "Colorless",
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": "Does 10 damage plus 10 more damage for each damage counter on Dodrio."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Lightning",
-                  "value": "×2"
-              }
-          ],
-          "resistances": [
-              {
-                  "type": "Fighting",
-                  "value": "-30"
-              }
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-35",
-          "itemType": "Pokemon",
-          "number": "35",
-          "name": "Exeggutor",
-          "stage": "Stage 1",
-          "evolvesFrom": "Exeggcute",
-          "hp": "80",
-          "types": [
-              "Grass"
-          ],
-          "rarity": "Uncommon",
-          "artist": "Kagemaru Himeno",
-          "text": "Legend has it that on rare occasions, one of its heads will drop off and continue on as an Exeggcute.",
-          "level": "35",
-          "attacks": [
-              {
-                  "name": "Teleport",
-                  "damage": "",
-                  "cost": [
-                      "Psychic"
-                  ],
-                  "text": "Switch Exeggutor with 1 of your Benched Pokémon."
-              },
-              {
-                  "name": "Big Eggsplosion",
-                  "damage": "20×",
-                  "cost": [
-                      "Colorless"
-                  ],
-                  "text": "Flip a number of coins equal to the number of Energy attached to Exeggutor. This attack does 20 damage times the number of heads."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fire",
-                  "value": "×2"
-              }
-          ],
-          "retreatCost": [
-              "Colorless",
-              "Colorless",
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-36",
-          "itemType": "Pokemon",
-          "number": "36",
-          "name": "Fearow",
-          "stage": "Stage 1",
-          "evolvesFrom": "Spearow",
-          "hp": "70",
-          "types": [
-              "Colorless"
-          ],
-          "rarity": "Uncommon",
-          "artist": "Mitsuhiro Arita",
-          "text": "With its huge and magnificent wings, it can keep aloft without ever having to land for rest.",
-          "level": "27",
-          "attacks": [
-              {
-                  "name": "Agility",
-                  "damage": "20",
-                  "cost": [
-                      "Colorless",
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Fearow."
-              },
-              {
-                  "name": "Drill Peck",
-                  "damage": "40",
-                  "cost": [
-                      "Colorless",
-                      "Colorless",
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": ""
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Lightning",
-                  "value": "×2"
-              }
-          ],
-          "resistances": [
-              {
-                  "type": "Fighting",
-                  "value": "-30"
-              }
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-37",
-          "itemType": "Pokemon",
-          "number": "37",
-          "name": "Gloom",
-          "stage": "Stage 1",
-          "evolvesFrom": "Oddish",
-          "hp": "60",
-          "types": [
-              "Grass"
-          ],
-          "rarity": "Uncommon",
-          "artist": "Keiji Kinebuchi",
-          "text": "The fluid that oozes from its mouth isn't drool; it is a nectar that is used to attract prey.",
-          "level": "35",
-          "attacks": [
-              {
-                  "name": "Poisonpowder",
-                  "damage": "",
-                  "cost": [
-                      "Grass"
-                  ],
-                  "text": "The Defending Pokémon is now Poisoned."
-              },
-              {
-                  "name": "Foul Odor",
-                  "damage": "20",
-                  "cost": [
-                      "Grass",
-                      "Grass"
-                  ],
-                  "text": "Both the Defending Pokémon and Gloom are now Confused (after doing damage)."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fire",
-                  "value": "×2"
-              }
-          ],
-          "retreatCost": [
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-38",
-          "itemType": "Pokemon",
-          "number": "38",
-          "name": "Lickitung",
-          "stage": "Basic",
-          "hp": "90",
-          "types": [
-              "Colorless"
-          ],
-          "rarity": "Uncommon",
-          "artist": "Mitsuhiro Arita",
-          "text": "Its tongue can be extended like a chameleon's. It leaves a stinging sensation when it licks enemies.",
-          "level": "10",
-          "attacks": [
-              {
-                  "name": "Tongue Wrap",
-                  "damage": "10",
-                  "cost": [
-                      "Colorless"
-                  ],
-                  "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
-              },
-              {
-                  "name": "Supersonic",
-                  "damage": "",
-                  "cost": [
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fighting",
-                  "value": "×2"
-              }
-          ],
-          "resistances": [
-              {
-                  "type": "Psychic",
-                  "value": "-30"
-              }
-          ],
-          "retreatCost": [
-              "Colorless",
-              "Colorless",
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-39",
-          "itemType": "Pokemon",
-          "number": "39",
-          "name": "Marowak",
-          "stage": "Stage 1",
-          "evolvesFrom": "Cubone",
-          "hp": "60",
-          "types": [
-              "Fighting"
-          ],
-          "rarity": "Uncommon",
-          "artist": "Mitsuhiro Arita",
-          "text": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to K.O. targets.",
-          "level": "26",
-          "attacks": [
-              {
-                  "name": "Bonemerang",
-                  "damage": "30×",
-                  "cost": [
-                      "Fighting",
-                      "Fighting"
-                  ],
-                  "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
-              },
-              {
-                  "name": "Call for Friend",
-                  "damage": "",
-                  "cost": [
-                      "Fighting",
-                      "Fighting",
-                      "Colorless"
-                  ],
-                  "text": "Search your deck for a Fighting Basic Pokémon card and put it onto your Bench. Shuffle your deck afterward. (You can't use this attack if your Bench is full.)"
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Grass",
-                  "value": "×2"
-              }
-          ],
-          "resistances": [
-              {
-                  "type": "Lightning",
-                  "value": "-30"
-              }
-          ],
-          "retreatCost": [
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-40",
-          "itemType": "Pokemon",
-          "number": "40",
-          "name": "Nidorina",
-          "stage": "Stage 1",
-          "evolvesFrom": "Nidoran ♀",
-          "hp": "70",
-          "types": [
-              "Grass"
-          ],
-          "rarity": "Uncommon",
-          "artist": "Ken Sugimori",
-          "text": "The female's horn develops slowly. Prefers physical attacks such as clawing and biting.",
-          "level": "24",
-          "attacks": [
-              {
-                  "name": "Supersonic",
-                  "damage": "",
-                  "cost": [
-                      "Grass"
-                  ],
-                  "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
-              },
-              {
-                  "name": "Double Kick",
-                  "damage": "30×",
-                  "cost": [
-                      "Grass",
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Psychic",
-                  "value": "×2"
-              }
-          ],
-          "retreatCost": [
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-41",
-          "itemType": "Pokemon",
-          "number": "41",
-          "name": "Parasect",
-          "stage": "Stage 1",
-          "evolvesFrom": "Paras",
-          "hp": "60",
-          "types": [
-              "Grass"
-          ],
-          "rarity": "Uncommon",
-          "artist": "Ken Sugimori",
-          "text": "A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places.",
-          "level": "28",
-          "attacks": [
-              {
-                  "name": "Spore",
-                  "damage": "",
-                  "cost": [
-                      "Grass",
-                      "Grass"
-                  ],
-                  "text": "The Defending Pokémon is now Asleep."
-              },
-              {
-                  "name": "Slash",
-                  "damage": "30",
-                  "cost": [
-                      "Colorless",
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": ""
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fire",
-                  "value": "×2"
-              }
-          ],
-          "retreatCost": [
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-42",
-          "itemType": "Pokemon",
-          "number": "42",
-          "name": "Persian",
-          "stage": "Stage 1",
-          "evolvesFrom": "Meowth",
-          "hp": "70",
-          "types": [
-              "Colorless"
-          ],
-          "rarity": "Uncommon",
-          "artist": "Kagemaru Himeno",
-          "text": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
-          "level": "25",
-          "attacks": [
-              {
-                  "name": "Scratch",
-                  "damage": "20",
-                  "cost": [
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": ""
-              },
-              {
-                  "name": "Pounce",
-                  "damage": "30",
-                  "cost": [
-                      "Colorless",
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": "If the Defending Pokémon attacks Persian during your next turn, any damage done by the attack is reduced by 10 (after applying Weakness and Resistance). (Benching either Pokémon ends this effect.)"
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fighting",
-                  "value": "×2"
-              }
-          ],
-          "resistances": [
-              {
-                  "type": "Psychic",
-                  "value": "-30"
-              }
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-43",
-          "itemType": "Pokemon",
-          "number": "43",
-          "name": "Primeape",
-          "stage": "Stage 1",
-          "evolvesFrom": "Mankey",
-          "hp": "70",
-          "types": [
-              "Fighting"
-          ],
-          "rarity": "Uncommon",
-          "artist": "Kagemaru Himeno",
-          "text": "Always furious and tenacious to boot. It will not abandon chasing its quarry until its quarry is caught.",
-          "level": "45",
-          "attacks": [
-              {
-                  "name": "Fury Swipes",
-                  "damage": "20×",
-                  "cost": [
-                      "Fighting",
-                      "Fighting"
-                  ],
-                  "text": "Flip 3 coins. This attack does 20 damage times the number of heads."
-              },
-              {
-                  "name": "Tantrum",
-                  "damage": "50",
-                  "cost": [
-                      "Fighting",
-                      "Fighting",
-                      "Colorless"
-                  ],
-                  "text": "Flip a coin. If tails, Primeape is now Confused (after doing damage)."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Psychic",
-                  "value": "×2"
-              }
-          ],
-          "retreatCost": [
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-44",
-          "itemType": "Pokemon",
-          "number": "44",
-          "name": "Rapidash",
-          "stage": "Stage 1",
-          "evolvesFrom": "Ponyta",
-          "hp": "70",
-          "types": [
-              "Fire"
-          ],
-          "rarity": "Uncommon",
-          "artist": "Mitsuhiro Arita",
-          "text": "Very competitive, this Pokémon will chase anything that moves fast in the hopes of racing it.",
-          "level": "33",
-          "attacks": [
-              {
-                  "name": "Stomp",
-                  "damage": "20+",
-                  "cost": [
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage; if tails, this attack does 20 damage."
-              },
-              {
-                  "name": "Agility",
-                  "damage": "30",
-                  "cost": [
-                      "Fire",
-                      "Fire",
-                      "Colorless"
-                  ],
-                  "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Rapidash."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Water",
-                  "value": "×2"
-              }
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-45",
-          "itemType": "Pokemon",
-          "number": "45",
-          "name": "Rhydon",
-          "stage": "Stage 1",
-          "evolvesFrom": "Rhyhorn",
-          "hp": "100",
-          "types": [
-              "Fighting"
-          ],
-          "rarity": "Uncommon",
-          "artist": "Kagemaru Himeno",
-          "text": "Protected by an armor-like hide, it is capable of living in molten lava of 3600 degrees.",
-          "level": "48",
-          "attacks": [
-              {
-                  "name": "Horn Attack",
-                  "damage": "30",
-                  "cost": [
-                      "Fighting",
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": ""
-              },
-              {
-                  "name": "Ram",
-                  "damage": "50",
-                  "cost": [
-                      "Fighting",
-                      "Fighting",
-                      "Fighting",
-                      "Fighting"
-                  ],
-                  "text": "Rhydon does 20 damage to itself. If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon. Switch the Pokémon even if Rhydon is knocked out.)"
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Grass",
-                  "value": "×2"
-              }
-          ],
-          "resistances": [
-              {
-                  "type": "Lightning",
-                  "value": "-30"
-              }
-          ],
-          "retreatCost": [
-              "Colorless",
-              "Colorless",
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-46",
-          "itemType": "Pokemon",
-          "number": "46",
-          "name": "Seaking",
-          "stage": "Stage 1",
-          "evolvesFrom": "Goldeen",
-          "hp": "70",
-          "types": [
-              "Water"
-          ],
-          "rarity": "Uncommon",
-          "artist": "Kagemaru Himeno",
-          "text": "In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks.",
-          "level": "28",
-          "attacks": [
-              {
-                  "name": "Horn Attack",
-                  "damage": "10",
-                  "cost": [
-                      "Water"
-                  ],
-                  "text": ""
-              },
-              {
-                  "name": "Waterfall",
-                  "damage": "30",
-                  "cost": [
-                      "Water",
-                      "Colorless"
-                  ],
-                  "text": ""
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Lightning",
-                  "value": "×2"
-              }
-          ],
-          "retreatCost": [
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-47",
-          "itemType": "Pokemon",
-          "number": "47",
-          "name": "Tauros",
-          "stage": "Basic",
-          "hp": "60",
-          "types": [
-              "Colorless"
-          ],
-          "rarity": "Uncommon",
-          "artist": "Kagemaru Himeno",
-          "text": "When it targets an enemy, it charges furiously while whipping its body with its long tails.",
-          "level": "24",
-          "attacks": [
-              {
-                  "name": "Stomp",
-                  "damage": "20+",
-                  "cost": [
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage; if tails, this attack does 20 damage."
-              },
-              {
-                  "name": "Rampage",
-                  "damage": "20+",
-                  "cost": [
-                      "Colorless",
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": "Does 20 damage plus 10 more damage for each damage counter on Tauros. Flip a coin. If tails, Tauros is now Confused (after doing damage)."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fighting",
-                  "value": "×2"
-              }
-          ],
-          "resistances": [
-              {
-                  "type": "Psychic",
-                  "value": "-30"
-              }
-          ],
-          "retreatCost": [
-              "Colorless",
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-48",
-          "itemType": "Pokemon",
-          "number": "48",
-          "name": "Weepinbell",
-          "stage": "Stage 1",
-          "evolvesFrom": "Bellsprout",
-          "hp": "70",
-          "types": [
-              "Grass"
-          ],
-          "rarity": "Uncommon",
-          "artist": "Kagemaru Himeno",
-          "text": "It spits out poisonpowder to immobilize the enemy, and then finishes the enemy with a spray of acid.",
-          "level": "28",
-          "attacks": [
-              {
-                  "name": "Poisonpowder",
-                  "damage": "10",
-                  "cost": [
-                      "Grass"
-                  ],
-                  "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
-              },
-              {
-                  "name": "Razor Leaf",
-                  "damage": "30",
-                  "cost": [
-                      "Grass",
-                      "Grass"
-                  ],
-                  "text": ""
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fire",
-                  "value": "×2"
-              }
-          ],
-          "retreatCost": [
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-49",
-          "itemType": "Pokemon",
-          "number": "49",
-          "name": "Bellsprout",
-          "stage": "Basic",
-          "hp": "40",
-          "types": [
-              "Grass"
-          ],
-          "rarity": "Common",
-          "artist": "Kagemaru Himeno",
-          "text": "A carnivorous Pokémon that traps and eats bugs. It uses its root feet to soak up needed moisture.",
-          "level": "11",
-          "attacks": [
-              {
-                  "name": "Vine Whip",
-                  "damage": "10",
-                  "cost": [
-                      "Grass"
-                  ],
-                  "text": ""
-              },
-              {
-                  "name": "Call for Family",
-                  "damage": "",
-                  "cost": [
-                      "Grass"
-                  ],
-                  "text": "Search your deck for a Basic Pokémon named Bellsprout and put it onto your Bench. Shuffle your deck afterward. (You can't use this attack if your Bench is full.)"
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fire",
-                  "value": "×2"
-              }
-          ],
-          "retreatCost": [
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-50",
-          "itemType": "Pokemon",
-          "number": "50",
-          "name": "Cubone",
-          "stage": "Basic",
-          "hp": "40",
-          "types": [
-              "Fighting"
-          ],
-          "rarity": "Common",
-          "artist": "Mitsuhiro Arita",
-          "text": "Because it never removes its skull helmet, no one has ever seen this Pokémon's real face.",
-          "level": "13",
-          "attacks": [
-              {
-                  "name": "Snivel",
-                  "damage": "",
-                  "cost": [
-                      "Colorless"
-                  ],
-                  "text": "If the Defending Pokémon attacks Cubone during your opponent's next turn, any damage done by the attack is reduced by 20 (after applying Weakness and Resistance). (Benching either Pokémon ends this effect.)"
-              },
-              {
-                  "name": "Rage",
-                  "damage": "10+",
-                  "cost": [
-                      "Fighting",
-                      "Fighting"
-                  ],
-                  "text": "Does 10 damage plus 10 more damage for each damage counter on Cubone."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Grass",
-                  "value": "×2"
-              }
-          ],
-          "resistances": [
-              {
-                  "type": "Lightning",
-                  "value": "-30"
-              }
-          ],
-          "retreatCost": [
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-51",
-          "itemType": "Pokemon",
-          "number": "51",
-          "name": "Eevee",
-          "stage": "Basic",
-          "hp": "50",
-          "types": [
-              "Colorless"
-          ],
-          "rarity": "Common",
-          "artist": "Kagemaru Himeno",
-          "text": "Its genetic code is irregular. It may mutate if it is exposed to radiation from elemental stones.",
-          "level": "12",
-          "attacks": [
-              {
-                  "name": "Tail Wag",
-                  "damage": "",
-                  "cost": [
-                      "Colorless"
-                  ],
-                  "text": "Flip a coin. If heads, the Defending Pokémon can't attack Eevee during your opponent's next turn. (Benching either Pokémon ends this effect.)"
-              },
-              {
-                  "name": "Quick Attack",
-                  "damage": "10+",
-                  "cost": [
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fighting",
-                  "value": "×2"
-              }
-          ],
-          "resistances": [
-              {
-                  "type": "Psychic",
-                  "value": "-30"
-              }
-          ],
-          "retreatCost": [
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-52",
-          "itemType": "Pokemon",
-          "number": "52",
-          "name": "Exeggcute",
-          "stage": "Basic",
-          "hp": "50",
-          "types": [
-              "Grass"
-          ],
-          "rarity": "Common",
-          "artist": "Mitsuhiro Arita",
-          "text": "Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.",
-          "level": "14",
-          "attacks": [
-              {
-                  "name": "Hypnosis",
-                  "damage": "",
-                  "cost": [
-                      "Psychic"
-                  ],
-                  "text": "The Defending Pokémon is now Asleep."
-              },
-              {
-                  "name": "Leech Seed",
-                  "damage": "20",
-                  "cost": [
-                      "Grass",
-                      "Grass"
-                  ],
-                  "text": "Unless all damage from this attack is prevented, you may remove 1 damage counter from Exeggcute."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fire",
-                  "value": "×2"
-              }
-          ],
-          "retreatCost": [
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-53",
-          "itemType": "Pokemon",
-          "number": "53",
-          "name": "Goldeen",
-          "stage": "Basic",
-          "hp": "40",
-          "types": [
-              "Water"
-          ],
-          "rarity": "Common",
-          "artist": "Kagemaru Himeno",
-          "text": "Its tail fin billows like an elegant ballroom dress, giving it the nickname \"Water Queen.\"",
-          "level": "12",
-          "attacks": [
-              {
-                  "name": "Horn Attack",
-                  "damage": "10",
-                  "cost": [
-                      "Water"
-                  ],
-                  "text": ""
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Lightning",
-                  "value": "×2"
-              }
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-54",
-          "itemType": "Pokemon",
-          "number": "54",
-          "name": "Jigglypuff",
-          "stage": "Basic",
-          "hp": "60",
-          "types": [
-              "Colorless"
-          ],
-          "rarity": "Common",
-          "artist": "Kagemaru Himeno",
-          "text": "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
-          "level": "14",
-          "attacks": [
-              {
-                  "name": "Lullaby",
-                  "damage": "",
-                  "cost": [
-                      "Colorless"
-                  ],
-                  "text": "The Defending Pokémon is now Asleep."
-              },
-              {
-                  "name": "Pound",
-                  "damage": "20",
-                  "cost": [
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": ""
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fighting",
-                  "value": "×2"
-              }
-          ],
-          "resistances": [
-              {
-                  "type": "Psychic",
-                  "value": "-30"
-              }
-          ],
-          "retreatCost": [
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-55",
-          "itemType": "Pokemon",
-          "number": "55",
-          "name": "Mankey",
-          "stage": "Basic",
-          "hp": "30",
-          "types": [
-              "Fighting"
-          ],
-          "rarity": "Common",
-          "artist": "Kagemaru Himeno",
-          "abilities": [
-              {
-                  "name": "Peek",
-                  "text": "Once during your turn (before your attack), you may look at one of the following: the top card of either player's deck, a random card from your opponent's hand, or one of either player's Prizes. This power can't be used if Mankey is Asleep, Confused, or Paralyzed.",
-                  "type": "Pokémon Power"
-              }
-          ],
-          "text": "Extremely quick to anger. It could be docile one moment, then thrashing away the next.",
-          "level": "7",
-          "attacks": [
-              {
-                  "name": "Scratch",
-                  "damage": "10",
-                  "cost": [
-                      "Colorless"
-                  ],
-                  "text": ""
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Psychic",
-                  "value": "×2"
-              }
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-56",
-          "itemType": "Pokemon",
-          "number": "56",
-          "name": "Meowth",
-          "stage": "Basic",
-          "hp": "50",
-          "types": [
-              "Colorless"
-          ],
-          "rarity": "Common",
-          "artist": "Mitsuhiro Arita",
-          "text": "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change.",
-          "level": "15",
-          "attacks": [
-              {
-                  "name": "Pay Day",
-                  "damage": "10",
-                  "cost": [
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": "Flip a coin. If heads, draw a card."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fighting",
-                  "value": "×2"
-              }
-          ],
-          "resistances": [
-              {
-                  "type": "Psychic",
-                  "value": "-30"
-              }
-          ],
-          "retreatCost": [
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-57",
-          "itemType": "Pokemon",
-          "number": "57",
-          "name": "Nidoran ♀",
-          "stage": "Basic",
-          "hp": "60",
-          "types": [
-              "Grass"
-          ],
-          "rarity": "Common",
-          "artist": "Ken Sugimori",
-          "text": "Although small, its venomous barbs make this Pokémon dangerous. The female has smaller horns.",
-          "level": "13",
-          "attacks": [
-              {
-                  "name": "Fury Swipes",
-                  "damage": "10×",
-                  "cost": [
-                      "Grass"
-                  ],
-                  "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
-              },
-              {
-                  "name": "Call for Family",
-                  "damage": "",
-                  "cost": [
-                      "Grass",
-                      "Grass"
-                  ],
-                  "text": "Search your deck for a Basic Pokémon named Nidoran ♂ or Nidoran ♀ and put it onto your Bench. Shuffle your deck afterward. (You can't use this attack if your Bench is full.)"
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Psychic",
-                  "value": "×2"
-              }
-          ],
-          "retreatCost": [
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-58",
-          "itemType": "Pokemon",
-          "number": "58",
-          "name": "Oddish",
-          "stage": "Basic",
-          "hp": "50",
-          "types": [
-              "Grass"
-          ],
-          "rarity": "Common",
-          "artist": "Keiji Kinebuchi",
-          "text": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.",
-          "level": "8",
-          "attacks": [
-              {
-                  "name": "Stun Spore",
-                  "damage": "10",
-                  "cost": [
-                      "Grass"
-                  ],
-                  "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
-              },
-              {
-                  "name": "Sprout",
-                  "damage": "",
-                  "cost": [
-                      "Grass",
-                      "Grass"
-                  ],
-                  "text": "Search your deck for a Basic Pokémon named Oddish and put it onto your Bench. Shuffle your deck afterward. (You can't use this attack if your Bench is full.)"
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fire",
-                  "value": "×2"
-              }
-          ],
-          "retreatCost": [
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-59",
-          "itemType": "Pokemon",
-          "number": "59",
-          "name": "Paras",
-          "stage": "Basic",
-          "hp": "40",
-          "types": [
-              "Grass"
-          ],
-          "rarity": "Common",
-          "artist": "Ken Sugimori",
-          "text": "Burrows to suck tree roots. The mushrooms on its back grow by drawing nutrients from the bug host.",
-          "level": "8",
-          "attacks": [
-              {
-                  "name": "Scratch",
-                  "damage": "20",
-                  "cost": [
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": ""
-              },
-              {
-                  "name": "Spore",
-                  "damage": "",
-                  "cost": [
-                      "Grass",
-                      "Grass"
-                  ],
-                  "text": "The Defending Pokémon is now Asleep."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fire",
-                  "value": "×2"
-              }
-          ],
-          "retreatCost": [
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-60",
-          "itemType": "Pokemon",
-          "number": "60",
-          "name": "Pikachu",
-          "stage": "Basic",
-          "evolvesFrom": "Pichu",
-          "hp": "50",
-          "types": [
-              "Lightning"
-          ],
-          "rarity": "Common",
-          "artist": "Ken Sugimori",
-          "text": "When several of these Pokémon gather, their electricity can build and cause lightning storms.",
-          "level": "14",
-          "attacks": [
-              {
-                  "name": "Spark",
-                  "damage": "20",
-                  "cost": [
-                      "Lightning",
-                      "Lightning"
-                  ],
-                  "text": "If your opponent has any Benched Pokémon, choose 1 of them and this attack does 10 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fighting",
-                  "value": "×2"
-              }
-          ],
-          "retreatCost": [
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-61",
-          "itemType": "Pokemon",
-          "number": "61",
-          "name": "Rhyhorn",
-          "stage": "Basic",
-          "hp": "70",
-          "types": [
-              "Fighting"
-          ],
-          "rarity": "Common",
-          "artist": "Mitsuhiro Arita",
-          "text": "Its massive bones are 1,000 times harder than human bones. It can easily knock a trailer flying.",
-          "level": "18",
-          "attacks": [
-              {
-                  "name": "Leer",
-                  "damage": "",
-                  "cost": [
-                      "Colorless"
-                  ],
-                  "text": "Flip a coin. If heads, the Defending Pokémon can't attack Rhyhorn during your opponent's next turn. (Benching either Pokémon ends this effect.)"
-              },
-              {
-                  "name": "Horn Attack",
-                  "damage": "30",
-                  "cost": [
-                      "Fighting",
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": ""
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Grass",
-                  "value": "×2"
-              }
-          ],
-          "resistances": [
-              {
-                  "type": "Lightning",
-                  "value": "-30"
-              }
-          ],
-          "retreatCost": [
-              "Colorless",
-              "Colorless",
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-62",
-          "itemType": "Pokemon",
-          "number": "62",
-          "name": "Spearow",
-          "stage": "Basic",
-          "hp": "50",
-          "types": [
-              "Colorless"
-          ],
-          "rarity": "Common",
-          "artist": "Mitsuhiro Arita",
-          "text": "Eats bugs in grassy areas. It has to flap its short wings at high speeds to stay airborne.",
-          "level": "13",
-          "attacks": [
-              {
-                  "name": "Peck",
-                  "damage": "10",
-                  "cost": [
-                      "Colorless"
-                  ],
-                  "text": ""
-              },
-              {
-                  "name": "Mirror Move",
-                  "damage": "",
-                  "cost": [
-                      "Colorless",
-                      "Colorless",
-                      "Colorless"
-                  ],
-                  "text": "If Spearow was attacked last turn, do the final result of that attack on Spearow to the Defending Pokémon."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Lightning",
-                  "value": "×2"
-              }
-          ],
-          "resistances": [
-              {
-                  "type": "Fighting",
-                  "value": "-30"
-              }
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-63",
-          "itemType": "Pokemon",
-          "number": "63",
-          "name": "Venonat",
-          "stage": "Basic",
-          "hp": "40",
-          "types": [
-              "Grass"
-          ],
-          "rarity": "Common",
-          "artist": "Mitsuhiro Arita",
-          "text": "Lives in the shadows of tall trees where it eats insects. It is attracted by light at night.",
-          "level": "12",
-          "attacks": [
-              {
-                  "name": "Stun Spore",
-                  "damage": "10",
-                  "cost": [
-                      "Grass"
-                  ],
-                  "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
-              },
-              {
-                  "name": "Leech Life",
-                  "damage": "10",
-                  "cost": [
-                      "Grass",
-                      "Colorless"
-                  ],
-                  "text": "Remove a number of damage counters from Venonat equal to the damage done to the Defending Pokémon (after applying Weakness and Resistance)."
-              }
-          ],
-          "weaknesses": [
-              {
-                  "type": "Fire",
-                  "value": "×2"
-              }
-          ],
-          "retreatCost": [
-              "Colorless"
-          ]
-      },
-      {
-          "id": "tcg-pokemon-jungle-64",
-          "itemType": "Trainer",
-          "number": "64",
-          "name": "Poké Ball",
-          "types": [
-              "Trainer"
-          ],
-          "rarity": "Common",
-          "artist": "Keiji Kinebuchi",
-          "text": "Flip a coin. If heads, you may search your deck for any Basic Pokémon or Evolution card. Show that card to your opponent, then put it into your hand. Shuffle your deck afterward."
-      }
+    {
+      "id": "tcg-pokemon-jungle-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Clefable",
+      "stage": "Stage 1",
+      "evolvesFrom": "Clefairy",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "text": "A timid Fairy Pokémon that is rarely seen. It will run and hide the moment it senses people.",
+      "level": "34",
+      "attacks": [
+        {
+          "name": "Metronome",
+          "damage": "",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Choose 1 of the Defending Pokémon's attacks. Metronome copies that attack except for its Energy costs and anything else required in order to use that attack, such as discarding Energy cards. (No matter what type the Defending Pokémon is, Clefable's type is still Colorless.)"
+        },
+        {
+          "name": "Minimize",
+          "damage": "",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "All damage done by attacks to Clefable during your opponent's next turn is reduced by 20 (after applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Electrode",
+      "stage": "Stage 1",
+      "evolvesFrom": "Voltorb",
+      "hp": "90",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "text": "It stores electrical energy under very high pressure. It often explodes with little or no provocation.",
+      "level": "42",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": ""
+        },
+        {
+          "name": "Chain Lightning",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "text": "If the Defending Pokémon isn't Colorless, this attack does 10 damage to each Benched Pokémon of the same type as the Defending Pokémon (including your own)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-3",
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Flareon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kagemaru Himeno",
+      "text": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees.",
+      "level": "28",
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
+        },
+        {
+          "name": "Flamethrower",
+          "damage": "60",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard 1 Fire Energy card attached to Flareon in order to use this attack."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-4",
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Jolteon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "70",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kagemaru Himeno",
+      "text": "It accumulates negative ions from the atmosphere to blast out 10,000-volt lightning bolts.",
+      "level": "29",
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
+        },
+        {
+          "name": "Pin Missile",
+          "damage": "20×",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip 4 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Kangaskhan",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "text": "The infant rarely ventures out of its mother's protective pouch until it is three years old.",
+      "level": "40",
+      "attacks": [
+        {
+          "name": "Fetch",
+          "damage": "",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw a card."
+        },
+        {
+          "name": "Comet Punch",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 4 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-6",
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Mr. Mime",
+      "stage": "Basic",
+      "evolvesFrom": "Mime Jr.",
+      "hp": "40",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Invisible Wall",
+          "text": "Whenever an attack (including your own) does 30 or more damage to Mr. Mime (after applying Weakness and Resistance), prevent that damage. (Any other effects of attacks still happen.) This power can't be used if Mr. Mime is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "If interrupted while miming, it will slap around the enemy with its broad hands.",
+      "level": "28",
+      "attacks": [
+        {
+          "name": "Meditate",
+          "damage": "10+",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Does 10 damage plus 10 more damage for each damage counter on the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-7",
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Nidoqueen",
+      "stage": "Stage 2",
+      "evolvesFrom": "Nidorina",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Sugimori",
+      "text": "Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves.",
+      "level": "43",
+      "attacks": [
+        {
+          "name": "Boyfriends",
+          "damage": "20+",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Does 20 damage plus 20 more damage for each Nidoking you have in play."
+        },
+        {
+          "name": "Mega Punch",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": ""
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-8",
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "Pidgeot",
+      "stage": "Stage 2",
+      "evolvesFrom": "Pidgeotto",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kagemaru Himeno",
+      "text": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as Magikarp.",
+      "level": "40",
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": ""
+        },
+        {
+          "name": "Hurricane",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Unless this attack Knocks Out the Defending Pokémon, return the Defending Pokémon and all cards attached to it to your opponent's hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-9",
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Pinsir",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kagemaru Himeno",
+      "text": "If it fails to crush the victim in its pincers, it will swing its victim around and toss it hard.",
+      "level": "24",
+      "attacks": [
+        {
+          "name": "Irongrip",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Guillotine",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": ""
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Scyther",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Sugimori",
+      "text": "With ninja-like agility and speed, it can create the illusion that there is more than one of it.",
+      "level": "25",
+      "attacks": [
+        {
+          "name": "Swords Dance",
+          "damage": "",
+          "cost": [
+            "Grass"
+          ],
+          "text": "During your next turn, Scyther's Slash attack's base damage is 60 instead of 30."
+        },
+        {
+          "name": "Slash",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": ""
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Snorlax",
+      "stage": "Basic",
+      "evolvesFrom": "Munchlax",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Thick Skinned",
+          "text": "Snorlax can't become Asleep, Confused, Paralyzed, or Poisoned. This power can't be used if Snorlax is already Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",
+      "level": "20",
+      "attacks": [
+        {
+          "name": "Body Slam",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Vaporeon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kagemaru Himeno",
+      "text": "Lives close to water. Its long tail is ridged with a fin that is often mistaken for a mermaid's.",
+      "level": "42",
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
+        },
+        {
+          "name": "Water Gun",
+          "damage": "30+",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Does 30 damage plus 10 more damage for each Water Energy attached to Vaporeon but not used to pay for this attack's Energy cost. Extra Water Energy after the 2nd doesn't count."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Venomoth",
+      "stage": "Stage 1",
+      "evolvesFrom": "Venonat",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Shift",
+          "text": "Once during your turn (before your attack), you may change the type of Venomoth to the type of any other Pokémon in play other than Colorless. This power can't be used if Venomoth is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "The dust-like scales covering its wings are color coded to indicate the kinds of poison it has.",
+      "level": "28",
+      "attacks": [
+        {
+          "name": "Venom Powder",
+          "damage": "10",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused and Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Victreebel",
+      "stage": "Stage 2",
+      "evolvesFrom": "Weepinbell",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Sugimori",
+      "text": "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
+      "level": "42",
+      "attacks": [
+        {
+          "name": "Lure",
+          "damage": "",
+          "cost": [
+            "Grass"
+          ],
+          "text": "If your opponent has any Benched Pokémon, choose 1 of them and switch it with his or her Active Pokémon."
+        },
+        {
+          "name": "Acid",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon can't retreat during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Vileplume",
+      "stage": "Stage 2",
+      "evolvesFrom": "Gloom",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Keiji Kinebuchi",
+      "abilities": [
+        {
+          "name": "Heal",
+          "text": "Once during your turn (before your attack), you may flip a coin. If heads, remove 1 damage counter from 1 of your Pokémon. This power can't be used if Vileplume is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
+      "level": "35",
+      "attacks": [
+        {
+          "name": "Petal Dance",
+          "damage": "40×",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "text": "Flip 3 coins. This attack does 40 damage times the number of heads. Vileplume is now Confused (after doing damage)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-16",
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Wigglytuff",
+      "stage": "Stage 1",
+      "evolvesFrom": "Jigglypuff",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "text": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",
+      "level": "36",
+      "attacks": [
+        {
+          "name": "Lullaby",
+          "damage": "",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Do the Wave",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 10 damage plus 10 more damage for each of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Clefable",
+      "stage": "Stage 1",
+      "evolvesFrom": "Clefairy",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "text": "A timid Fairy Pokémon that is rarely seen. It will run and hide the moment it senses people.",
+      "level": "34",
+      "attacks": [
+        {
+          "name": "Metronome",
+          "damage": "",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Choose 1 of the Defending Pokémon's attacks. Metronome copies that attack except for its Energy costs and anything else required in order to use that attack, such as discarding Energy cards. (No matter what type the Defending Pokémon is, Clefable's type is still Colorless.)"
+        },
+        {
+          "name": "Minimize",
+          "damage": "",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "All damage done by attacks to Clefable during your opponent's next turn is reduced by 20 (after applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-18",
+      "itemType": "Pokemon Card",
+      "number": "18",
+      "name": "Electrode",
+      "stage": "Stage 1",
+      "evolvesFrom": "Voltorb",
+      "hp": "90",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "text": "It stores electrical energy under very high pressure. It often explodes with little or no provocation.",
+      "level": "42",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": ""
+        },
+        {
+          "name": "Chain Lightning",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "text": "If the Defending Pokémon isn't Colorless, this attack does 10 damage to each Benched Pokémon of the same type as the Defending Pokémon (including your own)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-19",
+      "itemType": "Pokemon Card",
+      "number": "19",
+      "name": "Flareon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "text": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees.",
+      "level": "28",
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
+        },
+        {
+          "name": "Flamethrower",
+          "damage": "60",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard 1 Fire Energy card attached to Flareon in order to use this attack."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-20",
+      "itemType": "Pokemon Card",
+      "number": "20",
+      "name": "Jolteon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "70",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "text": "It accumulates negative ions from the atmosphere to blast out 10,000-volt lightning bolts.",
+      "level": "29",
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
+        },
+        {
+          "name": "Pin Missile",
+          "damage": "20×",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip 4 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-21",
+      "itemType": "Pokemon Card",
+      "number": "21",
+      "name": "Kangaskhan",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "text": "The infant rarely ventures out of its mother's protective pouch until it is three years old.",
+      "level": "40",
+      "attacks": [
+        {
+          "name": "Fetch",
+          "damage": "",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw a card."
+        },
+        {
+          "name": "Comet Punch",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 4 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-22",
+      "itemType": "Pokemon Card",
+      "number": "22",
+      "name": "Mr. Mime",
+      "stage": "Basic",
+      "evolvesFrom": "Mime Jr.",
+      "hp": "40",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Invisible Wall",
+          "text": "Whenever an attack (including your own) does 30 or more damage to Mr. Mime (after applying Weakness and Resistance), prevent that damage. (Any other effects of attacks still happen.) This power can't be used if Mr. Mime is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "If interrupted while miming, it will slap around the enemy with its broad hands.",
+      "level": "28",
+      "attacks": [
+        {
+          "name": "Meditate",
+          "damage": "10+",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Does 10 damage plus 10 more damage for each damage counter on the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-23",
+      "itemType": "Pokemon Card",
+      "number": "23",
+      "name": "Nidoqueen",
+      "stage": "Stage 2",
+      "evolvesFrom": "Nidorina",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "text": "Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves.",
+      "level": "43",
+      "attacks": [
+        {
+          "name": "Boyfriends",
+          "damage": "20+",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Does 20 damage plus 20 more damage for each Nidoking you have in play."
+        },
+        {
+          "name": "Mega Punch",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": ""
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-24",
+      "itemType": "Pokemon Card",
+      "number": "24",
+      "name": "Pidgeot",
+      "stage": "Stage 2",
+      "evolvesFrom": "Pidgeotto",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "text": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as Magikarp.",
+      "level": "40",
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": ""
+        },
+        {
+          "name": "Hurricane",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Unless this attack Knocks Out the Defending Pokémon, return the Defending Pokémon and all cards attached to it to your opponent's hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-25",
+      "itemType": "Pokemon Card",
+      "number": "25",
+      "name": "Pinsir",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "text": "If it fails to crush the victim in its pincers, it will swing its victim around and toss it hard.",
+      "level": "24",
+      "attacks": [
+        {
+          "name": "Irongrip",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Guillotine",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": ""
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-26",
+      "itemType": "Pokemon Card",
+      "number": "26",
+      "name": "Scyther",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "text": "With ninja-like agility and speed, it can create the illusion that there is more than one of it.",
+      "level": "25",
+      "attacks": [
+        {
+          "name": "Swords Dance",
+          "damage": "",
+          "cost": [
+            "Grass"
+          ],
+          "text": "During your next turn, Scyther's Slash attack's base damage is 60 instead of 30."
+        },
+        {
+          "name": "Slash",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": ""
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-27",
+      "itemType": "Pokemon Card",
+      "number": "27",
+      "name": "Snorlax",
+      "stage": "Basic",
+      "evolvesFrom": "Munchlax",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Thick Skinned",
+          "text": "Snorlax can't become Asleep, Confused, Paralyzed, or Poisoned. This power can't be used if Snorlax is already Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",
+      "level": "20",
+      "attacks": [
+        {
+          "name": "Body Slam",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-28",
+      "itemType": "Pokemon Card",
+      "number": "28",
+      "name": "Vaporeon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "text": "Lives close to water. Its long tail is ridged with a fin that is often mistaken for a mermaid's.",
+      "level": "42",
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
+        },
+        {
+          "name": "Water Gun",
+          "damage": "30+",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Does 30 damage plus 10 more damage for each Water Energy attached to Vaporeon but not used to pay for this attack's Energy cost. Extra Water Energy after the 2nd doesn't count."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-29",
+      "itemType": "Pokemon Card",
+      "number": "29",
+      "name": "Venomoth",
+      "stage": "Stage 1",
+      "evolvesFrom": "Venonat",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Shift",
+          "text": "Once during your turn (before your attack), you may change the type of Venomoth to the type of any other Pokémon in play other than Colorless. This power can't be used if Venomoth is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "The dust-like scales covering its wings are color coded to indicate the kinds of poison it has.",
+      "level": "28",
+      "attacks": [
+        {
+          "name": "Venom Powder",
+          "damage": "10",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused and Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-30",
+      "itemType": "Pokemon Card",
+      "number": "30",
+      "name": "Victreebel",
+      "stage": "Stage 2",
+      "evolvesFrom": "Weepinbell",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "text": "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
+      "level": "42",
+      "attacks": [
+        {
+          "name": "Lure",
+          "damage": "",
+          "cost": [
+            "Grass"
+          ],
+          "text": "If your opponent has any Benched Pokémon, choose 1 of them and switch it with his or her Active Pokémon."
+        },
+        {
+          "name": "Acid",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon can't retreat during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-31",
+      "itemType": "Pokemon Card",
+      "number": "31",
+      "name": "Vileplume",
+      "stage": "Stage 2",
+      "evolvesFrom": "Gloom",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Keiji Kinebuchi",
+      "abilities": [
+        {
+          "name": "Heal",
+          "text": "Once during your turn (before your attack), you may flip a coin. If heads, remove 1 damage counter from 1 of your Pokémon. This power can't be used if Vileplume is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
+      "level": "35",
+      "attacks": [
+        {
+          "name": "Petal Dance",
+          "damage": "40×",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "text": "Flip 3 coins. This attack does 40 damage times the number of heads. Vileplume is now Confused (after doing damage)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-32",
+      "itemType": "Pokemon Card",
+      "number": "32",
+      "name": "Wigglytuff",
+      "stage": "Stage 1",
+      "evolvesFrom": "Jigglypuff",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "text": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",
+      "level": "36",
+      "attacks": [
+        {
+          "name": "Lullaby",
+          "damage": "",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Do the Wave",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 10 damage plus 10 more damage for each of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-33",
+      "itemType": "Pokemon Card",
+      "number": "33",
+      "name": "Butterfree",
+      "stage": "Stage 2",
+      "evolvesFrom": "Metapod",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
+      "level": "28",
+      "attacks": [
+        {
+          "name": "Whirlwind",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)"
+        },
+        {
+          "name": "Mega Drain",
+          "damage": "40",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "text": "Remove a number of damage counters from Butterfree equal to half the damage done to the Defending Pokémon (after applying Weakness and Resistance) (rounded up to the nearest 10)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-34",
+      "itemType": "Pokemon Card",
+      "number": "34",
+      "name": "Dodrio",
+      "stage": "Stage 1",
+      "evolvesFrom": "Doduo",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Retreat Aid",
+          "text": "As long as Dodrio is Benched, pay Colorless less to retreat your Active Pokémon.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "Uses its three brains to execute complex plans. While two heads sleep, one head stays awake.",
+      "level": "28",
+      "attacks": [
+        {
+          "name": "Rage",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 10 damage plus 10 more damage for each damage counter on Dodrio."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-35",
+      "itemType": "Pokemon Card",
+      "number": "35",
+      "name": "Exeggutor",
+      "stage": "Stage 1",
+      "evolvesFrom": "Exeggcute",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "Legend has it that on rare occasions, one of its heads will drop off and continue on as an Exeggcute.",
+      "level": "35",
+      "attacks": [
+        {
+          "name": "Teleport",
+          "damage": "",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Switch Exeggutor with 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Big Eggsplosion",
+          "damage": "20×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a number of coins equal to the number of Energy attached to Exeggutor. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-36",
+      "itemType": "Pokemon Card",
+      "number": "36",
+      "name": "Fearow",
+      "stage": "Stage 1",
+      "evolvesFrom": "Spearow",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "text": "With its huge and magnificent wings, it can keep aloft without ever having to land for rest.",
+      "level": "27",
+      "attacks": [
+        {
+          "name": "Agility",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Fearow."
+        },
+        {
+          "name": "Drill Peck",
+          "damage": "40",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": ""
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-37",
+      "itemType": "Pokemon Card",
+      "number": "37",
+      "name": "Gloom",
+      "stage": "Stage 1",
+      "evolvesFrom": "Oddish",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Keiji Kinebuchi",
+      "text": "The fluid that oozes from its mouth isn't drool; it is a nectar that is used to attract prey.",
+      "level": "35",
+      "attacks": [
+        {
+          "name": "Poisonpowder",
+          "damage": "",
+          "cost": [
+            "Grass"
+          ],
+          "text": "The Defending Pokémon is now Poisoned."
+        },
+        {
+          "name": "Foul Odor",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": "Both the Defending Pokémon and Gloom are now Confused (after doing damage)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-38",
+      "itemType": "Pokemon Card",
+      "number": "38",
+      "name": "Lickitung",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "text": "Its tongue can be extended like a chameleon's. It leaves a stinging sensation when it licks enemies.",
+      "level": "10",
+      "attacks": [
+        {
+          "name": "Tongue Wrap",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Supersonic",
+          "damage": "",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-39",
+      "itemType": "Pokemon Card",
+      "number": "39",
+      "name": "Marowak",
+      "stage": "Stage 1",
+      "evolvesFrom": "Cubone",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "text": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to K.O. targets.",
+      "level": "26",
+      "attacks": [
+        {
+          "name": "Bonemerang",
+          "damage": "30×",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+        },
+        {
+          "name": "Call for Friend",
+          "damage": "",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Search your deck for a Fighting Basic Pokémon card and put it onto your Bench. Shuffle your deck afterward. (You can't use this attack if your Bench is full.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-40",
+      "itemType": "Pokemon Card",
+      "number": "40",
+      "name": "Nidorina",
+      "stage": "Stage 1",
+      "evolvesFrom": "Nidoran ♀",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "The female's horn develops slowly. Prefers physical attacks such as clawing and biting.",
+      "level": "24",
+      "attacks": [
+        {
+          "name": "Supersonic",
+          "damage": "",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Double Kick",
+          "damage": "30×",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-41",
+      "itemType": "Pokemon Card",
+      "number": "41",
+      "name": "Parasect",
+      "stage": "Stage 1",
+      "evolvesFrom": "Paras",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places.",
+      "level": "28",
+      "attacks": [
+        {
+          "name": "Spore",
+          "damage": "",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Slash",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": ""
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-42",
+      "itemType": "Pokemon Card",
+      "number": "42",
+      "name": "Persian",
+      "stage": "Stage 1",
+      "evolvesFrom": "Meowth",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
+      "level": "25",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": ""
+        },
+        {
+          "name": "Pounce",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon attacks Persian during your next turn, any damage done by the attack is reduced by 10 (after applying Weakness and Resistance). (Benching either Pokémon ends this effect.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-43",
+      "itemType": "Pokemon Card",
+      "number": "43",
+      "name": "Primeape",
+      "stage": "Stage 1",
+      "evolvesFrom": "Mankey",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "Always furious and tenacious to boot. It will not abandon chasing its quarry until its quarry is caught.",
+      "level": "45",
+      "attacks": [
+        {
+          "name": "Fury Swipes",
+          "damage": "20×",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "Flip 3 coins. This attack does 20 damage times the number of heads."
+        },
+        {
+          "name": "Tantrum",
+          "damage": "50",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, Primeape is now Confused (after doing damage)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-44",
+      "itemType": "Pokemon Card",
+      "number": "44",
+      "name": "Rapidash",
+      "stage": "Stage 1",
+      "evolvesFrom": "Ponyta",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "text": "Very competitive, this Pokémon will chase anything that moves fast in the hopes of racing it.",
+      "level": "33",
+      "attacks": [
+        {
+          "name": "Stomp",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage; if tails, this attack does 20 damage."
+        },
+        {
+          "name": "Agility",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Rapidash."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-45",
+      "itemType": "Pokemon Card",
+      "number": "45",
+      "name": "Rhydon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Rhyhorn",
+      "hp": "100",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "Protected by an armor-like hide, it is capable of living in molten lava of 3600 degrees.",
+      "level": "48",
+      "attacks": [
+        {
+          "name": "Horn Attack",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": ""
+        },
+        {
+          "name": "Ram",
+          "damage": "50",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "Rhydon does 20 damage to itself. If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon. Switch the Pokémon even if Rhydon is knocked out.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-46",
+      "itemType": "Pokemon Card",
+      "number": "46",
+      "name": "Seaking",
+      "stage": "Stage 1",
+      "evolvesFrom": "Goldeen",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks.",
+      "level": "28",
+      "attacks": [
+        {
+          "name": "Horn Attack",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ],
+          "text": ""
+        },
+        {
+          "name": "Waterfall",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": ""
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-47",
+      "itemType": "Pokemon Card",
+      "number": "47",
+      "name": "Tauros",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "When it targets an enemy, it charges furiously while whipping its body with its long tails.",
+      "level": "24",
+      "attacks": [
+        {
+          "name": "Stomp",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage; if tails, this attack does 20 damage."
+        },
+        {
+          "name": "Rampage",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 20 damage plus 10 more damage for each damage counter on Tauros. Flip a coin. If tails, Tauros is now Confused (after doing damage)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-48",
+      "itemType": "Pokemon Card",
+      "number": "48",
+      "name": "Weepinbell",
+      "stage": "Stage 1",
+      "evolvesFrom": "Bellsprout",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "It spits out poisonpowder to immobilize the enemy, and then finishes the enemy with a spray of acid.",
+      "level": "28",
+      "attacks": [
+        {
+          "name": "Poisonpowder",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        },
+        {
+          "name": "Razor Leaf",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": ""
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-49",
+      "itemType": "Pokemon Card",
+      "number": "49",
+      "name": "Bellsprout",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "A carnivorous Pokémon that traps and eats bugs. It uses its root feet to soak up needed moisture.",
+      "level": "11",
+      "attacks": [
+        {
+          "name": "Vine Whip",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ],
+          "text": ""
+        },
+        {
+          "name": "Call for Family",
+          "damage": "",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Search your deck for a Basic Pokémon named Bellsprout and put it onto your Bench. Shuffle your deck afterward. (You can't use this attack if your Bench is full.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-50",
+      "itemType": "Pokemon Card",
+      "number": "50",
+      "name": "Cubone",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "Because it never removes its skull helmet, no one has ever seen this Pokémon's real face.",
+      "level": "13",
+      "attacks": [
+        {
+          "name": "Snivel",
+          "damage": "",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon attacks Cubone during your opponent's next turn, any damage done by the attack is reduced by 20 (after applying Weakness and Resistance). (Benching either Pokémon ends this effect.)"
+        },
+        {
+          "name": "Rage",
+          "damage": "10+",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "Does 10 damage plus 10 more damage for each damage counter on Cubone."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-51",
+      "itemType": "Pokemon Card",
+      "number": "51",
+      "name": "Eevee",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "Its genetic code is irregular. It may mutate if it is exposed to radiation from elemental stones.",
+      "level": "12",
+      "attacks": [
+        {
+          "name": "Tail Wag",
+          "damage": "",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon can't attack Eevee during your opponent's next turn. (Benching either Pokémon ends this effect.)"
+        },
+        {
+          "name": "Quick Attack",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-52",
+      "itemType": "Pokemon Card",
+      "number": "52",
+      "name": "Exeggcute",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.",
+      "level": "14",
+      "attacks": [
+        {
+          "name": "Hypnosis",
+          "damage": "",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Leech Seed",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": "Unless all damage from this attack is prevented, you may remove 1 damage counter from Exeggcute."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-53",
+      "itemType": "Pokemon Card",
+      "number": "53",
+      "name": "Goldeen",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "Its tail fin billows like an elegant ballroom dress, giving it the nickname \"Water Queen.\"",
+      "level": "12",
+      "attacks": [
+        {
+          "name": "Horn Attack",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ],
+          "text": ""
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-54",
+      "itemType": "Pokemon Card",
+      "number": "54",
+      "name": "Jigglypuff",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
+      "level": "14",
+      "attacks": [
+        {
+          "name": "Lullaby",
+          "damage": "",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Pound",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": ""
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-55",
+      "itemType": "Pokemon Card",
+      "number": "55",
+      "name": "Mankey",
+      "stage": "Basic",
+      "hp": "30",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Peek",
+          "text": "Once during your turn (before your attack), you may look at one of the following: the top card of either player's deck, a random card from your opponent's hand, or one of either player's Prizes. This power can't be used if Mankey is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "Extremely quick to anger. It could be docile one moment, then thrashing away the next.",
+      "level": "7",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": ""
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-56",
+      "itemType": "Pokemon Card",
+      "number": "56",
+      "name": "Meowth",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change.",
+      "level": "15",
+      "attacks": [
+        {
+          "name": "Pay Day",
+          "damage": "10",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, draw a card."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-57",
+      "itemType": "Pokemon Card",
+      "number": "57",
+      "name": "Nidoran ♀",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "Although small, its venomous barbs make this Pokémon dangerous. The female has smaller horns.",
+      "level": "13",
+      "attacks": [
+        {
+          "name": "Fury Swipes",
+          "damage": "10×",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "name": "Call for Family",
+          "damage": "",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": "Search your deck for a Basic Pokémon named Nidoran ♂ or Nidoran ♀ and put it onto your Bench. Shuffle your deck afterward. (You can't use this attack if your Bench is full.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-58",
+      "itemType": "Pokemon Card",
+      "number": "58",
+      "name": "Oddish",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Keiji Kinebuchi",
+      "text": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.",
+      "level": "8",
+      "attacks": [
+        {
+          "name": "Stun Spore",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Sprout",
+          "damage": "",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": "Search your deck for a Basic Pokémon named Oddish and put it onto your Bench. Shuffle your deck afterward. (You can't use this attack if your Bench is full.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-59",
+      "itemType": "Pokemon Card",
+      "number": "59",
+      "name": "Paras",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "Burrows to suck tree roots. The mushrooms on its back grow by drawing nutrients from the bug host.",
+      "level": "8",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": ""
+        },
+        {
+          "name": "Spore",
+          "damage": "",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-60",
+      "itemType": "Pokemon Card",
+      "number": "60",
+      "name": "Pikachu",
+      "stage": "Basic",
+      "evolvesFrom": "Pichu",
+      "hp": "50",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "When several of these Pokémon gather, their electricity can build and cause lightning storms.",
+      "level": "14",
+      "attacks": [
+        {
+          "name": "Spark",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "text": "If your opponent has any Benched Pokémon, choose 1 of them and this attack does 10 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-61",
+      "itemType": "Pokemon Card",
+      "number": "61",
+      "name": "Rhyhorn",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "Its massive bones are 1,000 times harder than human bones. It can easily knock a trailer flying.",
+      "level": "18",
+      "attacks": [
+        {
+          "name": "Leer",
+          "damage": "",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon can't attack Rhyhorn during your opponent's next turn. (Benching either Pokémon ends this effect.)"
+        },
+        {
+          "name": "Horn Attack",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": ""
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-62",
+      "itemType": "Pokemon Card",
+      "number": "62",
+      "name": "Spearow",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "Eats bugs in grassy areas. It has to flap its short wings at high speeds to stay airborne.",
+      "level": "13",
+      "attacks": [
+        {
+          "name": "Peck",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": ""
+        },
+        {
+          "name": "Mirror Move",
+          "damage": "",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If Spearow was attacked last turn, do the final result of that attack on Spearow to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-63",
+      "itemType": "Pokemon Card",
+      "number": "63",
+      "name": "Venonat",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "Lives in the shadows of tall trees where it eats insects. It is attracted by light at night.",
+      "level": "12",
+      "attacks": [
+        {
+          "name": "Stun Spore",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Leech Life",
+          "damage": "10",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Remove a number of damage counters from Venonat equal to the damage done to the Defending Pokémon (after applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-jungle-64",
+      "itemType": "Trainer Card",
+      "number": "64",
+      "name": "Poké Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "artist": "Keiji Kinebuchi",
+      "text": "Flip a coin. If heads, you may search your deck for any Basic Pokémon or Evolution card. Show that card to your opponent, then put it into your hand. Shuffle your deck afterward."
+    }
   ]
 }
