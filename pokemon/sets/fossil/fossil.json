@@ -1,0 +1,3098 @@
+{
+  "setId": "tcg-pokemon-fossil",
+  "cardCount": "62",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-fossil-booster-box",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Sealed Product",
+      "name": "Fossil Booster Box"
+    },
+    {
+      "id": "tcg-pokemon-fossil-booster-pack",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [
+          "Aerodactyl",
+          "Lapras",
+          "Zapdos"
+        ],
+        "errors": []
+      },
+      "itemType": "Sealed Product",
+      "name": "Fossil Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-fossil-1",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Aerodactyl",
+      "stage": "Stage 1",
+      "evolvesFrom": "Mysterious Fossil",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Prehistoric Power",
+          "text": "No more Evolution cards can be played. This power stops working while Aerodactyl is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "A ferocious prehistoric Pokémon that goes for the enemy's throat with its serrated saw-like fangs.",
+      "level": "28",
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": ""
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-2",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Articuno",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "text": "A legendary bird Pokémon that is said to appear to doomed people who are lost in icy mountains.",
+      "level": "35",
+      "attacks": [
+        {
+          "name": "Freeze Dry",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Blizzard",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pokémon. If tails, this attack does 10 damage to each of your own Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-3",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Ditto",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Keiji Kinebuchi",
+      "abilities": [
+        {
+          "name": "Transform",
+          "text": "If Ditto is your Active Pokémon, treat it as if it were the same card as the Defending Pokémon, including type, Hit Points, Weakness, and so on, except Ditto can't evolve, always has this Pokémon Power, and you may treat any Energy attached to Ditto as Energy of any type. Ditto isn't a copy of any other Pokémon while Ditto is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "Capable of copying an enemy's genetic code to instantly transform itself into a duplicate of the enemy.",
+      "level": "20",
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-4",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Dragonite",
+      "stage": "Stage 2",
+      "evolvesFrom": "Dragonair",
+      "hp": "100",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Step In",
+          "text": "Once during your turn (before your attack), if Dragonite is on your Bench, you may switch it with your Active Pokémon.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "An extremely rarely seen marine Pokémon. Its intelligence is said to match that of humans.",
+      "level": "45",
+      "attacks": [
+        {
+          "name": "Slam",
+          "damage": "40×",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 40 damage times the number of heads."
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-5",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Gengar",
+      "stage": "Stage 2",
+      "evolvesFrom": "Haunter",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Keiji Kinebuchi",
+      "abilities": [
+        {
+          "name": "Curse",
+          "text": "Once during your turn (before your attack), you may move 1 damage counter from 1 of your opponent's Pokémon to another (even if it would Knock Out the other Pokémon). This power can't be used if Gengar is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "Under a full moon, this Pokémon likes to mimic the shadows of people and laugh at their fright.",
+      "level": "38",
+      "attacks": [
+        {
+          "name": "Dark Mind",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "If your opponent has any Benched Pokémon, choose 1 of them and this attack does 10 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-6",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Haunter",
+      "stage": "Stage 1",
+      "evolvesFrom": "Gastly",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Transparency",
+          "text": "Whenever an attack does anything to Haunter, flip a coin. If heads, prevent all effects of that attack, including damage, done to Haunter. This power stops working while Haunter is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "Because of its ability to slip through block walls, it is said to be from another dimension.",
+      "level": "17",
+      "attacks": [
+        {
+          "name": "Nightmare",
+          "damage": "10",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-7",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Hitmonlee",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Sugimori",
+      "text": "When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides.",
+      "level": "30",
+      "attacks": [
+        {
+          "name": "Stretch Kick",
+          "damage": "",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "If your opponent has any Benched Pokémon, choose 1 of them and this attack does 20 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "High Jump Kick",
+          "damage": "50",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "text": ""
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-8",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "Hypno",
+      "stage": "Stage 1",
+      "evolvesFrom": "Drowzee",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Sugimori",
+      "text": "When it locks eyes with an enemy, it will use a mix of psi moves such as Hypnosis and Confusion.",
+      "level": "36",
+      "attacks": [
+        {
+          "name": "Prophecy",
+          "damage": "",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Look at up to 3 cards from the top of either player's deck and rearrange them as you like."
+        },
+        {
+          "name": "Dark Mind",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "If your opponent has any Benched Pokémon, choose 1 of them and this attack does 10 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-9",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Kabutops",
+      "stage": "Stage 2",
+      "evolvesFrom": "Kabuto",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Sugimori",
+      "text": "Its sleek shape is perfect for swimming. It slashes prey with its claws and drains the body fluids.",
+      "level": "30",
+      "attacks": [
+        {
+          "name": "Sharp Sickle",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": ""
+        },
+        {
+          "name": "Absorb",
+          "damage": "40",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "Remove a number of damage counters from Kabutops equal to half the damage done to the Defending Pokémon (after applying Weakness and Resistance) (rounded up to the nearest 10). If Kabutops has fewer damage counters than that, remove all of them."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-10",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Lapras",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Sugimori",
+      "text": "A Pokémon that has been overhunted almost to extinction. It can ferry people across water.",
+      "level": "12",
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "damage": "10+",
+          "cost": [
+            "Water"
+          ],
+          "text": "Does 10 damage plus 10 more damage for each Water Energy attached to Lapras but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+        },
+        {
+          "name": "Confuse Ray",
+          "damage": "10",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-11",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Magneton",
+      "stage": "Stage 1",
+      "evolvesFrom": "Magnemite",
+      "hp": "80",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Sugimori",
+      "text": "Formed by several Magnemites linked together. They frequently appear when sunspots flare up.",
+      "level": "35",
+      "attacks": [
+        {
+          "name": "Sonicboom",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Don't apply Weakness and Resistance for this attack. (Any other effects that would happen after applying Weakness and Resistance still happen.)"
+        },
+        {
+          "name": "Selfdestruct",
+          "damage": "100",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "text": "Does 20 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Magneton does 100 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-12",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Moltres",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "text": "Known as the legendary bird of fire. Every flap of its wings creates a dazzling flash of flames.",
+      "level": "35",
+      "attacks": [
+        {
+          "name": "Wildfire",
+          "damage": "",
+          "cost": [
+            "Fire"
+          ],
+          "text": "You may discard any number of Fire Energy cards attached to Moltres when you use this attack. If you do, discard that many cards from the top of your opponent's deck."
+        },
+        {
+          "name": "Dive Bomb",
+          "damage": "80",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-13",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Muk",
+      "stage": "Stage 1",
+      "evolvesFrom": "Grimer",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Toxic Gas",
+          "text": "Ignore all Pokémon Powers other than Toxic Gases. This power stops working while Muk is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",
+      "level": "34",
+      "attacks": [
+        {
+          "name": "Sludge",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-14",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Raichu",
+      "stage": "Stage 1",
+      "evolvesFrom": "Pikachu",
+      "hp": "90",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "text": "Its long tail serves as a ground to protect itself from its own high-voltage power.",
+      "level": "45",
+      "attacks": [
+        {
+          "name": "Gigashock",
+          "damage": "30",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "text": "Choose 3 of your opponent's Benched Pokémon and this attack does 10 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.) If your opponent has fewer than 3 Benched Pokémon, do the damage to each of them."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-15",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Zapdos",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "text": "A legendary thunderbird Pokémon whose anger is said to cause storms. Some say it has lived above the clouds for thousands of years.",
+      "level": "40",
+      "attacks": [
+        {
+          "name": "Thunderstorm",
+          "damage": "40",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "text": "For each of your opponent's Benched Pokémon, flip a coin. If heads, this attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Then, Zapdos does 10 damage times the number of tails to itself."
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-16",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Aerodactyl",
+      "stage": "Stage 1",
+      "evolvesFrom": "Mysterious Fossil",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Prehistoric Power",
+          "text": "No more Evolution cards can be played. This power stops working while Aerodactyl is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "A ferocious prehistoric Pokémon that goes for the enemy's throat with its serrated saw-like fangs.",
+      "level": "28",
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": ""
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-17",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Articuno",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "text": "A legendary bird Pokémon that is said to appear to doomed people who are lost in icy mountains.",
+      "level": "35",
+      "attacks": [
+        {
+          "name": "Freeze Dry",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Blizzard",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pokémon. If tails, this attack does 10 damage to each of your own Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-18",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "18",
+      "name": "Ditto",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Keiji Kinebuchi",
+      "abilities": [
+        {
+          "name": "Transform",
+          "text": "If Ditto is your Active Pokémon, treat it as if it were the same card as the Defending Pokémon, including type, Hit Points, Weakness, and so on, except Ditto can't evolve, always has this Pokémon Power, and you may treat any Energy attached to Ditto as Energy of any type. Ditto isn't a copy of any other Pokémon while Ditto is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "Capable of copying an enemy's genetic code to instantly transform itself into a duplicate of the enemy.",
+      "level": "20",
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-19",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "19",
+      "name": "Dragonite",
+      "stage": "Stage 2",
+      "evolvesFrom": "Dragonair",
+      "hp": "100",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Step In",
+          "text": "Once during your turn (before your attack), if Dragonite is on your Bench, you may switch it with your Active Pokémon.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "An extremely rarely seen marine Pokémon. Its intelligence is said to match that of humans.",
+      "level": "45",
+      "attacks": [
+        {
+          "name": "Slam",
+          "damage": "40×",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 40 damage times the number of heads."
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-20",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "20",
+      "name": "Gengar",
+      "stage": "Stage 2",
+      "evolvesFrom": "Haunter",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Keiji Kinebuchi",
+      "abilities": [
+        {
+          "name": "Curse",
+          "text": "Once during your turn (before your attack), you may move 1 damage counter from 1 of your opponent's Pokémon to another (even if it would Knock Out the other Pokémon). This power can't be used if Gengar is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "Under a full moon, this Pokémon likes to mimic the shadows of people and laugh at their fright.",
+      "level": "38",
+      "attacks": [
+        {
+          "name": "Dark Mind",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "If your opponent has any Benched Pokémon, choose 1 of them and this attack does 10 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-21",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "21",
+      "name": "Haunter",
+      "stage": "Stage 1",
+      "evolvesFrom": "Gastly",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Transparency",
+          "text": "Whenever an attack does anything to Haunter, flip a coin. If heads, prevent all effects of that attack, including damage, done to Haunter. This power stops working while Haunter is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "Because of its ability to slip through block walls, it is said to be from another dimension.",
+      "level": "17",
+      "attacks": [
+        {
+          "name": "Nightmare",
+          "damage": "10",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-22",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "22",
+      "name": "Hitmonlee",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "text": "When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides.",
+      "level": "30",
+      "attacks": [
+        {
+          "name": "Stretch Kick",
+          "damage": "",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "If your opponent has any Benched Pokémon, choose 1 of them and this attack does 20 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "High Jump Kick",
+          "damage": "50",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "text": ""
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-23",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "23",
+      "name": "Hypno",
+      "stage": "Stage 1",
+      "evolvesFrom": "Drowzee",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "text": "When it locks eyes with an enemy, it will use a mix of psi moves such as Hypnosis and Confusion.",
+      "level": "36",
+      "attacks": [
+        {
+          "name": "Prophecy",
+          "damage": "",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Look at up to 3 cards from the top of either player's deck and rearrange them as you like."
+        },
+        {
+          "name": "Dark Mind",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "If your opponent has any Benched Pokémon, choose 1 of them and this attack does 10 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-24",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "24",
+      "name": "Kabutops",
+      "stage": "Stage 2",
+      "evolvesFrom": "Kabuto",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "text": "Its sleek shape is perfect for swimming. It slashes prey with its claws and drains the body fluids. ",
+      "level": "30",
+      "attacks": [
+        {
+          "name": "Sharp Sickle",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": ""
+        },
+        {
+          "name": "Absorb",
+          "damage": "40",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "Remove a number of damage counters from Kabutops equal to half the damage done to the Defending Pokémon (after applying Weakness and Resistance) (rounded up to the nearest 10). If Kabutops has fewer damage counters than that, remove all of them."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-25",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "25",
+      "name": "Lapras",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "text": "A Pokémon that has been overhunted almost to extinction. It can ferry people across water.",
+      "level": "31",
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "damage": "10+",
+          "cost": [
+            "Water"
+          ],
+          "text": "Does 10 damage plus 10 more damage for each Water Energy attached to Lapras but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+        },
+        {
+          "name": "Confuse Ray",
+          "damage": "10",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-26",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "26",
+      "name": "Magneton",
+      "stage": "Stage 1",
+      "evolvesFrom": "Magnemite",
+      "hp": "80",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "text": "Formed by several Magnemites linked together. They frequently appear when sunspots flare up.",
+      "level": "35",
+      "attacks": [
+        {
+          "name": "Sonicboom",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Don't apply Weakness and Resistance for this attack. (Any other effects that would happen after applying Weakness and Resistance still happen.)"
+        },
+        {
+          "name": "Selfdestruct",
+          "damage": "100",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "text": "Does 20 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Magneton does 100 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-27",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "27",
+      "name": "Moltres",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "text": "Known as the legendary bird of fire. Every flap of its wings creates a dazzling flash of flames.",
+      "level": "35",
+      "attacks": [
+        {
+          "name": "Wildfire",
+          "damage": "",
+          "cost": [
+            "Fire"
+          ],
+          "text": "You may discard any number of Fire Energy cards attached to Moltres when you use this attack. If you do, discard that many cards from the top of your opponent's deck."
+        },
+        {
+          "name": "Dive Bomb",
+          "damage": "80",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-28",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "28",
+      "name": "Muk",
+      "stage": "Stage 1",
+      "evolvesFrom": "Grimer",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Toxic Gas",
+          "text": "Ignore all Pokémon Powers other than Toxic Gases. This power stops working while Muk is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",
+      "level": "34",
+      "attacks": [
+        {
+          "name": "Sludge",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-29",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "29",
+      "name": "Raichu",
+      "stage": "Stage 1",
+      "evolvesFrom": "Pikachu",
+      "hp": "90",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "text": "Its long tail serves as a ground to protect itself from its own high voltage power.",
+      "level": "45",
+      "attacks": [
+        {
+          "name": "Gigashock",
+          "damage": "30",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "text": "Choose 3 of your opponent's Benched Pokémon and this attack does 10 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.) If your opponent has fewer than 3 Benched Pokémon, do that damage to each of them."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-30",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "30",
+      "name": "Zapdos",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "text": "A legendary thunderbird Pokémon whose anger is said to cause storms. Some say it has lived above the clouds for thousands of years.",
+      "level": "40",
+      "attacks": [
+        {
+          "name": "Thunderstorm",
+          "damage": "40",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "text": "For each of your opponent's Benched Pokémon, flip a coin. If heads, this attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Then, Zapdos does 10 damage times the number of tails to itself."
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-31",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "31",
+      "name": "Arbok",
+      "stage": "Stage 1",
+      "evolvesFrom": "Ekans",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "It is rumored that the ferocious warning markings on its belly differ from area to area.",
+      "level": "27",
+      "attacks": [
+        {
+          "name": "Terror Strike",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads and if your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)"
+        },
+        {
+          "name": "Poison Fang",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-32",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "32",
+      "name": "Cloyster",
+      "stage": "Stage 1",
+      "evolvesFrom": "Shellder",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "When attacked, it launches its horns in quick volleys. Its innards have never been seen.",
+      "level": "25",
+      "attacks": [
+        {
+          "name": "Clamp",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, this attack does nothing (not even damage)."
+        },
+        {
+          "name": "Spike Cannon",
+          "damage": "30×",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-33",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "33",
+      "name": "Gastly",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "text": "A mysterious Pokémon. Some say it is a lifeform from another dimension, while other believe it is formed from smog.",
+      "level": "17",
+      "attacks": [
+        {
+          "name": "Lick",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Energy Conversion",
+          "damage": "",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Put up to 2 Energy cards from your discard pile into your hand. Gastly does 10 damage to itself."
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-34",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "34",
+      "name": "Golbat",
+      "stage": "Stage 1",
+      "evolvesFrom": "Zubat",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",
+      "level": "29",
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": ""
+        },
+        {
+          "name": "Leech Life",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Remove a number of damage counters from Golbat equal to the damage done to the Defending Pokémon (after applying Weakness and Resistance). If Golbat has fewer damage counters than that, remove all of them."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-35",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "35",
+      "name": "Golduck",
+      "stage": "Stage 1",
+      "evolvesFrom": "Psyduck",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "Often seen swimming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
+      "level": "27",
+      "attacks": [
+        {
+          "name": "Psyshock",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Hyper Beam",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-36",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "36",
+      "name": "Golem",
+      "stage": "Stage 2",
+      "evolvesFrom": "Graveler",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage.",
+      "level": "36",
+      "attacks": [
+        {
+          "name": "Avalanche",
+          "damage": "60",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": ""
+        },
+        {
+          "name": "Selfdestruct",
+          "damage": "100",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "Does 20 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Golem does 100 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-37",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "37",
+      "name": "Graveler",
+      "stage": "Stage 1",
+      "evolvesFrom": "Geodude",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.",
+      "level": "29",
+      "attacks": [
+        {
+          "name": "Harden",
+          "damage": "",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "During your opponent's next turn, whenever 30 or less damage is done to Graveler (after applying Weakness and Resistance), prevent that damage. (Any other effects of attacks still happen.)"
+        },
+        {
+          "name": "Rock Throw",
+          "damage": "40",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": ""
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-38",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "38",
+      "name": "Kingler",
+      "stage": "Stage 1",
+      "evolvesFrom": "Krabby",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "The large pincer has 10,000 horsepower of crushing power. However, its huge size makes it unwieldy to use.",
+      "level": "27",
+      "attacks": [
+        {
+          "name": "Flail",
+          "damage": "10×",
+          "cost": [
+            "Water"
+          ],
+          "text": "Does 10 damage times the number of damage counters on Kingler."
+        },
+        {
+          "name": "Crabhammer",
+          "damage": "40",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": ""
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-39",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "39",
+      "name": "Magmar",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "text": "Found at the mouths of volcanoes and extremely hard to spot. There are very few instances of capturing this Pokémon.",
+      "level": "31",
+      "attacks": [
+        {
+          "name": "Smokescreen",
+          "damage": "10",
+          "cost": [
+            "Fire"
+          ],
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        },
+        {
+          "name": "Smog",
+          "damage": "20",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-40",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "40",
+      "name": "Omastar",
+      "stage": "Stage 2",
+      "evolvesFrom": "Omanyte",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "A prehistoric Pokémon that died out when its heavy shell made it impossible for it to catch prey.",
+      "level": "32",
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "damage": "20+",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Does 20 damage plus 10 more damage for each Water Energy attached to Omastar but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+        },
+        {
+          "name": "Spike Cannon",
+          "damage": "30×",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-41",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "41",
+      "name": "Sandslash",
+      "stage": "Stage 1",
+      "evolvesFrom": "Sandshrew",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
+      "level": "33",
+      "attacks": [
+        {
+          "name": "Slash",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": ""
+        },
+        {
+          "name": "Fury Swipes",
+          "damage": "20×",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "Flip 3 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-42",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "42",
+      "name": "Seadra",
+      "stage": "Stage 1",
+      "evolvesFrom": "Horsea",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "Capable of swimming backward by rapidly flapping its wing-like pectoral fins and stout tail.",
+      "level": "23",
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "damage": "20+",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Does 20 damage plus 10 more damage for each Water Energy attached to Seadra but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+        },
+        {
+          "name": "Agility",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Seadra."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-43",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "43",
+      "name": "Slowbro",
+      "stage": "Stage 1",
+      "evolvesFrom": "Slowpoke",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Strange Behavior",
+          "text": "As often as you like during your turn (before your attack), you may move 1 damage counter from 1 of your Pokémon to Slowbro as long as you don't Knock Out Slowbro. This power can't be used if Slowbro is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "The Shellder that is latched onto Slowpoke's tail is said to feed on the host's left-over scraps.",
+      "level": "26",
+      "attacks": [
+        {
+          "name": "Psyshock",
+          "damage": "20",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-44",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "44",
+      "name": "Tentacruel",
+      "stage": "Stage 1",
+      "evolvesFrom": "Tentacool",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.",
+      "level": "21",
+      "attacks": [
+        {
+          "name": "Supersonic",
+          "damage": "",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Jellyfish Sting",
+          "damage": "10",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "The Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-45",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "45",
+      "name": "Weezing",
+      "stage": "Stage 1",
+      "evolvesFrom": "Koffing",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "text": "Where two kinds of poison gases meet, two Koffings can fuse into a Weezing over many years.",
+      "level": "27",
+      "attacks": [
+        {
+          "name": "Smog",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        },
+        {
+          "name": "Selfdestruct",
+          "damage": "60",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Does 10 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Weezing does 60 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-46",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "46",
+      "name": "Ekans",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "Moves silently and stealthily. Eats the eggs of birds such as Pidgey and Spearow whole.",
+      "level": "10",
+      "attacks": [
+        {
+          "name": "Spit Poison",
+          "damage": "",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        },
+        {
+          "name": "Wrap",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-47",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "47",
+      "name": "Geodude",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
+      "level": "16",
+      "attacks": [
+        {
+          "name": "Stone Barrage",
+          "damage": "10×",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-48",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "48",
+      "name": "Grimer",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "Appears in filthy areas. Thrives by sucking up polluted sludge that is pumped out of factories.",
+      "level": "17",
+      "attacks": [
+        {
+          "name": "Nasty Goo",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Minimize",
+          "damage": "",
+          "cost": [
+            "Grass"
+          ],
+          "text": "All damage done by attacks to Grimer during your opponent's next turn is reduced by 20 (after applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-49",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "49",
+      "name": "Horsea",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
+      "level": "19",
+      "attacks": [
+        {
+          "name": "Smokescreen",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ],
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-50",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "50",
+      "name": "Kabuto",
+      "stage": "Stage 1",
+      "evolvesFrom": "Mysterious Fossil",
+      "hp": "30",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Kabuto Armor",
+          "text": "Whenever an attack (even your own) does damage to Kabuto (after applying Weakness and Resistance), that attack does half the damage to Kabuto (rounded down to the nearest 10). (Any other effects of attacks still happen.) This power stops working while Kabuto is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "A Pokémon that was resurrected from a fossil found in what was once the ocean floor eons ago.",
+      "level": "9",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": ""
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-51",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "51",
+      "name": "Krabby",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "Its pincers are not only powerful weapons, they are used for balance when walking sideways.",
+      "level": "20",
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "damage": "",
+          "cost": [
+            "Water"
+          ],
+          "text": "Search your deck for a Basic Pokémon named Krabby and put it onto your Bench. Shuffle your deck afterward. (You can't use this attack if your Bench if full.)"
+        },
+        {
+          "name": "Irongrip",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": ""
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-52",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "52",
+      "name": "Omanyte",
+      "stage": "Stage 1",
+      "evolvesFrom": "Mysterious Fossil",
+      "hp": "40",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Clairvoyance",
+          "text": "Your opponent plays with his or her hand face up. This power stops working while Omanyte is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "Although long extinct, in rare cases, it can be genetically resurrected from fossils.",
+      "level": "19",
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "damage": "10+",
+          "cost": [
+            "Water"
+          ],
+          "text": "Does 10 damage plus 10 more damage for each Water Energy attached to Omanyte but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-53",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "53",
+      "name": "Psyduck",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "While lulling its enemies with its vacant look, this wily Pokémon will use psychokinetic powers.",
+      "level": "15",
+      "attacks": [
+        {
+          "name": "Headache",
+          "damage": "",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Your opponent can't play Trainer cards during his or her next turn."
+        },
+        {
+          "name": "Fury Swipes",
+          "damage": "10×",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-54",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "54",
+      "name": "Shellder",
+      "stage": "Basic",
+      "hp": "30",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
+      "level": "8",
+      "attacks": [
+        {
+          "name": "Supersonic",
+          "damage": "",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Hide in Shell",
+          "damage": "",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, prevent all damage done to Shellder during your opponent's next turn. (Any other effects of attacks still happen.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-55",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "55",
+      "name": "Slowpoke",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Miki Tanaka",
+      "text": "Incredibly slow and dopey. It takes 5 seconds for it to feel pain when under attack.",
+      "level": "18",
+      "attacks": [
+        {
+          "name": "Spacing Out",
+          "damage": "",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, remove a damage counter from Slowpoke. This attack can't be used if Slowpoke has no damage counters on it."
+        },
+        {
+          "name": "Scavenge",
+          "damage": "",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Discard 1 Psychic Energy card attached to Slowpoke in order to use this attack. Put a Trainer card from your discard pile into your hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-56",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "56",
+      "name": "Tentacool",
+      "stage": "Basic",
+      "hp": "30",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Cowardice",
+          "text": "At any time during your turn (before your attack), you may return Tentacool to your hand. (Discard all cards attached to Tentacool.) This power can't be used the turn you put Tentacool into play or if Tentacool is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.",
+      "level": "10",
+      "attacks": [
+        {
+          "name": "Acid",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ],
+          "text": ""
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-57",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Pokemon Card",
+      "number": "57",
+      "name": "Zubat",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets.",
+      "level": "10",
+      "attacks": [
+        {
+          "name": "Supersonic",
+          "damage": "",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Leech Life",
+          "damage": "10",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Remove a number of damage counters from Zubat equal to the damage done to the Defending Pokémon (after applying Weakness and Resistance). If Zubat has fewer damage counters than that, remove all of them."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fossil-58",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Trainer Card",
+      "number": "58",
+      "name": "Mr. Fuji",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "Choose a Pokémon on your Bench. Shuffle it and any cards attached to it into your deck."
+    },
+    {
+      "id": "tcg-pokemon-fossil-59",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Trainer Card",
+      "number": "59",
+      "name": "Energy Search",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "artist": "Keiji Kinebuchi",
+      "text": "Search your deck for a basic Energy card and put it into your hand. Shuffle your deck afterward."
+    },
+    {
+      "id": "tcg-pokemon-fossil-60",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Trainer Card",
+      "number": "60",
+      "name": "Gambler",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "artist": "Keiji Kinebuchi",
+      "text": "Shuffle your hand into your deck. Flip a coin. If heads, draw 8 cards. If tails, draw 1 card."
+    },
+    {
+      "id": "tcg-pokemon-fossil-61",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Trainer Card",
+      "number": "61",
+      "name": "Recycle",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "artist": "Keiji Kinebuchi",
+      "text": "Flip a coin. If heads, put a card in your discard pile on top of your deck."
+    },
+    {
+      "id": "tcg-pokemon-fossil-62",
+      "variantTypes": {
+        "editions": [
+          "1st Edition",
+          "Unlimited"
+        ],
+        "art": [],
+        "errors": []
+      },
+      "itemType": "Trainer Card",
+      "number": "62",
+      "name": "Mysterious Fossil",
+      "hp": "10",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "artist": "Keiji Kinebuchi",
+      "text": "Play Mysterious Fossil as if it were a Basic Pokémon. While in play, Mysterious Fossil counts as a Pokémon (instead of a Trainer card). Mysterious Fossil has no attacks, can't retreat, and can't be Asleep, Confused, Paralyzed, or Poisoned. If Mysterious Fossil is Knocked Out, it doesn't count as a Knocked Out Pokémon. (Discard it anyway.) At any time during your turn before your attack, you may discard Mysterious Fossil from play."
+    }
+  ]
+}
