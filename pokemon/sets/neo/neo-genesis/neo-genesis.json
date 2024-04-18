@@ -1,0 +1,4838 @@
+{
+    "setId": "tcg-pokemon-neo-genesis",
+    "cardCount": "111",
+    "sealedProducts": [
+        {
+            "id": "tcg-pokemon-neo-genesis-booster-box",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Sealed Product",
+            "name": "Neo-genesis Booster Box"
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-booster-pack",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Sealed Product",
+            "name": "Neo-genesis Booster Pack"
+        }
+    ],
+    "cards": [
+        {
+            "id": "tcg-pokemon-neo-genesis-1",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "1",
+            "name": "Ampharos",
+            "stage": "Stage 2",
+            "evolvesFrom": "Flaaffy",
+            "hp": "80",
+            "types": [
+                "Lightning"
+            ],
+            "rarity": "Rare Holo",
+            "artist": "Ken Sugimori",
+            "text": "The tail's tip shines brightly and can be seen from far away. It acts as a beacon for lost people.",
+            "level": "40",
+            "attacks": [
+                {
+                    "name": "Gigaspark",
+                    "damage": "40",
+                    "cost": [
+                        "Lightning",
+                        "Lightning",
+                        "Lightning"
+                    ],
+                    "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed and this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fighting",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless",
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-2",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "2",
+            "name": "Azumarill",
+            "stage": "Stage 1",
+            "evolvesFrom": "Marill",
+            "hp": "70",
+            "types": [
+                "Water"
+            ],
+            "rarity": "Rare Holo",
+            "artist": "Ken Sugimori",
+            "text": "By keeping still and listening intently, it can tell what is in even wild, fast-moving rivers.",
+            "level": "29",
+            "attacks": [
+                {
+                    "name": "Tackle",
+                    "damage": "20",
+                    "cost": [
+                        "Colorless",
+                        "Colorless"
+                    ],
+                    "text": ""
+                },
+                {
+                    "name": "Bubble Shower",
+                    "damage": "30",
+                    "cost": [
+                        "Water",
+                        "Water",
+                        "Water"
+                    ],
+                    "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed and this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Lightning",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-3",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "3",
+            "name": "Bellossom",
+            "stage": "Stage 2",
+            "evolvesFrom": "Gloom",
+            "hp": "70",
+            "types": [
+                "Grass"
+            ],
+            "rarity": "Rare Holo",
+            "artist": "Atsuko Nishida",
+            "text": "Plentiful in the tropics. When it dances, its petals rub together and make a pleasant ringing sound.",
+            "level": "36",
+            "attacks": [
+                {
+                    "name": "Sweet Nectar",
+                    "damage": "",
+                    "cost": [
+                        "Grass"
+                    ],
+                    "text": "Flip a coin. If heads, remove all damage counters from 1 of your Pokémon."
+                },
+                {
+                    "name": "Flower Dance",
+                    "damage": "30×",
+                    "cost": [
+                        "Grass",
+                        "Grass",
+                        "Colorless"
+                    ],
+                    "text": "Does 30 damage times the number of cards with Bellossom in their names that you have in play (including this one)."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless",
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-4",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "4",
+            "name": "Feraligatr",
+            "stage": "Stage 2",
+            "evolvesFrom": "Croconaw",
+            "hp": "100",
+            "types": [
+                "Water"
+            ],
+            "rarity": "Rare Holo",
+            "artist": "Ken Sugimori",
+            "abilities": [
+                {
+                    "name": "Berserk",
+                    "text": "When you play Feraligatr from your hand, flip a coin. If heads, discard the top 5 cards from your opponent's deck. If tails, discard the top 5 cards from your deck.",
+                    "type": "Pokémon Power"
+                }
+            ],
+            "text": "When it bites with its massive and powerful jaws, it shakes its head and savagely tears its victim up.",
+            "level": "56",
+            "attacks": [
+                {
+                    "name": "Chomp",
+                    "damage": "50+",
+                    "cost": [
+                        "Water",
+                        "Water",
+                        "Water",
+                        "Water"
+                    ],
+                    "text": "Flip a number of coins equal to the number of damage counters on Feraligatr. This attack does 50 damage plus 10 more damage for each heads."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Grass",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-5",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "5",
+            "name": "Feraligatr",
+            "stage": "Stage 2",
+            "evolvesFrom": "Croconaw",
+            "hp": "120",
+            "types": [
+                "Water"
+            ],
+            "rarity": "Rare Holo",
+            "artist": "Ken Sugimori",
+            "abilities": [
+                {
+                    "name": "Downpour",
+                    "text": "As often as you like during your turn (before your attack), you may discard a Water Energy card from your hand. This power can't be used if Feraligatr is Asleep, Confused, or Paralyzed.",
+                    "type": "Pokémon Power"
+                }
+            ],
+            "text": "It is hard for it to support its own weight out of water, so it gets down on all fours. But it moves fast.",
+            "level": "69",
+            "attacks": [
+                {
+                    "name": "Riptide",
+                    "damage": "10+",
+                    "cost": [
+                        "Water",
+                        "Water",
+                        "Water"
+                    ],
+                    "text": "Does 10 damage plus 10 damage times the number of Water Energy cards in your discard pile. Then, shuffle all Water Energy cards from your discard pile into your deck."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Grass",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-6",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "6",
+            "name": "Heracross",
+            "stage": "Basic",
+            "hp": "60",
+            "types": [
+                "Grass"
+            ],
+            "rarity": "Rare Holo",
+            "artist": "Ken Sugimori",
+            "abilities": [
+                {
+                    "name": "Final Blow",
+                    "text": "If Heracross's remaining HP are 20 or less, you may make its Megahorn attack's base damage 120 instead of 60. This power can't be used if Heracross is Asleep, Confused, or Paralyzed.",
+                    "type": "Pokémon Power"
+                }
+            ],
+            "text": "This powerful Pokémon thrusts its prized horn under its enemies' bellies, then lifts and throws them.",
+            "level": "28",
+            "attacks": [
+                {
+                    "name": "Megahorn",
+                    "damage": "60",
+                    "cost": [
+                        "Grass",
+                        "Grass",
+                        "Grass"
+                    ],
+                    "text": "Flip a coin. If tails, this attack does nothing."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless",
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-7",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "7",
+            "name": "Jumpluff",
+            "stage": "Stage 2",
+            "evolvesFrom": "Skiploom",
+            "hp": "70",
+            "types": [
+                "Grass"
+            ],
+            "rarity": "Rare Holo",
+            "artist": "Atsuko Nishida",
+            "text": "Once it catches the wind, it deftly controls its cotton-puff spores to float, even around the world.",
+            "level": "35",
+            "attacks": [
+                {
+                    "name": "Sleep Powder",
+                    "damage": "20",
+                    "cost": [
+                        "Grass"
+                    ],
+                    "text": "The Defending Pokémon is now Asleep."
+                },
+                {
+                    "name": "Leech Seed",
+                    "damage": "20",
+                    "cost": [
+                        "Grass"
+                    ],
+                    "text": "If this attack damages the Defending Pokémon (after applying Weakness and Resistance), remove 1 damage counter from Jumpluff, if it has any."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "value": "×2"
+                }
+            ],
+            "resistances": [
+                {
+                    "type": "Fighting",
+                    "value": "-30"
+                }
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-8",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "8",
+            "name": "Kingdra",
+            "stage": "Stage 2",
+            "evolvesFrom": "Seadra",
+            "hp": "90",
+            "types": [
+                "Water"
+            ],
+            "rarity": "Rare Holo",
+            "artist": "Ken Sugimori",
+            "text": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
+            "level": "50",
+            "attacks": [
+                {
+                    "name": "Agility",
+                    "damage": "30",
+                    "cost": [
+                        "Water",
+                        "Water",
+                        "Colorless"
+                    ],
+                    "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Kingdra."
+                },
+                {
+                    "name": "Dragon Tornado",
+                    "damage": "50",
+                    "cost": [
+                        "Water",
+                        "Water",
+                        "Water",
+                        "Water"
+                    ],
+                    "text": "If this attack doesn't Knock Out the Defending Pokémon, and if there are any Pokémon on your opponent's Bench, choose 1 of them and switch it with the Defending Pokémon."
+                }
+            ],
+            "retreatCost": [
+                "Colorless",
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-9",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "9",
+            "name": "Lugia",
+            "stage": "Basic",
+            "hp": "90",
+            "types": [
+                "Colorless"
+            ],
+            "rarity": "Rare Holo",
+            "artist": "Hironobu Yoshida",
+            "text": "It is said that it quietly spends its time deep at the bottom of the sea, because its powers are too strong.",
+            "level": "45",
+            "attacks": [
+                {
+                    "name": "Elemental Blast",
+                    "damage": "90",
+                    "cost": [
+                        "Fire",
+                        "Water",
+                        "Lightning"
+                    ],
+                    "text": "Discard a Fire Energy card, a Water Energy card, and a Lightning Energy card attached to Lugia in order to use this attack."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Psychic",
+                    "value": "×2"
+                }
+            ],
+            "resistances": [
+                {
+                    "type": "Fighting",
+                    "value": "-30"
+                }
+            ],
+            "retreatCost": [
+                "Colorless",
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-10",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "10",
+            "name": "Meganium",
+            "stage": "Stage 2",
+            "evolvesFrom": "Bayleef",
+            "hp": "100",
+            "types": [
+                "Grass"
+            ],
+            "rarity": "Rare Holo",
+            "artist": "Ken Sugimori",
+            "abilities": [
+                {
+                    "name": "Herbal Scent",
+                    "text": "When you play Meganium from your hand, you may flip a coin. If heads, remove all damage counters from all Grass Pokémon in play.",
+                    "type": "Pokémon Power"
+                }
+            ],
+            "text": "Meganium's breath has the power to revive dead grass and plants. It can make them healthy again.",
+            "level": "54",
+            "attacks": [
+                {
+                    "name": "Body Slam",
+                    "damage": "40",
+                    "cost": [
+                        "Grass",
+                        "Grass",
+                        "Colorless",
+                        "Colorless"
+                    ],
+                    "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-11",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "11",
+            "name": "Meganium",
+            "stage": "Stage 2",
+            "evolvesFrom": "Bayleef",
+            "hp": "100",
+            "types": [
+                "Grass"
+            ],
+            "rarity": "Rare Holo",
+            "artist": "Ken Sugimori",
+            "abilities": [
+                {
+                    "name": "Wild Growth",
+                    "text": "As long as Meganium is in play each Grass Energy card attached to your Grass Pokémon instead provides GrassGrass. This power stops working while Meganium is Asleep, Confused, or Paralyzed.",
+                    "type": "Pokémon Power"
+                }
+            ],
+            "text": "The aroma that rises from its petals contains a substance that calms aggressive feelings.",
+            "level": "57",
+            "attacks": [
+                {
+                    "name": "Soothing Scent",
+                    "damage": "40",
+                    "cost": [
+                        "Grass",
+                        "Grass",
+                        "Grass",
+                        "Grass"
+                    ],
+                    "text": "The Defending Pokémon is now Asleep."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-12",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "12",
+            "name": "Pichu",
+            "stage": "Baby",
+            "hp": "30",
+            "types": [
+                "Lightning"
+            ],
+            "rarity": "Rare Holo",
+            "artist": "Ken Sugimori",
+            "text": "Despite its small size, it can zap even adult humans. However, if it does so, it also surprises itself.",
+            "level": "5",
+            "attacks": [
+                {
+                    "name": "Zzzap",
+                    "damage": "",
+                    "cost": [
+                        "Colorless"
+                    ],
+                    "text": "Does 20 damage to each Pokémon in play that has a Pokémon Power. Don't apply Weakness and Resistance."
+                }
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-13",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "13",
+            "name": "Skarmory",
+            "stage": "Basic",
+            "hp": "60",
+            "types": [
+                "Metal"
+            ],
+            "rarity": "Rare Holo",
+            "artist": "Ken Sugimori",
+            "text": "Its sturdy wings look heavy, but they are actually hollow and light, allowing it to fly freely in the sky.",
+            "level": "30",
+            "attacks": [
+                {
+                    "name": "Claw",
+                    "damage": "20",
+                    "cost": [
+                        "Colorless"
+                    ],
+                    "text": "Flip a coin. If tails, this attack does nothing."
+                },
+                {
+                    "name": "Steel Wing",
+                    "damage": "30",
+                    "cost": [
+                        "Metal",
+                        "Colorless",
+                        "Colorless"
+                    ],
+                    "text": "Flip a coin. If heads, all damage done by attacks to Skarmory during your opponent's next turn is reduced by 20 (after applying Weakness and Resistance)."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "value": "×2"
+                }
+            ],
+            "resistances": [
+                {
+                    "type": "Grass",
+                    "value": "-30"
+                }
+            ],
+            "retreatCost": [
+                "Colorless",
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-14",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "14",
+            "name": "Slowking",
+            "stage": "Stage 1",
+            "evolvesFrom": "Slowpoke",
+            "hp": "80",
+            "types": [
+                "Psychic"
+            ],
+            "rarity": "Rare Holo",
+            "artist": "Ken Sugimori",
+            "abilities": [
+                {
+                    "name": "Mind Games",
+                    "text": "Whenever your opponent plays a Trainer card, you may flip a coin. If heads, that card does nothing. Put it on top of your opponent's deck. This power can't be used if Slowking is Asleep, Confused, or Paralyzed.",
+                    "type": "Pokémon Power"
+                }
+            ],
+            "text": "When its head was bitten, toxins entered Slowpoke's head and unlocked an extraordinary power.",
+            "level": "39",
+            "attacks": [
+                {
+                    "name": "Mind Blast",
+                    "damage": "20+",
+                    "cost": [
+                        "Psychic",
+                        "Psychic",
+                        "Psychic"
+                    ],
+                    "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage and the Defending Pokémon is now Confused. If tails, this attack does 20 damage."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Psychic",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-15",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "15",
+            "name": "Steelix",
+            "stage": "Stage 1",
+            "evolvesFrom": "Onix",
+            "hp": "110",
+            "types": [
+                "Metal"
+            ],
+            "rarity": "Rare Holo",
+            "artist": "Ken Sugimori",
+            "text": "Its body has been compressed deep under the ground. As a result, it is even harder than a diamond.",
+            "level": "64",
+            "attacks": [
+                {
+                    "name": "Tackle",
+                    "damage": "20",
+                    "cost": [
+                        "Colorless",
+                        "Colorless"
+                    ],
+                    "text": ""
+                },
+                {
+                    "name": "Tail Crush",
+                    "damage": "30+",
+                    "cost": [
+                        "Metal",
+                        "Colorless",
+                        "Colorless"
+                    ],
+                    "text": "Flip a coin. If heads, this attack does 30 damage plus 20 more damage; if tails, this attack does 30 damage."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "value": "×2"
+                }
+            ],
+            "resistances": [
+                {
+                    "type": "Grass",
+                    "value": "-30"
+                }
+            ],
+            "retreatCost": [
+                "Colorless",
+                "Colorless",
+                "Colorless",
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-16",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "16",
+            "name": "Togetic",
+            "stage": "Stage 1",
+            "evolvesFrom": "Togepi",
+            "hp": "60",
+            "types": [
+                "Colorless"
+            ],
+            "rarity": "Rare Holo",
+            "artist": "Ken Sugimori",
+            "text": "They say that it will appear before kindhearted, caring people and shower them with happiness.",
+            "level": "31",
+            "attacks": [
+                {
+                    "name": "Super Metronome",
+                    "damage": "",
+                    "cost": [
+                        "Colorless"
+                    ],
+                    "text": "Flip a coin. If heads, choose an attack on 1 of your opponent's Pokémon. Super Metronome copies that attack except for its Energy cost. (You must still do anything else in order to use that attack.) (No matter what type the Defending Pokémon is, Togetic's type is still Colorless.) Togetic performs that attack. (Togetic can make that attack even if it does not have the appropriate number or type of Energy attached to it necessary to make the attack.)"
+                },
+                {
+                    "name": "Fly",
+                    "damage": "30",
+                    "cost": [
+                        "Colorless",
+                        "Colorless",
+                        "Colorless"
+                    ],
+                    "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Togetic; if tails, this attack does nothing (not even damage)."
+                }
+            ],
+            "resistances": [
+                {
+                    "type": "Fighting",
+                    "value": "-30"
+                }
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-17",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "17",
+            "name": "Typhlosion",
+            "stage": "Stage 2",
+            "evolvesFrom": "Quilava",
+            "hp": "100",
+            "types": [
+                "Fire"
+            ],
+            "rarity": "Rare Holo",
+            "artist": "Shin-ichi Yoshida",
+            "abilities": [
+                {
+                    "name": "Fire Recharge",
+                    "text": "Once during your turn (before your attack), you may flip a coin. If heads, attach a Fire Energy card from your discard pile to 1 of your Fire Pokémon. This power can't be used if Typhlosion is Asleep, Confused, or Paralyzed.",
+                    "type": "Pokémon Power"
+                }
+            ],
+            "text": "If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames.",
+            "level": "55",
+            "attacks": [
+                {
+                    "name": "Flame Burst",
+                    "damage": "60+",
+                    "cost": [
+                        "Fire",
+                        "Fire",
+                        "Fire",
+                        "Fire"
+                    ],
+                    "text": "Flip a coin. If heads, this attack does 60 damage plus 20 more damage and does 20 damage to Typhlosion. If tails, this attack does 60 damage."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Water",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless",
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-18",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "18",
+            "name": "Typhlosion",
+            "stage": "Stage 2",
+            "evolvesFrom": "Quilava",
+            "hp": "100",
+            "types": [
+                "Fire"
+            ],
+            "rarity": "Rare Holo",
+            "artist": "Ken Sugimori",
+            "abilities": [
+                {
+                    "name": "Fire Boost",
+                    "text": "When you play Typhlosion from your hand, you may flip a coin. If heads, search your deck for up to 4 Fire Energy cards and attach them to Typhlosion. Shuffle your deck afterward.",
+                    "type": "Pokémon Power"
+                }
+            ],
+            "text": "It has a secret, devastating move. It rubs its blazing fur together to cause huge explosions.",
+            "level": "57",
+            "attacks": [
+                {
+                    "name": "Flame Wheel",
+                    "damage": "80",
+                    "cost": [
+                        "Fire",
+                        "Fire",
+                        "Fire",
+                        "Fire"
+                    ],
+                    "text": "Discard 3 Fire Energy cards attached to Typhlosion in order to use this attack. Do 20 damage to each Benched Pokémon (yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Water",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless",
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-19",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Energy Card",
+            "number": "19",
+            "name": "Metal Energy",
+            "types": [
+                "Energy"
+            ],
+            "rarity": "Rare Holo",
+            "artist": "Milky Isobe",
+            "text": "Damage done to the Pokémon Metal Energy is attached to is reduced by 10 (after applying Weakness and Resistance). If the Pokémon Metal Energy is attached to isn't Metal, whenever it damages a Pokémon, reduce that damage by 10 (before applying Weakness and Resistance). Metal Energy provides Metal Energy. (Doesn't count as a basic Energy card.)"
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-20",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "20",
+            "name": "Cleffa",
+            "stage": "Baby",
+            "hp": "30",
+            "types": [
+                "Colorless"
+            ],
+            "rarity": "Rare",
+            "artist": "Kagemaru Himeno",
+            "text": "Because of its unusual, star-like silhouette, people believe that it came here on a meteor.",
+            "level": "6",
+            "attacks": [
+                {
+                    "name": "Eeeeeeek",
+                    "damage": "",
+                    "cost": [
+                        "Colorless"
+                    ],
+                    "text": "Shuffle your hand into your deck, then draw 7 cards."
+                }
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-21",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "21",
+            "name": "Donphan",
+            "stage": "Stage 1",
+            "evolvesFrom": "Phanpy",
+            "hp": "70",
+            "types": [
+                "Fighting"
+            ],
+            "rarity": "Rare",
+            "artist": "Ken Sugimori",
+            "text": "It has sharp, hard tusks and a rugged hide. Its tackle is strong enough to knock down a house.",
+            "level": "34",
+            "attacks": [
+                {
+                    "name": "Flail",
+                    "damage": "10×",
+                    "cost": [
+                        "Fighting"
+                    ],
+                    "text": "Does 10 damage times the number of damage counters on Donphan."
+                },
+                {
+                    "name": "Rapid Spin",
+                    "damage": "50",
+                    "cost": [
+                        "Fighting",
+                        "Fighting",
+                        "Fighting"
+                    ],
+                    "text": "If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with his or her Active Pokémon, then, if you have any Benched Pokémon, you switch 1 of them with your Active Pokémon. (Do the damage before switching the Pokémon.)"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Grass",
+                    "value": "×2"
+                }
+            ],
+            "resistances": [
+                {
+                    "type": "Lightning",
+                    "value": "-30"
+                }
+            ],
+            "retreatCost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-22",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "22",
+            "name": "Elekid",
+            "stage": "Baby",
+            "hp": "30",
+            "types": [
+                "Lightning"
+            ],
+            "rarity": "Rare",
+            "artist": "Miki Tanaka",
+            "abilities": [
+                {
+                    "name": "Playful Punch",
+                    "text": "Once during your turn (before your attack), you may flip a coin. If heads, do 20 damage to your opponent's Active Pokémon. (Apply Weakness and Resistance.) Either way, this ends your turn. This power can't be used if Elekid is Asleep, Confused, or Paralyzed.",
+                    "type": "Pokémon Power"
+                }
+            ],
+            "text": "It rotates its arms to generate electricity, but it tires easily, so it charges up only a little bit.",
+            "level": "6"
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-23",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "23",
+            "name": "Magby",
+            "stage": "Baby",
+            "hp": "30",
+            "types": [
+                "Fire"
+            ],
+            "rarity": "Rare",
+            "artist": "Ken Sugimori",
+            "text": "Each and every time it inhales and exhales, hot embers dribble out of its mouth and nostrils.",
+            "level": "5",
+            "attacks": [
+                {
+                    "name": "Sputter",
+                    "damage": "10",
+                    "cost": [
+                        "Colorless"
+                    ],
+                    "text": "All Pokémon Powers stop working until the end of your next turn."
+                }
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-24",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "24",
+            "name": "Murkrow",
+            "stage": "Basic",
+            "hp": "50",
+            "types": [
+                "Darkness"
+            ],
+            "rarity": "Rare",
+            "artist": "Shin-ichi Yoshida",
+            "text": "It is said that when chased, it lures its attacker onto dark mountain trails where the foe will get lost.",
+            "level": "25",
+            "attacks": [
+                {
+                    "name": "Mean Look",
+                    "damage": "",
+                    "cost": [
+                        "Darkness"
+                    ],
+                    "text": "The Defending Pokémon can't retreat as long as Murkrow remains your Active Pokémon. (Benching or evolving either Pokémon ends this effect.)"
+                },
+                {
+                    "name": "Feint Attack",
+                    "damage": "",
+                    "cost": [
+                        "Darkness",
+                        "Colorless"
+                    ],
+                    "text": "Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. This attack's damage isn't affected by Weakness, Resistance, Pokémon Powers, or any other effects on the Defending Pokémon."
+                }
+            ],
+            "resistances": [
+                {
+                    "type": "Psychic",
+                    "value": "-30"
+                }
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-25",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "25",
+            "name": "Sneasel",
+            "stage": "Basic",
+            "hp": "60",
+            "types": [
+                "Darkness"
+            ],
+            "rarity": "Rare",
+            "artist": "Ken Sugimori",
+            "text": "Its paws conceal sharp claws. If attacked, it suddenly extends the claws and startles its enemy.",
+            "level": "34",
+            "attacks": [
+                {
+                    "name": "Fury Swipes",
+                    "damage": "10×",
+                    "cost": [
+                        "Colorless"
+                    ],
+                    "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+                },
+                {
+                    "name": "Beat Up",
+                    "damage": "20×",
+                    "cost": [
+                        "Darkness",
+                        "Darkness"
+                    ],
+                    "text": "Flip a coin for each of your Pokémon in play (including this one). This attack does 20 damage times the number of heads."
+                }
+            ],
+            "resistances": [
+                {
+                    "type": "Psychic",
+                    "value": "-30"
+                }
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-26",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "26",
+            "name": "Aipom",
+            "stage": "Basic",
+            "hp": "40",
+            "types": [
+                "Colorless"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Hironobu Yoshida",
+            "text": "Its tail is so powerful that it can use it to grab a tree branch and hold itself up in the air.",
+            "level": "18",
+            "attacks": [
+                {
+                    "name": "Pilfer",
+                    "damage": "",
+                    "cost": [
+                        "Colorless"
+                    ],
+                    "text": "Shuffle Aipom and all cards attached to it into your deck. Flip a coin. If heads, shuffle a card from your discard pile into your deck."
+                },
+                {
+                    "name": "Tail Rap",
+                    "damage": "10×",
+                    "cost": [
+                        "Colorless"
+                    ],
+                    "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fighting",
+                    "value": "×2"
+                }
+            ],
+            "resistances": [
+                {
+                    "type": "Psychic",
+                    "value": "-30"
+                }
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-27",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "27",
+            "name": "Ariados",
+            "stage": "Stage 1",
+            "evolvesFrom": "Spinarak",
+            "hp": "60",
+            "types": [
+                "Grass"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Ken Sugimori",
+            "text": "It spins string not only from its rear but also from its mouth. It's hard to tell which end is which.",
+            "level": "29",
+            "attacks": [
+                {
+                    "name": "Spider Web",
+                    "damage": "",
+                    "cost": [
+                        "Grass"
+                    ],
+                    "text": "Flip a coin. If heads, the Defending Pokémon can't retreat. (Benching or evolving that Pokémon ends this effect.)"
+                },
+                {
+                    "name": "Poison Bite",
+                    "damage": "20",
+                    "cost": [
+                        "Grass",
+                        "Grass",
+                        "Grass"
+                    ],
+                    "text": "If this attack damages the Defending Pokémon, the Defending Pokémon is now Poisoned and you remove a number of damage counters from Ariados equal to half that damage (rounded up to the nearest 10). If Ariados has fewer damage counters than that, remove all of them."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-28",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "28",
+            "name": "Bayleef",
+            "stage": "Stage 1",
+            "evolvesFrom": "Chikorita",
+            "hp": "70",
+            "types": [
+                "Grass"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Ken Sugimori",
+            "text": "A spicy aroma emanates from around its neck. The aroma acts as a stimulant to restore health.",
+            "level": "38",
+            "attacks": [
+                {
+                    "name": "Poisonpowder",
+                    "damage": "20",
+                    "cost": [
+                        "Grass",
+                        "Colorless"
+                    ],
+                    "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+                },
+                {
+                    "name": "Pollen Shield",
+                    "damage": "30",
+                    "cost": [
+                        "Grass",
+                        "Grass",
+                        "Colorless"
+                    ],
+                    "text": "During your opponent's next turn, Bayleef can't become Asleep, Confused, Paralyzed, or Poisoned. (All other effects of attacks, Pokémon Powers and Trainer cards still happen.)"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless",
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-29",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "29",
+            "name": "Bayleef",
+            "stage": "Stage 1",
+            "evolvesFrom": "Chikorita",
+            "hp": "80",
+            "types": [
+                "Grass"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Ken Sugimori",
+            "text": "The scent of spices comes from around its neck. Somehow, sniffing it makes you want to fight.",
+            "level": "39",
+            "attacks": [
+                {
+                    "name": "Sweet Scent",
+                    "damage": "",
+                    "cost": [
+                        "Grass"
+                    ],
+                    "text": "Flip a coin. If heads and if any of your Pokémon have any damage counters on them, then remove 2 damage counters from 1 of them (or 1 if it only has 1). If tails and if any of your opponent's Pokémon have any damage counters on them, choose 1 of them and remove 2 damage counters from it (or 1 if it only has 1)."
+                },
+                {
+                    "name": "Double Razor Leaf",
+                    "damage": "40×",
+                    "cost": [
+                        "Grass",
+                        "Grass",
+                        "Grass"
+                    ],
+                    "text": "Flip 2 coins. This attack does 40 damage times the number of heads."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless",
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-30",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "30",
+            "name": "Clefairy",
+            "stage": "Basic",
+            "hp": "50",
+            "types": [
+                "Colorless"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Sumiyoshi Kizuki",
+            "text": "The moonlight that it stores in the wings on its back apparently gives it the ability to float in midair.",
+            "level": "19",
+            "attacks": [
+                {
+                    "name": "Doubleslap",
+                    "damage": "10×",
+                    "cost": [
+                        "Colorless",
+                        "Colorless"
+                    ],
+                    "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+                },
+                {
+                    "name": "Squaredance",
+                    "damage": "",
+                    "cost": [
+                        "Colorless",
+                        "Colorless",
+                        "Colorless"
+                    ],
+                    "text": "Flip a number of coins equal to the total number of Pokémon in play. For each heads, you may search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fighting",
+                    "value": "×2"
+                }
+            ],
+            "resistances": [
+                {
+                    "type": "Psychic",
+                    "value": "-30"
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-31",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "31",
+            "name": "Croconaw",
+            "stage": "Stage 1",
+            "evolvesFrom": "Totodile",
+            "hp": "70",
+            "types": [
+                "Water"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Ken Sugimori",
+            "text": "If it loses a fang, a new one grows back in its place. There are always 48 fangs lining its mouth.",
+            "level": "34",
+            "attacks": [
+                {
+                    "name": "Screech",
+                    "damage": "",
+                    "cost": [
+                        "Colorless"
+                    ],
+                    "text": "Until the end of your next turn, if an attack damages the Defending Pokémon (after applying Weakness and Resistance), that attack does 20 more damage to the Defending Pokémon"
+                },
+                {
+                    "name": "Jaw Clamp",
+                    "damage": "30",
+                    "cost": [
+                        "Water",
+                        "Water",
+                        "Colorless"
+                    ],
+                    "text": "Until the end of your opponent's next turn, as long as Croconaw is your Active Pokémon, the Defending Pokémon can't retreat, and if the effect of an attack, Pokémon Power, or Trainer card would change that player's Active Pokémon, that part of the effect does nothing."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Grass",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless",
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-32",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "32",
+            "name": "Croconaw",
+            "stage": "Stage 1",
+            "evolvesFrom": "Totodile",
+            "hp": "80",
+            "types": [
+                "Water"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Ken Sugimori",
+            "text": "It opens its huge jaws wide when attacking. If it loses any fangs while biting, they grow back in.",
+            "level": "41",
+            "attacks": [
+                {
+                    "name": "Tackle",
+                    "damage": "20",
+                    "cost": [
+                        "Colorless",
+                        "Colorless"
+                    ],
+                    "text": ""
+                },
+                {
+                    "name": "Sweep Away",
+                    "damage": "50",
+                    "cost": [
+                        "Water",
+                        "Water",
+                        "Colorless"
+                    ],
+                    "text": "Discard the top 3 cards from your deck."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Grass",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless",
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-33",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "33",
+            "name": "Electabuzz",
+            "stage": "Basic",
+            "hp": "70",
+            "types": [
+                "Lightning"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Shin-ichi Yoshida",
+            "text": "Electricity runs across the surface of its body. In darkness, its entire body glows a whitish-blue.",
+            "level": "38",
+            "attacks": [
+                {
+                    "name": "Punch",
+                    "damage": "20",
+                    "cost": [
+                        "Colorless",
+                        "Colorless"
+                    ],
+                    "text": ""
+                },
+                {
+                    "name": "Swift",
+                    "damage": "30",
+                    "cost": [
+                        "Lightning",
+                        "Lightning",
+                        "Lightning"
+                    ],
+                    "text": "This attack's damage isn't affected by Weakness, Resistance, Pokémon Powers, or any other effects on the Defending Pokémon."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fighting",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-34",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "34",
+            "name": "Flaaffy",
+            "stage": "Stage 1",
+            "evolvesFrom": "Mareep",
+            "hp": "60",
+            "types": [
+                "Lightning"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Ken Sugimori",
+            "text": "As a result of storing too much electricity, it developed patches where even downy wool won't grow.",
+            "level": "26",
+            "attacks": [
+                {
+                    "name": "Discharge",
+                    "damage": "30×",
+                    "cost": [
+                        "Lightning"
+                    ],
+                    "text": "Discard all Lightning Energy cards attached to Flaaffy in order to use this attack. Flip a number of coins equal to the number of Lightning Energy cards you discarded. This attack does 30 damage times then number of heads."
+                },
+                {
+                    "name": "Electric Current",
+                    "damage": "20",
+                    "cost": [
+                        "Lightning",
+                        "Lightning"
+                    ],
+                    "text": "Take 1 Lightning Energy cards attached to Flaaffy and attach it to 1 of your Benched Pokémon. If you have no Benched Pokémon, discard that Energy card."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fighting",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-35",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "35",
+            "name": "Furret",
+            "stage": "Stage 1",
+            "evolvesFrom": "Sentret",
+            "hp": "60",
+            "types": [
+                "Colorless"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Ken Sugimori",
+            "text": "It makes a nest to suit its long and skinny body. The nest is impossible for other Pokémon to enter.",
+            "level": "27",
+            "attacks": [
+                {
+                    "name": "Quick Attack",
+                    "damage": "20+",
+                    "cost": [
+                        "Colorless",
+                        "Colorless"
+                    ],
+                    "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage; if tails, this attack does 20 damage."
+                },
+                {
+                    "name": "Slam",
+                    "damage": "30×",
+                    "cost": [
+                        "Colorless",
+                        "Colorless",
+                        "Colorless"
+                    ],
+                    "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fighting",
+                    "value": "×2"
+                }
+            ],
+            "resistances": [
+                {
+                    "type": "Psychic",
+                    "value": "-30"
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-36",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "36",
+            "name": "Gloom",
+            "stage": "Stage 1",
+            "evolvesFrom": "Oddish",
+            "hp": "60",
+            "types": [
+                "Grass"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Mitsuhiro Arita",
+            "text": "What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched.",
+            "level": "26",
+            "attacks": [
+                {
+                    "name": "Strange Powder",
+                    "damage": "20",
+                    "cost": [
+                        "Grass",
+                        "Colorless"
+                    ],
+                    "text": "Flip a coin. If heads, the Defending Pokémon is now Confused. If tails, the Defending Pokémon is now Asleep."
+                },
+                {
+                    "name": "Sticky Nectar",
+                    "damage": "20+",
+                    "cost": [
+                        "Grass",
+                        "Grass",
+                        "Colorless"
+                    ],
+                    "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage and, until the end of your next turn, as long as Gloom is your Active Pokémon, the Defending Pokémon can't retreat, and if the effect of an attack, Pokémon Power, or Trainer card would change that player's Active Pokémon, that part of the effect does nothing. If tails, this attack does 20 damage."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-37",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "37",
+            "name": "Granbull",
+            "stage": "Stage 1",
+            "evolvesFrom": "Snubbull",
+            "hp": "70",
+            "types": [
+                "Colorless"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Ken Sugimori",
+            "text": "It is actually timid and easily spooked. If attacked, it flails about to fend off its attacker.",
+            "level": "33",
+            "attacks": [
+                {
+                    "name": "Tackle",
+                    "damage": "20",
+                    "cost": [
+                        "Colorless",
+                        "Colorless"
+                    ],
+                    "text": ""
+                },
+                {
+                    "name": "Raging Charge",
+                    "damage": "10+",
+                    "cost": [
+                        "Colorless",
+                        "Colorless",
+                        "Colorless"
+                    ],
+                    "text": "This attack does 10 damage plus 10 more damage for each damage counter on Granbull. Then, Granbull does 20 damage to itself."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fighting",
+                    "value": "×2"
+                }
+            ],
+            "resistances": [
+                {
+                    "type": "Psychic",
+                    "value": "-30"
+                }
+            ],
+            "retreatCost": [
+                "Colorless",
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-38",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "38",
+            "name": "Lanturn",
+            "stage": "Stage 1",
+            "evolvesFrom": "Chinchou",
+            "hp": "70",
+            "types": [
+                "Lightning"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Ken Sugimori",
+            "abilities": [
+                {
+                    "name": "Hydroelectric Power",
+                    "text": "You may make Floodlight do 10 more damage for each Water Energy attached to Lanturn, but not used to pay for Floodlight's Energy cost. This power can't be used if Lanturn is Asleep, Confused, or Paralyzed.",
+                    "type": "Pokémon Power"
+                }
+            ],
+            "text": "The light it emits is so bright that it can illuminate the sea's surface from a depth of over three miles.",
+            "level": "26",
+            "attacks": [
+                {
+                    "name": "Floodlight",
+                    "damage": "20",
+                    "cost": [
+                        "Lightning",
+                        "Lightning"
+                    ],
+                    "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fighting",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless",
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-39",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "39",
+            "name": "Ledian",
+            "stage": "Stage 1",
+            "evolvesFrom": "Ledyba",
+            "hp": "60",
+            "types": [
+                "Grass"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Ken Sugimori",
+            "text": "When the stars flicker in the night sky, Ledian flutters about, scattering a glowing powder.",
+            "level": "32",
+            "attacks": [
+                {
+                    "name": "Baton Pass",
+                    "damage": "30",
+                    "cost": [
+                        "Grass",
+                        "Grass"
+                    ],
+                    "text": "If you have any Grass Pokémon on your Bench, remove all Grass Energy cards from Ledian and attach them to 1 of those Pokémon, then switch Ledian with that Pokémon."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "value": "×2"
+                }
+            ],
+            "resistances": [
+                {
+                    "type": "Fighting",
+                    "value": "-30"
+                }
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-40",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "40",
+            "name": "Magmar",
+            "stage": "Basic",
+            "hp": "70",
+            "types": [
+                "Fire"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Naoyo Kimura",
+            "text": "It dislikes cold places, so it blows scorching flames to make the environment suitable for itself.",
+            "level": "37",
+            "attacks": [
+                {
+                    "name": "Tail Slap",
+                    "damage": "20",
+                    "cost": [
+                        "Colorless",
+                        "Colorless"
+                    ],
+                    "text": ""
+                },
+                {
+                    "name": "Magma Punch",
+                    "damage": "40",
+                    "cost": [
+                        "Fire",
+                        "Fire",
+                        "Colorless"
+                    ],
+                    "text": ""
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Water",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless",
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-41",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "41",
+            "name": "Miltank",
+            "stage": "Basic",
+            "hp": "70",
+            "types": [
+                "Colorless"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Ken Sugimori",
+            "text": "Its milk is packed with nutrition, making it the ultimate beverage for the sick or weary.",
+            "level": "32",
+            "attacks": [
+                {
+                    "name": "Milk Drink",
+                    "damage": "",
+                    "cost": [
+                        "Colorless"
+                    ],
+                    "text": "Flip 2 coins. Remove 2 damage counters times the number of heads from Miltank. If it has fewer damage counters than that, remove all of them."
+                },
+                {
+                    "name": "Body Slam",
+                    "damage": "20",
+                    "cost": [
+                        "Colorless",
+                        "Colorless",
+                        "Colorless"
+                    ],
+                    "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fighting",
+                    "value": "×2"
+                }
+            ],
+            "resistances": [
+                {
+                    "type": "Psychic",
+                    "value": "-30"
+                }
+            ],
+            "retreatCost": [
+                "Colorless",
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-42",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "42",
+            "name": "Noctowl",
+            "stage": "Stage 1",
+            "evolvesFrom": "Hoothoot",
+            "hp": "60",
+            "types": [
+                "Colorless"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Ken Sugimori",
+            "abilities": [
+                {
+                    "name": "Glaring Gaze",
+                    "text": "Once during your turn (before your attack), you may flip a coin. If heads, look at your opponent's hand. If your opponent has any Trainer cards there, choose 1 of them. Your opponent shuffles that card into his or her deck. This power can't be used if Noctowl is Asleep, Confused, or Paralyzed.",
+                    "type": "Pokémon Power"
+                }
+            ],
+            "text": "Its eyes are specially adapted. They concentrate even faint light and enable it to see in the dark.",
+            "level": "23",
+            "attacks": [
+                {
+                    "name": "Wing Attack",
+                    "damage": "30",
+                    "cost": [
+                        "Colorless",
+                        "Colorless",
+                        "Colorless"
+                    ],
+                    "text": ""
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Lightning",
+                    "value": "×2"
+                }
+            ],
+            "resistances": [
+                {
+                    "type": "Fighting",
+                    "value": "-30"
+                }
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-43",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "43",
+            "name": "Phanpy",
+            "stage": "Basic",
+            "hp": "40",
+            "types": [
+                "Fighting"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Ken Sugimori",
+            "text": "It swings its long snout around playfully, but, because it is so strong, that can be dangerous.",
+            "level": "11",
+            "attacks": [
+                {
+                    "name": "Tackle",
+                    "damage": "10",
+                    "cost": [
+                        "Colorless"
+                    ],
+                    "text": ""
+                },
+                {
+                    "name": "Endure",
+                    "damage": "",
+                    "cost": [
+                        "Fighting"
+                    ],
+                    "text": "Flip a coin. If heads, then if, during your opponent's next turn, Phanpy would be Knocked Out by an attack, Phanpy isn't Knocked Out and its remaining HP become 10 instead."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Grass",
+                    "value": "×2"
+                }
+            ],
+            "resistances": [
+                {
+                    "type": "Lightning",
+                    "value": "-30"
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-44",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "44",
+            "name": "Piloswine",
+            "stage": "Stage 1",
+            "evolvesFrom": "Swinub",
+            "hp": "80",
+            "types": [
+                "Water"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Ken Sugimori",
+            "text": "Because the long hair all over its body obscures its sight, it just keeps charging repeatedly.",
+            "level": "36",
+            "attacks": [
+                {
+                    "name": "Freeze",
+                    "damage": "10",
+                    "cost": [
+                        "Water",
+                        "Water"
+                    ],
+                    "text": "Flip a coin. If heads, the Defending Pokémon can't attack. (Benching or evolving the Defending Pokémon ends this effect.)"
+                },
+                {
+                    "name": "Blizzard",
+                    "damage": "30",
+                    "cost": [
+                        "Water",
+                        "Water",
+                        "Water"
+                    ],
+                    "text": "Flip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pokémon; if tails, this attack does 10 damage to each of your own Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Grass",
+                    "value": "×2"
+                }
+            ],
+            "resistances": [
+                {
+                    "type": "Lightning",
+                    "value": "-30"
+                }
+            ],
+            "retreatCost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-45",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "45",
+            "name": "Quagsire",
+            "stage": "Stage 1",
+            "evolvesFrom": "Wooper",
+            "hp": "70",
+            "types": [
+                "Water"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Atsuko Nishida",
+            "text": "Due to its relaxed and carefree attitude, it often bumps its head on boulders and boat hulls as it swims.",
+            "level": "33",
+            "attacks": [
+                {
+                    "name": "Surf",
+                    "damage": "30",
+                    "cost": [
+                        "Water",
+                        "Water"
+                    ],
+                    "text": ""
+                },
+                {
+                    "name": "Earthquake",
+                    "damage": "60",
+                    "cost": [
+                        "Fighting",
+                        "Fighting",
+                        "Colorless",
+                        "Colorless"
+                    ],
+                    "text": "Does 10 damage to each of your own Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Grass",
+                    "value": "×2"
+                }
+            ],
+            "resistances": [
+                {
+                    "type": "Lightning",
+                    "value": "-30"
+                }
+            ],
+            "retreatCost": [
+                "Colorless",
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-46",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "46",
+            "name": "Quilava",
+            "stage": "Stage 1",
+            "evolvesFrom": "Cyndaquil",
+            "hp": "60",
+            "types": [
+                "Fire"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Ken Sugimori",
+            "text": "This Pokémon is fully covered by nonflammable fur. It can withstand any kind of fire attack.",
+            "level": "28",
+            "attacks": [
+                {
+                    "name": "Ember",
+                    "damage": "30",
+                    "cost": [
+                        "Fire",
+                        "Colorless"
+                    ],
+                    "text": "Discard 1 Fire Energy card attached to Quilava in order to use this attack."
+                },
+                {
+                    "name": "Fire Wind",
+                    "damage": "20",
+                    "cost": [
+                        "Fire",
+                        "Fire"
+                    ],
+                    "text": "If your opponent has any Benched Pokémon, choose 1 of them. Flip 2 coins. For each heads, this attack does 10 damage to that Pokémon. (Don't apply Weakness and Resistance.)"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Water",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-47",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "47",
+            "name": "Quilava",
+            "stage": "Stage 1",
+            "evolvesFrom": "Cyndaquil",
+            "hp": "70",
+            "types": [
+                "Fire"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Ken Sugimori",
+            "text": "Be careful if it turns its back during battle. It means that it will attack with the fire on its back.",
+            "level": "35",
+            "attacks": [
+                {
+                    "name": "Smokescreen",
+                    "damage": "20",
+                    "cost": [
+                        "Fire",
+                        "Fire"
+                    ],
+                    "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+                },
+                {
+                    "name": "Char",
+                    "damage": "30",
+                    "cost": [
+                        "Fire",
+                        "Fire",
+                        "Fire"
+                    ],
+                    "text": "If the Defending Pokémon doesn't have a Char counter on it, flip a coin. If heads, put a Char counter on it. A Char counter requires your opponent to flip a coin after every turn. If tails, put 2 damage counters on the Pokémon with that Char counter. (Char counters stay on the Pokémon as long as it's in play.)"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Water",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-48",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "48",
+            "name": "Seadra",
+            "stage": "Stage 1",
+            "evolvesFrom": "Horsea",
+            "hp": "70",
+            "types": [
+                "Water"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Shin-ichi Yoshida",
+            "text": "An examination of its cells revealed the presence of a gene not found in Horsea. It became a hot topic.",
+            "level": "36",
+            "attacks": [
+                {
+                    "name": "Bubble",
+                    "damage": "10",
+                    "cost": [
+                        "Water"
+                    ],
+                    "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+                },
+                {
+                    "name": "Mud Splash",
+                    "damage": "30",
+                    "cost": [
+                        "Water",
+                        "Water"
+                    ],
+                    "text": "If your opponent has any Benched Pokémon, choose 1 of them and flip a coin. If heads, this attack does 10 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Lightning",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-49",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "49",
+            "name": "Skiploom",
+            "stage": "Stage 1",
+            "evolvesFrom": "Hoppip",
+            "hp": "60",
+            "types": [
+                "Grass"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Atsuko Nishida",
+            "text": "The bloom on top of its head opens and closes as the temperature fluctuates up and down.",
+            "level": "28",
+            "attacks": [
+                {
+                    "name": "Poisonpowder",
+                    "damage": "10",
+                    "cost": [
+                        "Grass"
+                    ],
+                    "text": "The Defending Pokémon is now Poisoned."
+                },
+                {
+                    "name": "Stun Spore",
+                    "damage": "10",
+                    "cost": [
+                        "Grass"
+                    ],
+                    "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "value": "×2"
+                }
+            ],
+            "resistances": [
+                {
+                    "type": "Fighting",
+                    "value": "-30"
+                }
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-50",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "50",
+            "name": "Sunflora",
+            "stage": "Stage 1",
+            "evolvesFrom": "Sunkern",
+            "hp": "70",
+            "types": [
+                "Grass"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Kagemaru Himeno",
+            "text": "It converts sunlight into energy. In the darkness after sunset, it closes its petals and becomes still.",
+            "level": "36",
+            "attacks": [
+                {
+                    "name": "Petal Dance",
+                    "damage": "30×",
+                    "cost": [
+                        "Grass",
+                        "Grass",
+                        "Grass"
+                    ],
+                    "text": "Flip 3 coins. This attack does 30 damage times the number of heads. Sunflora is now Confused (after doing damage)."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-51",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "51",
+            "name": "Togepi",
+            "stage": "Basic",
+            "hp": "40",
+            "types": [
+                "Colorless"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Naoyo Kimura",
+            "text": "A proverb claims that happiness will come to anyone who can make a sleeping Togepi stand up.",
+            "level": "14",
+            "attacks": [
+                {
+                    "name": "Poison Barb",
+                    "damage": "10",
+                    "cost": [
+                        "Colorless",
+                        "Colorless"
+                    ],
+                    "text": "The Defending Pokémon is now Poisoned."
+                }
+            ],
+            "resistances": [
+                {
+                    "type": "Psychic",
+                    "value": "-30"
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-52",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "52",
+            "name": "Xatu",
+            "stage": "Stage 1",
+            "evolvesFrom": "Natu",
+            "hp": "80",
+            "types": [
+                "Psychic"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Ken Sugimori",
+            "text": "They say that it stays still and quiet because it is seeing both the past and future at the same time.",
+            "level": "10",
+            "attacks": [
+                {
+                    "name": "Prophecy",
+                    "damage": "",
+                    "cost": [
+                        "Psychic"
+                    ],
+                    "text": "Look at the top 3 cards of either player's deck and rearrange them as you like."
+                },
+                {
+                    "name": "Confuse Ray",
+                    "damage": "30",
+                    "cost": [
+                        "Psychic",
+                        "Psychic",
+                        "Psychic"
+                    ],
+                    "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Psychic",
+                    "value": "×2"
+                }
+            ],
+            "resistances": [
+                {
+                    "type": "Fighting",
+                    "value": "-30"
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-53",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "53",
+            "name": "Chikorita",
+            "stage": "Basic",
+            "hp": "40",
+            "types": [
+                "Grass"
+            ],
+            "rarity": "Common",
+            "artist": "Naoyo Kimura",
+            "text": "A sweet aroma gently wafts from the leaf on its head. It is docile and loves to soak up the sun's rays.",
+            "level": "12",
+            "attacks": [
+                {
+                    "name": "Tackle",
+                    "damage": "10",
+                    "cost": [
+                        "Colorless"
+                    ],
+                    "text": ""
+                },
+                {
+                    "name": "Deflector",
+                    "damage": "",
+                    "cost": [
+                        "Grass"
+                    ],
+                    "text": "During your opponent's next turn, whenever Chikorita takes damage, divide that damage in half (rounded down to the nearest 10). (Any other effects still happen.)"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-54",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "54",
+            "name": "Chikorita",
+            "stage": "Basic",
+            "hp": "50",
+            "types": [
+                "Grass"
+            ],
+            "rarity": "Common",
+            "artist": "Ken Sugimori",
+            "text": "Its pleasantly aromatic leaf has the ability to check the humidity and temperature.",
+            "level": "19",
+            "attacks": [
+                {
+                    "name": "Growl",
+                    "damage": "",
+                    "cost": [
+                        "Colorless"
+                    ],
+                    "text": "If the Defending Pokémon attacks Chikorita during your opponent's next turn, any damage done to Chikorita is reduced by 10 (before applying Weakness and Resistance). (Benching or evolving either Pokémon ends this effect.)"
+                },
+                {
+                    "name": "Razor Leaf",
+                    "damage": "20",
+                    "cost": [
+                        "Grass",
+                        "Colorless"
+                    ],
+                    "text": ""
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-55",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "55",
+            "name": "Chinchou",
+            "stage": "Basic",
+            "hp": "50",
+            "types": [
+                "Lightning"
+            ],
+            "rarity": "Common",
+            "artist": "Ken Sugimori",
+            "text": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
+            "level": "12",
+            "attacks": [
+                {
+                    "name": "Supersonic",
+                    "damage": "",
+                    "cost": [
+                        "Lightning"
+                    ],
+                    "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+                },
+                {
+                    "name": "Flail",
+                    "damage": "10×",
+                    "cost": [
+                        "Water"
+                    ],
+                    "text": "Does 10 damage times the number of damage counters on Chinchou."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fighting",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-56",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "56",
+            "name": "Cyndaquil",
+            "stage": "Basic",
+            "hp": "40",
+            "types": [
+                "Fire"
+            ],
+            "rarity": "Common",
+            "artist": "Ken Sugimori",
+            "text": "It usually stays hunched over. If it is angry or surprised, it shoots flames out of its back.",
+            "level": "14",
+            "attacks": [
+                {
+                    "name": "Leer",
+                    "damage": "",
+                    "cost": [
+                        "Colorless"
+                    ],
+                    "text": "Flip a coin. If heads, the Defending Pokémon can't attack Cyndaquil during your opponent's next turn. (Benching or evolving either Pokémon ends this effect.)"
+                },
+                {
+                    "name": "Swift",
+                    "damage": "20",
+                    "cost": [
+                        "Fire",
+                        "Colorless"
+                    ],
+                    "text": "This attack's damage isn't affected by Weakness, Resistance, Pokémon Powers, or any other effects on the Defending Pokémon."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Water",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-57",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "57",
+            "name": "Cyndaquil",
+            "stage": "Basic",
+            "hp": "50",
+            "types": [
+                "Fire"
+            ],
+            "rarity": "Common",
+            "artist": "Shin-ichi Yoshida",
+            "text": "It is timid and always curls itself up in a ball. If attacked, it flares up its back for protection.",
+            "level": "21",
+            "attacks": [
+                {
+                    "name": "Fireworks",
+                    "damage": "20",
+                    "cost": [
+                        "Fire"
+                    ],
+                    "text": "Flip a coin. If tails, discard 1 Energy card attached to Cyndaquil."
+                },
+                {
+                    "name": "Quick Attack",
+                    "damage": "10+",
+                    "cost": [
+                        "Colorless",
+                        "Colorless"
+                    ],
+                    "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Water",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-58",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "58",
+            "name": "Girafarig",
+            "stage": "Basic",
+            "hp": "60",
+            "types": [
+                "Psychic"
+            ],
+            "rarity": "Common",
+            "artist": "Ken Sugimori",
+            "text": "Its tail has a small brain of its own. Beware! If you get close, it may react to your scent and bite.",
+            "level": "20",
+            "attacks": [
+                {
+                    "name": "Agility",
+                    "damage": "10",
+                    "cost": [
+                        "Colorless",
+                        "Colorless"
+                    ],
+                    "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Girafarig."
+                },
+                {
+                    "name": "Psybeam",
+                    "damage": "20",
+                    "cost": [
+                        "Psychic",
+                        "Psychic"
+                    ],
+                    "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-59",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "59",
+            "name": "Gligar",
+            "stage": "Basic",
+            "hp": "60",
+            "types": [
+                "Fighting"
+            ],
+            "rarity": "Common",
+            "artist": "Hironobu Yoshida",
+            "text": "It flies straight at its target's face, then clamps down on the startled victim to inject poison.",
+            "level": "31",
+            "attacks": [
+                {
+                    "name": "Poison Sting",
+                    "damage": "10",
+                    "cost": [
+                        "Fighting"
+                    ],
+                    "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+                },
+                {
+                    "name": "Slash",
+                    "damage": "20",
+                    "cost": [
+                        "Colorless",
+                        "Colorless"
+                    ],
+                    "text": ""
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Grass",
+                    "value": "×2"
+                }
+            ],
+            "resistances": [
+                {
+                    "type": "Fighting",
+                    "value": "-30"
+                }
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-60",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "60",
+            "name": "Hoothoot",
+            "stage": "Basic",
+            "hp": "50",
+            "types": [
+                "Colorless"
+            ],
+            "rarity": "Common",
+            "artist": "Sumiyoshi Kizuki",
+            "text": "It always stands on one foot. It changes feet so fast that the movement can rarely be seen.",
+            "level": "17",
+            "attacks": [
+                {
+                    "name": "Hypnosis",
+                    "damage": "",
+                    "cost": [
+                        "Colorless"
+                    ],
+                    "text": "The Defending Pokémon is now Asleep."
+                },
+                {
+                    "name": "Peck",
+                    "damage": "20",
+                    "cost": [
+                        "Colorless",
+                        "Colorless"
+                    ],
+                    "text": ""
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Lightning",
+                    "value": "×2"
+                }
+            ],
+            "resistances": [
+                {
+                    "type": "Fighting",
+                    "value": "-30"
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-61",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "61",
+            "name": "Hoppip",
+            "stage": "Basic",
+            "hp": "50",
+            "types": [
+                "Grass"
+            ],
+            "rarity": "Common",
+            "artist": "Atsuko Nishida",
+            "text": "To keep from being blown away by the wind, they gather in clusters. They do enjoy gentle breezes, though.",
+            "level": "21",
+            "attacks": [
+                {
+                    "name": "Hop",
+                    "damage": "10",
+                    "cost": [
+                        "Colorless"
+                    ],
+                    "text": ""
+                },
+                {
+                    "name": "Sprout",
+                    "damage": "",
+                    "cost": [
+                        "Grass"
+                    ],
+                    "text": "Search your deck for a Basic Pokémon named Hoppip and put it onto your Bench. Shuffle your deck afterward. (You can't use this attack if your Bench is full.)"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "value": "×2"
+                }
+            ],
+            "resistances": [
+                {
+                    "type": "Fighting",
+                    "value": "-30"
+                }
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-62",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "62",
+            "name": "Horsea",
+            "stage": "Basic",
+            "hp": "50",
+            "types": [
+                "Water"
+            ],
+            "rarity": "Common",
+            "artist": "Miki Tanaka",
+            "text": "If attacked by a larger enemy, it quickly swims to safety by adeptly controlling its dorsal fin.",
+            "level": "22",
+            "attacks": [
+                {
+                    "name": "Fin Slap",
+                    "damage": "20+",
+                    "cost": [
+                        "Water",
+                        "Water"
+                    ],
+                    "text": "If an attack damaged Horsea during your opponent's last turn, this attack does 20 damage plus 10 more damage. If not, this attack does 20 damage."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Lightning",
+                    "value": "×2"
+                }
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-63",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "63",
+            "name": "Ledyba",
+            "stage": "Basic",
+            "hp": "40",
+            "types": [
+                "Grass"
+            ],
+            "rarity": "Common",
+            "artist": "Sumiyoshi Kizuki",
+            "text": "It is very timid. It's afraid to move if alone, but it's active if in a group.",
+            "level": "19",
+            "attacks": [
+                {
+                    "name": "Supersonic",
+                    "damage": "",
+                    "cost": [
+                        "Grass"
+                    ],
+                    "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+                },
+                {
+                    "name": "Comet Punch",
+                    "damage": "",
+                    "cost": [
+                        "Grass",
+                        "Grass"
+                    ],
+                    "text": "Flip 4 coins. This attack does 10 damage times the number of heads."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "value": "×2"
+                }
+            ],
+            "resistances": [
+                {
+                    "type": "Fighting",
+                    "value": "-30"
+                }
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-64",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "64",
+            "name": "Mantine",
+            "stage": "Basic",
+            "hp": "60",
+            "types": [
+                "Water"
+            ],
+            "rarity": "Common",
+            "artist": "Ken Sugimori",
+            "text": "Swimming freely in open seas, it may fly out of the water and over the waves if it builds up enough speed.",
+            "level": "31",
+            "attacks": [
+                {
+                    "name": "Undulate",
+                    "damage": "20",
+                    "cost": [
+                        "Water",
+                        "Water"
+                    ],
+                    "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Mantine."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Lightning",
+                    "value": "×2"
+                }
+            ],
+            "resistances": [
+                {
+                    "type": "Fighting",
+                    "value": "-30"
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-65",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "65",
+            "name": "Mareep",
+            "stage": "Basic",
+            "hp": "40",
+            "types": [
+                "Lightning"
+            ],
+            "rarity": "Common",
+            "artist": "Ken Sugimori",
+            "text": "If static electricity builds in its body, its fleece doubles in volume. Touching it will shock you.",
+            "level": "12",
+            "attacks": [
+                {
+                    "name": "Static Electricity",
+                    "damage": "",
+                    "cost": [
+                        "Lightning"
+                    ],
+                    "text": "For each Mareep in play, you may search your deck for a Lightning Energy card and attach it to Mareep. Shuffle your deck afterward."
+                },
+                {
+                    "name": "Thundershock",
+                    "damage": "20",
+                    "cost": [
+                        "Lightning",
+                        "Lightning"
+                    ],
+                    "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fighting",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-66",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "66",
+            "name": "Marill",
+            "stage": "Basic",
+            "hp": "40",
+            "types": [
+                "Water"
+            ],
+            "rarity": "Common",
+            "artist": "Atsuko Nishida",
+            "text": "The end of its tail serves as a buoy that keeps it from drowning, even in a vicious current.",
+            "level": "9",
+            "attacks": [
+                {
+                    "name": "Defense Curl",
+                    "damage": "",
+                    "cost": [
+                        "Colorless"
+                    ],
+                    "text": "Flip a coin. If heads, prevent all damage done to Marill during your opponent's next turn. (Any other effects of attacks still happen.)"
+                },
+                {
+                    "name": "Bubble Bomb",
+                    "damage": "30",
+                    "cost": [
+                        "Water",
+                        "Water"
+                    ],
+                    "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, Marill does 10 damage to itself."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Lightning",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-67",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "67",
+            "name": "Natu",
+            "stage": "Basic",
+            "hp": "30",
+            "types": [
+                "Psychic"
+            ],
+            "rarity": "Common",
+            "artist": "Ken Sugimori",
+            "text": "Because its wings aren't yet fully grown, it has to hop to get around. It is always staring at something.",
+            "level": "10",
+            "attacks": [
+                {
+                    "name": "Peck",
+                    "damage": "10",
+                    "cost": [
+                        "Colorless"
+                    ],
+                    "text": ""
+                },
+                {
+                    "name": "Telekinesis",
+                    "damage": "",
+                    "cost": [
+                        "Psychic",
+                        "Psychic"
+                    ],
+                    "text": "Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. Don't apply Weakness and Resistance for this attack. (Any other effects that would happen after applying Weakness and Resistance still happen.)"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Psychic",
+                    "value": "×2"
+                }
+            ],
+            "resistances": [
+                {
+                    "type": "Fighting",
+                    "value": "-30"
+                }
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-68",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "68",
+            "name": "Oddish",
+            "stage": "Basic",
+            "hp": "40",
+            "types": [
+                "Grass"
+            ],
+            "rarity": "Common",
+            "artist": "Sumiyoshi Kizuki",
+            "text": "Awakened by moonlight, it roams actively at night. In the day it stays quietly underground.",
+            "level": "7",
+            "attacks": [
+                {
+                    "name": "Hide",
+                    "damage": "",
+                    "cost": [
+                        "Colorless"
+                    ],
+                    "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Oddish."
+                },
+                {
+                    "name": "Absorb",
+                    "damage": "20",
+                    "cost": [
+                        "Grass",
+                        "Grass"
+                    ],
+                    "text": "Remove a number of damage counters from Oddish equal to half the damage done to the Defending Pokémon (after applying Weakness and Resistance) (rounded up to the nearest 10). If Oddish has fewer damage counters than that, remove all of them."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-69",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "69",
+            "name": "Onix",
+            "stage": "Basic",
+            "hp": "60",
+            "types": [
+                "Fighting"
+            ],
+            "rarity": "Common",
+            "artist": "Mitsuhiro Arita",
+            "text": "It twists and squirms through the ground. The thunderous roar of its tunneling echoes a long way.",
+            "level": "22",
+            "attacks": [
+                {
+                    "name": "Screech",
+                    "damage": "",
+                    "cost": [
+                        "Colorless"
+                    ],
+                    "text": "Until the end of your next turn, if an attack damages the Defending Pokémon (after applying Weakness and Resistance), that attack does 20 more damage to the Defending Pokémon."
+                },
+                {
+                    "name": "Rage",
+                    "damage": "10+",
+                    "cost": [
+                        "Fighting",
+                        "Fighting"
+                    ],
+                    "text": "Does 10 damage plus 10 more damage for each damage counter on Onix."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Grass",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless",
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-70",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "70",
+            "name": "Pikachu",
+            "stage": "Basic",
+            "hp": "50",
+            "types": [
+                "Lightning"
+            ],
+            "rarity": "Common",
+            "artist": "Naoyo Kimura",
+            "text": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
+            "level": "15",
+            "attacks": [
+                {
+                    "name": "Quick Attack",
+                    "damage": "10+",
+                    "cost": [
+                        "Colorless"
+                    ],
+                    "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
+                },
+                {
+                    "name": "Agility",
+                    "damage": "20",
+                    "cost": [
+                        "Lightning",
+                        "Lightning",
+                        "Colorless"
+                    ],
+                    "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Pikachu."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fighting",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-71",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "71",
+            "name": "Sentret",
+            "stage": "Basic",
+            "hp": "40",
+            "types": [
+                "Colorless"
+            ],
+            "rarity": "Common",
+            "artist": "Ken Sugimori",
+            "text": "A very cautious Pokémon, it raises itself up using its tail to get a better view of its surroundings.",
+            "level": "13",
+            "attacks": [
+                {
+                    "name": "Fury Swipes",
+                    "damage": "10×",
+                    "cost": [
+                        "Colorless"
+                    ],
+                    "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fighting",
+                    "value": "×2"
+                }
+            ],
+            "resistances": [
+                {
+                    "type": "Psychic",
+                    "value": "-30"
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-72",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "72",
+            "name": "Shuckle",
+            "stage": "Basic",
+            "hp": "50",
+            "types": [
+                "Grass"
+            ],
+            "rarity": "Common",
+            "artist": "Ken Sugimori",
+            "text": "The Berries it stores in its vaselike shell decompose and become a gooey liquid.",
+            "level": "32",
+            "attacks": [
+                {
+                    "name": "Withdraw",
+                    "damage": "",
+                    "cost": [
+                        "Grass"
+                    ],
+                    "text": "Flip a coin. If heads, prevent all damage done to Shuckle during your opponent's next turn. (Any other effects of attacks still happen.)"
+                },
+                {
+                    "name": "Wrap",
+                    "damage": "20",
+                    "cost": [
+                        "Grass",
+                        "Grass"
+                    ],
+                    "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-73",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "73",
+            "name": "Slowpoke",
+            "stage": "Basic",
+            "hp": "50",
+            "types": [
+                "Psychic"
+            ],
+            "rarity": "Common",
+            "artist": "Tomokazu Komiya",
+            "text": "It lazes vacantly near water. If something bites its tail, it won't even notice for a whole day.",
+            "level": "20",
+            "attacks": [
+                {
+                    "name": "Psyshock",
+                    "damage": "10",
+                    "cost": [
+                        "Psychic"
+                    ],
+                    "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+                },
+                {
+                    "name": "Water Gun",
+                    "damage": "10+",
+                    "cost": [
+                        "Water"
+                    ],
+                    "text": "Does 10 damage plus 10 more damage for each Water Energy attached to Slowpoke but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Psychic",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-74",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "74",
+            "name": "Snubbull",
+            "stage": "Basic",
+            "hp": "50",
+            "types": [
+                "Colorless"
+            ],
+            "rarity": "Common",
+            "artist": "Mitsuhiro Arita",
+            "text": "Although it looks frightening, it is actually kind and affectionate. It is very popular.",
+            "level": "19",
+            "attacks": [
+                {
+                    "name": "Roar",
+                    "damage": "",
+                    "cost": [
+                        "Colorless"
+                    ],
+                    "text": "Flip a coin. If heads and if your opponent has any Benched Pokémon, he of she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)"
+                },
+                {
+                    "name": "Lick",
+                    "damage": "10",
+                    "cost": [
+                        "Colorless",
+                        "Colorless"
+                    ],
+                    "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fighting",
+                    "value": "×2"
+                }
+            ],
+            "resistances": [
+                {
+                    "type": "Psychic",
+                    "value": "-30"
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-75",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "75",
+            "name": "Spinarak",
+            "stage": "Basic",
+            "hp": "40",
+            "types": [
+                "Grass"
+            ],
+            "rarity": "Common",
+            "artist": "Ken Sugimori",
+            "text": "It lies still in the same pose for days in its web, waiting for its unsuspecting prey to wander close.",
+            "level": "15",
+            "attacks": [
+                {
+                    "name": "Scary Face",
+                    "damage": "",
+                    "cost": [
+                        "Colorless"
+                    ],
+                    "text": "Flip a coin. If heads, until the end of your opponent's next turn, the Defending Pokémon can't attack or retreat."
+                },
+                {
+                    "name": "String Shot",
+                    "damage": "10",
+                    "cost": [
+                        "Grass"
+                    ],
+                    "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-76",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "76",
+            "name": "Stantler",
+            "stage": "Basic",
+            "hp": "60",
+            "types": [
+                "Colorless"
+            ],
+            "rarity": "Common",
+            "artist": "Ken Sugimori",
+            "text": "The curved antlers subtly change the flow of air to create a strange space where reality is distorted.",
+            "level": "27",
+            "attacks": [
+                {
+                    "name": "Stomp",
+                    "damage": "20+",
+                    "cost": [
+                        "Colorless",
+                        "Colorless"
+                    ],
+                    "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage; if tails, this attack does 20 damage."
+                },
+                {
+                    "name": "Mystifying Horns",
+                    "damage": "20",
+                    "cost": [
+                        "Colorless",
+                        "Colorless",
+                        "Colorless"
+                    ],
+                    "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fighting",
+                    "value": "×2"
+                }
+            ],
+            "resistances": [
+                {
+                    "type": "Psychic",
+                    "value": "-30"
+                }
+            ],
+            "retreatCost": [
+                "Colorless",
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-77",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "77",
+            "name": "Sudowoodo",
+            "stage": "Basic",
+            "hp": "60",
+            "types": [
+                "Fighting"
+            ],
+            "rarity": "Common",
+            "artist": "Ken Sugimori",
+            "text": "Although it always pretends to be a tree, its composition appears to be closer to a rock than a plant.",
+            "level": "29",
+            "attacks": [
+                {
+                    "name": "Flail",
+                    "damage": "10×",
+                    "cost": [
+                        "Fighting"
+                    ],
+                    "text": "Does 10 damage times the number of damage counters on Sudowoodo."
+                },
+                {
+                    "name": "Rock Throw",
+                    "damage": "30",
+                    "cost": [
+                        "Fighting",
+                        "Colorless"
+                    ],
+                    "text": ""
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Water",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-78",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "78",
+            "name": "Sunkern",
+            "stage": "Basic",
+            "hp": "40",
+            "types": [
+                "Grass"
+            ],
+            "rarity": "Common",
+            "artist": "Kagemaru Himeno",
+            "text": "It may drop out of the sky suddenly. If attacked by a Spearow, it violently shakes its leaves.",
+            "level": "16",
+            "attacks": [
+                {
+                    "name": "Growth",
+                    "damage": "",
+                    "cost": [
+                        "Grass"
+                    ],
+                    "text": "Flip a coin. If heads, you may attach up to 2 Grass Energy cards from your hand to Sunkern."
+                },
+                {
+                    "name": "Mega Drain",
+                    "damage": "30",
+                    "cost": [
+                        "Grass",
+                        "Grass",
+                        "Grass"
+                    ],
+                    "text": "Remove a number of damage counters from Sunkern equal to half the damage done to the Defending Pokémon (after applying Weakness and Resistance) (rounded up to the nearest 10). If Sunkern has fewer damage counters than that, remove all of them."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless",
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-79",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "79",
+            "name": "Swinub",
+            "stage": "Basic",
+            "hp": "40",
+            "types": [
+                "Water"
+            ],
+            "rarity": "Common",
+            "artist": "Ken Sugimori",
+            "text": "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs.",
+            "level": "8",
+            "attacks": [
+                {
+                    "name": "Powder Snow",
+                    "damage": "10",
+                    "cost": [
+                        "Water"
+                    ],
+                    "text": "The Defending Pokémon is now Asleep."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Grass",
+                    "value": "×2"
+                }
+            ],
+            "resistances": [
+                {
+                    "type": "Lightning",
+                    "value": "-30"
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-80",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "80",
+            "name": "Totodile",
+            "stage": "Basic",
+            "hp": "40",
+            "types": [
+                "Water"
+            ],
+            "rarity": "Common",
+            "artist": "Ken Sugimori",
+            "text": "It is small but rough and tough. It won't hesitate to take a bite out of anything that moves.",
+            "level": "13",
+            "attacks": [
+                {
+                    "name": "Bite",
+                    "damage": "10",
+                    "cost": [
+                        "Colorless"
+                    ],
+                    "text": ""
+                },
+                {
+                    "name": "Rage",
+                    "damage": "10+",
+                    "cost": [
+                        "Water",
+                        "Colorless"
+                    ],
+                    "text": "Does 10 damage plus 10 more damage for each damage counter on Totodile."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Grass",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-81",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "81",
+            "name": "Totodile",
+            "stage": "Basic",
+            "hp": "50",
+            "types": [
+                "Water"
+            ],
+            "rarity": "Common",
+            "artist": "Hironobu Yoshida",
+            "text": "Its well-developed jaws are powerful and capable of crushing anything. Even its trainer must be careful.",
+            "level": "20",
+            "attacks": [
+                {
+                    "name": "Leer",
+                    "damage": "",
+                    "cost": [
+                        "Colorless"
+                    ],
+                    "text": "Flip a coin. If heads, the Defending Pokémon can't attack Totodile during your opponent's next turn. (Benching or evolving either Pokémon ends this effect.)"
+                },
+                {
+                    "name": "Fury Swipes",
+                    "damage": "10×",
+                    "cost": [
+                        "Water"
+                    ],
+                    "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Grass",
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-82",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Pokemon Card",
+            "number": "82",
+            "name": "Wooper",
+            "stage": "Basic",
+            "hp": "50",
+            "types": [
+                "Water"
+            ],
+            "rarity": "Common",
+            "artist": "Miki Tanaka",
+            "text": "This Pokémon lives in cold water. It leaves the water to search for food when it gets cold outside.",
+            "level": "18",
+            "attacks": [
+                {
+                    "name": "Amnesia",
+                    "damage": "",
+                    "cost": [
+                        "Water"
+                    ],
+                    "text": "Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+                },
+                {
+                    "name": "Slam",
+                    "damage": "20×",
+                    "cost": [
+                        "Colorless",
+                        "Colorless"
+                    ],
+                    "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Grass",
+                    "value": "×2"
+                }
+            ],
+            "resistances": [
+                {
+                    "type": "Lightning",
+                    "value": "-30"
+                }
+            ],
+            "retreatCost": [
+                "Colorless"
+            ]
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-83",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Trainer Card",
+            "number": "83",
+            "name": "Arcade Game",
+            "types": [
+                "Trainer"
+            ],
+            "rarity": "Rare",
+            "artist": "K. Hoshiba, CR CG gangs",
+            "text": "Shuffle your deck, then reveal the top 3 cards of it. If at least 2 of those cards share the same name, put all the ones with that name into your hand and shuffle the rest into your deck. If none of them do, shuffle all 3 into your deck."
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-84",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Trainer Card",
+            "number": "84",
+            "name": "Ecogym",
+            "types": [
+                "Trainer"
+            ],
+            "rarity": "Rare",
+            "artist": "Shin-ichi Yoshikawa, CR CG gangs",
+            "text": "This card stays in play when you play it. Discard this card if another Stadium card comes into play.,Whenever an attack, Pokémon Power, or Trainer card discards another player's non-Colorless Energy card from a Pokémon, return that Energy card to its owner's hand. (Energy cards that are discarded when that Pokémon is Knocked Out don't count.)"
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-85",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Trainer Card",
+            "number": "85",
+            "name": "Energy Charge",
+            "types": [
+                "Trainer"
+            ],
+            "rarity": "Rare",
+            "artist": "Keiji Kinebuchi",
+            "text": "Flip a coin. If heads, shuffle up to 2 Energy cards from your discard pile into your deck."
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-86",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Trainer Card",
+            "number": "86",
+            "name": "Focus Band",
+            "types": [
+                "Trainer"
+            ],
+            "rarity": "Rare",
+            "artist": "Tomokazu Komiya",
+            "text": "Attach Focus Band to 1 of your Pokémon that doesn't have a Pokémon Tool attached to it.,If the Pokémon Focus Band is attached to would be Knocked Out by your opponent's attack, flip a coin. If heads, that Pokémon is not Knocked Out and its remaining HP become 10 instead. Then, discard Focus Band."
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-87",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Trainer Card",
+            "number": "87",
+            "name": "Mary",
+            "types": [
+                "Trainer"
+            ],
+            "rarity": "Rare",
+            "artist": "Ken Sugimori",
+            "text": "Draw 2 cards. Then, shuffle 2 cards from your hand into your deck."
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-88",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Trainer Card",
+            "number": "88",
+            "name": "PokéGear",
+            "types": [
+                "Trainer"
+            ],
+            "rarity": "Rare",
+            "artist": "Katsura Tabata, CR CG gangs",
+            "text": "Look at the top 7 cards of your deck. If any of them are Trainer cards, you may show 1 of them to your opponent and put it into your hand. Shuffle your deck afterward. You can't play any more Trainer cards this turn."
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-89",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Trainer Card",
+            "number": "89",
+            "name": "Super Energy Retrieval",
+            "types": [
+                "Trainer"
+            ],
+            "rarity": "Rare",
+            "artist": "Keiji Kinebuchi",
+            "text": "Trade 2 of the other cards in your hand for 4 basic Energy cards from your discard pile. If you have fewer than 4 basic Energy cards there, take all of them."
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-90",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Trainer Card",
+            "number": "90",
+            "name": "Time Capsule",
+            "types": [
+                "Trainer"
+            ],
+            "rarity": "Rare",
+            "artist": "\"Big Mama\" Tagawa, CR CG gangs",
+            "text": "Your opponent may choose 5 Basic Pokémon, Evolution, and/or basic Energy cards in his or her discard pile. (If your opponent doesn't have that many, he or she chooses all or none of them.) If your opponent chooses any cards, he or she shuffles them into his or her deck. Either way, you may do the same, and you can't play any more Trainer cards this turn."
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-91",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Trainer Card",
+            "number": "91",
+            "name": "Bill's Teleporter",
+            "types": [
+                "Trainer"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Keiji Kinebuchi",
+            "text": "Flip a coin. If heads, draw 4 cards."
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-92",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Trainer Card",
+            "number": "92",
+            "name": "Card-Flip Game",
+            "types": [
+                "Trainer"
+            ],
+            "rarity": "Uncommon",
+            "artist": "K. Hoshiba, CR CG gangs",
+            "text": "Choose 1 of your opponent's face-down Prizes. Guess whether it is an Energy card, a Trainer card, or a Pokémon (Basic or Evolution) card. Flip the card face up (and leave it face up). If you guessed right, draw 2 cards."
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-93",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Trainer Card",
+            "number": "93",
+            "name": "Gold Berry",
+            "types": [
+                "Trainer"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Ryuta Kusumi, CR CG gangs",
+            "text": "Attach Gold Berry to 1 of your Pokémon that doesn't have a Pokémon Tool attached to it.,At any time between turns, if there are at least 4 damage counters on the Pokémon Gold Berry is attached to, you may remove 4 of them and discard Gold Berry. At the start of each turn, if there are at least 4 damage counters on the Pokémon Gold Berry is attached to, remove 4 of them and discard Gold Berry."
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-94",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Trainer Card",
+            "number": "94",
+            "name": "Miracle Berry",
+            "types": [
+                "Trainer"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Yousuke Hirata, CR CG gangs",
+            "text": "Attach Miracle Berry to 1 of your Pokémon that doesn't have a Pokémon Tool attached to it.,At any time between turns, if the Pokémon Miracle Berry is attached to is Asleep, Confused, Paralyzed, or Poisoned, you may remove all those effects from that Pokémon and discard Miracle Berry. At the start of each turn, if the Pokémon Miracle Berry is attached to is Asleep, Confused, Paralyzed, or Poisoned, remove all of those effects from that Pokémon and discard Miracle Berry."
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-95",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Trainer Card",
+            "number": "95",
+            "name": "New Pokédex",
+            "types": [
+                "Trainer"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Keiji Kinebuchi",
+            "text": "Shuffle your deck. Then, look at up to 5 cards from the top of your deck and rearrange them as you like."
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-96",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Trainer Card",
+            "number": "96",
+            "name": "Professor Elm",
+            "types": [
+                "Trainer"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Ken Sugimori",
+            "text": "Shuffle your hand into your deck. Then, draw 7 cards. You can't play any more Trainer cards this turn."
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-97",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Trainer Card",
+            "number": "97",
+            "name": "Sprout Tower",
+            "types": [
+                "Trainer"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Hiromichi Sugiyama, CR CG gangs",
+            "text": "This card stays in play when you play it. Discard this card if another Stadium card comes into play.,All damage done by Colorless Pokémon's attacks is reduced by 30 (after applying Weakness and Resistance)."
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-98",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Trainer Card",
+            "number": "98",
+            "name": "Super Scoop Up",
+            "types": [
+                "Trainer"
+            ],
+            "rarity": "Uncommon",
+            "artist": "Keiji Kinebuchi",
+            "text": "Flip a coin. If heads, return 1 of your Pokémon and all cards attached to it to your hand."
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-99",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Trainer Card",
+            "number": "99",
+            "name": "Berry",
+            "types": [
+                "Trainer"
+            ],
+            "rarity": "Common",
+            "artist": "Yousuke Hirata, CR CG gangs",
+            "text": "Attach Berry to 1 of your Pokémon that doesn't have a Pokémon Tool attached to it.,At any time between turns, if there are at least 2 damage counters on the Pokémon Berry is attached to, you may remove 2 of them and discard Berry. At the start of each turn, if there are at least 2 damage counters on the Pokémon Berry is attached to, remove 2 of them and discard Berry."
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-100",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Trainer Card",
+            "number": "100",
+            "name": "Double Gust",
+            "types": [
+                "Trainer"
+            ],
+            "rarity": "Common",
+            "artist": "Tomokazu Komiya",
+            "text": "If you have any Benched Pokémon, your opponent chooses 1 of them and switches it with your Active Pokémon. Then, if your opponent has any Benched Pokémon, choose 1 of them and switch it with his or her Active Pokémon."
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-101",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Trainer Card",
+            "number": "101",
+            "name": "Moo-Moo Milk",
+            "types": [
+                "Trainer"
+            ],
+            "rarity": "Common",
+            "artist": "Tomokazu Komiya",
+            "text": "Choose 1 of your Pokémon. Flip 2 coins. Remove 2 damage counters times the number of heads from that Pokémon. If the Pokémon has fewer damage counters than that, remove all of them."
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-102",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Trainer Card",
+            "number": "102",
+            "name": "Pokémon March",
+            "types": [
+                "Trainer"
+            ],
+            "rarity": "Common",
+            "artist": "Tomokazu Komiya",
+            "text": "Your opponent may search his or her deck for 1 Basic Pokémon card and put it onto his or her Bench. Then, you may search your deck for 1 Basic Pokémon card and put it onto your Bench. Then, each player shuffles his or her deck. (A player can't do any of this if his or her Bench is full.)"
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-103",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Trainer Card",
+            "number": "103",
+            "name": "Super Rod",
+            "types": [
+                "Trainer"
+            ],
+            "rarity": "Common",
+            "artist": "Keiji Kinebuchi",
+            "text": "Flip a coin. If heads, put an Evolution card from your discard pile, if any, into your hand. If tails, put a Basic Pokémon card from your discard pile, if any, into your hand."
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-104",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Energy Card",
+            "number": "104",
+            "name": "Darkness Energy",
+            "types": [
+                "Energy"
+            ],
+            "rarity": "Rare",
+            "artist": "Milky Isobe",
+            "text": "If the Pokémon Darkness Energy is attached to damages the Defending Pokémon (after applying Weakness and Resistance), the attack does 10 more damage to the Defending Pokémon. At the end of every turn, put 1 damage counter on the Pokémon Darkness Energy is attached to, unless it's Darkness or has Dark in its name. Darkness Energy provides Darkness Energy. (Doesn't count as a basic Energy card.)"
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-105",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Energy Card",
+            "number": "105",
+            "name": "Recycle Energy",
+            "types": [
+                "Energy"
+            ],
+            "rarity": "Rare",
+            "artist": "Hideki Kazama",
+            "text": "Recycle Energy provides Colorless Energy. (Doesn't count as a basic Energy card.),If this card is put into your discard pile from play, return it to your hand."
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-106",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Energy Card",
+            "number": "106",
+            "name": "Fighting Energy",
+            "types": [
+                "Energy"
+            ],
+            "artist": "Keiji Kinebuchi"
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-107",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Energy Card",
+            "number": "107",
+            "name": "Fire Energy",
+            "types": [
+                "Energy"
+            ],
+            "artist": "Keiji Kinebuchi"
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-108",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Energy Card",
+            "number": "108",
+            "name": "Grass Energy",
+            "types": [
+                "Energy"
+            ],
+            "artist": "Keiji Kinebuchi"
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-109",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Energy Card",
+            "number": "109",
+            "name": "Lightning Energy",
+            "types": [
+                "Energy"
+            ],
+            "artist": "Keiji Kinebuchi"
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-110",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Energy Card",
+            "number": "110",
+            "name": "Psychic Energy",
+            "types": [
+                "Energy"
+            ],
+            "artist": "Keiji Kinebuchi"
+        },
+        {
+            "id": "tcg-pokemon-neo-genesis-111",
+            "variantTypes": {
+                "editions": [
+                    "1st Edition",
+                    "Unlimited"
+                ],
+                "art": [],
+                "errors": []
+            },
+            "itemType": "Energy Card",
+            "number": "111",
+            "name": "Water Energy",
+            "types": [
+                "Energy"
+            ],
+            "artist": "Keiji Kinebuchi"
+        }
+    ]
+}
