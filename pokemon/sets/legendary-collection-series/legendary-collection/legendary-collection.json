@@ -1,0 +1,4512 @@
+{
+  "setId": "tcg-pokemon-legendary-collection",
+  "cardCount": "110",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-legendary-collection-booster-box",
+      "itemType": "Sealed Product",
+      "name": "Legendary-collection Booster Box"
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-booster-pack",
+      "variantTypes": {
+        "art": [
+          "Venusaur, Charizard, and Blastoise",
+          "Vaporeon, Jolteon, and Flareon",
+          "Articuno, Zapdos, and Moltres",
+          "Alakazam, Machamp, and Mewtwo"
+        ]
+      },
+      "itemType": "Sealed Product",
+      "name": "Legendary-collection Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-legendary-collection-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Alakazam",
+      "stage": "Stage 2",
+      "evolvesFrom": "Kadabra",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Damage Swap",
+          "text": "As often as you like during your turn (before your attack), you may move 1 damage counter from 1 of your Pokémon to another as long as you don't Knock Out that Pokémon. This power can't be used if Alakazam is affected by a Special Condition.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "Its brain can outperform a supercomputer. Its intelligence quotient is said to be 5000.",
+      "level": "42",
+      "attacks": [
+        {
+          "name": "Confuse Ray",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Articuno",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "text": "A legendary bird Pokémon that is said to appear to doomed people who are lost in icy mountains.",
+      "level": "35",
+      "attacks": [
+        {
+          "name": "Freeze Dry",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Blizzard",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pokémon. If tails, this attack does 10 damage to each of your own Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-3",
+      "variantTypes": {
+        "art": [
+          "Non Holo Lava Theme Deck exclusive"
+        ]
+      },
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Charizard",
+      "stage": "Stage 2",
+      "evolvesFrom": "Charmeleon",
+      "hp": "120",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Energy Burn",
+          "text": "As often as you like during your turn (before your attack), you may turn all Energy attached to Charizard into Fire Energy for the rest of the turn. This power can't be used if Charizard is affected by a Special Condition.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "Spits fire that is hot enough to melt boulders. Known to unintentionally cause forest fires.",
+      "level": "76",
+      "attacks": [
+        {
+          "name": "Fire Spin",
+          "damage": "100",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "text": "Discard 2 Energy cards attached to Charizard or this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-4",
+      "variantTypes": {
+        "art": [
+          "Non Holo Turmoil Theme Deck exclusive"
+        ]
+      },
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Dark Blastoise",
+      "stage": "Stage 2",
+      "evolvesFrom": "Dark Wartortle",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "text": "An aggressive Pokémon that tackles anything it sees.",
+      "level": "28",
+      "attacks": [
+        {
+          "name": "Hydrocannon",
+          "damage": "30+",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "Does 30 damage plus 20 more damage for each Water Energy attached to Dark Blastoise but not used to pay for this attack's Energy cost. You can't add more than 40 damage in this way."
+        },
+        {
+          "name": "Rocket Tackle",
+          "damage": "40",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Dark Blastoise does 10 damage to itself. Flip a coin. If heads, prevent all damage done to Dark Blastoise during your opponent's next turn. (Any other effects of attacks still happen.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Dark Dragonite",
+      "stage": "Stage 2",
+      "evolvesFrom": "Dark Dragonair",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Summon Minions",
+          "text": "When you play Dark Dragonite from your hand, search your deck for up to 2 Basic Pokémon and put them onto your Bench. Shuffle your deck afterward.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "Sometimes called \"The God of Destruction.\" Its wings are able to support it in spite of its massive weight.",
+      "level": "33",
+      "attacks": [
+        {
+          "name": "Giant Tail",
+          "damage": "70",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-6",
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Dark Persian",
+      "stage": "Stage 1",
+      "evolvesFrom": "Meowth",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Shin-ichi Yoshida",
+      "text": "Popular with women because of its beautiful fur. The leader of the Rockets keeps one as a pet.",
+      "level": "28",
+      "attacks": [
+        {
+          "name": "Fascinate",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, choose 1 of your opponent's Benched Pokémon and switch it with the Defending Pokémon. This attack can't be used if your opponent has no Benched Pokémon."
+        },
+        {
+          "name": "Poison Claws",
+          "damage": "10",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-7",
+      "variantTypes": {
+        "art": [
+          "Non Holo Turmoil Theme Deck exclusive"
+        ]
+      },
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Dark Raichu",
+      "stage": "Stage 1",
+      "evolvesFrom": "Pikachu",
+      "hp": "70",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "text": "Stores up electricity in its body, then suddenly releases it to surprise and shock everyone.",
+      "level": "31",
+      "attacks": [
+        {
+          "name": "Surprise Thunder",
+          "damage": "30",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "text": "Flip a coin. If heads, flip another coin. If the second coins is heads, this attack does 20 damage to each of your opponent's Benched Pokémon. If the second coin is tails, this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-8",
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "Dark Slowbro",
+      "stage": "Stage 1",
+      "evolvesFrom": "Slowpoke",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Reel In",
+          "text": "When you play Dark Slowbro from your hand, choose up to 3 Basic Pokémon and/or Evolution cards from your discard pile and put them into your hand.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "It loves nothing better than to be left alone, and so sometimes ends up being manipulated by unscrupulous people.",
+      "level": "27",
+      "attacks": [
+        {
+          "name": "Fickle Attack",
+          "damage": "40",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-9",
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Dark Vaporeon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "text": "A Pokémon capable of controlling water, so it is capable of creating giant whirlpools.",
+      "level": "28",
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Whirlpool",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Flareon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kagemaru Himeno",
+      "text": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees.",
+      "level": "28",
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
+        },
+        {
+          "name": "Flamethrower",
+          "damage": "60",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard 1 Fire Energy card attached to Flareon or this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Gengar",
+      "stage": "Stage 2",
+      "evolvesFrom": "Haunter",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Keiji Kinebuchi",
+      "abilities": [
+        {
+          "name": "Curse",
+          "text": "Once during your turn (before your attack), you may move 1 damage counter from 1 of your opponent's Pokémon to another (even if it would Knock Out the other Pokémon). This power can't be used if Gengar is affected by a Special Condition.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "Under a full moon, this Pokémon like to mimic the shadows of people and laugh at their fright.",
+      "level": "38",
+      "attacks": [
+        {
+          "name": "Dark Mind",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "If your opponent has any Benched Pokémon, choose 1 of them and this attack does 10 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Gyarados",
+      "stage": "Stage 1",
+      "evolvesFrom": "Magikarp",
+      "hp": "100",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "text": "Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage.",
+      "level": "41",
+      "attacks": [
+        {
+          "name": "Dragon Rage",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ]
+        },
+        {
+          "name": "Bubblebeam",
+          "damage": "40",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Hitmonlee",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Sugimori",
+      "text": "When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides.",
+      "level": "30",
+      "attacks": [
+        {
+          "name": "Stretch Kick",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "Choose 1 of your opponent's Benched Pokémon, and this attack does 20 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "High Jump Kick",
+          "damage": "50",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Jolteon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "70",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kagemaru Himeno",
+      "text": "It accumulates negative ions from the atmosphere to blast out 10,000-volt lightning bolts.",
+      "level": "29",
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
+        },
+        {
+          "name": "Pin Missle",
+          "damage": "20×",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip 4 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Machamp",
+      "stage": "Stage 2",
+      "evolvesFrom": "Machoke",
+      "hp": "100",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Strikes Back",
+          "text": "Whenever your opponent's attack damages Machamp (even if Machamp is Knocked Out), this power does 10 damage to the attacking Pokémon. (Don't apply Weakness and Resistance.) This power can't be used if Machamp is already affected by a Special Condition when your opponent attacks.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "Using its amazing muscles, it throws powerful punches that can knock its victim clear over the horizon.",
+      "level": "67",
+      "attacks": [
+        {
+          "name": "Seismic Toss",
+          "damage": "60",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-16",
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Muk",
+      "stage": "Stage 1",
+      "evolvesFrom": "Grimer",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Toxic Gas",
+          "text": "Ignore all Pokémon Powers other than Toxic Gases. This power stops working while Muk is affected by a Special Condition.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",
+      "level": "34",
+      "attacks": [
+        {
+          "name": "Sludge",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Ninetales",
+      "stage": "Stage 1",
+      "evolvesFrom": "Vulpix",
+      "hp": "80",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Sugimori",
+      "text": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000-year curse.",
+      "level": "32",
+      "attacks": [
+        {
+          "name": "Lure",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent has any Benched Pokémon, choose 1 of them and switch it with the Defending Pokémon."
+        },
+        {
+          "name": "Fire Blast",
+          "damage": "80",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "text": "Discard 1 Fire Energy card attached to Ninetales or this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-18",
+      "itemType": "Pokemon Card",
+      "number": "18",
+      "name": "Venusaur",
+      "stage": "Stage 2",
+      "evolvesFrom": "Ivysaur",
+      "hp": "100",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Energy Trans",
+          "text": "As often as you like during your turn (before your attack), you may take 1 Grass Energy card attached to 1 of your Pokémon and attach it to a different one. This power can't be used if Venusaur is affected by a Special Condition.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "This plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+      "level": "67",
+      "attacks": [
+        {
+          "name": "Solarbeam",
+          "damage": "60",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass",
+            "Grass"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-19",
+      "itemType": "Pokemon Card",
+      "number": "19",
+      "name": "Zapdos",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Sugimori",
+      "text": "A legendary bird Pokémon said to appear from clouds while wielding enormous lightning bolts.",
+      "level": "64",
+      "attacks": [
+        {
+          "name": "Thunder",
+          "damage": "60",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, Zapdos does 30 damage to itself."
+        },
+        {
+          "name": "Thunderbolt",
+          "damage": "100",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "text": "Discard all Energy cards attached to Zapdos or this attack does nothing."
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-20",
+      "itemType": "Pokemon Card",
+      "number": "20",
+      "name": "Beedrill",
+      "stage": "Stage 2",
+      "evolvesFrom": "Kakuna",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "text": "Flies at high speed and attacks using the large, venomous stingers on its forelegs and tail.",
+      "level": "32",
+      "attacks": [
+        {
+          "name": "Twineedle",
+          "damage": "30×",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+        },
+        {
+          "name": "Poison Sting",
+          "damage": "40",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-21",
+      "itemType": "Pokemon Card",
+      "number": "21",
+      "name": "Butterfree",
+      "stage": "Stage 2",
+      "evolvesFrom": "Metapod",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "text": "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
+      "level": "28",
+      "attacks": [
+        {
+          "name": "Whirlwind",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any. (Do the damage before switching the Pokémon.)"
+        },
+        {
+          "name": "Mega Drain",
+          "damage": "40",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "text": "Remove a number of damage counters from Butterfree equal of half the damage done to the Defending Pokémon (after applying Weakness and Resistance) (rounded up to the nearest 10). If Butterfree has fewer damage counters that that, remove all of them."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-22",
+      "itemType": "Pokemon Card",
+      "number": "22",
+      "name": "Electrode",
+      "stage": "Stage 1",
+      "evolvesFrom": "Voltorb",
+      "hp": "90",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "text": "It stores electrical energy under very high pressure. It often explodes with little or no provocation.",
+      "level": "42",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Chain Lightning",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "text": "If the Defending Pokémon isn't Colorless, this attack does 10 damage to each Benched Pokémon of the same type as the Defending Pokémon (including your own). (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-23",
+      "itemType": "Pokemon Card",
+      "number": "23",
+      "name": "Exeggutor",
+      "stage": "Stage 1",
+      "evolvesFrom": "Exeggcute",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "text": "Legend has it that on rare occasions, one of its heads will drop off and continue on as an Exeggcute.",
+      "level": "35",
+      "attacks": [
+        {
+          "name": "Teleport",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Switch Exeggutor with 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Big Eggsplosion",
+          "damage": "20×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a number of coins equal to the number of Energy attached to Exeggutor. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-24",
+      "itemType": "Pokemon Card",
+      "number": "24",
+      "name": "Golem",
+      "stage": "Stage 2",
+      "evolvesFrom": "Graveler",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "text": "Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage.",
+      "level": "36",
+      "attacks": [
+        {
+          "name": "Avalanche",
+          "damage": "60",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Selfdestruct",
+          "damage": "100",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "Does 20 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Golem does 100 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-25",
+      "itemType": "Pokemon Card",
+      "number": "25",
+      "name": "Hypno",
+      "stage": "Stage 1",
+      "evolvesFrom": "Drowzee",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "text": "When it locks eyes with an enemy, it will use a mix of psi moves such as Hypnosis and Confusion.",
+      "level": "36",
+      "attacks": [
+        {
+          "name": "Prophecy",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Look at up to 3 cards from the top of either player's deck and rearrange them as you like."
+        },
+        {
+          "name": "Dark Mind",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "If your opponent has any Benched Pokémon, choose 1 of them and this attack does 10 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-26",
+      "itemType": "Pokemon Card",
+      "number": "26",
+      "name": "Jynx",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "text": "Merely by meditating, the Pokémon launches a powerful psychic energy attack.",
+      "level": "23",
+      "attacks": [
+        {
+          "name": "Doubleslap",
+          "damage": "10×",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "name": "Meditate",
+          "damage": "20+",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Does 20 damage plus 10 more damage for each damage counter on the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-27",
+      "itemType": "Pokemon Card",
+      "number": "27",
+      "name": "Kabutops",
+      "stage": "Stage 2",
+      "evolvesFrom": "Kabuto",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "text": "Its sleek shape is perfect for swimming. It slashes prey with its claws and drains the body fluids.",
+      "level": "30",
+      "attacks": [
+        {
+          "name": "Sharp Sickle",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ]
+        },
+        {
+          "name": "Absorb",
+          "damage": "40",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "Remove a number of damage counters from Kabutops equal to half the damage done to the Defending Pokémon (after applying Weakness and Resistance) (rounded up to the nearest 10). If Kabutops has fewer damage counters than that, remove all of them."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-28",
+      "itemType": "Pokemon Card",
+      "number": "28",
+      "name": "Magneton",
+      "stage": "Stage 1",
+      "evolvesFrom": "Magnemite",
+      "hp": "80",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "text": "Formed by several Magnemites linked together. They frequently appear when sunspots flare up.",
+      "level": "35",
+      "attacks": [
+        {
+          "name": "Sonicboom",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Don't apply Weakness and Resistance for this attack. (Any other effects that would happen after applying Weakness and Resistance still happen.)"
+        },
+        {
+          "name": "Selfdestruct",
+          "damage": "100",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "text": "Does 20 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Magneton does 100 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-29",
+      "itemType": "Pokemon Card",
+      "number": "29",
+      "name": "Mewtwo",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Christopher Rush",
+      "text": "A scientist created this Pokémon after years of horrific gene-splicing and DNA engineering experiments.",
+      "level": "13",
+      "attacks": [
+        {
+          "name": "Energy Control",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, choose a basic Energy card attached to 1 of your opponent's Pokémon and attach it to another of your opponent's Pokémon of your choice."
+        },
+        {
+          "name": "Telekinesis",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon. Don't apply Weakness and Resistance for this attack. (Any other effects that would happen after applying Weakness and Resistance still happen.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-30",
+      "itemType": "Pokemon Card",
+      "number": "30",
+      "name": "Moltres",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "text": "Known as the legendary bird of fire. Every flap of its wings creates a dazzling flash of flames.",
+      "level": "35",
+      "attacks": [
+        {
+          "name": "Wildfire",
+          "cost": [
+            "Fire"
+          ],
+          "text": "You may discard any number of Fire Energy cards attached to Moltres when you use this attack. If you do, discard that many cards from the top of your opponent's deck."
+        },
+        {
+          "name": "Dive Bomb",
+          "damage": "80",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-31",
+      "itemType": "Pokemon Card",
+      "number": "31",
+      "name": "Nidoking",
+      "stage": "Stage 2",
+      "evolvesFrom": "Nidorino",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "text": "Uses its powerful tail in battle to smash, constrict, then break its prey's bones.",
+      "level": "48",
+      "attacks": [
+        {
+          "name": "Thrash",
+          "damage": "30+",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, this attack does 30 damage and Nidoking does 10 damage to itself."
+        },
+        {
+          "name": "Toxic",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "text": "The Defending Pokémon is now Poisoned. It now takes 20 Poison damage instead of 10 after each player's turn (even if it was already Poisoned)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-32",
+      "itemType": "Pokemon Card",
+      "number": "32",
+      "name": "Nidoqueen",
+      "stage": "Stage 2",
+      "evolvesFrom": "Nidorina",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "text": "Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves.",
+      "level": "43",
+      "attacks": [
+        {
+          "name": "Boyfriends",
+          "damage": "20+",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Does 20 damage plus 20 more damage for each Nidoking you have in play."
+        },
+        {
+          "name": "Mega Punch",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-33",
+      "itemType": "Pokemon Card",
+      "number": "33",
+      "name": "Pidgeot",
+      "stage": "Stage 2",
+      "evolvesFrom": "Pidgeotto",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "text": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as Magikarp.",
+      "level": "40",
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Hurricane",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Unless this attack Knocks Out the Defending Pokémon, return the Defending Pokémon and all cards attached to it to your opponent's hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-34",
+      "itemType": "Pokemon Card",
+      "number": "34",
+      "name": "Pidgeotto",
+      "stage": "Stage 1",
+      "evolvesFrom": "Pidgey",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "text": "Very protective of its sprawling territory, this Pokémon will fiercely peck at any intruder.",
+      "level": "36",
+      "attacks": [
+        {
+          "name": "Whirlwind",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any. (Do the damage before switching the Pokémon.)"
+        },
+        {
+          "name": "Mirror Move",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If Pidgeotto was attacked last turn, do the final result of that attack on Pidgeotto to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-35",
+      "itemType": "Pokemon Card",
+      "number": "35",
+      "name": "Rhydon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Rhyhorn",
+      "hp": "100",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "text": "Protected by an armor-like hide, it is capable of living in molten lava of 3600 degrees.",
+      "level": "48",
+      "attacks": [
+        {
+          "name": "Horn Attack",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Ram",
+          "damage": "50",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "Rhydon does 20 damage to itself. Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any. (Do the damage before switching the Pokémon. Switch the Pokémon even if Rhydon is Knocked Out.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-36",
+      "itemType": "Pokemon Card",
+      "number": "36",
+      "name": "Arcanine",
+      "stage": "Stage 1",
+      "evolvesFrom": "Growlithe",
+      "hp": "100",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "A Pokémon that has been long admired for its beauty. It runs gracefully, as if on wings.",
+      "level": "45",
+      "attacks": [
+        {
+          "name": "Flamethrower",
+          "damage": "50",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Discard 1 Fire Energy card attached to Arcanine or this attack does nothing."
+        },
+        {
+          "name": "Take Down",
+          "damage": "80",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Arcanine does 30 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-37",
+      "itemType": "Pokemon Card",
+      "number": "37",
+      "name": "Charmeleon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Charmander",
+      "hp": "80",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "text": "When it swings its burning tail, it raises the temperature to unbearably high levels.",
+      "level": "32",
+      "attacks": [
+        {
+          "name": "Slash",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Flamethrower",
+          "damage": "50",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Discard 1 Fire Energy card attached to Charmeleon or this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-38",
+      "itemType": "Pokemon Card",
+      "number": "38",
+      "name": "Dark Dragonair",
+      "stage": "Stage 1",
+      "evolvesFrom": "Dratini",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Evolutionary Light",
+          "text": "Once during your turn (before your attack), you may search your deck for an Evolution card. Show it to your opponent and put it into your hand. Shuffle your deck afterward. This power can't be used if Dark Dragonair is affected by a Special Condition.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "As is fitting for a legendary Pokémon, it has many strange powers, including the ability to make rain or snow fall.",
+      "level": "28",
+      "attacks": [
+        {
+          "name": "Tail Strike",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 20 more damage; if tails, this attack does 20 damage."
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-39",
+      "itemType": "Pokemon Card",
+      "number": "39",
+      "name": "Dark Wartortle",
+      "stage": "Stage 1",
+      "evolvesFrom": "Squirtle",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "A Pokémon with a negative attitude, it hides in its shell whenever it's in a bad mood—which is often.",
+      "level": "21",
+      "attacks": [
+        {
+          "name": "Doubleslap",
+          "damage": "10×",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "name": "Mirror Shell",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "If an attack does damage to Dark Wartortle during your opponent's next turn (even if Dark Wartortle is Knocked Out), Dark Wartortle does an equal amount of damage to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-40",
+      "itemType": "Pokemon Card",
+      "number": "40",
+      "name": "Dewgong",
+      "stage": "Stage 1",
+      "evolvesFrom": "Seel",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "text": "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters.",
+      "level": "42",
+      "attacks": [
+        {
+          "name": "Aurora Beam",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Ice Beam",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-41",
+      "itemType": "Pokemon Card",
+      "number": "41",
+      "name": "Dodrio",
+      "stage": "Stage 1",
+      "evolvesFrom": "Doduo",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Retreat Aid",
+          "text": "As long as Dodrio is Benched, pay Colorless less to retreat your Active Pokémon.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "Uses its three brains to execute complex plans. While two heads sleep, one head stays awake.",
+      "level": "28",
+      "attacks": [
+        {
+          "name": "Rage",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 10 damage plus 10 more damage for each damage counter on Dodrio."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-42",
+      "itemType": "Pokemon Card",
+      "number": "42",
+      "name": "Fearow",
+      "stage": "Stage 1",
+      "evolvesFrom": "Spearow",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "text": "With its huge and magnificent wings, it can keep aloft without ever having to land for rest.",
+      "level": "27",
+      "attacks": [
+        {
+          "name": "Agility",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Fearow."
+        },
+        {
+          "name": "Drill Peck",
+          "damage": "40",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-43",
+      "itemType": "Pokemon Card",
+      "number": "43",
+      "name": "Golduck",
+      "stage": "Stage 1",
+      "evolvesFrom": "Psyduck",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "Often seen swimming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
+      "level": "27",
+      "attacks": [
+        {
+          "name": "Psyshock",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Hyper Beam",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-44",
+      "itemType": "Pokemon Card",
+      "number": "44",
+      "name": "Graveler",
+      "stage": "Stage 1",
+      "evolvesFrom": "Geodude",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.",
+      "level": "29",
+      "attacks": [
+        {
+          "name": "Harden",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "During your opponent's next turn, whenever 30 or less damage is done to Graveler (after applying Weakness and Resistance), prevent that damage. (Any other effects of attacks still happen.)"
+        },
+        {
+          "name": "Rock Throw",
+          "damage": "40",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-45",
+      "itemType": "Pokemon Card",
+      "number": "45",
+      "name": "Growlithe",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "Very protective of its territory. It will bark and bite to repel intruders from its space.",
+      "level": "18",
+      "attacks": [
+        {
+          "name": "Flare",
+          "damage": "20",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-46",
+      "itemType": "Pokemon Card",
+      "number": "46",
+      "name": "Haunter",
+      "stage": "Stage 1",
+      "evolvesFrom": "Gastly",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Transparency",
+          "text": "Whenever an attack does anything to Haunter, flip a coin. If heads, prevent all effects of that attack, including damage, done to Haunter. This power stops working while Haunter is affected by a Special Condition.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "Because of its ability to slip through block walls, it is said to be from another dimension.",
+      "level": "17",
+      "attacks": [
+        {
+          "name": "Nightmare",
+          "damage": "10",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-47",
+      "itemType": "Pokemon Card",
+      "number": "47",
+      "name": "Ivysaur",
+      "stage": "Stage 1",
+      "evolvesFrom": "Bulbasaur",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "When the bulb on its back grows large, the Pokémon seems to lose the ability to stand on its hind legs.",
+      "level": "20",
+      "attacks": [
+        {
+          "name": "Vine Whip",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Poisonpowder",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "text": "The Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-48",
+      "itemType": "Pokemon Card",
+      "number": "48",
+      "name": "Kabuto",
+      "stage": "Stage 1",
+      "evolvesFrom": "Mysterious Fossil",
+      "hp": "30",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Kabuto Armor",
+          "text": "Whenever an attack (even your own) does damage to Kabuto (after applying Weakness and Resistance), that attack does only half the damage to Kabuto (rounded down to the nearest 10). (Any other effects of attacks still happen.) This power stops working while Kabuto is affected by a Special Condition.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "A Pokémon that was resurrected from a fossil found in what was once the ocean floor eons ago.",
+      "level": "9",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-49",
+      "itemType": "Pokemon Card",
+      "number": "49",
+      "name": "Kadabra",
+      "stage": "Stage 1",
+      "evolvesFrom": "Abra",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "It emits special alpha waves from its body that induce headaches even to those just nearby.",
+      "level": "38",
+      "attacks": [
+        {
+          "name": "Recover",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Discard 1 Psychic Energy card attached to Kadabra or this attack does nothing. Remove all damage counters from Kadabra."
+        },
+        {
+          "name": "Super Psy",
+          "damage": "50",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-50",
+      "itemType": "Pokemon Card",
+      "number": "50",
+      "name": "Kakuna",
+      "stage": "Stage 1",
+      "evolvesFrom": "Weedle",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Keiji Kinebuchi",
+      "text": "Almost incapable of moving, this Pokémon can only harden its shell to protect itself from predators.",
+      "level": "23",
+      "attacks": [
+        {
+          "name": "Stiffen",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, prevent all damage done to Kakuna during your opponent's next turn. (Any other effects of attacks still happen.)"
+        },
+        {
+          "name": "Poisonpowder",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-51",
+      "itemType": "Pokemon Card",
+      "number": "51",
+      "name": "Machoke",
+      "stage": "Stage 1",
+      "evolvesFrom": "Machop",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "Its muscular body is so powerful that it must wear a power-save belt to help regulate its motions.",
+      "level": "40",
+      "attacks": [
+        {
+          "name": "Karate Chop",
+          "damage": "50-",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Does 50 damage minus 10 damage for each damage counter on Machoke."
+        },
+        {
+          "name": "Submission",
+          "damage": "60",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Machoke does 20 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-52",
+      "itemType": "Pokemon Card",
+      "number": "52",
+      "name": "Magikarp",
+      "stage": "Basic",
+      "hp": "30",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "text": "In the distant past, it was stronger than its horribly weak descendants that exist today.",
+      "level": "8",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Flail",
+          "damage": "10×",
+          "cost": [
+            "Water"
+          ],
+          "text": "Does 10 damage times the number of damage counters on Magikarp."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-53",
+      "itemType": "Pokemon Card",
+      "number": "53",
+      "name": "Meowth",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "text": "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change.",
+      "level": "15",
+      "attacks": [
+        {
+          "name": "Pay Day",
+          "damage": "10",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, draw a card."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-54",
+      "itemType": "Pokemon Card",
+      "number": "54",
+      "name": "Metapod",
+      "stage": "Stage 1",
+      "evolvesFrom": "Caterpie",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "It is vulnerable to attack because its shell is soft, exposing its weak and tender body.",
+      "level": "21",
+      "attacks": [
+        {
+          "name": "Stiffen",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, prevent all damage done to Metapod during your opponent's next turn. (Any other effects of attacks still happen.)"
+        },
+        {
+          "name": "Stun Spore",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-55",
+      "itemType": "Pokemon Card",
+      "number": "55",
+      "name": "Nidorina",
+      "stage": "Stage 1",
+      "evolvesFrom": "Nidoran ♀",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "The female's horn develops slowly. Prefers physical attacks such as clawing and biting.",
+      "level": "24",
+      "attacks": [
+        {
+          "name": "Supersonic",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Double Kick",
+          "damage": "30×",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-56",
+      "itemType": "Pokemon Card",
+      "number": "56",
+      "name": "Nidorino",
+      "stage": "Stage 1",
+      "evolvesFrom": "Nidoran ♂",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "text": "An aggressive Pokémon that is quick to attack. The horn on its head secretes a powerful venom.",
+      "level": "25",
+      "attacks": [
+        {
+          "name": "Double Kick",
+          "damage": "30×",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+        },
+        {
+          "name": "Horn Drill",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-57",
+      "itemType": "Pokemon Card",
+      "number": "57",
+      "name": "Omanyte",
+      "stage": "Stage 1",
+      "evolvesFrom": "Mysterious Fossil",
+      "hp": "40",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Clairvoyance",
+          "text": "Your opponent plays with his or her hand face up. This power stops working while Omanyte is affected by a Special Condition.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "Although long extinct, in rare cases, it can be genetically resurrected from fossils.",
+      "level": "19",
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "damage": "10+",
+          "cost": [
+            "Water"
+          ],
+          "text": "Does 10 damage plus 10 more damage for each Water Energy attached to Omanyte but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-58",
+      "itemType": "Pokemon Card",
+      "number": "58",
+      "name": "Omastar",
+      "stage": "Stage 2",
+      "evolvesFrom": "Omanyte",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "A prehistoric Pokémon that died out when its heavy shell made it impossible for it to catch prey.",
+      "level": "32",
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "damage": "20+",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Does 20 damage plus 10 more damage for each Water Energy attached to Omastar but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+        },
+        {
+          "name": "Spike Cannon",
+          "damage": "30×",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-59",
+      "itemType": "Pokemon Card",
+      "number": "59",
+      "name": "Primeape",
+      "stage": "Stage 1",
+      "evolvesFrom": "Mankey",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "Always furious and tenacious to boot. It will not abandon chasing its quarry until its quarry is caught.",
+      "level": "45",
+      "attacks": [
+        {
+          "name": "Fury Swipes",
+          "damage": "20×",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "Flip 3 coins. This attack does 20 damage times the number of heads."
+        },
+        {
+          "name": "Tantrum",
+          "damage": "50",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, Primeape is now Confused (after doing damage)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-60",
+      "itemType": "Pokemon Card",
+      "number": "60",
+      "name": "Rapidash",
+      "stage": "Stage 1",
+      "evolvesFrom": "Ponyta",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "text": "Very competitive, this Pokémon will chase anything that moves fast in the hope of racing it.",
+      "level": "33",
+      "attacks": [
+        {
+          "name": "Stomp",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage; if tails, this attack does 20 damage."
+        },
+        {
+          "name": "Agility",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Rapidash."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-61",
+      "itemType": "Pokemon Card",
+      "number": "61",
+      "name": "Raticate",
+      "stage": "Stage 1",
+      "evolvesFrom": "Rattata",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "It uses its whiskers to maintain its balance. It seems to slow down if they are cut off.",
+      "level": "41",
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Super Fang",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does damage to the Defending Pokémon equal to half the Defending Pokémon's remaining HP (rounded up to the nearest 10)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-62",
+      "itemType": "Pokemon Card",
+      "number": "62",
+      "name": "Sandslash",
+      "stage": "Stage 1",
+      "evolvesFrom": "Sandshrew",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
+      "level": "33",
+      "attacks": [
+        {
+          "name": "Slash",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Fury Swipes",
+          "damage": "20×",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "Flip 3 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-63",
+      "itemType": "Pokemon Card",
+      "number": "63",
+      "name": "Seadra",
+      "stage": "Stage 1",
+      "evolvesFrom": "Horsea",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "Capable of swimming backward by rapidly flapping its wing-like pectoral fins and stout tail.",
+      "level": "23",
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "damage": "20+",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Does 20 damage plus 10 more damage for each Water Energy attached to Seadra but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+        },
+        {
+          "name": "Agility",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Seadra."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-64",
+      "itemType": "Pokemon Card",
+      "number": "64",
+      "name": "Snorlax",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Thick Skinned",
+          "text": "Snorlax can't become Asleep, Confused, Paralyzed, Poisoned, or Burned. This power stops working while Snorlax is affected by a Special Condition.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",
+      "level": "20",
+      "attacks": [
+        {
+          "name": "Body Slam",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-65",
+      "itemType": "Pokemon Card",
+      "number": "65",
+      "name": "Tauros",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "When it targets an enemy, it charges furiously while whipping its body with its long tails.",
+      "level": "24",
+      "attacks": [
+        {
+          "name": "Stomp",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage; if tails, this attack does 20 damage."
+        },
+        {
+          "name": "Rampage",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 20 damage plus 10 more damage for each damage counter on Tauros. Flip a coin. If tails, Tauros is now Confused (after doing damage)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-66",
+      "itemType": "Pokemon Card",
+      "number": "66",
+      "name": "Tentacruel",
+      "stage": "Stage 1",
+      "evolvesFrom": "Tentacool",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "The tentacles are normally kept short. On hunts, the are extended to ensnare and immobilize prey.",
+      "level": "21",
+      "attacks": [
+        {
+          "name": "Supersonic",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Jellyfish Sting",
+          "damage": "10",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "The Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-67",
+      "itemType": "Pokemon Card",
+      "number": "67",
+      "name": "Abra",
+      "stage": "Basic",
+      "hp": "30",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "Using its ability to read minds, it will identify impending danger and teleport to safety.",
+      "level": "10",
+      "attacks": [
+        {
+          "name": "Psyshock",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-68",
+      "itemType": "Pokemon Card",
+      "number": "68",
+      "name": "Bulbasaur",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "A strange seed was planted on its back at birth. Thus, a plant sprouted and now grows with this Pokémon.",
+      "level": "13",
+      "attacks": [
+        {
+          "name": "Leech Seed",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": "Unless all damage from this attack is prevented, you may remove 1 damage counter from Bulbasaur."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-69",
+      "itemType": "Pokemon Card",
+      "number": "69",
+      "name": "Caterpie",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
+      "level": "13",
+      "attacks": [
+        {
+          "name": "String Shot",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-70",
+      "itemType": "Pokemon Card",
+      "number": "70",
+      "name": "Charmander",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "Obviously prefers hot places. If it gets caught in the rain, steam is said to spout from the tip of its tail.",
+      "level": "10",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Ember",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Discard 1 Fire Energy card attached to Charmander or this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-71",
+      "itemType": "Pokemon Card",
+      "number": "71",
+      "name": "Doduo",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints.",
+      "level": "10",
+      "attacks": [
+        {
+          "name": "Fury Attack",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-72",
+      "itemType": "Pokemon Card",
+      "number": "72",
+      "name": "Dratini",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "Long considered a mythical Pokémon until recently, when a small colony was found living underwater.",
+      "level": "10",
+      "attacks": [
+        {
+          "name": "Pound",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-73",
+      "itemType": "Pokemon Card",
+      "number": "73",
+      "name": "Drowzee",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Long-Distance Hypnosis",
+          "text": "Once during your turn (before your attack), you may flip a coin. If heads, the Defending Pokémon is now Asleep; if tails, your Active Pokémon is now Asleep. The power can't be used if Drowzee is affected by a Special Condition.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "Not popular with girls because of its attitude. Can often be heard muttering to itself in a low voice.",
+      "level": "10",
+      "attacks": [
+        {
+          "name": "Nightmare",
+          "damage": "10",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-74",
+      "itemType": "Pokemon Card",
+      "number": "74",
+      "name": "Eevee",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "Its genetic code is irregular. It may mutate if it is exposed to radiation from elemental stones.",
+      "level": "12",
+      "attacks": [
+        {
+          "name": "Tail Wag",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon can't attack Eevee during your opponent's next turn. (Benching either Pokémon ends this effect.)"
+        },
+        {
+          "name": "Quick Attack",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-75",
+      "itemType": "Pokemon Card",
+      "number": "75",
+      "name": "Exeggcute",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.",
+      "level": "14",
+      "attacks": [
+        {
+          "name": "Hypnosis",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Leech Seed",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": "Unless all damage from this attack is prevented, you may remove 1 damage counter from Exeggcute."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-76",
+      "itemType": "Pokemon Card",
+      "number": "76",
+      "name": "Gastly",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "A mysterious Pokémon. Some say it is a lifeform from another dimension, while others believe it is formed from smog.",
+      "level": "17",
+      "attacks": [
+        {
+          "name": "Lick",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Energy Conversion",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Put up to 2 Energy cards from your discard pile into your hand. Gastly does 10 damage to itself."
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-77",
+      "itemType": "Pokemon Card",
+      "number": "77",
+      "name": "Geodude",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
+      "level": "16",
+      "attacks": [
+        {
+          "name": "Stone Barrage",
+          "damage": "10×",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-78",
+      "itemType": "Pokemon Card",
+      "number": "78",
+      "name": "Grimer",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "Appears in filthy areas. Thrives by sucking up polluted sludge that is pumped out of factories.",
+      "level": "17",
+      "attacks": [
+        {
+          "name": "Nasty Goo",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Minimized",
+          "cost": [
+            "Grass"
+          ],
+          "text": "All damage done by attacks to Grimer during your opponent's next turn is reduced by 20 (after applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-79",
+      "itemType": "Pokemon Card",
+      "number": "79",
+      "name": "Machop",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "It's said that not even pro wrestlers can take down a Machop.",
+      "level": "24",
+      "attacks": [
+        {
+          "name": "Punch",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Kick",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-80",
+      "itemType": "Pokemon Card",
+      "number": "80",
+      "name": "Magnemite",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Keiji Kinebuchi",
+      "text": "Uses anti-gravity to stay suspended. Appears without warning and uses attacks like Thunder Wave.",
+      "level": "13",
+      "attacks": [
+        {
+          "name": "Thunder Wave",
+          "damage": "10",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Selfdestruct",
+          "damage": "40",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Does 10 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Magnemite does 40 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-81",
+      "itemType": "Pokemon Card",
+      "number": "81",
+      "name": "Mankey",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Sumiyoshi Kizuki",
+      "text": "Normally friendly, it quickly becomes angry if it doesn't get what it wants.",
+      "level": "14",
+      "attacks": [
+        {
+          "name": "Mischief",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Shuffle your opponent's deck."
+        },
+        {
+          "name": "Anger",
+          "damage": "20+",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 20 more damage; if tails, this attack does 20 damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-82",
+      "itemType": "Pokemon Card",
+      "number": "82",
+      "name": "Nidoran ♀",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "Although small, its venomous barbs make this Pokémon dangerous. The female has smaller horns.",
+      "level": "13",
+      "attacks": [
+        {
+          "name": "Fury Swipes",
+          "damage": "10×",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": "Search your deck for a Basic Pokémon named Nidoran ♀ or Nidoran ♂ and put it onto your Bench. Shuffle your deck afterward. (You can't use this attack if your Bench is full.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-83",
+      "itemType": "Pokemon Card",
+      "number": "83",
+      "name": "Nidoran ♂",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "Stiffens its ears to sense danger. The larger, more powerful of its horns secretes venom.",
+      "level": "20",
+      "attacks": [
+        {
+          "name": "Horn Hazard",
+          "damage": "30",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-84",
+      "itemType": "Pokemon Card",
+      "number": "84",
+      "name": "Onix",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "As it grows, the stone portions of its body harden to become similar to a diamond, though colored black.",
+      "level": "12",
+      "attacks": [
+        {
+          "name": "Rock Throw",
+          "damage": "10",
+          "cost": [
+            "Fighting"
+          ]
+        },
+        {
+          "name": "Harden",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "During your opponent's next turn, whenever 30 or less damage is done to Onix (after applying Weakness and Resistance), prevent that damage. (Any other effects of attacks still happen.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-85",
+      "itemType": "Pokemon Card",
+      "number": "85",
+      "name": "Pidgey",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
+      "level": "8",
+      "attacks": [
+        {
+          "name": "Whirlwind",
+          "damage": "10",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any. (Do the damage before switching the Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-86",
+      "itemType": "Pokemon Card",
+      "number": "86",
+      "name": "Pikachu",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "When several of these Pokémon gather, their electricity can build and cause lightning storms.",
+      "level": "14",
+      "attacks": [
+        {
+          "name": "Spark",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "text": "If your opponent has any Benched Pokémon, choose 1 of them and this attack does 10 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-87",
+      "itemType": "Pokemon Card",
+      "number": "87",
+      "name": "Ponyta",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "Its hooves are 10 times harder than diamonds. It can trample anything flat in moments.",
+      "level": "10",
+      "attacks": [
+        {
+          "name": "Smash Kick",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Flame Tail",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Fire"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-88",
+      "itemType": "Pokemon Card",
+      "number": "88",
+      "name": "Psyduck",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "It is often seen holding its head in its paws, as if it were suffering from a headache.",
+      "level": "16",
+      "attacks": [
+        {
+          "name": "Dizziness",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Draw a card."
+        },
+        {
+          "name": "Water Gun",
+          "damage": "20+",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Does 20 damage plus 10 more damage for each Water Energy attached to Psyduck but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-89",
+      "itemType": "Pokemon Card",
+      "number": "89",
+      "name": "Rattata",
+      "stage": "Basic",
+      "hp": "30",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "Bites anything when it attacks. Small and very quick, it is a common sight in many places.",
+      "level": "9",
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-90",
+      "itemType": "Pokemon Card",
+      "number": "90",
+      "name": "Rhyhorn",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "Its massive bones are 1,000 times harder than human bones. It can easily knock a trailer flying.",
+      "level": "18",
+      "attacks": [
+        {
+          "name": "Leer",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn. (Benching either Pokémon ends this effect.)"
+        },
+        {
+          "name": "Horn Attack",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-91",
+      "itemType": "Pokemon Card",
+      "number": "91",
+      "name": "Sandshrew",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "Burrow deep underground in arid locations far from water. It only emerges to hunt for food.",
+      "level": "12",
+      "attacks": [
+        {
+          "name": "Sand-attack",
+          "damage": "10",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-92",
+      "itemType": "Pokemon Card",
+      "number": "92",
+      "name": "Seel",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "The protruding horn on its head is very hard. This horn is used for bashing through thick ice.",
+      "level": "12",
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-93",
+      "itemType": "Pokemon Card",
+      "number": "93",
+      "name": "Slowpoke",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Miki Tanaka",
+      "text": "Incredibly slow and dopey. It takes 5 seconds for it to feel pain when under attack.",
+      "level": "18",
+      "attacks": [
+        {
+          "name": "Spacing Out",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, remove a damage counter from Slowpoke. This attack can't be used if Slowpoke has no damage counters on it."
+        },
+        {
+          "name": "Scavenge",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Discard 1 Psychic Energy card attached to Slowpoke in order to use this attack. Put a Trainer card from your discard pile into your hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-94",
+      "itemType": "Pokemon Card",
+      "number": "94",
+      "name": "Spearow",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.",
+      "level": "13",
+      "attacks": [
+        {
+          "name": "Peck",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Mirror Move",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If Spearow was attacked last turn, do the final result of that attack on Spearow to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-95",
+      "itemType": "Pokemon Card",
+      "number": "95",
+      "name": "Squirtle",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "After birth, its back swells and hardens into a shell. It powerfully sprays foam from its mouth.",
+      "level": "8",
+      "attacks": [
+        {
+          "name": "Bubble",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Withdraw",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, prevent all damage done to Squirtle during your opponent's next turn. (Any other effects of attacks still happen.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-96",
+      "itemType": "Pokemon Card",
+      "number": "96",
+      "name": "Tentacool",
+      "stage": "Basic",
+      "hp": "30",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Cowardice",
+          "text": "At any time during your turn (before your attack), you may return Tentacool to your hand. (Discard all cards attached to Tentacool.) This power can't be used the turn you put Tentacool into play or if Tentacool is affected by a Special Condition.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.",
+      "level": "10",
+      "attacks": [
+        {
+          "name": "Acid",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-97",
+      "itemType": "Pokemon Card",
+      "number": "97",
+      "name": "Voltorb",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Keiji Kinebuchi",
+      "text": "Usually found in power plants. Easily mistaken for a Poké Ball, it has zapped many people.",
+      "level": "10",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-98",
+      "itemType": "Pokemon Card",
+      "number": "98",
+      "name": "Vulpix",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "At the time of birth, it has just one tail. Its tail splits from the tip as it grows older.",
+      "level": "11",
+      "attacks": [
+        {
+          "name": "Confuse Ray",
+          "damage": "10",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-99",
+      "itemType": "Pokemon Card",
+      "number": "99",
+      "name": "Weedle",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "Often found in forests, eating leaves. It has a sharp, venomous stinger on its head.",
+      "level": "12",
+      "attacks": [
+        {
+          "name": "Poison Sting",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-100",
+      "itemType": "Energy Card",
+      "number": "100",
+      "name": "Full Heal Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Keiji Kinebuchi",
+      "text": "If you play this card from your hand, the Pokémon you attach it to is no longer affected by a Special Condition. Full Heal Energy provides Colorless energy. (Doesn't count as a basic Energy card.)"
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-101",
+      "itemType": "Energy Card",
+      "number": "101",
+      "name": "Potion Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Keiji Kinebuchi",
+      "text": "If you play this card from your hand, remove 1 damage counter from the Pokémon you attach it to, if it has any. Potion Energy provides Colorless energy. (Doesn't count as a basic Energy card.)"
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-102",
+      "itemType": "Trainer Card",
+      "number": "102",
+      "name": "Pokémon Breeder",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "text": "Put a Stage 2 Evolution card from your hand on the matching Basic Pokémon. You can play this card only when you would be allowed to evolve that Pokémon anyway."
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-103",
+      "itemType": "Trainer Card",
+      "number": "103",
+      "name": "Pokémon Trader",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "text": "Trade 1 of the Basic Pokémon or Evolution cards in your hand for 1 of the Basic Pokémon or Evolution cards from your deck. Show both cards to your opponent. Shuffle your deck afterward."
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-104",
+      "itemType": "Trainer Card",
+      "number": "104",
+      "name": "Scoop Up",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare",
+      "artist": "Keiji Kinebuchi",
+      "text": "Choose 1 of your Pokémon in play and return its Basic Pokémon card to your hand. (Discard all cards attached to that card.)"
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-105",
+      "itemType": "Trainer Card",
+      "number": "105",
+      "name": "The Boss's Way",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "Search your deck for an Evolution card with Dark in its name. Show it to your opponent and put it into your hand. Shuffle your deck afterward."
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-106",
+      "itemType": "Trainer Card",
+      "number": "106",
+      "name": "Challenge!",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "Ask your opponent if he or she accepts your challenge. If your opponent declines (or if both Benches are full), draw 2 cards. If your opponent accepts, each of you searches your decks for any number of Basic Pokémon cards and puts them face down onto your Benches. (A player can't do this if his or her Bench is full.) When you both have finished, shuffle your decks and turn those cards face up."
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-107",
+      "itemType": "Trainer Card",
+      "number": "107",
+      "name": "Energy Retrieval",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Keiji Kinebuchi",
+      "text": "Trade 1 of the other cards in your hand for up to 2 basic Energy cards from your discard pile."
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-108",
+      "itemType": "Trainer Card",
+      "number": "108",
+      "name": "Bill",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "Draw 2 cards."
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-109",
+      "itemType": "Trainer Card",
+      "number": "109",
+      "name": "Mysterious Fossil",
+      "hp": "10",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "artist": "Keiji Kinebuchi",
+      "text": "Play Mysterious Fossil as if it were a Basic Pokémon. While in play, Mysterious Fossil counts as a Pokémon (instead of a Trainer card). Mysterious Fossil has no attacks, can't retreat, and can't be affected by Special Conditions. If Mysterious Fossil is Knocked Out, it doesn't count as a Knocked Out Pokémon. (Discard it anyway.) At any time during your turn before your attack, you may discard Mysterious Fossil from play. You can put Pokémon that evolve from Mysterious Fossil on this card."
+    },
+    {
+      "id": "tcg-pokemon-legendary-collection-110",
+      "itemType": "Trainer Card",
+      "number": "110",
+      "name": "Potion",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "artist": "Keiji Kinebuchi",
+      "text": "Remove up to 2 damage counters from 1 of your Pokémon."
+    }
+  ]
+}
