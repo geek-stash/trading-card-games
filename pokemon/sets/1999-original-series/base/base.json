@@ -1,31 +1,69 @@
 {
   "setId": "tcg-pokemon-base",
+  "setVariants": [
+    {
+      "id": "first-edition",
+      "name": "First Edition",
+      "description": "The first edition print of the card. Signified by having the \"Edition 1\" symbol.",
+      "type": "print-run"
+    },
+    {
+      "id": "shadowless",
+      "name": "Shadowless",
+      "description": "The card's art window doesn't have a drop shadow.",
+      "type": "print-run",
+      "exclusions": [
+        "tcg-pokemon-base-8"
+      ]
+    },
+    {
+      "id": "unlimited",
+      "name": "Unlimited",
+      "description": "The standard version of the card.",
+      "type": "print-run",
+      "exclusions": [
+        "tcg-pokemon-base-8"
+      ]
+    },
+    {
+      "id": "uk-unlimited",
+      "name": "UK Unlimited",
+      "description": "The fourth print run for the set. Signified by having \"1999-2000\" as the copyright date.",
+      "type": "print-run",
+      "exclusions": [
+        "tcg-pokemon-base-8"
+      ]
+    }
+  ],
   "cardCount": "102",
   "sealedProducts": [
     {
       "id": "tcg-pokemon-base-booster-box",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Sealed Product",
       "name": "Base Booster Box"
     },
     {
       "id": "tcg-pokemon-base-booster-pack",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Charizard",
-          "Blastoise",
-          "Venusaur"
-        ]
-      },
+      "variants": [
+        {
+          "id": "charizard",
+          "name": "Charizard Pack",
+          "description": "Base Set booster pack with Charizard artwork.",
+          "type": "art"
+        },
+        {
+          "id": "blastoise",
+          "name": "Blastoise Pack",
+          "description": "Base Set booster pack with Blastoise artwork.",
+          "type": "art"
+        },
+        {
+          "id": "venusaur",
+          "name": "Venusaur Pack",
+          "description": "Base Set booster pack with Venusaur artwork.",
+          "type": "art"
+        }
+      ],
       "itemType": "Sealed Product",
       "name": "Base Booster Pack"
     }
@@ -33,15 +71,6 @@
   "cards": [
     {
       "id": "tcg-pokemon-base-1",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "1",
       "name": "Alakazam",
@@ -88,18 +117,14 @@
     },
     {
       "id": "tcg-pokemon-base-2",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ],
-        "errors": [
-          "Missing word \"Stage\""
-        ]
-      },
+      "variants": [
+        {
+          "id": "stage-error",
+          "name": "Stage Error",
+          "description": "Missing the word \"Stage\".",
+          "type": "error"
+        }
+      ],
       "itemType": "Pokemon Card",
       "number": "2",
       "name": "Blastoise",
@@ -146,15 +171,6 @@
     },
     {
       "id": "tcg-pokemon-base-3",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "3",
       "name": "Chansey",
@@ -206,15 +222,6 @@
     },
     {
       "id": "tcg-pokemon-base-4",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "4",
       "name": "Charizard",
@@ -268,15 +275,6 @@
     },
     {
       "id": "tcg-pokemon-base-5",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "5",
       "name": "Clefairy",
@@ -325,15 +323,6 @@
     },
     {
       "id": "tcg-pokemon-base-6",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "6",
       "name": "Gyarados",
@@ -389,15 +378,6 @@
     },
     {
       "id": "tcg-pokemon-base-7",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "7",
       "name": "Hitmonchan",
@@ -441,16 +421,14 @@
     },
     {
       "id": "tcg-pokemon-base-8",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless",
-          "Cosmos Holo"
-        ]
-      },
+      "variants": [
+        {
+          "id": "cosmos-holo",
+          "name": "Cosmos Holo",
+          "description": "2-Player CD-ROM Starter Set exclusive.",
+          "type": "art"
+        }
+      ],
       "itemType": "Pokemon Card",
       "number": "8",
       "name": "Machamp",
@@ -497,15 +475,6 @@
     },
     {
       "id": "tcg-pokemon-base-9",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "9",
       "name": "Magneton",
@@ -554,15 +523,6 @@
     },
     {
       "id": "tcg-pokemon-base-10",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "10",
       "name": "Mewtwo",
@@ -608,15 +568,6 @@
     },
     {
       "id": "tcg-pokemon-base-11",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "11",
       "name": "Nidoking",
@@ -666,18 +617,14 @@
     },
     {
       "id": "tcg-pokemon-base-12",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ],
-        "errors": [
-          "Missing attack damage"
-        ]
-      },
+      "variants": [
+        {
+          "id": "damage-error",
+          "name": "Damage Error",
+          "description": "The damage for Fire Blast is missing.",
+          "type": "error"
+        }
+      ],
       "itemType": "Pokemon Card",
       "number": "12",
       "name": "Ninetales",
@@ -724,15 +671,6 @@
     },
     {
       "id": "tcg-pokemon-base-13",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "13",
       "name": "Poliwrath",
@@ -783,18 +721,14 @@
     },
     {
       "id": "tcg-pokemon-base-14",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ],
-        "errors": [
-          "Pre-release stamp"
-        ]
-      },
+      "variants": [
+        {
+          "id": "prerelease-stamp",
+          "name": "Pre-Release",
+          "description": "The card has \"PRERELEASE\" stamped on the artwork.",
+          "type": "art"
+        }
+      ],
       "itemType": "Pokemon Card",
       "number": "14",
       "name": "Raichu",
@@ -843,15 +777,6 @@
     },
     {
       "id": "tcg-pokemon-base-15",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "15",
       "name": "Venusaur",
@@ -897,15 +822,6 @@
     },
     {
       "id": "tcg-pokemon-base-16",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "16",
       "name": "Zapdos",
@@ -956,18 +872,14 @@
     },
     {
       "id": "tcg-pokemon-base-17",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ],
-        "errors": [
-          "\"D.efending\" typo"
-        ]
-      },
+      "variants": [
+        {
+          "id": "defending-error",
+          "name": "Defending Error",
+          "description": "\"Defending\" has a typo \"D.efending\" in the Posion Sting attack description.",
+          "type": "error"
+        }
+      ],
       "itemType": "Pokemon Card",
       "number": "17",
       "name": "Beedrill",
@@ -1018,15 +930,6 @@
     },
     {
       "id": "tcg-pokemon-base-18",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "18",
       "name": "Dragonair",
@@ -1076,15 +979,6 @@
     },
     {
       "id": "tcg-pokemon-base-19",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "19",
       "name": "Dugtrio",
@@ -1139,15 +1033,6 @@
     },
     {
       "id": "tcg-pokemon-base-20",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "20",
       "name": "Electabuzz",
@@ -1192,15 +1077,6 @@
     },
     {
       "id": "tcg-pokemon-base-21",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "21",
       "name": "Electrode",
@@ -1245,15 +1121,6 @@
     },
     {
       "id": "tcg-pokemon-base-22",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "22",
       "name": "Pidgeotto",
@@ -1305,15 +1172,6 @@
     },
     {
       "id": "tcg-pokemon-base-23",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "23",
       "name": "Arcanine",
@@ -1364,15 +1222,6 @@
     },
     {
       "id": "tcg-pokemon-base-24",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "24",
       "name": "Charmeleon",
@@ -1419,15 +1268,6 @@
     },
     {
       "id": "tcg-pokemon-base-25",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "25",
       "name": "Dewgong",
@@ -1477,15 +1317,6 @@
     },
     {
       "id": "tcg-pokemon-base-26",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "26",
       "name": "Dratini",
@@ -1519,15 +1350,6 @@
     },
     {
       "id": "tcg-pokemon-base-27",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "27",
       "name": "Farfetch'd",
@@ -1577,15 +1399,6 @@
     },
     {
       "id": "tcg-pokemon-base-28",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "28",
       "name": "Growlithe",
@@ -1620,15 +1433,6 @@
     },
     {
       "id": "tcg-pokemon-base-29",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "29",
       "name": "Haunter",
@@ -1672,15 +1476,6 @@
     },
     {
       "id": "tcg-pokemon-base-30",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "30",
       "name": "Ivysaur",
@@ -1727,15 +1522,6 @@
     },
     {
       "id": "tcg-pokemon-base-31",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "31",
       "name": "Jynx",
@@ -1781,15 +1567,6 @@
     },
     {
       "id": "tcg-pokemon-base-32",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "32",
       "name": "Kadabra",
@@ -1836,15 +1613,6 @@
     },
     {
       "id": "tcg-pokemon-base-33",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "33",
       "name": "Kakuna",
@@ -1890,15 +1658,6 @@
     },
     {
       "id": "tcg-pokemon-base-34",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "34",
       "name": "Machoke",
@@ -1949,15 +1708,6 @@
     },
     {
       "id": "tcg-pokemon-base-35",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "35",
       "name": "Magikarp",
@@ -1999,15 +1749,6 @@
     },
     {
       "id": "tcg-pokemon-base-36",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "36",
       "name": "Magmar",
@@ -2053,15 +1794,6 @@
     },
     {
       "id": "tcg-pokemon-base-37",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "37",
       "name": "Nidorino",
@@ -2109,15 +1841,6 @@
     },
     {
       "id": "tcg-pokemon-base-38",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "38",
       "name": "Poliwhirl",
@@ -2163,15 +1886,6 @@
     },
     {
       "id": "tcg-pokemon-base-39",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "39",
       "name": "Porygon",
@@ -2219,15 +1933,6 @@
     },
     {
       "id": "tcg-pokemon-base-40",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "40",
       "name": "Raticate",
@@ -2277,15 +1982,6 @@
     },
     {
       "id": "tcg-pokemon-base-41",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "41",
       "name": "Seel",
@@ -2319,18 +2015,14 @@
     },
     {
       "id": "tcg-pokemon-base-42",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ],
-        "errors": [
-          "Wartortle in the Evolution box"
-        ]
-      },
+      "variants": [
+        {
+          "id": "evolution-box-error",
+          "name": "Evolution Box Error",
+          "description": "Wartortle is shown in the Evolution box.",
+          "type": "error"
+        }
+      ],
       "itemType": "Pokemon Card",
       "number": "42",
       "name": "Wartortle",
@@ -2375,15 +2067,6 @@
     },
     {
       "id": "tcg-pokemon-base-43",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "43",
       "name": "Abra",
@@ -2415,15 +2098,6 @@
     },
     {
       "id": "tcg-pokemon-base-44",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "44",
       "name": "Bulbasaur",
@@ -2459,15 +2133,6 @@
     },
     {
       "id": "tcg-pokemon-base-45",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "45",
       "name": "Caterpie",
@@ -2502,15 +2167,6 @@
     },
     {
       "id": "tcg-pokemon-base-46",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "46",
       "name": "Charmander",
@@ -2553,18 +2209,14 @@
     },
     {
       "id": "tcg-pokemon-base-47",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ],
-        "errors": [
-          "Attack cost symbols rotated"
-        ]
-      },
+      "variants": [
+        {
+          "id": "fighting-symbol-error",
+          "name": "Fighting Symbol Error",
+          "description": "The fighting symbol for the Dig attack is rotated.",
+          "type": "error"
+        }
+      ],
       "itemType": "Pokemon Card",
       "number": "47",
       "name": "Diglett",
@@ -2609,15 +2261,6 @@
     },
     {
       "id": "tcg-pokemon-base-48",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "48",
       "name": "Doduo",
@@ -2655,15 +2298,6 @@
     },
     {
       "id": "tcg-pokemon-base-49",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "49",
       "name": "Drowzee",
@@ -2706,15 +2340,6 @@
     },
     {
       "id": "tcg-pokemon-base-50",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "50",
       "name": "Gastly",
@@ -2753,15 +2378,6 @@
     },
     {
       "id": "tcg-pokemon-base-51",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "51",
       "name": "Koffing",
@@ -2797,15 +2413,6 @@
     },
     {
       "id": "tcg-pokemon-base-52",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "52",
       "name": "Machop",
@@ -2839,15 +2446,6 @@
     },
     {
       "id": "tcg-pokemon-base-53",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "53",
       "name": "Magnemite",
@@ -2891,15 +2489,6 @@
     },
     {
       "id": "tcg-pokemon-base-54",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "54",
       "name": "Metapod",
@@ -2945,15 +2534,6 @@
     },
     {
       "id": "tcg-pokemon-base-55",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "55",
       "name": "Nidoran ♂",
@@ -2988,15 +2568,6 @@
     },
     {
       "id": "tcg-pokemon-base-56",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "56",
       "name": "Onix",
@@ -3040,15 +2611,6 @@
     },
     {
       "id": "tcg-pokemon-base-57",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "57",
       "name": "Pidgey",
@@ -3090,22 +2652,38 @@
     },
     {
       "id": "tcg-pokemon-base-58",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless",
-          "Red Cheek E3",
-          "Yellow Cheek E3",
-          "PokéTour 1999"
-        ],
-        "errors": [
-          "Red Cheeks",
-          "\"1st\" and the letter \"d\" in \"1st edition\" missing"
-        ]
-      },
+      "variants": [
+        {
+          "id": "red-cheek-e3",
+          "name": "Red Cheek E3",
+          "description": "The card has Pikachu with red cheeks and the E3 symbol.",
+          "type": "art"
+        },
+        {
+          "id": "yellow-cheek-e3",
+          "name": "Yellow Cheek E3",
+          "description": "The card has Pikachu with yellow cheeks and the E3 symbol.",
+          "type": "art"
+        },
+        {
+          "id": "poketour-1999",
+          "name": "PokéTour 1999",
+          "description": "The card has the \"PokéTour 1999\" stamp on the art.",
+          "type": "art"
+        },
+        {
+          "id": "red-cheek-error",
+          "name": "Red Cheek Error",
+          "description": "The card has Pikachu with red cheeks.",
+          "type": "error"
+        },
+        {
+          "id": "first-edition-stamp-error",
+          "name": "First Edition Stamp Error",
+          "description": "The \"1\" and the letter \"D\" in the \"Edition 1\" stamp are missing.",
+          "type": "error"
+        }
+      ],
       "itemType": "Pokemon Card",
       "number": "58",
       "name": "Pikachu",
@@ -3148,15 +2726,6 @@
     },
     {
       "id": "tcg-pokemon-base-59",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "59",
       "name": "Poliwag",
@@ -3191,15 +2760,6 @@
     },
     {
       "id": "tcg-pokemon-base-60",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "60",
       "name": "Ponyta",
@@ -3242,15 +2802,6 @@
     },
     {
       "id": "tcg-pokemon-base-61",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "61",
       "name": "Rattata",
@@ -3287,15 +2838,6 @@
     },
     {
       "id": "tcg-pokemon-base-62",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "62",
       "name": "Sandshrew",
@@ -3336,15 +2878,6 @@
     },
     {
       "id": "tcg-pokemon-base-63",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "63",
       "name": "Squirtle",
@@ -3387,15 +2920,6 @@
     },
     {
       "id": "tcg-pokemon-base-64",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "64",
       "name": "Starmie",
@@ -3441,15 +2965,6 @@
     },
     {
       "id": "tcg-pokemon-base-65",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "65",
       "name": "Staryu",
@@ -3483,15 +2998,6 @@
     },
     {
       "id": "tcg-pokemon-base-66",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "66",
       "name": "Tangela",
@@ -3538,15 +3044,6 @@
     },
     {
       "id": "tcg-pokemon-base-67",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "67",
       "name": "Voltorb",
@@ -3580,15 +3077,6 @@
     },
     {
       "id": "tcg-pokemon-base-68",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "68",
       "name": "Vulpix",
@@ -3624,15 +3112,6 @@
     },
     {
       "id": "tcg-pokemon-base-69",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "69",
       "name": "Weedle",
@@ -3667,15 +3146,6 @@
     },
     {
       "id": "tcg-pokemon-base-70",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "70",
       "name": "Clefairy Doll",
@@ -3689,15 +3159,6 @@
     },
     {
       "id": "tcg-pokemon-base-71",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "71",
       "name": "Computer Search",
@@ -3710,15 +3171,6 @@
     },
     {
       "id": "tcg-pokemon-base-72",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "72",
       "name": "Devolution Spray",
@@ -3731,15 +3183,6 @@
     },
     {
       "id": "tcg-pokemon-base-73",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "73",
       "name": "Impostor Professor Oak",
@@ -3752,15 +3195,6 @@
     },
     {
       "id": "tcg-pokemon-base-74",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "74",
       "name": "Item Finder",
@@ -3773,15 +3207,6 @@
     },
     {
       "id": "tcg-pokemon-base-75",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "75",
       "name": "Lass",
@@ -3794,15 +3219,6 @@
     },
     {
       "id": "tcg-pokemon-base-76",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "76",
       "name": "Pokémon Breeder",
@@ -3815,15 +3231,6 @@
     },
     {
       "id": "tcg-pokemon-base-77",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "77",
       "name": "Pokémon Trader",
@@ -3836,15 +3243,6 @@
     },
     {
       "id": "tcg-pokemon-base-78",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "78",
       "name": "Scoop Up",
@@ -3857,15 +3255,6 @@
     },
     {
       "id": "tcg-pokemon-base-79",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "79",
       "name": "Super Energy Removal",
@@ -3878,15 +3267,6 @@
     },
     {
       "id": "tcg-pokemon-base-80",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "80",
       "name": "Defender",
@@ -3899,15 +3279,6 @@
     },
     {
       "id": "tcg-pokemon-base-81",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "81",
       "name": "Energy Retrieval",
@@ -3920,15 +3291,6 @@
     },
     {
       "id": "tcg-pokemon-base-82",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "82",
       "name": "Full Heal",
@@ -3941,15 +3303,6 @@
     },
     {
       "id": "tcg-pokemon-base-83",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "83",
       "name": "Maintenance",
@@ -3962,15 +3315,6 @@
     },
     {
       "id": "tcg-pokemon-base-84",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "84",
       "name": "PlusPower",
@@ -3983,15 +3327,6 @@
     },
     {
       "id": "tcg-pokemon-base-85",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "85",
       "name": "Pokémon Center",
@@ -4004,15 +3339,6 @@
     },
     {
       "id": "tcg-pokemon-base-86",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "86",
       "name": "Pokémon Flute",
@@ -4025,15 +3351,6 @@
     },
     {
       "id": "tcg-pokemon-base-87",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "87",
       "name": "Pokédex",
@@ -4046,15 +3363,6 @@
     },
     {
       "id": "tcg-pokemon-base-88",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "88",
       "name": "Professor Oak",
@@ -4067,15 +3375,6 @@
     },
     {
       "id": "tcg-pokemon-base-89",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "89",
       "name": "Revive",
@@ -4088,15 +3387,6 @@
     },
     {
       "id": "tcg-pokemon-base-90",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "90",
       "name": "Super Potion",
@@ -4109,15 +3399,6 @@
     },
     {
       "id": "tcg-pokemon-base-91",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "91",
       "name": "Bill",
@@ -4130,15 +3411,6 @@
     },
     {
       "id": "tcg-pokemon-base-92",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "92",
       "name": "Energy Removal",
@@ -4151,15 +3423,6 @@
     },
     {
       "id": "tcg-pokemon-base-93",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "93",
       "name": "Gust of Wind",
@@ -4172,15 +3435,6 @@
     },
     {
       "id": "tcg-pokemon-base-94",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "94",
       "name": "Potion",
@@ -4193,15 +3447,6 @@
     },
     {
       "id": "tcg-pokemon-base-95",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "95",
       "name": "Switch",
@@ -4214,15 +3459,6 @@
     },
     {
       "id": "tcg-pokemon-base-96",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Energy Card",
       "number": "96",
       "name": "Double Colorless Energy",
@@ -4235,15 +3471,6 @@
     },
     {
       "id": "tcg-pokemon-base-97",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Energy Card",
       "number": "97",
       "name": "Fighting Energy",
@@ -4254,15 +3481,6 @@
     },
     {
       "id": "tcg-pokemon-base-98",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Energy Card",
       "number": "98",
       "name": "Fire Energy",
@@ -4273,15 +3491,6 @@
     },
     {
       "id": "tcg-pokemon-base-99",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Energy Card",
       "number": "99",
       "name": "Grass Energy",
@@ -4292,15 +3501,6 @@
     },
     {
       "id": "tcg-pokemon-base-100",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Energy Card",
       "number": "100",
       "name": "Lightning Energy",
@@ -4311,15 +3511,6 @@
     },
     {
       "id": "tcg-pokemon-base-101",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ]
-      },
       "itemType": "Energy Card",
       "number": "101",
       "name": "Psychic Energy",
@@ -4330,18 +3521,14 @@
     },
     {
       "id": "tcg-pokemon-base-102",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Shadowless"
-        ],
-        "errors": [
-          "No space between the margin and the water symbol, along with \"ENERGY\""
-        ]
-      },
+      "variants": [
+        {
+          "id": "margin-error",
+          "name": "Margin Error",
+          "description": "The margin above the water symbol and \"ENERGY\" is missing.",
+          "type": "error"
+        }
+      ],
       "itemType": "Energy Card",
       "number": "102",
       "name": "Water Energy",
