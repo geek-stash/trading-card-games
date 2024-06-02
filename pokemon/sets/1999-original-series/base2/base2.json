@@ -1,5 +1,13 @@
 {
   "setId": "tcg-pokemon-base2",
+  "setVariants": [
+    {
+      "id": "unlimited",
+      "name": "Unlimited",
+      "description": "The standard version of the card.",
+      "type": "print-run"
+    }
+  ],
   "cardCount": "130",
   "sealedProducts": [
     {
@@ -2927,11 +2935,14 @@
     },
     {
       "id": "tcg-pokemon-base2-63",
-      "variantTypes": {
-        "art": [
-          "Top Deck Magazine W Promo"
-        ]
-      },
+      "variants": [
+        {
+          "id": "top-deck-promo",
+          "name": "Top Deck Promo",
+          "description": "The card has a \"W\" stamp on the artwork.",
+          "type": "art"      
+        }
+      ],
       "itemType": "Pokemon Card",
       "number": "63",
       "name": "Wartortle",
