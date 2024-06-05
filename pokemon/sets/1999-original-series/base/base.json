@@ -4,13 +4,13 @@
     {
       "id": "first-edition",
       "name": "First Edition",
-      "description": "The first edition print of the card. Signified by having the \"Edition 1\" symbol.",
+      "description": "The first print run of the set. The cards have the \"Edition 1\" symbol.",
       "type": "print-run"
     },
     {
       "id": "shadowless",
       "name": "Shadowless",
-      "description": "The card's art window doesn't have a drop shadow.",
+      "description": "The second print run of the set. The card's art window doesn't have a drop shadow.",
       "type": "print-run",
       "exclusions": [
         "tcg-pokemon-base-8"
@@ -19,7 +19,7 @@
     {
       "id": "unlimited",
       "name": "Unlimited",
-      "description": "The standard version of the card.",
+      "description": "The unlimited print of the set.",
       "type": "print-run",
       "exclusions": [
         "tcg-pokemon-base-8"
@@ -28,7 +28,7 @@
     {
       "id": "uk-unlimited",
       "name": "UK Unlimited",
-      "description": "The fourth print run for the set. Signified by having \"1999-2000\" as the copyright date.",
+      "description": "The fourth print run for the set. The cards have \"1999-2000\" as the copyright date.",
       "type": "print-run",
       "exclusions": [
         "tcg-pokemon-base-8"
@@ -39,111 +39,11 @@
   "sealedProducts": [
     {
       "id": "tcg-pokemon-base-booster-box",
-      "variants": [
-        {
-          "id": "first-edition",
-          "name": "First Edition Base Booster Box",
-          "description": "First edition base set booster box.",
-          "type": "print-run"
-        },
-        {
-          "id": "shadowless",
-          "name": "Shadowless Base Booster Box",
-          "description": "Shadowless base set booster box.",
-          "type": "print-run"
-        },
-        {
-          "id": "unlimited",
-          "name": "Unlimited Base Booster Box",
-          "description": "Unlimited base set booster box.",
-          "type": "print-run"
-        },
-        {
-          "id": "uk-unlimited",
-          "name": "UK Unlimited Base Booster Box",
-          "description": "UK Unlimited base set booster box.",
-          "type": "print-run"
-        }
-      ],
       "itemType": "Sealed Product",
       "name": "Base Booster Box"
     },
     {
       "id": "tcg-pokemon-base-booster-pack",
-      "variants": [
-        {
-          "id": "charizard-first-edition",
-          "name": "First Edition Charizard Pack",
-          "description": "First edition base set booster pack with Charizard artwork.",
-          "type": "print-run"
-        },
-        {
-          "id": "blastoise-first-edition",
-          "name": "First Edition Blastoise Pack",
-          "description": "First edition base set booster pack with Blastoise artwork.",
-          "type": "print-run"
-        },
-        {
-          "id": "venusaur-first-edition",
-          "name": "First Edition Venusaur Pack",
-          "description": "First edition base set booster pack with Venusaur artwork.",
-          "type": "print-run"
-        },
-        {
-          "id": "charizard-shadowless",
-          "name": "Shadowless Charizard Pack",
-          "description": "Shadowless base set booster pack with Charizard artwork.",
-          "type": "print-run"
-        },
-        {
-          "id": "blastoise-shadowless",
-          "name": "Shadowless Blastoise Pack",
-          "description": "Shadowless base set booster pack with Blastoise artwork.",
-          "type": "print-run"
-        },
-        {
-          "id": "venusaur-shadowless",
-          "name": "Shadowless Venusaur Pack",
-          "description": "Shadowless base set booster pack with Venusaur artwork.",
-          "type": "print-run"
-        },
-        {
-          "id": "charizard-unlimited",
-          "name": "Unlimited Charizard Pack",
-          "description": "Unlimited base set booster pack with Charizard artwork.",
-          "type": "print-run"
-        },
-        {
-          "id": "blastoise-unlimited",
-          "name": "Unlimited Blastoise Pack",
-          "description": "Unlimited base set booster pack with Blastoise artwork.",
-          "type": "print-run"
-        },
-        {
-          "id": "venusaur-unlimited",
-          "name": "Unlimited Venusaur Pack",
-          "description": "Unlimited base set booster pack with Venusaur artwork.",
-          "type": "print-run"
-        },
-        {
-          "id": "charizard-uk-unlimited",
-          "name": "UK Unlimited Charizard Pack",
-          "description": "UK Unlimited base set booster pack with Charizard artwork.",
-          "type": "print-run"
-        },
-        {
-          "id": "blastoise-uk-unlimited",
-          "name": "UK Unlimited Blastoise Pack",
-          "description": "UK Unlimited base set booster pack with Blastoise artwork.",
-          "type": "print-run"
-        },
-        {
-          "id": "venusaur-uk-unlimited",
-          "name": "UK Unlimited Venusaur Pack",
-          "description": "UK Unlimited base set booster pack with Venusaur artwork.",
-          "type": "print-run"
-        }
-      ],
       "itemType": "Sealed Product",
       "name": "Base Booster Pack"
     }
