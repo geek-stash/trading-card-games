@@ -1,0 +1,4144 @@
+{
+  "setId": "tcg-pokemon-hidden-legends",
+  "setVariants": [
+    {
+      "id": "reverse-holo",
+      "name": "Reverse Holo",
+      "description": "The reverse holo print of the set.",
+      "type": "art",
+      "exclusions": [
+        "tcg-pokemon-hidden-legends-booster-box",
+        "tcg-pokemon-hidden-legends-booster-pack"
+      ]
+    },
+    {
+      "id": "unlimited",
+      "name": "Unlimited",
+      "description": "The unlimited print of the set.",
+      "type": "print-run"
+    }
+  ],
+  "cardCount": "102",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-hidden-legends-booster-box",
+      "itemType": "Sealed Product",
+      "name": "Hidden Legends Booster Box"
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-booster-pack",
+      "itemType": "Sealed Product",
+      "name": "Hidden Legends Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-hidden-legends-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Banette",
+      "stage": "Stage 1",
+      "evolvesFrom": "Shuppet",
+      "hp": "70",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Midori Harada",
+      "attacks": [
+        {
+          "name": "Shadow Steal",
+          "damage": "10+",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Does 10 damage plus 20 more damage for each Special Energy card in your opponent's discard pile."
+        },
+        {
+          "name": "Darkness Chant",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Count the number of Basic Pokémon or Evolution cards in your discard pile. Put that many damage counters on the Defending Pokémon. You can't put more than 6 damage counters on the Defending Pokémon in this way."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Claydol",
+      "stage": "Stage 1",
+      "evolvesFrom": "Baltoy",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kyoko Umemoto",
+      "abilities": [
+        {
+          "name": "Primal Pull",
+          "text": "As long as Claydol is your Active Pokémon, each player's Evolved Pokémon pays Colorless more Energy to use its attacks.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Muddy Eye",
+          "damage": "10×",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Does 10 damage times the number of basic Energy cards attached to Claydol and the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-3",
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Crobat",
+      "stage": "Stage 2",
+      "evolvesFrom": "Golbat",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Midori Harada",
+      "attacks": [
+        {
+          "name": "Flutter Trick",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, look at your opponent's hand and choose 1 card. Your opponent discards the card you chose."
+        },
+        {
+          "name": "Triple Poison",
+          "damage": "10",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Poisoned. Put 3 damage counters instead of 1 on the Defending Pokémon between turns."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-4",
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Dark Celebi",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Grass",
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Ikuji",
+      "text": "This Pokémon is both GrassDarkness type.",
+      "attacks": [
+        {
+          "name": "Dark Provide",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Attach up to 1 Grass or Darkness Energy card from your hand to your Pokémon."
+        },
+        {
+          "name": "Leaf Poison",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Darkness"
+          ],
+          "text": "The Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Electrode",
+      "stage": "Stage 1",
+      "evolvesFrom": "Voltorb",
+      "hp": "70",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kyoko Umemoto",
+      "attacks": [
+        {
+          "name": "Swift",
+          "damage": "30",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+        },
+        {
+          "name": "Mass Destruction",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Both Electrode and the Defending Pokémon are now Knocked Out. If Electrode has any Special Energy cards attached to it, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-6",
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Exploud",
+      "stage": "Stage 2",
+      "evolvesFrom": "Loudred",
+      "hp": "120",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Tomokazu Komiya",
+      "attacks": [
+        {
+          "name": "Breaking Sound",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Bass Control",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 30 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Thunderous Roar",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Hyper Voice",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-7",
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Heracross",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Hajime Kusajima",
+      "attacks": [
+        {
+          "name": "Extra Draw",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If your opponent has any Pokémon-ex in play, search your deck for up to 2 Grass Energy cards and attach them to Heracross. Shuffle your deck afterward."
+        },
+        {
+          "name": "Sonicboom",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Weakness or Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-8",
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "Jirachi",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Psychic",
+        "Metal"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ryo Ueda",
+      "text": "This Pokémon is both Psychic Metal type.",
+      "attacks": [
+        {
+          "name": "Make a Wish",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a card that evolves from 1 of your Pokémon and put it on that Pokémon. (This counts as evolving that Pokémon.) If you do, put 1 damage counter on Jirachi. Shuffle your deck afterward."
+        },
+        {
+          "name": "Mind Bend",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Metal"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-9",
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Machamp",
+      "stage": "Stage 2",
+      "evolvesFrom": "Machoke",
+      "hp": "120",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Hajime Kusajima",
+      "abilities": [
+        {
+          "name": "Overzealous",
+          "text": "If your opponent has any Pokémon-ex in play, each of Machamp's attacks do 30 more damage to the Defending Pokémon.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Brick Smash",
+          "damage": "40",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+        },
+        {
+          "name": "Cross Chop",
+          "damage": "60+",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 60 damage plus 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Medicham",
+      "stage": "Stage 1",
+      "evolvesFrom": "Meditite",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Atsuko Nishida",
+      "attacks": [
+        {
+          "name": "Meditate",
+          "damage": "20+",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Does 20 damage plus 10 more damage for each damage counter on the Defending Pokémon."
+        },
+        {
+          "name": "Chakra Points",
+          "damage": "10+",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 10 damage plus 10 more damage for each card in your opponent's hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Metagross",
+      "stage": "Stage 2",
+      "evolvesFrom": "Metang",
+      "hp": "100",
+      "types": [
+        "Psychic",
+        "Metal"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kouki Saitou",
+      "abilities": [
+        {
+          "name": "Metal Juncture",
+          "text": "As often as you like during your turn (before your attack), you may move a Metal Energy card attached to 1 of your Benched Pokémon to your Active Pokémon. This power can't be used if Metagross is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "This Pokémon is both Psychic Metal type.",
+      "attacks": [
+        {
+          "name": "Squared Attack",
+          "damage": "30×",
+          "cost": [
+            "Psychic",
+            "Metal",
+            "Colorless"
+          ],
+          "text": "Flip 4 coins. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Milotic",
+      "stage": "Stage 1",
+      "evolvesFrom": "Feebas",
+      "hp": "100",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Atsuko Nishida",
+      "abilities": [
+        {
+          "name": "Healing Shower",
+          "text": "Once during your turn, when you play Milotic from your hand to evolve 1 of your Pokémon, you may remove all damage counters from all of your Pokémon and your opponent's Pokémon (excluding Pokémon-ex).",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Wave Splash",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Distorted Wave",
+          "damage": "80",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Before doing damage, remove 3 damage counters from the Defending Pokémon (all if there are less than 3)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Pinsir",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Hajime Kusajima",
+      "abilities": [
+        {
+          "name": "Crust",
+          "text": "Any damage done to Pinsir by attacks from your opponent's Basic Pokémon is reduced by 30 (after applying Weakness and Resistance).",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Sonicboom",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Weakness or Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Shiftry",
+      "stage": "Stage 2",
+      "evolvesFrom": "Nuzleaf",
+      "hp": "110",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Hisao Nakamura",
+      "attacks": [
+        {
+          "name": "Push Aside",
+          "damage": "30",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Look at your opponent's hand and choose 1 Basic Pokémon or Evolution card you find there. Your opponent puts it at the bottom of his or her deck."
+        },
+        {
+          "name": "Supernatural Power",
+          "damage": "40+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If you have the same number of cards in your hand as your opponent, this attack does 40 damage plus 40 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Walrein",
+      "stage": "Stage 2",
+      "evolvesFrom": "Sealeo",
+      "hp": "120",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Atsuko Nishida",
+      "abilities": [
+        {
+          "name": "Crush Draw",
+          "text": "Once during your turn (before your attack), you may reveal the top card of your deck. If that card is a basic Energy card, attach it to 1 of your Pokémon. If not, put the card back on your deck. This power can't be used if Walrein is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Sheer Cold",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, each Defending Pokémon can't attack during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-16",
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Bellossom",
+      "stage": "Stage 2",
+      "evolvesFrom": "Gloom",
+      "hp": "100",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Yuka Morii",
+      "abilities": [
+        {
+          "name": "Heal Dance",
+          "text": "Once during your turn (before your attack), you may remove 2 damage counters from 1 of your Pokémon. You can't use more than 1 Heal Dance Poké-Power each turn. This power can't be used if Bellossom is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Miracle Powder",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, choose 1 Special Condition. The Defending Pokémon is now affected by that Special Condition."
+        },
+        {
+          "name": "Solarbeam",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Chimecho",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Miki Tanaka",
+      "attacks": [
+        {
+          "name": "Chime",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your opponent's discard pile for a Supporter card and use the effect of that card as the effect of this attack. (The Supporter card remains in your opponent's discard pile.)"
+        },
+        {
+          "name": "Psychic Boom",
+          "damage": "10×",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Does 10 damage times the amount of Energy attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-18",
+      "itemType": "Pokemon Card",
+      "number": "18",
+      "name": "Gorebyss",
+      "stage": "Stage 1",
+      "evolvesFrom": "Clamperl",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "attacks": [
+        {
+          "name": "Stun Needle",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Mystic Water",
+          "damage": "20+",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Does 20 damage plus 10 more damage for each Psychic Energy in play."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-19",
+      "itemType": "Pokemon Card",
+      "number": "19",
+      "name": "Huntail",
+      "stage": "Stage 1",
+      "evolvesFrom": "Clamperl",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Dark Splash",
+          "damage": "40+",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 40 damage plus 10 more damage for each Darkness Pokémon in play."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-20",
+      "itemType": "Pokemon Card",
+      "number": "20",
+      "name": "Masquerain",
+      "stage": "Stage 1",
+      "evolvesFrom": "Surskit",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Toshinao Aoki",
+      "attacks": [
+        {
+          "name": "Whirlwind",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "name": "Silver Wind",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "During your next turn, if an attack does damage to the Defending Pokémon (after applying Weakness and Resistance), that attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-21",
+      "itemType": "Pokemon Card",
+      "number": "21",
+      "name": "Metang",
+      "stage": "Stage 1",
+      "evolvesFrom": "Beldum",
+      "hp": "80",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Metal Load",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your discard pile for a Metal Energy card and attach it to Metang."
+        },
+        {
+          "name": "Metal Claw",
+          "damage": "30",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-22",
+      "itemType": "Pokemon Card",
+      "number": "22",
+      "name": "Ninetales",
+      "stage": "Stage 1",
+      "evolvesFrom": "Vulpix",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "artist": "Toshinao Aoki",
+      "abilities": [
+        {
+          "name": "Safeguard",
+          "text": "Prevent all effects of attacks, including damage, done to Ninetales by your opponent's Pokémon-ex.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 20 more damage."
+        },
+        {
+          "name": "Will-o'-the-wisp",
+          "damage": "50",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-23",
+      "itemType": "Pokemon Card",
+      "number": "23",
+      "name": "Rain Castform",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Sumiyoshi Kizuki",
+      "abilities": [
+        {
+          "name": "Temperamental Weather",
+          "text": "Once during your turn (before your attack), you may search your deck for Castform, Sunny Castform, or Snow-cloud Castform and switch it with Rain Castform. (Any cards attached to Rain Castform, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) Shuffle Rain Castform back into your deck. You can't use more than 1 Temperamental Weather Poké-Power each turn.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Scattered Shower",
+          "cost": [
+            "Water"
+          ],
+          "text": "Shuffle your hand into your deck. Draw up to 5 cards."
+        },
+        {
+          "name": "Rainy Day Blues",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If Low Pressure System is in play, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-24",
+      "itemType": "Pokemon Card",
+      "number": "24",
+      "name": "Relicanth",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Deep Sleep",
+          "text": "As long as Relicanth is your Active Pokémon, a player flips 2 coins for each of his or her Pokémon that is Asleep between turns. If either coin is tails, that Pokémon is still Asleep.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Yawn",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-25",
+      "itemType": "Pokemon Card",
+      "number": "25",
+      "name": "Snow-cloud Castform",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Sumiyoshi Kizuki",
+      "abilities": [
+        {
+          "name": "Temperamental Weather",
+          "text": "Once during your turn (before your attack), you may search your deck for Castform, Rain Castform, or Sunny Castform and switch it with Snow-cloud Castform. (Any cards attached to Snow-cloud Castform, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) Shuffle Snow-cloud Castform back into your deck. You can't use more than 1 Temperamental Weather Poké-Power each turn.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Flurries",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, the Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "White Snow",
+          "damage": "50+",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If Magnetic Storm is in play, this attack does 50 damage plus 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-26",
+      "itemType": "Pokemon Card",
+      "number": "26",
+      "name": "Sunny Castform",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "artist": "Sumiyoshi Kizuki",
+      "abilities": [
+        {
+          "name": "Temperamental Weather",
+          "text": "Once during your turn (before your attack), you may search your deck for Castform, Rain Castform, or Snow-cloud Castform and switch it with Sunny Castform. (Any cards attached to Sunny Castform, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) Shuffle Sunny Castform back into your deck. You can't use more than 1 Temperamental Weather Poké-Power each turn.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Sunshine",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Search your discard pile for a Stadium card, show it to your opponent, and put it into your hand."
+        },
+        {
+          "name": "Sunburn",
+          "damage": "40",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If High Pressure System is in play, the Defending Pokémon is now Burned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-27",
+      "itemType": "Pokemon Card",
+      "number": "27",
+      "name": "Tropius",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "attacks": [
+        {
+          "name": "Fruition",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Move 1 Energy card attached to Tropius to another of your Pokémon and remove 4 damage counters from that Pokémon (all if there are less than 4)."
+        },
+        {
+          "name": "Gust",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-28",
+      "itemType": "Pokemon Card",
+      "number": "28",
+      "name": "Beldum",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Levitate",
+          "text": "If Beldum has any Energy attached to it, Beldum's Retreat Cost is 0.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-29",
+      "itemType": "Pokemon Card",
+      "number": "29",
+      "name": "Beldum",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Magnetic Call",
+          "text": "Once during your turn (before your attack), you may flip a coin. If heads, search your deck for a Metal Basic Pokémon and put it onto your Bench. Shuffle your deck afterward. This power can't be used if Beldum is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Metal Charge",
+          "damage": "30",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "text": "Put 1 damage counter on Beldum."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-30",
+      "itemType": "Pokemon Card",
+      "number": "30",
+      "name": "Castform",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Sumiyoshi Kizuki",
+      "abilities": [
+        {
+          "name": "Temperamental Weather",
+          "text": "Once during your turn (before your attack), you may search your deck for Sunny Castform, Rain Castform, or Snow-cloud Castform and switch it with Castform. (Any cards attached to Castform, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) Shuffle Castform back into your deck. You can't use more than 1 Temperamental Weather Poké-Power each turn.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Forecast",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a Stadium card and play it. Shuffle your deck afterward."
+        },
+        {
+          "name": "Extra Ball",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is Pokémon-ex, this attack does 20 damage plus 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-31",
+      "itemType": "Pokemon Card",
+      "number": "31",
+      "name": "Claydol",
+      "stage": "Stage 1",
+      "evolvesFrom": "Baltoy",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Hyper Beam",
+          "damage": "20",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, discard 1 Energy attached to the Defending Pokémon."
+        },
+        {
+          "name": "Ram",
+          "damage": "50",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-32",
+      "itemType": "Pokemon Card",
+      "number": "32",
+      "name": "Corsola",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Naoyo Kimura",
+      "attacks": [
+        {
+          "name": "Coral Glow",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw a number of cards up to the number of your opponent's Basic Pokémon in play. (You can't have more than 10 cards in your hand in this way.)"
+        },
+        {
+          "name": "Surf",
+          "damage": "40",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-33",
+      "itemType": "Pokemon Card",
+      "number": "33",
+      "name": "Dodrio",
+      "stage": "Stage 1",
+      "evolvesFrom": "Doduo",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Miki Tanaka",
+      "abilities": [
+        {
+          "name": "Fast Feet",
+          "text": "Dodrio can retreat even when it is Asleep or Paralyzed.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Retaliate",
+          "damage": "10×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 10 damage times the number of damage counters on Dodrio."
+        },
+        {
+          "name": "Slashing Strike",
+          "damage": "40",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, Dodrio can't use Slashing Strike during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-34",
+      "itemType": "Pokemon Card",
+      "number": "34",
+      "name": "Glalie",
+      "stage": "Stage 1",
+      "evolvesFrom": "Snorunt",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Midori Harada",
+      "abilities": [
+        {
+          "name": "Ice Wall",
+          "text": "Any damage done to Glalie by attacks from your opponent's Pokémon with any Special Energy cards attached to it is reduced by 40 (after applying Weakness and Resistance).",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Heavy Blizzard",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, put 1 damage counter on each of your opponent's Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-35",
+      "itemType": "Pokemon Card",
+      "number": "35",
+      "name": "Gloom",
+      "stage": "Stage 1",
+      "evolvesFrom": "Oddish",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yuka Morii",
+      "attacks": [
+        {
+          "name": "Cling",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "After your attack, remove from Gloom the number of damage counters equal to the damage you did to the Defending Pokémon. If Gloom has fewer damage counters than that, remove all of them."
+        },
+        {
+          "name": "Double Razor Leaf",
+          "damage": "40×",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 40 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-36",
+      "itemType": "Pokemon Card",
+      "number": "36",
+      "name": "Golbat",
+      "stage": "Stage 1",
+      "evolvesFrom": "Zubat",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Midori Harada",
+      "attacks": [
+        {
+          "name": "Supersonic",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Sharp Fang",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-37",
+      "itemType": "Pokemon Card",
+      "number": "37",
+      "name": "Igglybuff",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Naoyo Kimura",
+      "abilities": [
+        {
+          "name": "Baby Evolution",
+          "text": "Once during your turn (before your attack), you may put Jigglypuff from your hand onto Igglybuff (this counts as evolving Igglybuff), and remove all damage counters from Igglybuff.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Set Song",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a Basic Pokémon and a basic Energy card, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-38",
+      "itemType": "Pokemon Card",
+      "number": "38",
+      "name": "Lanturn",
+      "stage": "Stage 1",
+      "evolvesFrom": "Chinchou",
+      "hp": "80",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Aya Kusube",
+      "abilities": [
+        {
+          "name": "Energy Grounding",
+          "text": "Once during your opponent's turn, when any of your Pokémon is Knocked Out by your opponent's attacks, you may use this power. Choose a basic Energy card discarded from the Knocked Out Pokémon and attach it to Lanturn. You can't use more than 1 Energy Grounding Poké-Power each turn.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Lightning Strike",
+          "damage": "50",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "You may discard all Lightning Energy attached to Lanturn. If you do, this attack's base damage is 90 instead of 50."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-39",
+      "itemType": "Pokemon Card",
+      "number": "39",
+      "name": "Loudred",
+      "stage": "Stage 1",
+      "evolvesFrom": "Whismur",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Tomokazu Komiya",
+      "attacks": [
+        {
+          "name": "Cracking Voice",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, each Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Light Punch",
+          "damage": "40",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-40",
+      "itemType": "Pokemon Card",
+      "number": "40",
+      "name": "Luvdisc",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Miki Tanaka",
+      "attacks": [
+        {
+          "name": "Loving Draw",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw cards until you have the same number of cards in your hand as your opponent has in his or her hand."
+        },
+        {
+          "name": "Sweet Temptation",
+          "cost": [
+            "Water"
+          ],
+          "text": "Switch 1 of your opponent's Benched Pokémon with 1 of the Defending Pokémon. Your opponent chooses the Defending Pokémon to switch. This attack does 10 damage to the new Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-41",
+      "itemType": "Pokemon Card",
+      "number": "41",
+      "name": "Machoke",
+      "stage": "Stage 1",
+      "evolvesFrom": "Machop",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hajime Kusajima",
+      "abilities": [
+        {
+          "name": "Strikes Back",
+          "text": "If Machoke is your Active Pokémon and is damaged by an opponent's attack (even if Machoke is Knocked Out), put 1 damage counter on the Attacking Pokémon.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Low Kick",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-42",
+      "itemType": "Pokemon Card",
+      "number": "42",
+      "name": "Medicham",
+      "stage": "Stage 1",
+      "evolvesFrom": "Meditite",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Steady Punch",
+          "damage": "20+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage."
+        },
+        {
+          "name": "Power Heal",
+          "damage": "10+",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Does 10 damage plus 10 more damage for each damage counter on Medicham. After doing damage, remove 1 damage counter from Medicham."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-43",
+      "itemType": "Pokemon Card",
+      "number": "43",
+      "name": "Metang",
+      "stage": "Stage 1",
+      "evolvesFrom": "Beldum",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouki Saitou",
+      "attacks": [
+        {
+          "name": "Psyshock",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Metal Ball",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Put 5 damage counters on the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-44",
+      "itemType": "Pokemon Card",
+      "number": "44",
+      "name": "Metang",
+      "stage": "Stage 1",
+      "evolvesFrom": "Beldum",
+      "hp": "70",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Levitate",
+          "text": "If Metang has any Energy attached to it, Metang's Retreat Cost is 0.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-45",
+      "itemType": "Pokemon Card",
+      "number": "45",
+      "name": "Nuzleaf",
+      "stage": "Stage 1",
+      "evolvesFrom": "Seedot",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hisao Nakamura",
+      "attacks": [
+        {
+          "name": "Upper Hand",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+        },
+        {
+          "name": "Feint Attack",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 40 damage to that Pokémon. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on that Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-46",
+      "itemType": "Pokemon Card",
+      "number": "46",
+      "name": "Rhydon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Rhyhorn",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Atsuko Nishida",
+      "abilities": [
+        {
+          "name": "Power Diffusion",
+          "text": "As long as Rhydon is your Active Pokémon, prevent all damage done by attacks to all of your Benched Pokémon.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Horn Drill",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Hyper Tail",
+          "damage": "50+",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon has any Poké-Powers or Poké-Bodies, this attack does 50 damage plus 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-47",
+      "itemType": "Pokemon Card",
+      "number": "47",
+      "name": "Sealeo",
+      "stage": "Stage 1",
+      "evolvesFrom": "Spheal",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Atsuko Nishida",
+      "attacks": [
+        {
+          "name": "Super Icy Wind",
+          "cost": [
+            "Water"
+          ],
+          "text": "Does 10 damage to each of your opponent's Pokémon. This attack's damage isn't affected by Weakness or Resistance."
+        },
+        {
+          "name": "Skull Bash",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-48",
+      "itemType": "Pokemon Card",
+      "number": "48",
+      "name": "Spinda",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "attacks": [
+        {
+          "name": "The Hula-la",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused. If tails, both the Defending Pokémon and Spinda are now Confused."
+        },
+        {
+          "name": "Flail",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Does 10 damage times the number of damage counters on Spinda."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-49",
+      "itemType": "Pokemon Card",
+      "number": "49",
+      "name": "Starmie",
+      "stage": "Stage 1",
+      "evolvesFrom": "Staryu",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Aya Kusube",
+      "attacks": [
+        {
+          "name": "Water Arrow",
+          "cost": [
+            "Water"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Rainbow Star",
+          "damage": "50+",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 50 damage plus 10 more damage for each type of basic Energy attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-50",
+      "itemType": "Pokemon Card",
+      "number": "50",
+      "name": "Swalot",
+      "stage": "Stage 1",
+      "evolvesFrom": "Gulpin",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yuka Morii",
+      "attacks": [
+        {
+          "name": "Amnesia",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+        },
+        {
+          "name": "Swallow Up",
+          "damage": "50+",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Before doing damage, count the remaining HP of the Defending Pokémon and Swalot. If the Defending Pokémon has fewer remaining HP than Swalot's, this attack does 50 damage plus 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-51",
+      "itemType": "Pokemon Card",
+      "number": "51",
+      "name": "Tentacruel",
+      "stage": "Stage 1",
+      "evolvesFrom": "Tentacool",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hisao Nakamura",
+      "attacks": [
+        {
+          "name": "Long Tentacle",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused. If tails, discard an Energy card attached to the Defending Pokémon."
+        },
+        {
+          "name": "Toxic",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Poisoned. Put 2 damage counters instead of 1 on the Defending Pokémon between turns."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-52",
+      "itemType": "Pokemon Card",
+      "number": "52",
+      "name": "Baltoy",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Kyoko Umemoto",
+      "attacks": [
+        {
+          "name": "Psyshock",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-53",
+      "itemType": "Pokemon Card",
+      "number": "53",
+      "name": "Baltoy",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Mud Slap",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-54",
+      "itemType": "Pokemon Card",
+      "number": "54",
+      "name": "Beldum",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "name": "Metal Ball",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Put 1 damage counter on the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-55",
+      "itemType": "Pokemon Card",
+      "number": "55",
+      "name": "Chikorita",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Shin-ichi Yoshikawa",
+      "attacks": [
+        {
+          "name": "Poisonpowder",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-56",
+      "itemType": "Pokemon Card",
+      "number": "56",
+      "name": "Chinchou",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Aya Kusube",
+      "attacks": [
+        {
+          "name": "Pound",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Spark",
+          "damage": "10",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Choose 2 of your opponent's Benched Pokémon. This attack does 10 damage to each of those Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-57",
+      "itemType": "Pokemon Card",
+      "number": "57",
+      "name": "Chinchou",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Nakaoka",
+      "attacks": [
+        {
+          "name": "Random Spark",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 10 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Lightning Ball",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-58",
+      "itemType": "Pokemon Card",
+      "number": "58",
+      "name": "Clamperl",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Exoskeleton",
+          "text": "Any damage done to Clamperl by attacks is reduced by 10 (after applying Weakness and Resistance).",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Bubble",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-59",
+      "itemType": "Pokemon Card",
+      "number": "59",
+      "name": "Cyndaquil",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Ikuji",
+      "attacks": [
+        {
+          "name": "Swift",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+        },
+        {
+          "name": "Rage",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 10 damage plus 10 more damage for each damage counter on Cyndaquil."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-60",
+      "itemType": "Pokemon Card",
+      "number": "60",
+      "name": "Doduo",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Miki Tanaka",
+      "attacks": [
+        {
+          "name": "Drill Peck",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-61",
+      "itemType": "Pokemon Card",
+      "number": "61",
+      "name": "Feebas",
+      "stage": "Basic",
+      "hp": "30",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Tomokazu Komiya",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Ascension",
+          "cost": [
+            "Water"
+          ],
+          "text": "Search your deck for a card that evolves from Feebas and put it on Feebas. (This counts as evolving Feebas.) Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-62",
+      "itemType": "Pokemon Card",
+      "number": "62",
+      "name": "Gulpin",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Yuka Morii",
+      "attacks": [
+        {
+          "name": "Yawn",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Spit Poison",
+          "cost": [
+            "Grass"
+          ],
+          "text": "The Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-63",
+      "itemType": "Pokemon Card",
+      "number": "63",
+      "name": "Jigglypuff",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Naoyo Kimura",
+      "attacks": [
+        {
+          "name": "Rollout",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Sleepy Song",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Each Defending Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-64",
+      "itemType": "Pokemon Card",
+      "number": "64",
+      "name": "Machop",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Hajime Kusajima",
+      "attacks": [
+        {
+          "name": "Knuckle Punch",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Karate Chop",
+          "damage": "30-",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Does 30 damage minus 10 damage for each damage counter on Machop."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-65",
+      "itemType": "Pokemon Card",
+      "number": "65",
+      "name": "Meditite",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Double Chop",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "name": "Calm Mind",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Remove 2 damage counters from Meditite (remove 1 if there is only 1)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-66",
+      "itemType": "Pokemon Card",
+      "number": "66",
+      "name": "Meditite",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "attacks": [
+        {
+          "name": "Jab",
+          "damage": "10",
+          "cost": [
+            "Fighting"
+          ]
+        },
+        {
+          "name": "Steady Punch",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-67",
+      "itemType": "Pokemon Card",
+      "number": "67",
+      "name": "Minun",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "attacks": [
+        {
+          "name": "Minus Energy",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, choose 1 Energy attached to the Defending Pokémon. Your opponent returns that card to his or her hand."
+        },
+        {
+          "name": "Thundershock",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-68",
+      "itemType": "Pokemon Card",
+      "number": "68",
+      "name": "Oddish",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Yuka Morii",
+      "attacks": [
+        {
+          "name": "Poisonpowder",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        },
+        {
+          "name": "Razor Leaf",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-69",
+      "itemType": "Pokemon Card",
+      "number": "69",
+      "name": "Plusle",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "attacks": [
+        {
+          "name": "Plus Energy",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, attach a Lightning Energy card from your hand to any of your Pokémon."
+        },
+        {
+          "name": "Dazzle Blast",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-70",
+      "itemType": "Pokemon Card",
+      "number": "70",
+      "name": "Rhyhorn",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "attacks": [
+        {
+          "name": "Double Stab",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "name": "Take Down",
+          "damage": "50",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Rhyhorn does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-71",
+      "itemType": "Pokemon Card",
+      "number": "71",
+      "name": "Seedot",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Hisao Nakamura",
+      "attacks": [
+        {
+          "name": "Growth Spurt",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Attach a Grass Energy card from your hand to Seedot."
+        },
+        {
+          "name": "Trip Over",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-72",
+      "itemType": "Pokemon Card",
+      "number": "72",
+      "name": "Shuppet",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "attacks": [
+        {
+          "name": "Shadow Crush",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "You may discard 1 Psychic Energy card attached to Shuppet. If you do, your opponent discards 1 Energy card attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-73",
+      "itemType": "Pokemon Card",
+      "number": "73",
+      "name": "Snorunt",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "attacks": [
+        {
+          "name": "Ice Breath",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Tackle",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-74",
+      "itemType": "Pokemon Card",
+      "number": "74",
+      "name": "Spheal",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "attacks": [
+        {
+          "name": "Freezing Breath",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, the Defending Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-75",
+      "itemType": "Pokemon Card",
+      "number": "75",
+      "name": "Staryu",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Aya Kusube",
+      "abilities": [
+        {
+          "name": "Core Guard",
+          "text": "If Staryu has any Psychic Energy attached to it, damage done to Staryu by any attack is reduced by 10 (after applying Weakness and Resistance).",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Pound",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-76",
+      "itemType": "Pokemon Card",
+      "number": "76",
+      "name": "Surskit",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Toshinao Aoki",
+      "attacks": [
+        {
+          "name": "Splash About",
+          "damage": "10+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If Surskit has less Energy attached to it than the Defending Pokémon, this attack does 10 damage plus 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-77",
+      "itemType": "Pokemon Card",
+      "number": "77",
+      "name": "Tentacool",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Hisao Nakamura",
+      "abilities": [
+        {
+          "name": "Freefloating",
+          "text": "If Tentacool has no Energy attached to it, Tentacool's Retreat Cost is 0.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Wrap",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-78",
+      "itemType": "Pokemon Card",
+      "number": "78",
+      "name": "Togepi",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Nakaoka",
+      "attacks": [
+        {
+          "name": "Sleepy Song",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Each Defending Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-79",
+      "itemType": "Pokemon Card",
+      "number": "79",
+      "name": "Totodile",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Shin-ichi Yoshikawa",
+      "attacks": [
+        {
+          "name": "Flail",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Does 10 damage for each damage counter on Totodile."
+        },
+        {
+          "name": "Bite",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-80",
+      "itemType": "Pokemon Card",
+      "number": "80",
+      "name": "Voltorb",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Kyoko Umemoto",
+      "attacks": [
+        {
+          "name": "Recharge",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a Lightning Energy card and attach it to Voltorb. Shuffle your deck afterward."
+        },
+        {
+          "name": "Rolling Attack",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-81",
+      "itemType": "Pokemon Card",
+      "number": "81",
+      "name": "Vulpix",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Toshinao Aoki",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Ascension",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Search your deck for a card that evolves from Vulpix and put it on Vulpix. (This counts as evolving Vulpix.) Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-82",
+      "itemType": "Pokemon Card",
+      "number": "82",
+      "name": "Whismur",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Tomokazu Komiya",
+      "attacks": [
+        {
+          "name": "Wail",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-83",
+      "itemType": "Pokemon Card",
+      "number": "83",
+      "name": "Zubat",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "attacks": [
+        {
+          "name": "Quick Turn",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "name": "Surprise",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Choose 1 card from your opponent's hand without looking. Look at the card you chose, then have your opponent shuffle that card into his or her deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-84",
+      "itemType": "Trainer Card",
+      "number": "84",
+      "name": "Ancient Technical Machine [Ice]",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "text": "Attach this card to 1 of your Evolved Pokémon (excluding Pokémon-ex and Pokémon that has an owner in its name) in play. That Pokémon may use this card's attack instead of its own. At the end of your turn, discard Ancient Technical Machine [Ice].",
+      "attacks": [
+        {
+          "name": "Ice Generator",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Discard all of your opponent's Trainer cards in play. If you do, prevent all effects, including damage, done to the Pokémon using this attack during your opponent's next turn."
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-85",
+      "itemType": "Trainer Card",
+      "number": "85",
+      "name": "Ancient Technical Machine [Rock]",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "text": "Attach this card to 1 of your Evolved Pokémon (excluding Pokémon-ex and Pokémon that has an owner in its name) in play. That Pokémon may use this card's attack instead of its own. At the end of your turn, discard Ancient Technical Machine [Rock].",
+      "attacks": [
+        {
+          "name": "Stone Generator",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If your opponent has any Evolved Pokémon in play, remove the highest Stage Evolution card from each of them and put those cards back into his or her hand."
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-86",
+      "itemType": "Trainer Card",
+      "number": "86",
+      "name": "Ancient Technical Machine [Steel]",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "text": "Attach this card to 1 of your Evolved Pokémon (excluding Pokémon-ex and Pokémon that has an owner in its name) in play. That Pokémon may use this card's attack instead of its own. At the end of your turn, discard Ancient Technical Machine [Steel].",
+      "attacks": [
+        {
+          "name": "Steel Generator",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon has a Poké-Power or Poké-Body, choose up to 2 basic Energy cards attached to 1 of your opponent's Pokémon and attach them to the Defending Pokémon."
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-87",
+      "itemType": "Trainer Card",
+      "number": "87",
+      "name": "Ancient Tomb",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Ikuji",
+      "text": "This card stays in play when you play it. Discard this card if another Stadium card comes into play.,Don't apply Weakness for all Pokémon in play (excluding Pokémon-ex and Pokémon that has an owner in its name)."
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-88",
+      "itemType": "Trainer Card",
+      "number": "88",
+      "name": "Desert Ruins",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shin-ichi Yoshikawa",
+      "text": "This card stays in play when you play it. Discard this card if another Stadium card comes into play.,At any time between turns, each player puts 1 damage counter on his or her Pokémon-ex with maximum HP of at least 100."
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-89",
+      "itemType": "Trainer Card",
+      "number": "89",
+      "name": "Island Cave",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Ikuji",
+      "text": "This card stays in play when you play it. Discard this card if another Stadium card comes into play.,Whenever any player attaches an Energy card from his or her hand to Water Pokémon, Fighting Pokémon, or Metal Pokémon, remove any Special Conditions from that Pokémon."
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-90",
+      "itemType": "Trainer Card",
+      "number": "90",
+      "name": "Life Herb",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Flip a coin. If heads, choose 1 of your Pokémon (excluding Pokémon-ex). Remove all Special Conditions and 6 damage counters from that Pokémon (all if there are less than 6)."
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-91",
+      "itemType": "Trainer Card",
+      "number": "91",
+      "name": "Magnetic Storm",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shin-ichi Yoshikawa",
+      "text": "This card stays in play when you play it. Discard this card if another Stadium card comes into play.,Any damage done by attacks from Psychic Pokémon and Fighting Pokémon (both yours and your opponent's) is not affected by Resistance."
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-92",
+      "itemType": "Trainer Card",
+      "number": "92",
+      "name": "Steven's Advice",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Draw a number of cards up to the number of your opponent's Pokémon in play.,If you have more than 7 cards (including this one) in your hand, you can't play this card."
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-93",
+      "itemType": "Pokemon Card",
+      "number": "93",
+      "name": "Groudon ex",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Hikaru Koike",
+      "abilities": [
+        {
+          "name": "Mark of Antiquity",
+          "text": "As long as Groudon ex is your Active Pokémon, each player's Kyogre ex and Rayquaza ex can't attack.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Rock Tumble",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack's damage is not affected by Resistance."
+        },
+        {
+          "name": "Crushing Mantle",
+          "damage": "50+",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "You may discard from your hand as many Energy cards as you like. If you do, this attack does 50 damage plus 10 more damage for each Energy card you discarded."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-94",
+      "itemType": "Pokemon Card",
+      "number": "94",
+      "name": "Kyogre ex",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Hikaru Koike",
+      "abilities": [
+        {
+          "name": "Mark of Antiquity",
+          "text": "As long as Kyogre ex is your Active Pokémon, each player's Groudon ex and Rayquaza ex can't attack.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Water Arrow",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Super Tidal Wave",
+          "damage": "50+",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "You may show your hand to your opponent. If you do, this attack does 50 damage plus 10 more damage for each Energy card in your hand. After doing damage, shuffle the Energy cards back into your deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-95",
+      "itemType": "Pokemon Card",
+      "number": "95",
+      "name": "Metagross ex",
+      "stage": "Stage 2",
+      "evolvesFrom": "Metang",
+      "hp": "150",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Mitsuhiro Arita",
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Metal Reversal",
+          "damage": "40",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "text": "Before doing damage, you may choose 1 of your opponent's Benched Pokémon and switch it with 1 of the Defending Pokémon. Your opponent chooses the Defending Pokémon to switch. If you do, this attack does 40 damage to the new Defending Pokémon."
+        },
+        {
+          "name": "Extra Comet Punch",
+          "damage": "50+",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your next turn, Extra Comet Punch does 50 damage plus 50 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        },
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-96",
+      "itemType": "Pokemon Card",
+      "number": "96",
+      "name": "Ninetales ex",
+      "stage": "Stage 1",
+      "evolvesFrom": "Vulpix",
+      "hp": "90",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ryo Ueda",
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Intense Glare",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Switch 1 of your opponent's Benched Pokémon with 1 of the Defending Pokémon. Your opponent chooses the Defending Pokémon to switch. The new Defending Pokémon is now Burned and Confused."
+        },
+        {
+          "name": "Fire Blast",
+          "damage": "100",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard a Fire Energy attached to Ninetales ex."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-97",
+      "itemType": "Pokemon Card",
+      "number": "97",
+      "name": "Regice ex",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Crystal Body",
+          "text": "Prevent all effects of attacks, except damage, done to Regice ex by the Attacking Pokémon.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Freeze Lock",
+          "damage": "60",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent can't attach Energy cards from his or her hand to the Defending Pokémon during his or her next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-98",
+      "itemType": "Pokemon Card",
+      "number": "98",
+      "name": "Regirock ex",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Healing Stone",
+          "text": "At any time between turns, remove 1 damage counter from Regirock ex.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Tonnage",
+          "damage": "60+",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "You may do 60 damage plus 20 more damage. If you do, Regirock ex does 30 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-99",
+      "itemType": "Pokemon Card",
+      "number": "99",
+      "name": "Registeel ex",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Exoskeleton",
+          "text": "Any damage done to Registeel ex by attacks is reduced by 10 (after applying Weakness and Resistance).",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Steel Wave",
+          "damage": "50",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "text": "Does 20 damage to each of your opponent's Benched Pokémon of the same type as the Defending Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-100",
+      "itemType": "Pokemon Card",
+      "number": "100",
+      "name": "Vileplume ex",
+      "stage": "Stage 2",
+      "evolvesFrom": "Gloom",
+      "hp": "140",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Block Dust",
+          "text": "As long as Vileplume ex is your Active Pokémon, your opponent can't play any Trainer cards (except for Supporter cards) from his or her hand.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Special Formula",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep and Poisoned. If tails, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-101",
+      "itemType": "Pokemon Card",
+      "number": "101",
+      "name": "Wigglytuff ex",
+      "stage": "Stage 1",
+      "evolvesFrom": "Jigglypuff",
+      "hp": "100",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ryo Ueda",
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Sleepy Song",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Each Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Do the Wave",
+          "damage": "30+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 30 damage plus 10 more damage for each of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-hidden-legends-102",
+      "itemType": "Pokemon Card",
+      "number": "102",
+      "name": "Groudon",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Mud Shot",
+          "damage": "20",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Earthquake",
+          "damage": "60",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    }
+  ]
+}
