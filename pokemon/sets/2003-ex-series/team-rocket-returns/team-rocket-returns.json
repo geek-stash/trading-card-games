@@ -1,0 +1,4443 @@
+{
+  "setId": "tcg-pokemon-team-rocket-returns",
+  "setVariants": [
+    {
+      "id": "reverse-holo",
+      "name": "Reverse Holo",
+      "description": "The reverse holo print of the set.",
+      "type": "art",
+      "exclusions": [
+        "tcg-pokemon-team-rocket-returns-booster-box",
+        "tcg-pokemon-team-rocket-returns-booster-pack"
+      ]
+    },
+    {
+      "id": "unlimited",
+      "name": "Unlimited",
+      "description": "The unlimited print of the set.",
+      "type": "print-run"
+    }
+  ],
+  "cardCount": "111",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-team-rocket-returns-booster-box",
+      "itemType": "Sealed Product",
+      "name": "Team Rocket Returns Booster Box"
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-booster-pack",
+      "itemType": "Sealed Product",
+      "name": "Team Rocket Returns Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-team-rocket-returns-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Azumarill",
+      "stage": "Stage 1",
+      "evolvesFrom": "Marill",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Sumiyoshi Kizuki",
+      "abilities": [
+        {
+          "name": "Froth",
+          "text": "Once during your turn, when you play Azumarill from your hand to evolve 1 of your Active Pokémon, you may use this power. Each Defending Pokémon is now Paralyzed.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Water Punch",
+          "damage": "20+",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin for each Water Energy attached to Azumarill. This attack does 20 damage plus 20 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Dark Ampharos",
+      "stage": "Stage 2",
+      "evolvesFrom": "Dark Flaaffy",
+      "hp": "120",
+      "types": [
+        "Lightning",
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Emi Miwa",
+      "abilities": [
+        {
+          "name": "Darkest Impulse",
+          "text": "As long as Dark Ampharos is in play, whenever your opponent plays an Evolution card from his or her hand to evolve 1 of his or her Pokémon, put 2 damage counters on that Pokémon. You can't use more than 1 Darkest Impulse Poké-Body each turn.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "This Pokémon is both Lightning Darkness type.",
+      "attacks": [
+        {
+          "name": "Ram",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Shock Bolt",
+          "damage": "70",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard all Lightning Energy attached to Dark Ampharos."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-3",
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Dark Crobat",
+      "stage": "Stage 2",
+      "evolvesFrom": "Dark Golbat",
+      "hp": "90",
+      "types": [
+        "Grass",
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kyoko Koizumi",
+      "abilities": [
+        {
+          "name": "Black Beam",
+          "text": "Once during your turn (before your attack), if Dark Crobat is your Active Pokémon, you may choose 1 of the Defending Pokémon. That Pokémon is now Poisoned. This power can't be used if Dark Crobat is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "This Pokémon is both Grass Darkness type.",
+      "attacks": [
+        {
+          "name": "Dark Drain",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Remove from Dark Crobat a number of damage counters equal to the number of your opponent's Pokémon in play."
+        },
+        {
+          "name": "Skill Dive",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Does 30 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-4",
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Dark Electrode",
+      "stage": "Stage 1",
+      "evolvesFrom": "Voltorb",
+      "hp": "70",
+      "types": [
+        "Lightning",
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kouki Saitou",
+      "abilities": [
+        {
+          "name": "Darkness Navigation",
+          "text": "Once during your turn (before your attack), if Dark Electrode has no Energy attached to it, you may search your deck for a Darkness or Dark Metal Energy and attach it to Dark Electrode. Shuffle your deck afterward. This power can't be used if Dark Electrode is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "This Pokémon is both Lightning Darkness type.",
+      "attacks": [
+        {
+          "name": "Energy Bomb",
+          "damage": "30",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "You may move all Energy cards attached to Dark Electrode to your Benched Pokémon in any way you like."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Dark Houndoom",
+      "stage": "Stage 1",
+      "evolvesFrom": "Houndour",
+      "hp": "70",
+      "types": [
+        "Fire",
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "text": "This Pokémon is both Fire Darkness type.",
+      "attacks": [
+        {
+          "name": "Shakedown",
+          "damage": "20",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Choose a card from your opponent's hand without looking and discard it."
+        },
+        {
+          "name": "Dark Fire",
+          "damage": "40+",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may discard a Fire Energy or Darkness Energy attached to Dark Houndoom. If you do, this attack does 40 damage plus 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-6",
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Dark Hypno",
+      "stage": "Stage 1",
+      "evolvesFrom": "Drowzee",
+      "hp": "70",
+      "types": [
+        "Psychic",
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kouki Saitou",
+      "text": "This Pokémon is both Psychic Darkness type.",
+      "attacks": [
+        {
+          "name": "Dark Link",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, choose an attack on 1 of your Pokémon in play that has Dark in its name (excluding this one). Dark Link copies that attack except for its Energy cost. (You must still do anything else required for that attack.) (No matter what type that Pokémon is, Dark Hypno's type is still Psychic Darkness.) Dark Hypno performs that attack."
+        },
+        {
+          "name": "Black Magic",
+          "damage": "20×",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Does 20 damage times the number of your opponent's Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-7",
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Dark Marowak",
+      "stage": "Stage 1",
+      "evolvesFrom": "Cubone",
+      "hp": "70",
+      "types": [
+        "Fighting",
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "text": "This Pokémon is both Fighting Darkness type.",
+      "attacks": [
+        {
+          "name": "Brick Smash",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+        },
+        {
+          "name": "Hard Bone",
+          "damage": "70",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Discard a Basic Pokémon or Evolution card from your hand or this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-8",
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "Dark Octillery",
+      "stage": "Stage 1",
+      "evolvesFrom": "Remoraid",
+      "hp": "70",
+      "types": [
+        "Water",
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "text": "This Pokémon is both Water Darkness type.",
+      "attacks": [
+        {
+          "name": "Black Suction Cups",
+          "cost": [
+            "Water"
+          ],
+          "text": "Does 10 damage to each Defending Pokémon. Flip a coin. If heads, each Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Ink Blast",
+          "damage": "30+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 30 damage plus 10 more damage for each Energy attached to Dark Octillery but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-9",
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Dark Slowking",
+      "stage": "Stage 1",
+      "evolvesFrom": "Slowpoke",
+      "hp": "80",
+      "types": [
+        "Psychic",
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kouki Saitou",
+      "abilities": [
+        {
+          "name": "Cunning",
+          "text": "Once during your turn (before your attack), you may look at the top card of your opponent's deck. Then, you may shuffle his or her deck. This power can't be used if Dark Slowking is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "This Pokémon is both Psychic Darkness type.",
+      "attacks": [
+        {
+          "name": "Litter",
+          "damage": "20+",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "You may discard a combination of up to 2 Pokémon Tool cards and Rocket's Secret Machine cards from your hand. If you do, this attack does 20 damage plus 30 more damage for each card you discarded."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Dark Steelix",
+      "stage": "Stage 1",
+      "evolvesFrom": "Onix",
+      "hp": "110",
+      "types": [
+        "Darkness",
+        "Metal"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kyoko Koizumi",
+      "text": "This Pokémon is both Darkness Metal type.",
+      "attacks": [
+        {
+          "name": "Energy Link",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Search your discard pile for an Energy card and attach it to Dark Steelix."
+        },
+        {
+          "name": "Heavy Impact",
+          "damage": "60",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Jumpluff",
+      "stage": "Stage 2",
+      "evolvesFrom": "Skiploom",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kyoko Umemoto",
+      "abilities": [
+        {
+          "name": "Buffer",
+          "text": "If Jumpluff would be Knocked Out by an opponent's attack, flip a coin. If heads, Jumpluff is not Knocked Out and its remaining HP becomes 10 instead.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Energy Crush",
+          "damage": "10+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Does 10 damage plus 10 more damage for each Energy attached to all of your opponent's Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Kingdra",
+      "stage": "Stage 2",
+      "evolvesFrom": "Seadra",
+      "hp": "120",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Dragon Veil",
+          "text": "As long as Kingdra is in play, each of your Active Pokémon has no Weakness.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hyper Whirlpool",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. For each heads, discard an Energy card attached to the Defending Pokémon."
+        },
+        {
+          "name": "Aqua Sonic",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack's damage is not affected by Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Piloswine",
+      "stage": "Stage 1",
+      "evolvesFrom": "Swinub",
+      "hp": "100",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Tomokazu Komiya",
+      "attacks": [
+        {
+          "name": "Sheer Cold",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, each Defending Pokémon can't attack during your opponent's next turn."
+        },
+        {
+          "name": "Tonnage",
+          "damage": "60+",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may do 60 damage plus 40 more damage. If you do, Piloswine does 30 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Togetic",
+      "stage": "Stage 1",
+      "evolvesFrom": "Togepi",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Sumiyoshi Kizuki",
+      "abilities": [
+        {
+          "name": "Holy Shield",
+          "text": "Prevent all effects of attacks, including damage, done to Togetic by your opponent's Pokémon that has Dark in its name.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Dive",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Rainbow Moves",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Benched Pokémon's attacks. Rainbow Moves copies that attack except for its Energy cost. (You must still do anything else required for that attack.) (No matter what type that Pokémon is, Togetic's type is still Colorless.) Togetic performs that attack."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Dark Dragonite",
+      "stage": "Stage 2",
+      "evolvesFrom": "Dark Dragonair",
+      "hp": "120",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "Nakaoka",
+      "abilities": [
+        {
+          "name": "Dark Trance",
+          "text": "As often as you like during your turn (before your attack), you may move a Darkness Energy card attached to 1 of your Pokémon to another of your Pokémon. This power can't be used if Dark Dragonite is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Double Wing Attack",
+          "cost": [
+            "Water",
+            "Lightning"
+          ],
+          "text": "Does 30 damage to each Defending Pokémon."
+        },
+        {
+          "name": "Claw Swipe",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Colorless",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        },
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-16",
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Dark Muk",
+      "stage": "Stage 1",
+      "evolvesFrom": "Grimer",
+      "hp": "80",
+      "types": [
+        "Grass",
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Sticky Goo",
+          "text": "As long as Dark Muk is your Active Pokémon, your opponent pays ColorlessColorless more to retreat his or her Active Pokémon.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "This Pokémon is both Grass Darkness type.",
+      "attacks": [
+        {
+          "name": "Slimy Water",
+          "damage": "10×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 10 damage times the number of Colorless Energy in the Defending Pokémon's Retreat Cost (after applying effects to the Retreat Cost)."
+        },
+        {
+          "name": "Acidic Poison",
+          "damage": "10",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Burned and Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Dark Raticate",
+      "stage": "Stage 1",
+      "evolvesFrom": "Rattata",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "attacks": [
+        {
+          "name": "Dark Seed",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn. Put 5 damage counters on the Defending Pokémon at the end of your opponent's next turn."
+        },
+        {
+          "name": "Spread Poison",
+          "damage": "10",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Poisoned. This attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-18",
+      "itemType": "Pokemon Card",
+      "number": "18",
+      "name": "Dark Sandslash",
+      "stage": "Stage 1",
+      "evolvesFrom": "Sandshrew",
+      "hp": "70",
+      "types": [
+        "Fighting",
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "Masakazu Fukuda",
+      "abilities": [
+        {
+          "name": "Poison Payback",
+          "text": "If Dark Sandslash is your Active Pokémon and is damaged by an opponent's attack (even if Dark Sandslash is Knocked Out), the Attacking Pokémon is now Poisoned.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "This Pokémon is both Fighting Darkness type.",
+      "attacks": [
+        {
+          "name": "Swift",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-19",
+      "itemType": "Pokemon Card",
+      "number": "19",
+      "name": "Dark Tyranitar",
+      "stage": "Stage 2",
+      "evolvesFrom": "Dark Pupitar",
+      "hp": "120",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "Nakaoka",
+      "attacks": [
+        {
+          "name": "Grind",
+          "damage": "10+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Does 10 damage plus 10 more damage for each Energy attached to Dark Tyranitar."
+        },
+        {
+          "name": "Spinning Tail",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 20 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Bite Off",
+          "damage": "70+",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is Pokémon-ex, this attack does 70 damage plus 50 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-20",
+      "itemType": "Pokemon Card",
+      "number": "20",
+      "name": "Dark Tyranitar",
+      "stage": "Stage 2",
+      "evolvesFrom": "Dark Pupitar",
+      "hp": "120",
+      "types": [
+        "Fighting",
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "Kyoko Koizumi",
+      "abilities": [
+        {
+          "name": "Sand Damage",
+          "text": "As long as Dark Tyranitar is your Active Pokémon, put 1 damage counter on each of your opponent's Benched Basic Pokémon between turns. You can't use more than 1 Sand Damage Poké-Body between turns.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "This Pokémon is both Fighting Darkness type.",
+      "attacks": [
+        {
+          "name": "Second Strike",
+          "damage": "50+",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon already has at least 2 damage counters on it, this attack does 50 damage plus 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-21",
+      "itemType": "Pokemon Card",
+      "number": "21",
+      "name": "Delibird",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Yuka Morii",
+      "abilities": [
+        {
+          "name": "Gift Exchange",
+          "text": "Once during your turn (before your attack), if Delibird is your Active Pokémon, you may shuffle 1 card from your hand into your deck. Then, draw a card. This power can't be used if Delibird is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Souvenir",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. If 1 of them is heads, put 4 damage counters on the Defending Pokémon. If 2 of them are heads, remove 1 damage counter from the Defending Pokémon. If all of them are heads, put 10 damage counters on the Defending Pokémon. If all of them are tails, remove all damage counters from the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-22",
+      "itemType": "Pokemon Card",
+      "number": "22",
+      "name": "Furret",
+      "stage": "Stage 1",
+      "evolvesFrom": "Sentret",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Yuka Morii",
+      "attacks": [
+        {
+          "name": "Quick Change",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Choose up to 3 cards in your hand and put them on top of your deck. Then, search your deck for that many cards and put them into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Quick Tail Smash",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Before doing damage, you may flip a coin. If heads, this attack does 80 damage instead. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-23",
+      "itemType": "Pokemon Card",
+      "number": "23",
+      "name": "Ledian",
+      "stage": "Stage 1",
+      "evolvesFrom": "Ledyba",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Powder Protection",
+          "text": "Any damage done to Ledian by attacks from Pokémon that has an owner in its name is reduced by 40.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Split Spiral Punch",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Tackle",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-24",
+      "itemType": "Pokemon Card",
+      "number": "24",
+      "name": "Magby",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "artist": "Yukiko Baba",
+      "abilities": [
+        {
+          "name": "Baby Evolution",
+          "text": "Once during your turn (before your attack), you may put Magmar from your hand onto Magby (this counts as evolving Magby), and remove all damage counters from Magby.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Detour",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If you have a Supporter card in play, use the effect on that card as the effect of this attack."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-25",
+      "itemType": "Pokemon Card",
+      "number": "25",
+      "name": "Misdreavus",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Aya Kusube",
+      "abilities": [
+        {
+          "name": "Dark Spell",
+          "text": "Once during your turn (before your attack), if Misdreavus is your Active Pokémon, you may flip a coin. If heads, put 1 damage counter on 1 of your opponent's Pokémon. This power can't be used if Misdreavus is affected by a Special Condition or if your other Active Pokémon is not Misdreavus.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hide in Shadows",
+          "damage": "20",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Switch Misdreavus with 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-26",
+      "itemType": "Pokemon Card",
+      "number": "26",
+      "name": "Quagsire",
+      "stage": "Stage 1",
+      "evolvesFrom": "Wooper",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Miki Tanaka",
+      "abilities": [
+        {
+          "name": "Saturation",
+          "text": "When you attach a Water Energy card from your hand to Quagsire, remove all Special Conditions and 2 damage counters from Quagsire.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hyper Pump",
+          "damage": "20+",
+          "cost": [
+            "Water"
+          ],
+          "text": "Does 20 damage plus 20 more damage for each basic Energy card attached to Quagsire but not used to pay for this attack's Energy cost. You can't add more than 60 damage in this way."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-27",
+      "itemType": "Pokemon Card",
+      "number": "27",
+      "name": "Qwilfish",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Aya Kusube",
+      "abilities": [
+        {
+          "name": "Spiny",
+          "text": "If Qwilfish is your Active Pokémon and is damaged by an opponent's attack (even if Qwilfish is Knocked Out), flip a coin until you get tails. For each heads, put 1 damage counter on the Attacking Pokémon.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Stun Poison",
+          "damage": "10",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed and Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-28",
+      "itemType": "Pokemon Card",
+      "number": "28",
+      "name": "Yanma",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Tomokazu Komiya",
+      "attacks": [
+        {
+          "name": "Quick Charge",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 4 different types of basic Energy cards, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Swift",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-29",
+      "itemType": "Pokemon Card",
+      "number": "29",
+      "name": "Dark Arbok",
+      "stage": "Stage 1",
+      "evolvesFrom": "Ekans",
+      "hp": "90",
+      "types": [
+        "Grass",
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Nakaoka",
+      "text": "This Pokémon is both Grass Darkness type.",
+      "attacks": [
+        {
+          "name": "Swallow Up",
+          "damage": "10+",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Before doing damage, count the remaining HP of the Defending Pokémon and Dark Arbok. If the Defending Pokémon has fewer remaining HP than Dark Arbok's, this attack does 10 damage plus 30 more damage."
+        },
+        {
+          "name": "Extra Poison",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is Pokémon-ex, the Defending Pokémon is now Asleep and Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-30",
+      "itemType": "Pokemon Card",
+      "number": "30",
+      "name": "Dark Ariados",
+      "stage": "Stage 1",
+      "evolvesFrom": "Spinarak",
+      "hp": "70",
+      "types": [
+        "Grass",
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kyoko Koizumi",
+      "text": "This Pokémon is both Grass Darkness type.",
+      "attacks": [
+        {
+          "name": "Super Poison Breath",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Each Defending Pokémon is now Poisoned."
+        },
+        {
+          "name": "Breaking Impact",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 20 damage for each Colorless Energy in that Pokémon's Retreat Cost (after applying effects to the Retreat Cost). (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-31",
+      "itemType": "Pokemon Card",
+      "number": "31",
+      "name": "Dark Dragonair",
+      "stage": "Stage 1",
+      "evolvesFrom": "Dratini",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Emi Miwa",
+      "abilities": [
+        {
+          "name": "Evolutionary Light",
+          "text": "Once during your turn (before your attack), if Dark Dragonair is your Active Pokémon, you may search your deck for an Evolution card. Show it to your opponent and put it into your hand. Shuffle your deck afterward. This power can't be used if Dark Dragonair is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Dragon Rage",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Lightning"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Colorless",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        },
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-32",
+      "itemType": "Pokemon Card",
+      "number": "32",
+      "name": "Dark Dragonair",
+      "stage": "Stage 1",
+      "evolvesFrom": "Dratini",
+      "hp": "80",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Tomoaki Imakuni",
+      "attacks": [
+        {
+          "name": "Double Tackle",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Does 20 damage to each Defending Pokémon."
+        },
+        {
+          "name": "Crushing Blow",
+          "damage": "40",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy card attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Colorless",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        },
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-33",
+      "itemType": "Pokemon Card",
+      "number": "33",
+      "name": "Dark Flaaffy",
+      "stage": "Stage 1",
+      "evolvesFrom": "Mareep",
+      "hp": "80",
+      "types": [
+        "Lightning",
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Masakazu Fukuda",
+      "text": "This Pokémon is both Lightning Darkness type.",
+      "attacks": [
+        {
+          "name": "Thunder Slash",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is a Basic Pokémon, the Defending Pokémon is now Paralyzed. Dark Flaaffy can't use Thunder Slash during your next turn."
+        },
+        {
+          "name": "Headbutt",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-34",
+      "itemType": "Pokemon Card",
+      "number": "34",
+      "name": "Dark Golbat",
+      "stage": "Stage 1",
+      "evolvesFrom": "Zubat",
+      "hp": "70",
+      "types": [
+        "Grass",
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Masakazu Fukuda",
+      "text": "This Pokémon is both Grass Darkness type.",
+      "attacks": [
+        {
+          "name": "Night Ambush",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Does 30 damage to 1 of your opponent's Pokémon. Dark Golbat can't attack during your next turn. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-35",
+      "itemType": "Pokemon Card",
+      "number": "35",
+      "name": "Dark Golduck",
+      "stage": "Stage 1",
+      "evolvesFrom": "Psyduck",
+      "hp": "70",
+      "types": [
+        "Water",
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Nakaoka",
+      "text": "This Pokémon is both Water Darkness type.",
+      "attacks": [
+        {
+          "name": "Darkness Shield",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, prevent all effects of an attack, including damage, done to each of your Active Pokémon during your opponent's next turn."
+        },
+        {
+          "name": "Cold Crush",
+          "damage": "40",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may discard an Energy card attached to Dark Golduck. If you do, discard an Energy attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-36",
+      "itemType": "Pokemon Card",
+      "number": "36",
+      "name": "Dark Gyarados",
+      "stage": "Stage 1",
+      "evolvesFrom": "Magikarp",
+      "hp": "80",
+      "types": [
+        "Water",
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Nakaoka",
+      "abilities": [
+        {
+          "name": "Dark Scale",
+          "text": "If Dark Gyarados is your Active Pokémon and is Knocked Out by an opponent's attack, put 3 damage counters on the Attacking Pokémon.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "This Pokémon is both Water Darkness type.",
+      "attacks": [
+        {
+          "name": "Sharp Fang",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Dark Streak",
+          "damage": "40",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, each Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-37",
+      "itemType": "Pokemon Card",
+      "number": "37",
+      "name": "Dark Houndoom",
+      "stage": "Stage 1",
+      "evolvesFrom": "Houndour",
+      "hp": "70",
+      "types": [
+        "Fire",
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Nakaoka",
+      "abilities": [
+        {
+          "name": "Fire Breath",
+          "text": "Once during your turn (before your attack), if Dark Houndoom is your Active Pokémon, you may flip a coin. If heads, the Defending Pokémon (choose 1 if there are 2) is now Burned. This power can't be used if Dark Houndoom is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "This Pokémon is both Fire Darkness type.",
+      "attacks": [
+        {
+          "name": "Fire Payback",
+          "damage": "40+",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If you have less Benched Pokémon than your opponent, this attack does 40 damage plus 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-38",
+      "itemType": "Pokemon Card",
+      "number": "38",
+      "name": "Dark Magcargo",
+      "stage": "Stage 1",
+      "evolvesFrom": "Slugma",
+      "hp": "80",
+      "types": [
+        "Fire",
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Nakaoka",
+      "text": "This Pokémon is both Fire Darkness type.",
+      "attacks": [
+        {
+          "name": "Energy Press",
+          "damage": "10+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Does 10 damage plus 10 more damage for each basic Energy card attached to all of your Active Pokémon."
+        },
+        {
+          "name": "Linear Attack",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 40 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-39",
+      "itemType": "Pokemon Card",
+      "number": "39",
+      "name": "Dark Magneton",
+      "stage": "Stage 1",
+      "evolvesFrom": "Magnemite",
+      "hp": "70",
+      "types": [
+        "Lightning",
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Emi Miwa",
+      "text": "This Pokémon is both Lightning Darkness type.",
+      "attacks": [
+        {
+          "name": "Magnetic Lines",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "If your opponent has at least 2 Pokémon in play, move a basic Energy card from the Defending Pokémon to another of your opponent's Pokémon."
+        },
+        {
+          "name": "Poison Pulse",
+          "damage": "40",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-40",
+      "itemType": "Pokemon Card",
+      "number": "40",
+      "name": "Dark Pupitar",
+      "stage": "Stage 1",
+      "evolvesFrom": "Larvitar",
+      "hp": "70",
+      "types": [
+        "Fighting",
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Tomoaki Imakuni",
+      "text": "This Pokémon is both Fighting Darkness type.",
+      "attacks": [
+        {
+          "name": "Explosive Evolution",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance.) Then, search your deck for a card that evolves from Dark Pupitar and put it on Dark Pupitar. (This counts as evolving Dark Pupitar.) Shuffle your deck afterward."
+        },
+        {
+          "name": "Double Tackle",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Does 20 damage to each Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-41",
+      "itemType": "Pokemon Card",
+      "number": "41",
+      "name": "Dark Pupitar",
+      "stage": "Stage 1",
+      "evolvesFrom": "Larvitar",
+      "hp": "80",
+      "types": [
+        "Fighting",
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Emi Miwa",
+      "text": "This Pokémon is both Fighting Darkness type.",
+      "attacks": [
+        {
+          "name": "Dark Streak",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, each Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Rock Tumble",
+          "damage": "40",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack's damage is not affected by Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-42",
+      "itemType": "Pokemon Card",
+      "number": "42",
+      "name": "Dark Weezing",
+      "stage": "Stage 1",
+      "evolvesFrom": "Koffing",
+      "hp": "80",
+      "types": [
+        "Grass",
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Methane Leak",
+          "text": "As long as Dark Weezing is your Active Pokémon, put 1 damage counter on each Pokémon that remains Poisoned between turns.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "This Pokémon is both Grass Darkness type.",
+      "attacks": [
+        {
+          "name": "Smog",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Poisoned."
+        },
+        {
+          "name": "Darkness Charge",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Put 2 damage counters on Dark Weezing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-43",
+      "itemType": "Pokemon Card",
+      "number": "43",
+      "name": "Heracross",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Tomokazu Komiya",
+      "abilities": [
+        {
+          "name": "Crust",
+          "text": "Any damage done to Heracross by attacks from your opponent's Basic Pokémon is reduced by 20 (after applying Weakness and Resistance).",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Get Even",
+          "damage": "20+",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "If you have more Prize cards left than your opponent, this attack does 20 damage plus 10 more damage for each Prize card more than your opponent."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-44",
+      "itemType": "Pokemon Card",
+      "number": "44",
+      "name": "Magmar",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yukiko Baba",
+      "attacks": [
+        {
+          "name": "Dump and Draw",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Discard up to 2 Energy cards from your hand. Then, draw 2 cards for each Energy card you discarded."
+        },
+        {
+          "name": "Flame Tail",
+          "damage": "40",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-45",
+      "itemType": "Pokemon Card",
+      "number": "45",
+      "name": "Mantine",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Miki Tanaka",
+      "abilities": [
+        {
+          "name": "Ripples",
+          "text": "Once during your turn (before your attack), you may remove 1 damage counter from 1 of your Pokémon (excluding Mantine). This power can't be used if Mantine is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Aqua Slash",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Mantine can't attack during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-46",
+      "itemType": "Pokemon Card",
+      "number": "46",
+      "name": "Rocket's Meowth",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Snatch and Run",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a Pokémon Tool card or Rocket's Secret Machine card, show it to your opponent, and put it into your hand. If you do, you may switch Rocket's Meowth with 1 of your Benched Pokémon. Shuffle your deck afterward."
+        },
+        {
+          "name": "Miraculous Comeback",
+          "damage": "10×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin for each Pokémon in play (both yours and your opponent's). This attack does 10 damage times the number of heads. Rocket's Meowth does 10 damage times the number of tails to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-47",
+      "itemType": "Pokemon Card",
+      "number": "47",
+      "name": "Rocket's Wobbuffet",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Dark Aid",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your discard pile for Pokémon Tool cards and Rocket's Secret Machine cards. You may show either 1 Pokémon Tool card or Rocket's Secret Machine card to your opponent and put it into your hand, or show a combination of 3 Pokémon Tool cards or Rocket's Secret Machine cards to your opponent and shuffle them into your deck."
+        },
+        {
+          "name": "Amnesia",
+          "damage": "10",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-48",
+      "itemType": "Pokemon Card",
+      "number": "48",
+      "name": "Seadra",
+      "stage": "Stage 1",
+      "evolvesFrom": "Horsea",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "attacks": [
+        {
+          "name": "Confuse Ray",
+          "damage": "10",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Aqua Trick",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Move 1 Energy card attached to the Defending Pokémon to 1 of your opponent's Benched Pokémon. If your opponent has no Benched Pokémon, this effect does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-49",
+      "itemType": "Pokemon Card",
+      "number": "49",
+      "name": "Skiploom",
+      "stage": "Stage 1",
+      "evolvesFrom": "Hoppip",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kyoko Umemoto",
+      "abilities": [
+        {
+          "name": "Buffer",
+          "text": "If Skiploom would be Knocked Out by an opponent's attack, flip a coin. If heads, Skiploom is not Knocked Out and its remaining HP becomes 10 instead.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Miracle Powder",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, choose 1 Special Condition. The Defending Pokémon is now affected by that Special Condition."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-50",
+      "itemType": "Pokemon Card",
+      "number": "50",
+      "name": "Togepi",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Sumiyoshi Kizuki",
+      "attacks": [
+        {
+          "name": "Yawn",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Mini-Metronome",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, choose 1 of the Defending Pokémon's attacks. Mini-Metronome copies that attack except for its Energy cost. (You must still do anything else required for that attack.) (No matter what type that Pokémon is, Togepi's type is still Colorless.) Togepi performs that attack."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-51",
+      "itemType": "Pokemon Card",
+      "number": "51",
+      "name": "Cubone",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "attacks": [
+        {
+          "name": "Look for Friends",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Reveal cards from your deck until you reveal a Basic Pokémon. Show that card to your opponent and put it into your hand. Shuffle the other revealed cards into your deck. (If you don't reveal a Basic Pokémon, shuffle all the revealed cards back into your deck.)"
+        },
+        {
+          "name": "Bonemerang",
+          "damage": "10×",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-52",
+      "itemType": "Pokemon Card",
+      "number": "52",
+      "name": "Dratini",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Sachiko Adachi",
+      "attacks": [
+        {
+          "name": "Pound",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-53",
+      "itemType": "Pokemon Card",
+      "number": "53",
+      "name": "Dratini",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "attacks": [
+        {
+          "name": "Dragon Song",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Each Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Tail Strike",
+          "damage": "20+",
+          "cost": [
+            "Water",
+            "Lightning"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Colorless",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        },
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-54",
+      "itemType": "Pokemon Card",
+      "number": "54",
+      "name": "Drowzee",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "abilities": [
+        {
+          "name": "Insomnia",
+          "text": "Drowzee can't be Asleep.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Soothing Wave",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, each Defending Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-55",
+      "itemType": "Pokemon Card",
+      "number": "55",
+      "name": "Ekans",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "attacks": [
+        {
+          "name": "Tail Wrap",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-56",
+      "itemType": "Pokemon Card",
+      "number": "56",
+      "name": "Grimer",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Aya Kusube",
+      "attacks": [
+        {
+          "name": "Taunt",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Benched Pokémon and switch it with 1 of the Defending Pokémon. Your opponent chooses the Defending Pokémon to switch."
+        },
+        {
+          "name": "Spit Poison",
+          "damage": "10",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-57",
+      "itemType": "Pokemon Card",
+      "number": "57",
+      "name": "Hoppip",
+      "stage": "Basic",
+      "hp": "30",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Kyoko Umemoto",
+      "abilities": [
+        {
+          "name": "Buffer",
+          "text": "If Hoppip would be Knocked Out by an opponent's attack, flip a coin. If heads, Hoppip is not Knocked Out and its remaining HP becomes 10 instead.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Miracle Powder",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, choose 1 Special Condition. The Defending Pokémon is now affected by that Special Condition."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-58",
+      "itemType": "Pokemon Card",
+      "number": "58",
+      "name": "Horsea",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "attacks": [
+        {
+          "name": "Water Plant",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your discard pile for up to 2 Water Energy cards, show them to your opponent, and put them into your hand."
+        },
+        {
+          "name": "Swift",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-59",
+      "itemType": "Pokemon Card",
+      "number": "59",
+      "name": "Houndour",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Naoyo Kimura",
+      "attacks": [
+        {
+          "name": "Rear Kick",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Smokescreen",
+          "damage": "20",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-60",
+      "itemType": "Pokemon Card",
+      "number": "60",
+      "name": "Houndour",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Tomokazu Komiya",
+      "abilities": [
+        {
+          "name": "Dark Lift",
+          "text": "If Houndour has any Darkness Energy attached to it, the Retreat Cost for Houndour is 0.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Firebreathing",
+          "damage": "10+",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-61",
+      "itemType": "Pokemon Card",
+      "number": "61",
+      "name": "Koffing",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "abilities": [
+        {
+          "name": "Knockout Gas",
+          "text": "If Koffing is your Active Pokémon and is Knocked Out by an opponent's attack, the Attacking Pokémon is now Confused and Poisoned.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-62",
+      "itemType": "Pokemon Card",
+      "number": "62",
+      "name": "Larvitar",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "attacks": [
+        {
+          "name": "Fury Attack",
+          "damage": "10×",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-63",
+      "itemType": "Pokemon Card",
+      "number": "63",
+      "name": "Larvitar",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "attacks": [
+        {
+          "name": "Light Punch",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Dig Drain",
+          "damage": "20",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Remove 1 damage counter from Larvitar."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-64",
+      "itemType": "Pokemon Card",
+      "number": "64",
+      "name": "Ledyba",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a Grass Basic Pokémon and put it onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "name": "Beat",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-65",
+      "itemType": "Pokemon Card",
+      "number": "65",
+      "name": "Magikarp",
+      "stage": "Basic",
+      "hp": "30",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Yukiko Baba",
+      "attacks": [
+        {
+          "name": "Call for Friends",
+          "cost": [
+            "Water"
+          ],
+          "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-66",
+      "itemType": "Pokemon Card",
+      "number": "66",
+      "name": "Magnemite",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Sachiko Adachi",
+      "attacks": [
+        {
+          "name": "Sonicboom",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Weakness or Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-67",
+      "itemType": "Pokemon Card",
+      "number": "67",
+      "name": "Mareep",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Naoyo Kimura",
+      "attacks": [
+        {
+          "name": "Minor Errand-Running",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Quick Attack",
+          "damage": "10+",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-68",
+      "itemType": "Pokemon Card",
+      "number": "68",
+      "name": "Marill",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Sumiyoshi Kizuki",
+      "attacks": [
+        {
+          "name": "Minor Errand-Running",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 2 basic Energy cards, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-69",
+      "itemType": "Pokemon Card",
+      "number": "69",
+      "name": "Onix",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "attacks": [
+        {
+          "name": "Horn Rush",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        },
+        {
+          "name": "Granite Head",
+          "damage": "20",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done to Onix by attacks is reduced by 10 (after applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-70",
+      "itemType": "Pokemon Card",
+      "number": "70",
+      "name": "Psyduck",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Miki Tanaka",
+      "attacks": [
+        {
+          "name": "Gentle Slap",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Headache",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, your opponent can't play a Trainer card from his or her hand until the end of your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-71",
+      "itemType": "Pokemon Card",
+      "number": "71",
+      "name": "Rattata",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Aya Kusube",
+      "abilities": [
+        {
+          "name": "Scramble",
+          "text": "As long as your opponent has any Pokémon-ex as his or her Active Pokémon, the Retreat Cost for Rattata is 0.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Fury Swipes",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-72",
+      "itemType": "Pokemon Card",
+      "number": "72",
+      "name": "Rattata",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Naoyo Kimura",
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "name": "Snarl",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage to the Defending Pokémon. If tails, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-73",
+      "itemType": "Pokemon Card",
+      "number": "73",
+      "name": "Remoraid",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "attacks": [
+        {
+          "name": "Energy Draw",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, search your deck for a basic Energy card and attach it to Remoraid. Shuffle your deck afterward."
+        },
+        {
+          "name": "Razor Fin",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-74",
+      "itemType": "Pokemon Card",
+      "number": "74",
+      "name": "Sandshrew",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "attacks": [
+        {
+          "name": "Rear Kick",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Swift",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-75",
+      "itemType": "Pokemon Card",
+      "number": "75",
+      "name": "Sentret",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Yuka Morii",
+      "attacks": [
+        {
+          "name": "Friend Search",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Look at the top 5 cards of your deck. Choose a Basic Pokémon or Evolution card you find there, show it to your opponent, and put it into your hand. Put the other 4 cards back on top of your deck. Shuffle your deck afterward."
+        },
+        {
+          "name": "Surprise Attack",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-76",
+      "itemType": "Pokemon Card",
+      "number": "76",
+      "name": "Slowpoke",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "abilities": [
+        {
+          "name": "Dense",
+          "text": "Any damage done to Slowpoke by attacks from your opponent's Evolved Pokémon is reduced by 10 (after applying Weakness and Resistance).",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-77",
+      "itemType": "Pokemon Card",
+      "number": "77",
+      "name": "Slugma",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "attacks": [
+        {
+          "name": "Singe",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Burned."
+        },
+        {
+          "name": "Heat Tackle",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Slugma does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-78",
+      "itemType": "Pokemon Card",
+      "number": "78",
+      "name": "Spinarak",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Yuka Morii",
+      "attacks": [
+        {
+          "name": "Collect",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw a card."
+        },
+        {
+          "name": "Rising Lunge",
+          "damage": "20+",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-79",
+      "itemType": "Pokemon Card",
+      "number": "79",
+      "name": "Swinub",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Tomokazu Komiya",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Rest",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Remove all Special Conditions and all damage counters from Swinub. Swinub is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-80",
+      "itemType": "Pokemon Card",
+      "number": "80",
+      "name": "Voltorb",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Sachiko Adachi",
+      "attacks": [
+        {
+          "name": "Psycho Waves",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Discard an Energy card attached to Voltorb. The Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Thunder Wave",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-81",
+      "itemType": "Pokemon Card",
+      "number": "81",
+      "name": "Wooper",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "abilities": [
+        {
+          "name": "Saturation",
+          "text": "When you attach a Water Energy card from your hand to Wooper, remove all Special Conditions and 1 damage counter from Wooper.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Wave Splash",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-82",
+      "itemType": "Pokemon Card",
+      "number": "82",
+      "name": "Zubat",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Miki Tanaka",
+      "attacks": [
+        {
+          "name": "Dark Streak",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, each Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Ambush",
+          "damage": "20+",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-83",
+      "itemType": "Trainer Card",
+      "number": "83",
+      "name": "Copycat",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Shuffle your hand into your deck. Then, count the number of cards in your opponent's hand and draw that many cards."
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-84",
+      "itemType": "Trainer Card",
+      "number": "84",
+      "name": "Pokémon Retriever",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Katsura Tabata",
+      "text": "Search your discard pile for Basic Pokémon and Evolution cards. You may either show 1 Basic Pokémon or Evolution card to your opponent and put it into your hand, or show a combination of 3 Basic Pokémon or Evolution cards to your opponent and shuffle them into your deck."
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-85",
+      "itemType": "Trainer Card",
+      "number": "85",
+      "name": "Pow! Hand Extension",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Katsura Tabata",
+      "text": "You may use this card only if you have more Prize cards left than your opponent.,Move 1 Energy card attached to the Defending Pokémon to another of your opponent's Pokémon. Or, switch 1 of your opponent's Benched Pokémon with 1 of the Defending Pokémon. Your opponent chooses the Defending Pokémon to switch."
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-86",
+      "itemType": "Trainer Card",
+      "number": "86",
+      "name": "Rocket's Admin.",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Each player shuffles his or her hand into his or her deck. Then, each player counts his or her Prize cards left and draws up to that many cards. (You draw your cards first.)"
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-87",
+      "itemType": "Trainer Card",
+      "number": "87",
+      "name": "Rocket's Hideout",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "This card stays in play when you play it. Discard this card if another Stadium card comes into play.,Each Pokémon with Dark or Rocket's in its name (both yours and your opponent's) gets +20 HP."
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-88",
+      "itemType": "Trainer Card",
+      "number": "88",
+      "name": "Rocket's Mission",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Discard a card from your hand. Then, draw 3 cards. If you discarded a Pokémon that has Dark or Rocket's in its name, draw 4 cards instead."
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-89",
+      "itemType": "Trainer Card",
+      "number": "89",
+      "name": "Rocket's Poké Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Search your deck for a Pokémon with Dark in its name, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-90",
+      "itemType": "Trainer Card",
+      "number": "90",
+      "name": "Rocket's Tricky Gym",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "This card stays in play when you play it. Discard this card if another Stadium card comes into play.,Each Pokémon with Dark or Rocket's in its name (both yours and your opponent's) can use attacks on this card instead of its own.",
+      "attacks": [
+        {
+          "name": "Feint Attack",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Does 20 damage to 1 of your opponent's Pokémon. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on that Pokémon."
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-91",
+      "itemType": "Trainer Card",
+      "number": "91",
+      "name": "Surprise! Time Machine",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Katsura Tabata",
+      "text": "Choose 1 of your Evolved Pokémon, remove the highest Stage Evolution card from it, and shuffle it into your deck (this counts as devolving that Pokémon). If that Pokémon remains in play, search your deck for an Evolution card that evolves from that Pokémon and put it onto that Pokémon (this counts as evolving that Pokémon). Shuffle your deck afterward."
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-92",
+      "itemType": "Trainer Card",
+      "number": "92",
+      "name": "Swoop! Teleporter",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Katsura Tabata",
+      "text": "Search your deck for a Basic Pokémon (excluding Pokémon-ex) and switch it with 1 of your Basic Pokémon (excluding Pokémon-ex) in play. (Any cards attached to that Pokémon, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) Place the first Basic Pokémon in the discard pile. Shuffle your deck afterward."
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-93",
+      "itemType": "Trainer Card",
+      "number": "93",
+      "name": "Venture Bomb",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Katsura Tabata",
+      "text": "Flip a coin. If heads, put 1 damage counter on 1 of your opponent's Pokémon. If tails, put 1 damage counter on 1 of your Pokémon."
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-94",
+      "itemType": "Energy Card",
+      "number": "94",
+      "name": "Dark Metal Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Takumi Akabane",
+      "text": "Attach Dark Metal Energy to 1 of your Pokémon. While in play, Dark Metal Energy provides Darkness Energy and Metal Energy, but provides only 1 Energy at a time. (Doesn't count as a basic Energy card when not in play and has no effect other than providing Energy.)"
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-95",
+      "itemType": "Energy Card",
+      "number": "95",
+      "name": "R Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Takumi Akabane",
+      "text": "R Energy can be attached only to a Pokémon that has Dark or Rocket's in its name. While in play, R Energy provides 2 Darkness Energy. (Doesn't count as a basic Energy card.) If the Pokémon R Energy is attached to attacks, the attack does 10 more damage to the Active Pokémon (before applying Weakness and Resistance). When your turn ends, discard R Energy."
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-96",
+      "itemType": "Pokemon Card",
+      "number": "96",
+      "name": "Rocket's Articuno ex",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Darkness Veil",
+          "text": "As long as Rocket's Articuno ex has any Darkness Energy attached to it, prevent all effects, except damage, by an opponent's attack done to Rocket's Articuno ex.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Freeze Solid",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your discard pile for a Water Energy card and attach it to Rocket's Articuno ex."
+        },
+        {
+          "name": "Ice Wing",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-97",
+      "itemType": "Pokemon Card",
+      "number": "97",
+      "name": "Rocket's Entei ex",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Dark Condition",
+          "text": "As long as Rocket's Entei ex has any Darkness Energy attached to it, Rocket's Entei ex has no Weakness.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Energy Link",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your discard pile for an Energy card and attach it to Rocket's Entei ex."
+        },
+        {
+          "name": "Volcanic Ash",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Discard 2 Energy attached to Rocket's Entei ex and then choose 1 of your opponent's Pokémon. This attack does 60 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-98",
+      "itemType": "Pokemon Card",
+      "number": "98",
+      "name": "Rocket's Hitmonchan ex",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Strikes Back",
+          "text": "If Rocket's Hitmonchan ex is your Active Pokémon and is damaged by an opponent's attack (even if Rocket's Hitmonchan ex is Knocked Out), put 2 damage counters on the Attacking Pokémon.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Mach Punch",
+          "damage": "10",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Magnum Punch",
+          "damage": "60",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-99",
+      "itemType": "Pokemon Card",
+      "number": "99",
+      "name": "Rocket's Mewtwo ex",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Mitsuhiro Arita",
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Darkness Switch",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Discard an Energy card attached to Rocket's Mewtwo ex, and then switch all damage counters on Rocket's Mewtwo ex with those on the Defending Pokémon. (If an effect of this attack is prevented, this attack does nothing.)"
+        },
+        {
+          "name": "Hypnoblast",
+          "damage": "40",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Psyburn",
+          "damage": "70",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-100",
+      "itemType": "Pokemon Card",
+      "number": "100",
+      "name": "Rocket's Moltres ex",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Dark Lift",
+          "text": "If Rocket's Moltres ex has any Darkness Energy attached to it, the Retreat Cost for Rocket's Moltres ex is 0.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Fire Dance",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Search your discard pile for a Fire Energy card and attach it to 1 of your Pokémon."
+        },
+        {
+          "name": "Combustion",
+          "damage": "50",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-101",
+      "itemType": "Pokemon Card",
+      "number": "101",
+      "name": "Rocket's Scizor ex",
+      "stage": "Stage 1",
+      "evolvesFrom": "Rocket's Scyther ex",
+      "hp": "120",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Hikaru Koike",
+      "abilities": [
+        {
+          "name": "Dual Armor",
+          "text": "As long as Rocket's Scizor ex has any Metal Energy attached to it, Rocket's Scizor ex is both Darkness and Metal type.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Rotating Claws",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may discard an Energy card attached to Rocket's Scizor ex. If you do, search your discard pile for an Energy card (excluding the one you discarded) and attach it to Rocket's Scizor ex."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-102",
+      "itemType": "Pokemon Card",
+      "number": "102",
+      "name": "Rocket's Scyther ex",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Hikaru Koike",
+      "abilities": [
+        {
+          "name": "Dual Armor",
+          "text": "As long as Rocket's Scyther ex has any Grass Energy attached to it, Rocket's Scyther ex is both Grass and Darkness type.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Bounce",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "After your attack, you may switch Rocket's Scyther ex with 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Slashing Strike",
+          "damage": "40",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Rocket's Scyther ex can't use Slashing Strike during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-103",
+      "itemType": "Pokemon Card",
+      "number": "103",
+      "name": "Rocket's Sneasel ex",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ryo Ueda",
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Drag Off",
+          "damage": "10",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Before doing damage, you may switch 1 of your opponent's Benched Pokémon with the Defending Pokémon. If you do, this attack does 10 damage to the new Defending Pokémon. Your opponent chooses the Defending Pokémon to switch."
+        },
+        {
+          "name": "Dark Ring",
+          "damage": "30+",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Does 30 damage plus 10 more damage for each of your Darkness Pokémon in play."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-104",
+      "itemType": "Pokemon Card",
+      "number": "104",
+      "name": "Rocket's Snorlax ex",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Dark Healer",
+          "text": "As long as Rocket's Snorlax ex has any Darkness Energy attached to it, remove 1 damage counter from Rocket's Snorlax ex between turns.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Poison Claws",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        },
+        {
+          "name": "Collapse",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Rocket's Snorlax ex is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-105",
+      "itemType": "Pokemon Card",
+      "number": "105",
+      "name": "Rocket's Suicune ex",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Dark and Clear",
+          "text": "As long as Rocket's Suicune ex has any Darkness Energy attached to it, Rocket's Suicune ex can't be affected by any Special Conditions.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Icy Wind",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Hyper Splash",
+          "damage": "50+",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is a Stage 2 Evolved Pokémon, this attack does 50 damage plus 40 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-106",
+      "itemType": "Pokemon Card",
+      "number": "106",
+      "name": "Rocket's Zapdos ex",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Darkness Guard",
+          "text": "As long as Rocket's Zapdos ex has any Darkness Energy attached to it, damage done to Rocket's Zapdos ex by an opponent's attack is reduced by 10 (after applying Weakness and Resistance).",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Plasma",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your discard pile for a Lightning Energy card and attach it to Rocket's Zapdos ex."
+        },
+        {
+          "name": "Raging Thunder",
+          "damage": "60",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "This attack does 30 damage to 1 of your Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-107",
+      "itemType": "Pokemon Card",
+      "number": "107",
+      "name": "Mudkip ★",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo Star",
+      "artist": "Masakazu Fukuda",
+      "text": "You can't have more than 1 Pokémon Star in your deck.",
+      "attacks": [
+        {
+          "name": "Whirlpool",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy card attached to the Defending Pokémon."
+        },
+        {
+          "name": "Spring Back",
+          "damage": "20+",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "If your opponent has only 1 Prize card left, this attack does 20 damage plus 50 more damage and the Defending Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-108",
+      "itemType": "Pokemon Card",
+      "number": "108",
+      "name": "Torchic ★",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo Star",
+      "artist": "Masakazu Fukuda",
+      "text": "You can't have more than 1 Pokémon Star in your deck.",
+      "attacks": [
+        {
+          "name": "Fireworks",
+          "damage": "20",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Flip a coin. If tails, discard a Fire Energy card attached to Torchic Star."
+        },
+        {
+          "name": "Spring Back",
+          "damage": "20+",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "text": "If your opponent has only 1 Prize card left, this attack does 20 damage plus 50 more damage and the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-109",
+      "itemType": "Pokemon Card",
+      "number": "109",
+      "name": "Treecko ★",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo Star",
+      "artist": "Masakazu Fukuda",
+      "text": "You can't have more than 1 Pokémon Star in your deck.",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Spring Back",
+          "damage": "20+",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": "If your opponent has only 1 Prize card left, this attack does 20 damage plus 50 more damage and the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-110",
+      "itemType": "Pokemon Card",
+      "number": "110",
+      "name": "Charmeleon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Charmander",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Smokescreen",
+          "damage": "10",
+          "cost": [
+            "Fire"
+          ],
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        },
+        {
+          "name": "Fireworks",
+          "damage": "40",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, discard a Fire Energy card attached to Charmeleon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-rocket-returns-111",
+      "itemType": "Trainer Card",
+      "number": "111",
+      "name": "Here Comes Team Rocket!",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Ken Sugimori",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Each player plays with his or her Prize cards face up for the rest of the game."
+    }
+  ]
+}
