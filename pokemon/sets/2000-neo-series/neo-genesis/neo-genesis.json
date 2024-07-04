@@ -1,45 +1,35 @@
 {
   "setId": "tcg-pokemon-neo-genesis",
+  "setVariants": [
+    {
+      "id": "first-edition",
+      "name": "First Edition",
+      "description": "The first print run of the set. The cards have the 'Edition 1' symbol.",
+      "type": "print-run"
+    },
+    {
+      "id": "unlimited",
+      "name": "Unlimited",
+      "description": "The unlimited print of the set.",
+      "type": "print-run"
+    }
+  ],
   "cardCount": "111",
   "sealedProducts": [
     {
       "id": "tcg-pokemon-neo-genesis-booster-box",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Sealed Product",
-      "name": "Neo-genesis Booster Box"
+      "name": "Neo Genesis Booster Box"
     },
     {
       "id": "tcg-pokemon-neo-genesis-booster-pack",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Meganium",
-          "Typhlosion",
-          "Feraligatr",
-          "Lugia"
-        ]
-      },
       "itemType": "Sealed Product",
-      "name": "Neo-genesis Booster Pack"
+      "name": "Neo Genesis Booster Pack"
     }
   ],
   "cards": [
     {
       "id": "tcg-pokemon-neo-genesis-1",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "1",
       "name": "Ampharos",
@@ -78,12 +68,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-2",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "2",
       "name": "Azumarill",
@@ -129,12 +113,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-3",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "3",
       "name": "Bellossom",
@@ -180,12 +158,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-4",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "4",
       "name": "Feraligatr",
@@ -233,12 +205,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-5",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "5",
       "name": "Feraligatr",
@@ -285,12 +251,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-6",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "6",
       "name": "Heracross",
@@ -335,12 +295,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-7",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "7",
       "name": "Jumpluff",
@@ -387,12 +341,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-8",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "8",
       "name": "Kingdra",
@@ -436,12 +384,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-9",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "9",
       "name": "Lugia",
@@ -485,12 +427,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-10",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "10",
       "name": "Meganium",
@@ -538,12 +474,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-11",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "11",
       "name": "Meganium",
@@ -591,12 +521,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-12",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "12",
       "name": "Pichu",
@@ -621,12 +545,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-13",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "13",
       "name": "Skarmory",
@@ -678,12 +596,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-14",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "14",
       "name": "Slowking",
@@ -730,12 +642,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-15",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "15",
       "name": "Steelix",
@@ -790,12 +696,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-16",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "16",
       "name": "Togetic",
@@ -837,12 +737,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-17",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "17",
       "name": "Typhlosion",
@@ -889,12 +783,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-18",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "18",
       "name": "Typhlosion",
@@ -941,12 +829,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-19",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Energy Card",
       "number": "19",
       "name": "Metal Energy",
@@ -959,12 +841,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-20",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "20",
       "name": "Cleffa",
@@ -989,15 +865,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-21",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "errors": [
-          "Flail attack has no damage printed"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "21",
       "name": "Donphan",
@@ -1051,12 +918,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-22",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "22",
       "name": "Elekid",
@@ -1079,12 +940,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-23",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "23",
       "name": "Magby",
@@ -1110,12 +965,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-24",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "24",
       "name": "Murkrow",
@@ -1154,12 +1003,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-25",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "25",
       "name": "Sneasel",
@@ -1200,12 +1043,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-26",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "26",
       "name": "Aipom",
@@ -1250,12 +1087,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-27",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "27",
       "name": "Ariados",
@@ -1300,12 +1131,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-28",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "28",
       "name": "Bayleef",
@@ -1353,12 +1178,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-29",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "29",
       "name": "Bayleef",
@@ -1404,12 +1223,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-30",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "30",
       "name": "Clefairy",
@@ -1460,12 +1273,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-31",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "31",
       "name": "Croconaw",
@@ -1511,12 +1318,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-32",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "32",
       "name": "Croconaw",
@@ -1563,12 +1364,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-33",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "33",
       "name": "Electabuzz",
@@ -1613,12 +1408,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-34",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "34",
       "name": "Flaaffy",
@@ -1663,12 +1452,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-35",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "35",
       "name": "Furret",
@@ -1721,12 +1504,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-36",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "36",
       "name": "Gloom",
@@ -1773,12 +1550,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-37",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "37",
       "name": "Granbull",
@@ -1831,12 +1602,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-38",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "38",
       "name": "Lanturn",
@@ -1881,12 +1646,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-39",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "39",
       "name": "Ledian",
@@ -1926,12 +1685,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-40",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "40",
       "name": "Magmar",
@@ -1976,12 +1729,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-41",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "41",
       "name": "Miltank",
@@ -2032,12 +1779,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-42",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "42",
       "name": "Noctowl",
@@ -2084,12 +1825,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-43",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "43",
       "name": "Phanpy",
@@ -2136,12 +1871,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-44",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "44",
       "name": "Piloswine",
@@ -2196,12 +1925,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-45",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "45",
       "name": "Quagsire",
@@ -2255,12 +1978,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-46",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "46",
       "name": "Quilava",
@@ -2306,12 +2023,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-47",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "47",
       "name": "Quilava",
@@ -2358,12 +2069,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-48",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "48",
       "name": "Seadra",
@@ -2408,12 +2113,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-49",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "49",
       "name": "Skiploom",
@@ -2460,12 +2159,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-50",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "50",
       "name": "Sunflora",
@@ -2503,12 +2196,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-51",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "51",
       "name": "Togepi",
@@ -2544,12 +2231,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-52",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "52",
       "name": "Xatu",
@@ -2600,12 +2281,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-53",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "53",
       "name": "Chikorita",
@@ -2646,12 +2321,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-54",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "54",
       "name": "Chikorita",
@@ -2693,12 +2362,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-55",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "55",
       "name": "Chinchou",
@@ -2740,12 +2403,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-56",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "56",
       "name": "Cyndaquil",
@@ -2788,12 +2445,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-57",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "57",
       "name": "Cyndaquil",
@@ -2837,12 +2488,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-58",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "58",
       "name": "Girafarig",
@@ -2881,12 +2526,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-59",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "59",
       "name": "Gligar",
@@ -2932,12 +2571,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-60",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "60",
       "name": "Hoothoot",
@@ -2985,12 +2618,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-61",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "61",
       "name": "Hoppip",
@@ -3034,12 +2661,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-62",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "62",
       "name": "Horsea",
@@ -3072,12 +2693,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-63",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "63",
       "name": "Ledyba",
@@ -3122,12 +2737,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-64",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "64",
       "name": "Mantine",
@@ -3169,12 +2778,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-65",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "65",
       "name": "Mareep",
@@ -3217,12 +2820,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-66",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "66",
       "name": "Marill",
@@ -3265,12 +2862,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-67",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "67",
       "name": "Natu",
@@ -3315,12 +2906,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-68",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "68",
       "name": "Oddish",
@@ -3363,12 +2948,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-69",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "69",
       "name": "Onix",
@@ -3412,12 +2991,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-70",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "70",
       "name": "Pikachu",
@@ -3462,12 +3035,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-71",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "71",
       "name": "Sentret",
@@ -3508,12 +3075,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-72",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "72",
       "name": "Shuckle",
@@ -3556,12 +3117,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-73",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "73",
       "name": "Slowpoke",
@@ -3604,12 +3159,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-74",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "74",
       "name": "Snubbull",
@@ -3658,12 +3207,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-75",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "75",
       "name": "Spinarak",
@@ -3705,12 +3248,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-76",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "76",
       "name": "Stantler",
@@ -3763,12 +3300,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-77",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "77",
       "name": "Sudowoodo",
@@ -3813,12 +3344,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-78",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "78",
       "name": "Sunkern",
@@ -3863,12 +3388,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-79",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "79",
       "name": "Swinub",
@@ -3909,12 +3428,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-80",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "80",
       "name": "Totodile",
@@ -3957,12 +3470,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-81",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "81",
       "name": "Totodile",
@@ -4004,12 +3511,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-82",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "82",
       "name": "Wooper",
@@ -4058,12 +3559,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-83",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "83",
       "name": "Arcade Game",
@@ -4076,12 +3571,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-84",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "84",
       "name": "Ecogym",
@@ -4094,12 +3583,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-85",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "85",
       "name": "Energy Charge",
@@ -4112,12 +3595,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-86",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "86",
       "name": "Focus Band",
@@ -4130,12 +3607,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-87",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "87",
       "name": "Mary",
@@ -4148,12 +3619,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-88",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "88",
       "name": "PokéGear",
@@ -4166,12 +3631,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-89",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "89",
       "name": "Super Energy Retrieval",
@@ -4184,12 +3643,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-90",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "90",
       "name": "Time Capsule",
@@ -4202,12 +3655,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-91",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "91",
       "name": "Bill's Teleporter",
@@ -4220,12 +3667,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-92",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "92",
       "name": "Card-Flip Game",
@@ -4238,12 +3679,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-93",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "93",
       "name": "Gold Berry",
@@ -4256,12 +3691,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-94",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "94",
       "name": "Miracle Berry",
@@ -4274,12 +3703,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-95",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "95",
       "name": "New Pokédex",
@@ -4292,12 +3715,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-96",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "96",
       "name": "Professor Elm",
@@ -4310,12 +3727,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-97",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "97",
       "name": "Sprout Tower",
@@ -4328,12 +3739,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-98",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "98",
       "name": "Super Scoop Up",
@@ -4346,12 +3751,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-99",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "99",
       "name": "Berry",
@@ -4364,12 +3763,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-100",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "100",
       "name": "Double Gust",
@@ -4382,12 +3775,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-101",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "101",
       "name": "Moo-Moo Milk",
@@ -4400,12 +3787,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-102",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "102",
       "name": "Pokémon March",
@@ -4418,12 +3799,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-103",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "103",
       "name": "Super Rod",
@@ -4436,15 +3811,14 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-104",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "errors": [
-          "\"Put 10 damage counters\" in description"
-        ]
-      },
+      "variants": [
+        {
+          "id": "damage-counter-error",
+          "name": "Damage Counter Error",
+          "description": "The card incorrectly instructs the player to use 10 damage counters.",
+          "type": "error"
+        }
+      ],
       "itemType": "Energy Card",
       "number": "104",
       "name": "Darkness Energy",
@@ -4457,12 +3831,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-105",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Energy Card",
       "number": "105",
       "name": "Recycle Energy",
@@ -4475,12 +3843,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-106",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Energy Card",
       "number": "106",
       "name": "Fighting Energy",
@@ -4491,12 +3853,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-107",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Energy Card",
       "number": "107",
       "name": "Fire Energy",
@@ -4507,12 +3863,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-108",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Energy Card",
       "number": "108",
       "name": "Grass Energy",
@@ -4523,12 +3873,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-109",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Energy Card",
       "number": "109",
       "name": "Lightning Energy",
@@ -4539,12 +3883,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-110",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Energy Card",
       "number": "110",
       "name": "Psychic Energy",
@@ -4555,12 +3893,6 @@
     },
     {
       "id": "tcg-pokemon-neo-genesis-111",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Energy Card",
       "number": "111",
       "name": "Water Energy",
