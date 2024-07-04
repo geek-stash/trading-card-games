@@ -1,0 +1,4422 @@
+{
+  "setId": "tcg-pokemon-firered-leafgreen",
+  "setVariants": [
+    {
+      "id": "reverse-holo",
+      "name": "Reverse Holo",
+      "description": "The reverse holo print of the set.",
+      "type": "art",
+      "exclusions": [
+        "tcg-pokemon-firered-leafgreen-booster-box",
+        "tcg-pokemon-firered-leafgreen-booster-pack"
+      ]
+    },
+    {
+      "id": "unlimited",
+      "name": "Unlimited",
+      "description": "The unlimited print of the set.",
+      "type": "print-run"
+    }
+  ],
+  "cardCount": "116",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-firered-leafgreen-booster-box",
+      "itemType": "Sealed Product",
+      "name": "Firered Leafgreen Booster Box"
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-booster-pack",
+      "itemType": "Sealed Product",
+      "name": "Firered Leafgreen Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-firered-leafgreen-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Beedrill",
+      "stage": "Stage 2",
+      "evolvesFrom": "Kakuna",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Hajime Kusajima",
+      "attacks": [
+        {
+          "name": "Poison Sting",
+          "damage": "20",
+          "cost": [
+            "Grass"
+          ],
+          "text": "The Defending Pokémon is now Poisoned."
+        },
+        {
+          "name": "Link Needle",
+          "damage": "50+",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 50 damage plus 30 more damage for each Beedrill (excluding this one) you have in play."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Butterfree",
+      "stage": "Stage 2",
+      "evolvesFrom": "Metapod",
+      "hp": "100",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Atsuko Nishida",
+      "abilities": [
+        {
+          "name": "Sooth Dust",
+          "text": "As long as Butterfree is your Active Pokémon, remove 1 damage counter from each of your Pokémon between turns.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Whirlwind",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "name": "Gust",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-3",
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Dewgong",
+      "stage": "Stage 1",
+      "evolvesFrom": "Seel",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Toshinao Aoki",
+      "abilities": [
+        {
+          "name": "Safeguard",
+          "text": "Prevent all effects of attacks, including damage, done to Dewgong by your opponent's Pokémon-ex.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Cold Breath",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Aurora Beam",
+          "damage": "40",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-4",
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Ditto",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Miki Tanaka",
+      "abilities": [
+        {
+          "name": "Form Variation",
+          "text": "Once during your turn (before your attack), you may search your discard pile for a Basic Pokémon (excluding Pokémon-ex and Ditto) and switch it with Ditto. (Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) Place Ditto in the discard pile.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Energy Ball",
+          "damage": "10+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Does 10 damage plus 10 more damage for each Energy attached to Ditto but not used to pay for this attack's Energy cost. You can't add more then 20 damage in this way."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Exeggutor",
+      "stage": "Stage 1",
+      "evolvesFrom": "Exeggcute",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Tomokazu Komiya",
+      "attacks": [
+        {
+          "name": "Psychic Exchange",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Shuffle your hand into your deck. Draw up to 8 cards."
+        },
+        {
+          "name": "Big Eggsplosion",
+          "damage": "40×",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Flip a coin for each Energy attached to Exeggutor. This attack does 40 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-6",
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Kangaskhan",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Naoyo Kimura",
+      "attacks": [
+        {
+          "name": "Fetch",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw a card."
+        },
+        {
+          "name": "Headbutt",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "One-Two Punch",
+          "damage": "30+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 damage plus 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-7",
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Marowak",
+      "stage": "Stage 1",
+      "evolvesFrom": "Cubone",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Aya Kusube",
+      "attacks": [
+        {
+          "name": "Linear Attack",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Vengeance",
+          "damage": "30+",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 30 damage plus 10 more damage for each Basic Pokémon and each Evolution card in your discard pile. You can't add more than 60 damage in this way."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-8",
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "Nidoking",
+      "stage": "Stage 2",
+      "evolvesFrom": "Nidorino",
+      "hp": "120",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Hisao Nakamura",
+      "abilities": [
+        {
+          "name": "Power Gene",
+          "text": "As long as Nidoking is in play, your attacks by Nidoran ♀, Nidorina, Nidoqueen, Nidoran ♂, and Nidorino do 10 more damage to the Defending Pokémon.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Earth Poison",
+          "damage": "40",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon already has any damage counters on it, the Defending Pokémon is now Poisoned."
+        },
+        {
+          "name": "Bound Crush",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 60 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Nidoking can't use Bound Crush during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-9",
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Nidoqueen",
+      "stage": "Stage 2",
+      "evolvesFrom": "Nidorina",
+      "hp": "120",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Naoyo Kimura",
+      "abilities": [
+        {
+          "name": "Family Bonds",
+          "text": "As long as Nidoqueen is in play, the Retreat Cost for Nidoran ♀, Nidorina, Nidoran ♂, Nidorino and Nidoking is 0.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Toxic",
+          "cost": [
+            "Grass"
+          ],
+          "text": "The Defending Pokémon is now Poisoned. Put 2 damage counters instead of 1 on the Defending Pokémon between turns."
+        },
+        {
+          "name": "Power Lariat",
+          "damage": "40+",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 40 damage plus 10 more damage for each Evolved Pokémon you have in play."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Pidgeot",
+      "stage": "Stage 2",
+      "evolvesFrom": "Pidgeotto",
+      "hp": "100",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Midori Harada",
+      "abilities": [
+        {
+          "name": "Quick Search",
+          "text": "Once during your turn (before your attack), you may choose any 1 card from your deck and put it into your hand. Shuffle your deck afterward. You can't use more than 1 Quick Search Poké-Power each turn. This power can't be used if Pidgeot is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Clutch",
+          "damage": "40",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat until the end of your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Poliwrath",
+      "stage": "Stage 2",
+      "evolvesFrom": "Poliwhirl",
+      "hp": "120",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Spiral",
+          "text": "As long as Poliwrath is your Active Pokémon, your opponent's Confused Pokémon can't retreat.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Split Spiral Punch",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Mega Throw",
+          "damage": "50+",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is Pokémon-ex, this attack does 50 damage plus 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Raichu",
+      "stage": "Stage 1",
+      "evolvesFrom": "Pikachu",
+      "hp": "80",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Midori Harada",
+      "attacks": [
+        {
+          "name": "Recharge",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 2 Lightning Energy cards and attach them to Raichu. Shuffle your deck afterward."
+        },
+        {
+          "name": "Thunder Reflection",
+          "damage": "50",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "You may move any number of Lightning Energy cards attached to Raichu to another of your Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Rapidash",
+      "stage": "Stage 1",
+      "evolvesFrom": "Ponyta",
+      "hp": "80",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Fiery Aura",
+          "text": "As long as Rapidash is your Active Pokémon, put 4 damage counters instead of 2 on Burned Pokémon between turns.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Searing Flame",
+          "damage": "10",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Burned."
+        },
+        {
+          "name": "Rear Kick",
+          "damage": "40",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Slowbro",
+      "stage": "Stage 1",
+      "evolvesFrom": "Slowpoke",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Yuka Morii",
+      "abilities": [
+        {
+          "name": "Strange Behavior",
+          "text": "As often as you like during your turn (before your attack), you may move 1 damage counter from 1 of your Pokémon to Slowbro as long as you don't Knock Out Slowbro. This power can't be used if Slowbro is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Psyshock",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Snorlax",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Rest Up",
+          "text": "If Snorlax remains Asleep between turns, remove 2 damage counters from Snorlax (remove 1 if there is only 1).",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Collapse",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Snorlax is now Asleep."
+        },
+        {
+          "name": "Toss and Turn",
+          "damage": "30+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If Snorlax is Asleep, this attack does 30 damage plus 30 more damage. (This attack can be used even if Snorlax is Asleep.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-16",
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Tauros",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Masakazu Fukuda",
+      "attacks": [
+        {
+          "name": "Knock Over",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "You may discard any Stadium card in play."
+        },
+        {
+          "name": "Rampage",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 20 damage plus 10 more damage for each damage counter on Tauros. After doing damage, flip a coin. If tails, Tauros is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Victreebel",
+      "stage": "Stage 2",
+      "evolvesFrom": "Weepinbell",
+      "hp": "110",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Tomokazu Komiya",
+      "abilities": [
+        {
+          "name": "Acid Sampler",
+          "text": "As long as Victreebel is your Active Pokémon, put 1 damage counter on each Defending Pokémon between turns. Acid Sampler stops working if your other Active Pokémon is not a Victreebel.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Acid",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat until the end of your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-18",
+      "itemType": "Pokemon Card",
+      "number": "18",
+      "name": "Arcanine",
+      "stage": "Stage 1",
+      "evolvesFrom": "Growlithe",
+      "hp": "90",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Flare",
+          "damage": "20",
+          "cost": [
+            "Fire"
+          ]
+        },
+        {
+          "name": "Heat Tackle",
+          "damage": "70",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Arcanine does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-19",
+      "itemType": "Pokemon Card",
+      "number": "19",
+      "name": "Chansey",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Miki Tanaka",
+      "attacks": [
+        {
+          "name": "Sing",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Egg Surprise",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, Chansey does 50 damage to the Defending Pokémon. If tails, remove 5 damage counters from Chansey. (All if there are less than 5.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-20",
+      "itemType": "Pokemon Card",
+      "number": "20",
+      "name": "Cloyster",
+      "stage": "Stage 1",
+      "evolvesFrom": "Shellder",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Aya Kusube",
+      "abilities": [
+        {
+          "name": "Exoskeleton",
+          "text": "Any damage done to Cloyster by attacks is reduced by 20 (after applying Weakness and Resistance).",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Double Bubble",
+          "damage": "10×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads. If either of the coins is heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Shell Attack",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-21",
+      "itemType": "Pokemon Card",
+      "number": "21",
+      "name": "Dodrio",
+      "stage": "Stage 1",
+      "evolvesFrom": "Doduo",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Retreat Aid",
+          "text": "As long as Dodrio is on your Bench, you pay ColorlessColorless less to retreat your Active Pokémon (excluding Pokémon-ex and Baby Pokémon.)",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Tri Attack",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-22",
+      "itemType": "Pokemon Card",
+      "number": "22",
+      "name": "Dugtrio",
+      "stage": "Stage 1",
+      "evolvesFrom": "Diglett",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Hajime Kusajima",
+      "attacks": [
+        {
+          "name": "Sonicboom",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Weakness or Resistance."
+        },
+        {
+          "name": "Rumble",
+          "damage": "50",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat until the end of your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-23",
+      "itemType": "Pokemon Card",
+      "number": "23",
+      "name": "Farfetch'd",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Yukiko Baba",
+      "attacks": [
+        {
+          "name": "Hoard",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 2 Pokémon Tool cards and attach them to any of your Pokémon (excluding Pokémon that already have a Pokémon Tool attached to them). Shuffle your deck afterward."
+        },
+        {
+          "name": "Cross-Cut",
+          "damage": "10+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is an Evolved Pokémon, this attack does 10 damage plus 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-24",
+      "itemType": "Pokemon Card",
+      "number": "24",
+      "name": "Fearow",
+      "stage": "Stage 1",
+      "evolvesFrom": "Spearow",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Hisao Nakamura",
+      "abilities": [
+        {
+          "name": "Free Flight",
+          "text": "If Fearow has no Energy attached to it, Fearow's Retreat Cost is 0.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Shot Air",
+          "damage": "10",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Drill Peck",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-25",
+      "itemType": "Pokemon Card",
+      "number": "25",
+      "name": "Hypno",
+      "stage": "Stage 1",
+      "evolvesFrom": "Drowzee",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Yukiko Baba",
+      "abilities": [
+        {
+          "name": "Eerie Aura",
+          "text": "As long as Hypno is your Active Pokémon, put 2 damage counters on each Pokémon that remains Asleep between turns.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hypnotic Ray",
+          "damage": "20",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-26",
+      "itemType": "Pokemon Card",
+      "number": "26",
+      "name": "Kingler",
+      "stage": "Stage 1",
+      "evolvesFrom": "Krabby",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "attacks": [
+        {
+          "name": "Salt Water",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 2 Water Energy cards and attach them to Kingler. Shuffle your deck afterward."
+        },
+        {
+          "name": "Hyper Pump",
+          "damage": "30+",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Does 30 damage plus 20 more damage for each basic Energy attached to Kingler but not used to pay for this attack's Energy cost. You can't add more than 40 damage in this way."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-27",
+      "itemType": "Pokemon Card",
+      "number": "27",
+      "name": "Magneton",
+      "stage": "Stage 1",
+      "evolvesFrom": "Magnemite",
+      "hp": "80",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Thundershock",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Speed Shot",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 40 damage to that Pokémon. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on that Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-28",
+      "itemType": "Pokemon Card",
+      "number": "28",
+      "name": "Primeape",
+      "stage": "Stage 1",
+      "evolvesFrom": "Mankey",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Miki Tanaka",
+      "attacks": [
+        {
+          "name": "Toss",
+          "damage": "30×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may discard from your hand as many Technical Machine and Pokémon Tool cards as you like. This attack does 30 damage times the number of cards you discarded."
+        },
+        {
+          "name": "Low Kick",
+          "damage": "40",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-29",
+      "itemType": "Pokemon Card",
+      "number": "29",
+      "name": "Scyther",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "abilities": [
+        {
+          "name": "Leaf Ride",
+          "text": "If Scyther has any Energy attached to it, Scyther's Retreat Cost is 0.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Fury Cutter",
+          "damage": "10+",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. If 1 of them is heads, this attack does 10 damage plus 10 more damage. If 2 of them are heads, this attack does 10 damage plus 20 more damage. If all of them are heads, this attack does 10 damage plus 40 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-30",
+      "itemType": "Pokemon Card",
+      "number": "30",
+      "name": "Tangela",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Yuka Morii",
+      "attacks": [
+        {
+          "name": "Vine Tease",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Look at your Prize cards without showing your opponent. Choose 1 of the Prize cards and switch it with the top card of your deck without looking at the top card of your deck. If you have no cards in your deck, this attack does nothing."
+        },
+        {
+          "name": "Wiggle",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused. If tails, the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-31",
+      "itemType": "Pokemon Card",
+      "number": "31",
+      "name": "Charmeleon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Charmander",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouki Saitou",
+      "attacks": [
+        {
+          "name": "Flare",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Damage Burn",
+          "damage": "40+",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon already has any damage counters on it, this attack does 40 damage plus 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-32",
+      "itemType": "Pokemon Card",
+      "number": "32",
+      "name": "Drowzee",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yukiko Baba",
+      "attacks": [
+        {
+          "name": "Hypnosis",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Ambush",
+          "damage": "10+",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-33",
+      "itemType": "Pokemon Card",
+      "number": "33",
+      "name": "Exeggcute",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Tomokazu Komiya",
+      "attacks": [
+        {
+          "name": "Psybeam",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Double Spin",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-34",
+      "itemType": "Pokemon Card",
+      "number": "34",
+      "name": "Haunter",
+      "stage": "Stage 1",
+      "evolvesFrom": "Gastly",
+      "hp": "70",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Head Trip",
+          "text": "Once during your turn (before your attack), if Haunter is on your Bench, you may use this power. One of your Active Pokémon is now Confused.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Confuse Ray",
+          "damage": "20",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-35",
+      "itemType": "Pokemon Card",
+      "number": "35",
+      "name": "Ivysaur",
+      "stage": "Stage 1",
+      "evolvesFrom": "Bulbasaur",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Atsuko Nishida",
+      "attacks": [
+        {
+          "name": "Poison Seed",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Poisoned."
+        },
+        {
+          "name": "Razor Leaf",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-36",
+      "itemType": "Pokemon Card",
+      "number": "36",
+      "name": "Kakuna",
+      "stage": "Stage 1",
+      "evolvesFrom": "Weedle",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hajime Kusajima",
+      "abilities": [
+        {
+          "name": "Poison Payback",
+          "text": "If Kakuna is your Active Pokémon and is damaged by an opponent's attack (even if Kakuna is Knocked Out), the Attacking Pokémon is now Poisoned.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-37",
+      "itemType": "Pokemon Card",
+      "number": "37",
+      "name": "Lickitung",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Sumiyoshi Kizuki",
+      "attacks": [
+        {
+          "name": "Lick",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Tongue Whip",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-38",
+      "itemType": "Pokemon Card",
+      "number": "38",
+      "name": "Mankey",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Miki Tanaka",
+      "attacks": [
+        {
+          "name": "Mischief",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Shuffle your opponent's deck."
+        },
+        {
+          "name": "Light Punch",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-39",
+      "itemType": "Pokemon Card",
+      "number": "39",
+      "name": "Metapod",
+      "stage": "Stage 1",
+      "evolvesFrom": "Caterpie",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Atsuko Nishida",
+      "abilities": [
+        {
+          "name": "Energy Protection",
+          "text": "Any damage done to Metapod by attacks is reduced by 10 for each Energy attached to Metapod. You can't reduce more than 30 damage in this way.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Sharpen",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-40",
+      "itemType": "Pokemon Card",
+      "number": "40",
+      "name": "Nidorina",
+      "stage": "Stage 1",
+      "evolvesFrom": "Nidoran ♀",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Naoyo Kimura",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Fast Evolution",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 2 Evolution cards, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-41",
+      "itemType": "Pokemon Card",
+      "number": "41",
+      "name": "Nidorino",
+      "stage": "Stage 1",
+      "evolvesFrom": "Nidoran ♂",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hisao Nakamura",
+      "attacks": [
+        {
+          "name": "Double Stab",
+          "damage": "20×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        },
+        {
+          "name": "Rend",
+          "damage": "30+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon already has any damage counters on it, this attack does 30 damage plus 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-42",
+      "itemType": "Pokemon Card",
+      "number": "42",
+      "name": "Onix",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouki Saitou",
+      "attacks": [
+        {
+          "name": "Rock Throw",
+          "damage": "10",
+          "cost": [
+            "Fighting"
+          ]
+        },
+        {
+          "name": "Tunneling",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Choose up to 2 of your opponent's Benched Pokémon. This attack does 10 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.) Onix can't attack during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-43",
+      "itemType": "Pokemon Card",
+      "number": "43",
+      "name": "Parasect",
+      "stage": "Stage 1",
+      "evolvesFrom": "Paras",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yuka Morii",
+      "attacks": [
+        {
+          "name": "Energy Powder",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Search your deck for up to 2 basic Energy cards and attach them to any of your Pokémon (excluding Pokémon-ex) in any way you like. Shuffle your deck afterward."
+        },
+        {
+          "name": "Toxic Spore",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-44",
+      "itemType": "Pokemon Card",
+      "number": "44",
+      "name": "Persian",
+      "stage": "Stage 1",
+      "evolvesFrom": "Meowth",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Masakazu Fukuda",
+      "abilities": [
+        {
+          "name": "Thick Skin",
+          "text": "Persian can't be affected by any Special Conditions.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Poison Claws",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Poisoned."
+        },
+        {
+          "name": "Shining Claws",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-45",
+      "itemType": "Pokemon Card",
+      "number": "45",
+      "name": "Pidgeotto",
+      "stage": "Stage 1",
+      "evolvesFrom": "Pidgey",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Midori Harada",
+      "attacks": [
+        {
+          "name": "Clutch",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat until the end of your opponent's next turn."
+        },
+        {
+          "name": "Cutting Wind",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-46",
+      "itemType": "Pokemon Card",
+      "number": "46",
+      "name": "Poliwhirl",
+      "stage": "Stage 1",
+      "evolvesFrom": "Poliwag",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Energy Stream",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your discard pile for a basic Energy card and attach it to Poliwhirl."
+        },
+        {
+          "name": "Bubble",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-47",
+      "itemType": "Pokemon Card",
+      "number": "47",
+      "name": "Porygon",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Tomoaki Imakuni",
+      "attacks": [
+        {
+          "name": "Data Retrieval",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If you have less than 4 cards in your hand, draw cards until you have 4 cards in your hand."
+        },
+        {
+          "name": "Confuse Ray",
+          "damage": "10",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-48",
+      "itemType": "Pokemon Card",
+      "number": "48",
+      "name": "Raticate",
+      "stage": "Stage 1",
+      "evolvesFrom": "Rattata",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kyoko Umemoto",
+      "abilities": [
+        {
+          "name": "Thick Skin",
+          "text": "Raticate can't be affected by any Special Conditions.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Pickup",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your discard pile for a Basic Pokémon (or Evolution card), a Trainer card, and an Energy card. Show them to your opponent and put them into your hand."
+        },
+        {
+          "name": "Quick Attack",
+          "damage": "10+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 40 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-49",
+      "itemType": "Pokemon Card",
+      "number": "49",
+      "name": "Venomoth",
+      "stage": "Stage 1",
+      "evolvesFrom": "Venonat",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Protective Dust",
+          "text": "Prevent all effects of attacks, except damage, done to Venomoth by the Attacking Pokémon.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Sleep Poison",
+          "cost": [
+            "Grass"
+          ],
+          "text": "The Defending Pokémon is now Asleep and Poisoned."
+        },
+        {
+          "name": "Razor Wind",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-50",
+      "itemType": "Pokemon Card",
+      "number": "50",
+      "name": "Wartortle",
+      "stage": "Stage 1",
+      "evolvesFrom": "Squirtle",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "damage": "20+",
+          "cost": [
+            "Water"
+          ],
+          "text": "Does 20 damage plus 10 more damage for each Water Energy attached to Wartortle but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+        },
+        {
+          "name": "Smash Turn",
+          "damage": "40",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "After your attack, you may switch Wartortle with 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-51",
+      "itemType": "Pokemon Card",
+      "number": "51",
+      "name": "Weepinbell",
+      "stage": "Stage 1",
+      "evolvesFrom": "Bellsprout",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Tomokazu Komiya",
+      "attacks": [
+        {
+          "name": "Razor Leaf",
+          "damage": "20",
+          "cost": [
+            "Grass"
+          ]
+        },
+        {
+          "name": "Corrosive Acid",
+          "damage": "10",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Burned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-52",
+      "itemType": "Pokemon Card",
+      "number": "52",
+      "name": "Wigglytuff",
+      "stage": "Stage 1",
+      "evolvesFrom": "Jigglypuff",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kyoko Umemoto",
+      "abilities": [
+        {
+          "name": "Assistance",
+          "text": "Once during your turn (before your attack), if Wigglytuff is on your Bench, you may choose 1 of your Active Pokémon and remove 1 Special Condition from it.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Expand",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done to Wigglytuff by attacks is reduced by 10 (after applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-53",
+      "itemType": "Pokemon Card",
+      "number": "53",
+      "name": "Bellsprout",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Tomokazu Komiya",
+      "attacks": [
+        {
+          "name": "Vine Whip",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-54",
+      "itemType": "Pokemon Card",
+      "number": "54",
+      "name": "Bulbasaur",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "attacks": [
+        {
+          "name": "Sleep Poison",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep and Poisoned."
+        },
+        {
+          "name": "Razor Leaf",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-55",
+      "itemType": "Pokemon Card",
+      "number": "55",
+      "name": "Bulbasaur",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Hajime Kusajima",
+      "attacks": [
+        {
+          "name": "Ram",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Gouge",
+          "damage": "20+",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-56",
+      "itemType": "Pokemon Card",
+      "number": "56",
+      "name": "Caterpie",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "attacks": [
+        {
+          "name": "Signs of Evolution",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a Metapod and a Butterfree card, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "String Shot",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-57",
+      "itemType": "Pokemon Card",
+      "number": "57",
+      "name": "Charmander",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "attacks": [
+        {
+          "name": "Singe",
+          "cost": [
+            "Fire"
+          ],
+          "text": "The Defending Pokémon is now Burned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-58",
+      "itemType": "Pokemon Card",
+      "number": "58",
+      "name": "Charmander",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Slash",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-59",
+      "itemType": "Pokemon Card",
+      "number": "59",
+      "name": "Clefairy",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Gesture",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Benched Pokémon and switch it with the Defending Pokémon. Your opponent chooses the Defending Pokémon to switch."
+        },
+        {
+          "name": "Moon Kick",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-60",
+      "itemType": "Pokemon Card",
+      "number": "60",
+      "name": "Cubone",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Aya Kusube",
+      "attacks": [
+        {
+          "name": "Beat",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Linear Attack",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-61",
+      "itemType": "Pokemon Card",
+      "number": "61",
+      "name": "Diglett",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Hajime Kusajima",
+      "attacks": [
+        {
+          "name": "Dig Under",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 10 damage to that Pokémon. This attack's damage isn't affected by Weakness or Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-62",
+      "itemType": "Pokemon Card",
+      "number": "62",
+      "name": "Doduo",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "attacks": [
+        {
+          "name": "Run Around",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Switch Doduo with 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Random Peck",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 10 damage plus 10 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-63",
+      "itemType": "Pokemon Card",
+      "number": "63",
+      "name": "Gastly",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Slow Trip Gas",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "At the end of your opponent's next turn, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-64",
+      "itemType": "Pokemon Card",
+      "number": "64",
+      "name": "Growlithe",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Flame Tail",
+          "damage": "40",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-65",
+      "itemType": "Pokemon Card",
+      "number": "65",
+      "name": "Jigglypuff",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Kyoko Umemoto",
+      "attacks": [
+        {
+          "name": "Sleep Inducer",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Switch 1 of your opponent's Benched Pokémon with 1 of the Defending Pokémon. Your opponent chooses the Defending Pokémon to switch. The new Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Quick Blow",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-66",
+      "itemType": "Pokemon Card",
+      "number": "66",
+      "name": "Krabby",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "attacks": [
+        {
+          "name": "Irongrip",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Nap",
+          "cost": [
+            "Water"
+          ],
+          "text": "Remove 2 damage counters from Krabby (remove 1 if there is only 1)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-67",
+      "itemType": "Pokemon Card",
+      "number": "67",
+      "name": "Magikarp",
+      "stage": "Basic",
+      "hp": "30",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "attacks": [
+        {
+          "name": "Surprise Attack",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        },
+        {
+          "name": "Ascension",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Search your deck for a card that evolves from Magikarp and put it on Magikarp. (This counts as evolving Magikarp.) Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-68",
+      "itemType": "Pokemon Card",
+      "number": "68",
+      "name": "Magnemite",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Supersonic",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Speed Ball",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-69",
+      "itemType": "Pokemon Card",
+      "number": "69",
+      "name": "Meowth",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Masakazu Fukuda",
+      "attacks": [
+        {
+          "name": "Collect",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw a card."
+        },
+        {
+          "name": "Cat Kick",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-70",
+      "itemType": "Pokemon Card",
+      "number": "70",
+      "name": "Nidoran ♀",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Naoyo Kimura",
+      "attacks": [
+        {
+          "name": "Look for Friends",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Reveal cards from your deck until you reveal a Basic Pokémon. Show that card to your opponent and put it into your hand. Shuffle the other revealed cards into your deck. (If you don't reveal a Basic Pokémon, shuffle all the revealed cards back into your deck.)"
+        },
+        {
+          "name": "Bite",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-71",
+      "itemType": "Pokemon Card",
+      "number": "71",
+      "name": "Nidoran ♂",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Hisao Nakamura",
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a Nidoran ♀ or Nidoran ♂ card and put it onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "name": "Double Stab",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-72",
+      "itemType": "Pokemon Card",
+      "number": "72",
+      "name": "Paras",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Yuka Morii",
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "name": "Toxic Spore",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-73",
+      "itemType": "Pokemon Card",
+      "number": "73",
+      "name": "Pidgey",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "attacks": [
+        {
+          "name": "Corner",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat until the end of your opponent's next turn."
+        },
+        {
+          "name": "Gust",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-74",
+      "itemType": "Pokemon Card",
+      "number": "74",
+      "name": "Pikachu",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "attacks": [
+        {
+          "name": "Plasma",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, search your discard pile for a Lightning Energy card and attach it to Pikachu."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-75",
+      "itemType": "Pokemon Card",
+      "number": "75",
+      "name": "Poliwag",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Spiral Attack",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Tail Whap",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-76",
+      "itemType": "Pokemon Card",
+      "number": "76",
+      "name": "Ponyta",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Stomp",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-77",
+      "itemType": "Pokemon Card",
+      "number": "77",
+      "name": "Rattata",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Kyoko Umemoto",
+      "attacks": [
+        {
+          "name": "Collect",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw a card."
+        },
+        {
+          "name": "Scratch",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-78",
+      "itemType": "Pokemon Card",
+      "number": "78",
+      "name": "Seel",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Toshinao Aoki",
+      "attacks": [
+        {
+          "name": "Horn Hazard",
+          "damage": "30",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-79",
+      "itemType": "Pokemon Card",
+      "number": "79",
+      "name": "Shellder",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Aya Kusube",
+      "attacks": [
+        {
+          "name": "Minimize",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done to Shellder by attacks is reduced by 20 (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Wave Splash",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-80",
+      "itemType": "Pokemon Card",
+      "number": "80",
+      "name": "Slowpoke",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Yuka Morii",
+      "attacks": [
+        {
+          "name": "Confusion Wave",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Both Slowpoke and the Defending Pokémon are now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-81",
+      "itemType": "Pokemon Card",
+      "number": "81",
+      "name": "Spearow",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Hisao Nakamura",
+      "attacks": [
+        {
+          "name": "Claw",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        },
+        {
+          "name": "Wing Attack",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-82",
+      "itemType": "Pokemon Card",
+      "number": "82",
+      "name": "Squirtle",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Toshinao Aoki",
+      "attacks": [
+        {
+          "name": "Sleepy Ball",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-83",
+      "itemType": "Pokemon Card",
+      "number": "83",
+      "name": "Squirtle",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Bubble",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Smash Turn",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "After your attack, you may switch Squirtle with 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-84",
+      "itemType": "Pokemon Card",
+      "number": "84",
+      "name": "Venonat",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "attacks": [
+        {
+          "name": "Psycho Waves",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Discard an Energy card attached to Venonat. The Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Bite",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-85",
+      "itemType": "Pokemon Card",
+      "number": "85",
+      "name": "Voltorb",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Floating Electrons",
+          "text": "As long as Voltorb has any Energy attached to it, Voltorb's Retreat Cost is 0.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Thundershock",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-86",
+      "itemType": "Pokemon Card",
+      "number": "86",
+      "name": "Weedle",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Hajime Kusajima",
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 2 Grass Basic Pokémon and put them onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "name": "Poison Spurt",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Discard a Grass Energy card attached to Weedle. The Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-87",
+      "itemType": "Trainer Card",
+      "number": "87",
+      "name": "Bill's Maintenance",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,If you have any cards in your hand, shuffle 1 of them into your deck, then draw 3 cards."
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-88",
+      "itemType": "Trainer Card",
+      "number": "88",
+      "name": "Celio's Network",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Search your deck for a Basic Pokémon or Evolution card (excluding Pokémon-ex), show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-89",
+      "itemType": "Trainer Card",
+      "number": "89",
+      "name": "Energy Removal 2",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Keiji Kinebuchi",
+      "text": "Flip a coin. If heads, choose 1 Energy card attached to 1 of your opponent's Pokémon and discard it."
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-90",
+      "itemType": "Trainer Card",
+      "number": "90",
+      "name": "Energy Switch",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Ikuji",
+      "text": "Move a basic Energy card attached to 1 of your Pokémon to another of your Pokémon."
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-91",
+      "itemType": "Trainer Card",
+      "number": "91",
+      "name": "EXP.ALL",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Keiji Kinebuchi",
+      "text": "Attach EXP. ALL to 1 of your Pokémon (excluding Pokémon-ex and Pokémon that has an owner in its name) that doesn't already have a Pokémon Tool attached to it. If that Pokémon is Knocked Out, discard this card.,During your opponent's turn, if 1 of your Active Pokémon is Knocked Out by your opponent's attack, you may take 1 basic Energy card attached to that Knocked Out Pokémon and attach it to the Pokémon with EXP.ALL attached to it. If you do, discard EXP.ALL."
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-92",
+      "itemType": "Trainer Card",
+      "number": "92",
+      "name": "Great Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Nakaoka",
+      "text": "Search your deck for a Basic Pokémon (excluding Pokémon-ex) and put it onto your Bench. Shuffle your deck afterward."
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-93",
+      "itemType": "Trainer Card",
+      "number": "93",
+      "name": "Life Herb",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Flip a coin. If heads, choose 1 of your Pokémon (excluding Pokémon-ex), and remove all Special Conditions and 6 damage counters from that Pokémon (all if there are less than 6)."
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-94",
+      "itemType": "Trainer Card",
+      "number": "94",
+      "name": "Mt. Moon",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Nakaoka",
+      "text": "This card stays in play when you play it. Discard this card if another Stadium card comes into play.,Any Pokémon (both yours and your opponent's) with maximum HP less than 70 can't use any Poké-Powers."
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-95",
+      "itemType": "Trainer Card",
+      "number": "95",
+      "name": "Poké Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "K. Hoshiba",
+      "text": "Flip a coin. If heads, search your deck for a Basic Pokémon or Evolution card, show it to your opponent and put it into your hand. Shuffle your deck afterward."
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-96",
+      "itemType": "Trainer Card",
+      "number": "96",
+      "name": "PokéDex HANDY909",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "K. Utsunomiya",
+      "text": "Shuffle your deck. Look at 6 cards from the top of your deck, then put them back on top of your deck in any order."
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-97",
+      "itemType": "Trainer Card",
+      "number": "97",
+      "name": "Pokémon Reversal",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hiromichi Sugiyama",
+      "text": "Flip a coin. If heads, choose 1 of your opponent's Benched Pokémon and switch it with 1 of the Defending Pokémon. Your opponent chooses the Defending Pokémon to switch."
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-98",
+      "itemType": "Trainer Card",
+      "number": "98",
+      "name": "Prof. Oak's Research",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Shuffle your hand into your deck, then draw 5 cards."
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-99",
+      "itemType": "Trainer Card",
+      "number": "99",
+      "name": "Super Scoop Up",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Keiji Kinebuchi",
+      "text": "Flip a coin. If heads, return 1 of your Pokémon and all cards attached to it to your hand."
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-100",
+      "itemType": "Trainer Card",
+      "number": "100",
+      "name": "VS Seeker",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "K. Utsunomiya",
+      "text": "Search your discard pile for a Supporter card, show it to your opponent, and put it into your hand."
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-101",
+      "itemType": "Trainer Card",
+      "number": "101",
+      "name": "Potion",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "artist": "Keiji Kinebuchi",
+      "text": "Remove 2 damage counters from 1 of your Pokémon (remove 1 damage counter if that Pokémon has only 1)."
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-102",
+      "itemType": "Trainer Card",
+      "number": "102",
+      "name": "Switch",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "artist": "Hiromichi Sugiyama",
+      "text": "Switch 1 of your Active Pokémon with 1 of your Benched Pokémon."
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-103",
+      "itemType": "Energy Card",
+      "number": "103",
+      "name": "Multi Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Rare",
+      "artist": "Takumi Akabane",
+      "text": "Attach Multi Energy to 1 of your Pokémon. While in play, Multi Energy provides every type of Energy but provides only 1 Energy at a time. (Doesn't count as a basic Energy card when not in play.) Multi Energy provides Colorless Energy when attached to a Pokémon that already has Special Energy cards attached to it."
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-104",
+      "itemType": "Pokemon Card",
+      "number": "104",
+      "name": "Blastoise ex",
+      "stage": "Stage 2",
+      "evolvesFrom": "Wartortle",
+      "hp": "150",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Hikaru Koike",
+      "abilities": [
+        {
+          "name": "Energy Rain",
+          "text": "As often as you like during your turn (before your attack), you may attach a Water Energy card from your hand to 1 of your Pokémon. Put 1 damage counter on that Pokémon. This power can't be used if Blastoise ex is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Hyper Whirlpool",
+          "damage": "80",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. For each heads, your opponent discards an Energy card attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-105",
+      "itemType": "Pokemon Card",
+      "number": "105",
+      "name": "Charizard ex",
+      "stage": "Stage 2",
+      "evolvesFrom": "Charmeleon",
+      "hp": "160",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Hiromichi Sugiyama",
+      "abilities": [
+        {
+          "name": "Energy Flame",
+          "text": "All Energy attached to Charizard ex are Fire Energy instead of its usual type.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Slash",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Burn Down",
+          "damage": "200",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "text": "Discard 5 Fire Energy attached to Charizard ex. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, and any other effects on the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        },
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-106",
+      "itemType": "Pokemon Card",
+      "number": "106",
+      "name": "Clefable ex",
+      "stage": "Stage 2",
+      "evolvesFrom": "Clefairy",
+      "hp": "100",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Mitsuhiro Arita",
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Metronome",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Choose 1 of the Defending Pokémon's attacks. Metronome copies that attack except for its Energy cost. (You must still do anything else in order to use that attack.) (No matter what type that Pokémon is, Clefable ex's type is still Colorless.) Clefable ex performs that attack."
+        },
+        {
+          "name": "Moon Impact",
+          "damage": "40",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-107",
+      "itemType": "Pokemon Card",
+      "number": "107",
+      "name": "Electrode ex",
+      "stage": "Stage 1",
+      "evolvesFrom": "Voltorb",
+      "hp": "90",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Extra Energy Bomb",
+          "text": "Once during your turn (before your attack), you may discard Electrode ex and all the cards attached to it (this counts as Knocking Out Electrode ex). If you do, search your discard pile for 5 Energy cards and attach them to any of your Pokémon (excluding Pokémon-ex) in any way you like. This power can't be used if Electrode ex is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Crush and Burn",
+          "damage": "30+",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "You may discard as many Energy as you like attached to your Pokémon in play. If you do, this attack does 30 damage plus 20 more damage for each Energy you discarded."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-108",
+      "itemType": "Pokemon Card",
+      "number": "108",
+      "name": "Gengar ex",
+      "stage": "Stage 2",
+      "evolvesFrom": "Haunter",
+      "hp": "150",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Mitsuhiro Arita",
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Poltergeist",
+          "damage": "40+",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Look at your opponent's hand. This attack does 40 damage plus 10 more damage for each Trainer card in your opponent's hand."
+        },
+        {
+          "name": "Prize Count",
+          "damage": "60+",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "If you have more Prize cards left than your opponent, this attack does 60 damage plus 40 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        },
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        },
+        {
+          "type": "Colorless",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-109",
+      "itemType": "Pokemon Card",
+      "number": "109",
+      "name": "Gyarados ex",
+      "stage": "Stage 1",
+      "evolvesFrom": "Magikarp",
+      "hp": "130",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Hikaru Koike",
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Twister",
+          "damage": "40",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. For each heads, choose 1 Energy attached to the Defending Pokémon, if any, and discard it. If both are tails, this attack does nothing."
+        },
+        {
+          "name": "Dragon Rage",
+          "damage": "100",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-110",
+      "itemType": "Pokemon Card",
+      "number": "110",
+      "name": "Mr. Mime ex",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Magic Odds",
+          "text": "If Mr. Mime ex would be damaged by an attack, prevent that attack's damage done to Mr. Mime ex if that damage is 10, 30, 50, 70, 90, 110, 130, 150, or 170.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Breakdown",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Count the number of cards in your opponent's hand. Put that many damage counters on the Defending Pokémon."
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-111",
+      "itemType": "Pokemon Card",
+      "number": "111",
+      "name": "Mr. Mime ex",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Magic Evens",
+          "text": "If Mr. Mime ex would be damaged by an attack, prevent that attack's damage done to Mr. Mime ex if that damage is 20, 40, 60, 80, 100, 120, 140, 160, or 180.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Breakdown",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Count the number of cards in your opponent's hand. Put that many damage counters on the Defending Pokémon."
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-112",
+      "itemType": "Pokemon Card",
+      "number": "112",
+      "name": "Venusaur ex",
+      "stage": "Stage 2",
+      "evolvesFrom": "Ivysaur",
+      "hp": "150",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Energy Trans",
+          "text": "As often as you like during your turn (before your attack), move a Grass Energy card attached to 1 of your Pokémon to another of your Pokémon. This power can't be used if Venusaur ex is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Pollen Hazard",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Poisoned, Burned, and Confused."
+        },
+        {
+          "name": "Solarbeam",
+          "damage": "90",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        },
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-113",
+      "itemType": "Pokemon Card",
+      "number": "113",
+      "name": "Charmander",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Flare",
+          "damage": "10",
+          "cost": [
+            "Fire"
+          ]
+        },
+        {
+          "name": "Rage",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 10 damage plus 10 more damage for each damage counter on Charmander."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-114",
+      "itemType": "Pokemon Card",
+      "number": "114",
+      "name": "Articuno ex",
+      "stage": "Basic",
+      "hp": "110",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Legendary Ascent",
+          "text": "Once during your turn, when you put Articuno ex from your hand onto your Bench, you may switch 1 of your Active Pokémon with Articuno ex. If you do, you may also move any number of basic Water Energy cards attached to your Pokémon to Articuno ex.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Cold Crush",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "You may discard an Energy card attached to Articuno ex. If you do, your opponent discards an Energy card attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-115",
+      "itemType": "Pokemon Card",
+      "number": "115",
+      "name": "Moltres ex",
+      "stage": "Basic",
+      "hp": "110",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Legendary Ascent",
+          "text": "Once during your turn, when you put Moltres ex from your hand onto your Bench, you may switch 1 of your Active Pokémon with Moltres ex. If you do, you may also move any number of basic Fire Energy cards attached to your Pokémon to Moltres ex.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Crushing Flames",
+          "damage": "60",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "You may discard an Energy card attached to Moltres ex. If you do, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-firered-leafgreen-116",
+      "itemType": "Pokemon Card",
+      "number": "116",
+      "name": "Zapdos ex",
+      "stage": "Basic",
+      "hp": "110",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Legendary Ascent",
+          "text": "Once during your turn, when you put Zapdos ex from your hand onto your Bench, you may switch 1 of your Active Pokémon with Zapdos ex. If you do, you may also move any number of basic Lightning Energy cards attached to your Pokémon to Zapdos ex.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Electron Crush",
+          "damage": "50+",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "You may discard an Energy card attached to Zapdos ex. If you do, this attack does 50 damage plus 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    }
+  ]
+}
