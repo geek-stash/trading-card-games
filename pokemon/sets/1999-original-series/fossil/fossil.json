@@ -1,31 +1,63 @@
 {
   "setId": "tcg-pokemon-fossil",
+  "setVariants": [
+    {
+      "id": "first-edition",
+      "name": "First Edition",
+      "description": "The first print run of the set. The cards have the 'Edition 1' symbol.",
+      "type": "print-run"
+    },
+    {
+      "id": "unlimited",
+      "name": "Unlimited",
+      "description": "The unlimited print of the set.",
+      "type": "print-run"
+    },
+    {
+      "id": "cosmos-holo",
+      "name": "Cosmos Holo",
+      "description": "The card has cosmos holo art",
+      "type": "art",
+      "inclusions": [
+        "tcg-pokemon-fossil-1",
+        "tcg-pokemon-fossil-2",
+        "tcg-pokemon-fossil-3",
+        "tcg-pokemon-fossil-4",
+        "tcg-pokemon-fossil-5",
+        "tcg-pokemon-fossil-6",
+        "tcg-pokemon-fossil-7",
+        "tcg-pokemon-fossil-8",
+        "tcg-pokemon-fossil-9",
+        "tcg-pokemon-fossil-10",
+        "tcg-pokemon-fossil-11",
+        "tcg-pokemon-fossil-12",
+        "tcg-pokemon-fossil-13",
+        "tcg-pokemon-fossil-14",
+        "tcg-pokemon-fossil-15"
+      ]
+    },
+    {
+      "id": "thunderstorm-exclusive",
+      "name": "Thunderstorm Gift Box Exclusive",
+      "description": "The card has cosmos holo art and shows '1999-2000' as the copyright date.",
+      "type": "art",
+      "inclusions": [
+        "tcg-pokemon-fossil-29",
+        "tcg-pokemon-fossil-35",
+        "tcg-pokemon-fossil-53",
+        "tcg-pokemon-fossil-59"
+      ]
+    }
+  ],
   "cardCount": "62",
   "sealedProducts": [
     {
       "id": "tcg-pokemon-fossil-booster-box",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Sealed Product",
       "name": "Fossil Booster Box"
     },
     {
       "id": "tcg-pokemon-fossil-booster-pack",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Aerodactyl",
-          "Lapras",
-          "Zapdos"
-        ]
-      },
       "itemType": "Sealed Product",
       "name": "Fossil Booster Pack"
     }
@@ -33,17 +65,20 @@
   "cards": [
     {
       "id": "tcg-pokemon-fossil-1",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Cosmos Holo",
-          "Pokémon League Prerelease promo (Gold Version)",
-          "Pokémon League Prerelease promo (Brown Version)"
-        ]
-      },
+      "variants": [
+        {
+          "id": "prerelease-gold",
+          "name": "Pokémon League Pre-release (Gold Stamp)",
+          "description": "The card has a gold 'PRERELEASE' stamp on the art.",
+          "type": "art"
+        },
+        {
+          "id": "prerelease-brown",
+          "name": "Pokémon League Pre-release (Brown Stamp)",
+          "description": "The card has a brown 'PRERELEASE' stamp on the art.",
+          "type": "art"
+        }
+      ],
       "itemType": "Pokemon Card",
       "number": "1",
       "name": "Aerodactyl",
@@ -94,15 +129,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-2",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Cosmos Holo"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "2",
       "name": "Articuno",
@@ -151,15 +177,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-3",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Cosmos Holo"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "3",
       "name": "Ditto",
@@ -197,15 +214,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-4",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Cosmos Holo"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "4",
       "name": "Dragonite",
@@ -251,15 +259,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-5",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Cosmos Holo"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "5",
       "name": "Gengar",
@@ -304,15 +303,14 @@
     },
     {
       "id": "tcg-pokemon-fossil-6",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Cosmos Holo"
-        ]
-      },
+      "variants": [
+        {
+          "id": "stain-error",
+          "name": "Blue Stain Error",
+          "description": "The card has a blue stain in the bottom right corner of the artwork.",
+          "type": "error"
+        }
+      ],
       "itemType": "Pokemon Card",
       "number": "6",
       "name": "Haunter",
@@ -353,15 +351,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-7",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Cosmos Holo"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "7",
       "name": "Hitmonlee",
@@ -405,15 +394,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-8",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Cosmos Holo"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "8",
       "name": "Hypno",
@@ -459,15 +439,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-9",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Cosmos Holo"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "9",
       "name": "Kabutops",
@@ -514,15 +485,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-10",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Cosmos Holo"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "10",
       "name": "Lapras",
@@ -567,15 +529,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-11",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Cosmos Holo"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "11",
       "name": "Magneton",
@@ -624,15 +577,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-12",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Cosmos Holo"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "12",
       "name": "Moltres",
@@ -678,15 +622,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-13",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Cosmos Holo"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "13",
       "name": "Muk",
@@ -732,15 +667,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-14",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Cosmos Holo"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "14",
       "name": "Raichu",
@@ -779,19 +705,20 @@
     },
     {
       "id": "tcg-pokemon-fossil-15",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Cosmos Holo",
-          "Cosmos Holo Thunderstorm Gift Box exclusive"
-        ],
-        "errors": [
-          "1st Edition and Unlimited Evolution box was cut out of Holofoil"
-        ]
-      },
+      "variants": [
+        {
+          "id": "cosmos-holo-thunderstorm",
+          "name": "Cosmos Holo (Thunderstorm Gift Box Exclusive)",
+          "description": "The card has cosmos holo art and shows '1999-2000' as the copyright date.",
+          "type": "art"
+        },
+        {
+          "id": "holofoil-error",
+          "name": "Evolution Box Holofoil Error",
+          "description": "The unlimited print of the card with missing holofoil where the evolution box would be.",
+          "error": "error"
+        }
+      ],
       "itemType": "Pokemon Card",
       "number": "15",
       "name": "Zapdos",
@@ -830,12 +757,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-16",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "16",
       "name": "Aerodactyl",
@@ -886,12 +807,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-17",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "17",
       "name": "Articuno",
@@ -940,12 +855,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-18",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "18",
       "name": "Ditto",
@@ -983,12 +892,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-19",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "19",
       "name": "Dragonite",
@@ -1034,15 +937,14 @@
     },
     {
       "id": "tcg-pokemon-fossil-20",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "errors": [
-          "Stain in the lower right corner of the artwork"
-        ]
-      },
+      "variants": [
+        {
+          "id": "stain-error",
+          "name": "Yellow Stain Error",
+          "description": "The card has a yellow stain on the back near the 'MO' letters of 'Pokemon'.",
+          "type": "error"
+        }
+      ],
       "itemType": "Pokemon Card",
       "number": "20",
       "name": "Gengar",
@@ -1087,12 +989,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-21",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "21",
       "name": "Haunter",
@@ -1133,12 +1029,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-22",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "22",
       "name": "Hitmonlee",
@@ -1182,12 +1072,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-23",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "23",
       "name": "Hypno",
@@ -1233,12 +1117,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-24",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "24",
       "name": "Kabutops",
@@ -1285,12 +1163,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-25",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "25",
       "name": "Lapras",
@@ -1335,12 +1207,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-26",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "26",
       "name": "Magneton",
@@ -1389,12 +1255,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-27",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "27",
       "name": "Moltres",
@@ -1440,12 +1300,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-28",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "28",
       "name": "Muk",
@@ -1491,15 +1345,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-29",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Thunderstorm Gift Box exclusive"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "29",
       "name": "Raichu",
@@ -1538,12 +1383,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-30",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "30",
       "name": "Zapdos",
@@ -1582,12 +1421,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-31",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "31",
       "name": "Arbok",
@@ -1634,12 +1467,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-32",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "32",
       "name": "Cloyster",
@@ -1686,12 +1513,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-33",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "33",
       "name": "Gastly",
@@ -1731,12 +1552,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-34",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "34",
       "name": "Golbat",
@@ -1786,15 +1601,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-35",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Thunderstorm Gift Box exclusive"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "35",
       "name": "Golduck",
@@ -1840,12 +1646,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-36",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "36",
       "name": "Golem",
@@ -1897,12 +1697,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-37",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "37",
       "name": "Graveler",
@@ -1948,15 +1742,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-38",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "errors": [
-          "Partially incomplete set symbol"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "38",
       "name": "Kingler",
@@ -2003,12 +1788,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-39",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "39",
       "name": "Magmar",
@@ -2052,12 +1831,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-40",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "40",
       "name": "Omastar",
@@ -2103,12 +1876,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-41",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "41",
       "name": "Sandslash",
@@ -2159,12 +1926,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-42",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "42",
       "name": "Seadra",
@@ -2211,12 +1972,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-43",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "43",
       "name": "Slowbro",
@@ -2260,12 +2015,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-44",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "44",
       "name": "Tentacruel",
@@ -2306,12 +2055,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-45",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "45",
       "name": "Weezing",
@@ -2358,12 +2101,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-46",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "46",
       "name": "Ekans",
@@ -2406,12 +2143,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-47",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "47",
       "name": "Geodude",
@@ -2447,12 +2178,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-48",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "48",
       "name": "Grimer",
@@ -2494,12 +2219,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-49",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "49",
       "name": "Horsea",
@@ -2531,15 +2250,14 @@
     },
     {
       "id": "tcg-pokemon-fossil-50",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Top Deck Magazine W Promo"
-        ]
-      },
+      "variants": [
+        {
+          "id": "w-promo",
+          "name": "W Promo",
+          "description": "The card has a 'W' stamp on the artwork.",
+          "type": "art"      
+        }
+      ],
       "itemType": "Pokemon Card",
       "number": "50",
       "name": "Kabuto",
@@ -2581,12 +2299,14 @@
     },
     {
       "id": "tcg-pokemon-fossil-51",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
+      "variants": [
+        {
+          "id": "set-symbol-error",
+          "name": "Set Symbol Error",
+          "description": "The card has a partially incomplete set symbol.",
+          "type": "error"
+        }
+      ],
       "itemType": "Pokemon Card",
       "number": "51",
       "name": "Krabby",
@@ -2629,12 +2349,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-52",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "52",
       "name": "Omanyte",
@@ -2677,15 +2391,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-53",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Thunderstorm Gift Box exclusive"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "53",
       "name": "Psyduck",
@@ -2727,12 +2432,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-54",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "54",
       "name": "Shellder",
@@ -2773,12 +2472,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-55",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "55",
       "name": "Slowpoke",
@@ -2820,12 +2513,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-56",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "56",
       "name": "Tentacool",
@@ -2863,12 +2550,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-57",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "57",
       "name": "Zubat",
@@ -2915,12 +2596,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-58",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "58",
       "name": "Mr. Fuji",
@@ -2933,15 +2608,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-59",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Thunderstorm Gift Box exclusive"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "59",
       "name": "Energy Search",
@@ -2954,12 +2620,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-60",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "60",
       "name": "Gambler",
@@ -2972,12 +2632,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-61",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "61",
       "name": "Recycle",
@@ -2990,12 +2644,6 @@
     },
     {
       "id": "tcg-pokemon-fossil-62",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "62",
       "name": "Mysterious Fossil",
