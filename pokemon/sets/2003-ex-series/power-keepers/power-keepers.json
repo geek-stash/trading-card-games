@@ -1,0 +1,3937 @@
+{
+  "setId": "tcg-pokemon-power-keepers",
+  "setVariants": [
+    {
+      "id": "reverse-holo",
+      "name": "Reverse Holo",
+      "description": "The reverse holo print of the set.",
+      "type": "art",
+      "exclusions": [
+        "tcg-pokemon-power-keepers-booster-box",
+        "tcg-pokemon-power-keepers-booster-pack"
+      ]
+    },
+    {
+      "id": "unlimited",
+      "name": "Unlimited",
+      "description": "The unlimited print of the set.",
+      "type": "print-run"
+    }
+  ],
+  "cardCount": "108",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-power-keepers-booster-box",
+      "itemType": "Sealed Product",
+      "name": "Power Keepers Booster Box"
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-booster-pack",
+      "itemType": "Sealed Product",
+      "name": "Power Keepers Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-power-keepers-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Aggron",
+      "stage": "Stage 2",
+      "evolvesFrom": "Lairon",
+      "hp": "110",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Terraforming",
+          "text": "Once during your turn (before your attack), you may look at the top 5 cards from your deck and put them back on top of your deck in any order. This power can't be used if Aggron is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Metal Claw",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Mix-Up",
+          "damage": "70",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent discards the top card of his or her deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Altaria",
+      "stage": "Stage 1",
+      "evolvesFrom": "Swablu",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Synergy Effect",
+          "text": "If Drake's Stadium is in play, remove 1 damage counter from Altaria between turns.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Surprise",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Choose 1 card from your opponent's hand without looking. Look at the card you chose, then have your opponent shuffle that card into his or her deck."
+        },
+        {
+          "name": "Gust",
+          "damage": "50",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Colorless",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        },
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-3",
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Armaldo",
+      "stage": "Stage 2",
+      "evolvesFrom": "Anorith",
+      "hp": "120",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Rock Blast",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Discard up to 5 Fighting Energy cards attached to Armaldo. For each Energy card you discarded, choose an opponent's Pokémon in play and this attack does 20 damage to those Pokémon. (You may choose the same Pokémon more than once.) This attack's damage isn't affected by Weakness or Resistance."
+        },
+        {
+          "name": "Mach Claw",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-4",
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Banette",
+      "stage": "Stage 1",
+      "evolvesFrom": "Shuppet",
+      "hp": "70",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Grudge",
+          "damage": "20+",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Does 20 damage plus 10 more damage for each Prize card your opponent has taken."
+        },
+        {
+          "name": "Bench Manipulation",
+          "damage": "40×",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Your opponent flips a number of coins equal to the number of his or her Benched Pokémon. This attack does 40 damage times the number of tails. This attack's damage isn't affected by Weakness or Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Blaziken",
+      "stage": "Stage 2",
+      "evolvesFrom": "Combusken",
+      "hp": "100",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Masakazu Fukuda",
+      "abilities": [
+        {
+          "name": "Firestarter",
+          "text": "Once during your turn (before your attack), you may attach a Fire Energy card from your discard pile to 1 of your Benched Pokémon. This power can't be used if Blaziken is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Fire Stream",
+          "damage": "50",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard a Fire Energy card attached to Blaziken. This attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-6",
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Charizard",
+      "stage": "Stage 2",
+      "evolvesFrom": "Charmeleon",
+      "hp": "120",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Combustion",
+          "damage": "30",
+          "cost": [
+            "Fire"
+          ]
+        },
+        {
+          "name": "Bursting Inferno",
+          "damage": "50",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Each Defending Pokémon is now Burned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-7",
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Cradily",
+      "stage": "Stage 2",
+      "evolvesFrom": "Lileep",
+      "hp": "110",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Evolutionary Call",
+          "text": "Once during your turn, when you play Cradily from your hand to evolve 1 of your Pokémon, you may search your deck for up to 3 in any combination of Basic Pokémon or Evolution cards. Show them to your opponent and put them into your hand. Shuffle your deck afterward.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Poison Ring",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Poisoned. The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-8",
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "Delcatty",
+      "stage": "Stage 1",
+      "evolvesFrom": "Skitty",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Masakazu Fukuda",
+      "abilities": [
+        {
+          "name": "Energy Draw",
+          "text": "Once during your turn (before your attack), you may discard 1 Energy card from your hand. Then draw up to 3 cards from your deck. This power can't be used if Delcatty is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Max Energy Source",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Does 10 damage times the amount of Energy attached to all of your Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-9",
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Gardevoir",
+      "stage": "Stage 2",
+      "evolvesFrom": "Kirlia",
+      "hp": "100",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Midori Harada",
+      "abilities": [
+        {
+          "name": "Psy Shadow",
+          "text": "Once during your turn (before your attack), you may search your deck for a Psychic Energy card and attach it to 1 of your Pokémon. Put 2 damage counters on that Pokémon. Shuffle your deck afterward. This power can't be used if Gardevoir is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Energy Burst",
+          "damage": "10×",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Does 10 damage times the total amount of Energy attached to Gardevoir and the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Kabutops",
+      "stage": "Stage 2",
+      "evolvesFrom": "Kabuto",
+      "hp": "110",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Primal Stare",
+          "text": "As long as Kabutops is your Active Pokémon, your opponent can't play any Basic Pokémon or Evolution cards from his or her hand to evolve his or her Active Pokémon.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Luring Antenna",
+          "damage": "20",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Before doing damage, you may choose 1 of your opponent's Benched Pokémon and switch it with 1 of the Defending Pokémon. If you do, this attack does 20 damage to the new Defending Pokémon. Your opponent chooses the Defending Pokémon to switch."
+        },
+        {
+          "name": "Blinding Scythe",
+          "damage": "60",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Machamp",
+      "stage": "Stage 2",
+      "evolvesFrom": "Machoke",
+      "hp": "120",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Overzealous",
+          "text": "If your opponent has any Pokémon-ex in play, each of Machamp's attacks does 30 more damage to the Defending Pokémon.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Brick Smash",
+          "damage": "40",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+        },
+        {
+          "name": "Cross Chop",
+          "damage": "60+",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 60 damage plus 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Raichu",
+      "stage": "Stage 1",
+      "evolvesFrom": "Pikachu",
+      "hp": "70",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Hajime Kusajima",
+      "attacks": [
+        {
+          "name": "Plasma",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your discard pile for a Lightning Energy card and attach it to Raichu."
+        },
+        {
+          "name": "Thunderbolt",
+          "damage": "100",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Discard all Energy cards attached to Raichu."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Slaking",
+      "stage": "Stage 2",
+      "evolvesFrom": "Vigoroth",
+      "hp": "120",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Midori Harada",
+      "abilities": [
+        {
+          "name": "Lazy",
+          "text": "As long as Slaking is your Active Pokémon, your opponent's Pokémon can't use any Poké-Powers.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Critical Move",
+          "damage": "100",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard a basic Energy card attached to Slaking or this attack does nothing. Slaking can't attack during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Dusclops",
+      "stage": "Stage 1",
+      "evolvesFrom": "Duskull",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Dark Mind",
+          "damage": "20",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Mysterious Light",
+          "damage": "50",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If Phoebe's Stadium is in play, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Lanturn",
+      "stage": "Stage 1",
+      "evolvesFrom": "Chinchou",
+      "hp": "80",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "Midori Harada",
+      "abilities": [
+        {
+          "name": "Energy Grounding",
+          "text": "Once during your opponent's turn, when any of your Pokémon is Knocked Out by your opponent's attacks, you may use this power. Choose a basic Energy card discarded from the Knocked Out Pokémon and attach it to Lanturn. You can't use more than 1 Energy Grounding Poké-Power each turn.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Lightning Strike",
+          "damage": "50",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "You may discard all Lightning Energy attached to Lanturn. If you do, this attack's base damage is 90 instead of 50."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-16",
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Magneton",
+      "stage": "Stage 1",
+      "evolvesFrom": "Magnemite",
+      "hp": "70",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "Masakazu Fukuda",
+      "abilities": [
+        {
+          "name": "Magnetic Field",
+          "text": "Once during your turn (before your attack), if you have basic Energy cards in your discard pile, you may discard any 1 card from your hand. Then search for up to 2 basic Energy cards from your discard pile, show them to your opponent, and put them into your hand. You can't return the card you first discarded to your hand in this way. This power can't be used if Magneton is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Magnetic Force",
+          "damage": "10×",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Does 10 damage times the amount of Energy attached to all of your Pokémon (including Magneton)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Mawile",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "name": "Pull Away",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent has 5 or more cards in his or her hand, your opponent discards a number of cards until your opponent has 4 cards left in his or her hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-18",
+      "itemType": "Pokemon Card",
+      "number": "18",
+      "name": "Mightyena",
+      "stage": "Stage 1",
+      "evolvesFrom": "Poochyena",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "Midori Harada",
+      "attacks": [
+        {
+          "name": "Plunder",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Before doing damage, discard all Trainer cards attached to the Defending Pokémon."
+        },
+        {
+          "name": "Dark Burst",
+          "damage": "50+",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "If Sidney's Stadium is in play, this attack does 50 damage plus 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-19",
+      "itemType": "Pokemon Card",
+      "number": "19",
+      "name": "Ninetales",
+      "stage": "Stage 1",
+      "evolvesFrom": "Vulpix",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "artist": "Tomoaki Imakuni",
+      "abilities": [
+        {
+          "name": "Safeguard",
+          "text": "Prevent all effects of attacks, including damage, done to Ninetales by your opponent's Pokémon-ex.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 20 more damage."
+        },
+        {
+          "name": "Will-o'-the-wisp",
+          "damage": "50",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-20",
+      "itemType": "Pokemon Card",
+      "number": "20",
+      "name": "Omastar",
+      "stage": "Stage 2",
+      "evolvesFrom": "Omanyte",
+      "hp": "110",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Pull Down",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If your opponent has any Evolved Pokémon in play, remove the highest Stage Evolution card from each of them and put those cards back into his or her hand."
+        },
+        {
+          "name": "Hydrocannon",
+          "damage": "30+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 30 damage plus 20 more damage for each Water Energy attached to Omastar but not used to pay for this attack's Energy cost. You can't add more than 40 damage in this way."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-21",
+      "itemType": "Pokemon Card",
+      "number": "21",
+      "name": "Pichu",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Baby Evolution",
+          "text": "Once during your turn (before your attack), you may put Pikachu from your hand onto Pichu (this counts as evolving Pichu) and remove all damage counters from Pichu.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Cry for Help",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Search your deck for a Lightning Pokémon (excluding Pokémon-ex), show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-22",
+      "itemType": "Pokemon Card",
+      "number": "22",
+      "name": "Sableye",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Synergy Effect",
+          "text": "If Phoebe's Stadium is in play, prevent all damage done to Sableye by attacks from your opponent's Pokémon-ex.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Down Draw",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw 2 cards from the bottom of your deck."
+        },
+        {
+          "name": "Feint Attack",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on that Pokémon."
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Colorless",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-23",
+      "itemType": "Pokemon Card",
+      "number": "23",
+      "name": "Seviper",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Midori Harada",
+      "attacks": [
+        {
+          "name": "Sharp Fang",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ]
+        },
+        {
+          "name": "Toxic",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Poisoned. Put 2 damage counters instead of 1 on the Defending Pokémon between turns."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-24",
+      "itemType": "Pokemon Card",
+      "number": "24",
+      "name": "Wobbuffet",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Masakazu Fukuda",
+      "abilities": [
+        {
+          "name": "Safeguard",
+          "text": "Prevent all effects of attacks, including damage, done to Wobbuffet by your opponent's Pokémon-ex.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Flip Over",
+          "damage": "50",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Wobbuffet does 10 damage to itself, and don't apply Weakness and Resistance to this damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-25",
+      "itemType": "Pokemon Card",
+      "number": "25",
+      "name": "Zangoose",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Thick Skin",
+          "text": "Zangoose can't be affected by any Special Conditions.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "name": "Sharp Claws",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-26",
+      "itemType": "Pokemon Card",
+      "number": "26",
+      "name": "Anorith",
+      "stage": "Stage 1",
+      "evolvesFrom": "Claw Fossil",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Midori Harada",
+      "abilities": [
+        {
+          "name": "Solid Shell",
+          "text": "Any damage done to Anorith by attacks is reduced by 10 (after applying Weakness and Resistance).",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Fury Cutter",
+          "damage": "10+",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. If 1 of them is heads, this attack does 10 damage plus 10 more damage. If 2 of them are heads, this attack does 10 damage plus 30 more damage. If all of them are heads, this attack does 10 damage plus 50 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-27",
+      "itemType": "Pokemon Card",
+      "number": "27",
+      "name": "Cacturne",
+      "stage": "Stage 1",
+      "evolvesFrom": "Cacnea",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Poison Structure",
+          "text": "Once during your turn (before your attack), if Sidney's Stadium is in play, you may choose 1 of the Defending Pokémon. That Pokémon is now Poisoned. This power can't be used if Cacturne is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Pin Missile",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 4 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-28",
+      "itemType": "Pokemon Card",
+      "number": "28",
+      "name": "Charmeleon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Charmander",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Midori Harada",
+      "attacks": [
+        {
+          "name": "Scary Face",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon can't attack or retreat during your opponent's next turn."
+        },
+        {
+          "name": "Flame Tail",
+          "damage": "50",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-29",
+      "itemType": "Pokemon Card",
+      "number": "29",
+      "name": "Combusken",
+      "stage": "Stage 1",
+      "evolvesFrom": "Torchic",
+      "hp": "80",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Atsuko Nishida",
+      "abilities": [
+        {
+          "name": "Natural Cure",
+          "text": "When you attach a Fire Energy card from your hand to Combusken, remove all Special Conditions from Combusken.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Lunge",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-30",
+      "itemType": "Pokemon Card",
+      "number": "30",
+      "name": "Glalie",
+      "stage": "Stage 1",
+      "evolvesFrom": "Snorunt",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Synergy Effect",
+          "text": "If Glacia's Stadium is in play, any damage done to Glalie by attacks from your opponent's Pokémon is reduced by 30 (after applying Weakness and Resistance).",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Powder Snow",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Double-edge",
+          "damage": "60",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Glalie does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-31",
+      "itemType": "Pokemon Card",
+      "number": "31",
+      "name": "Kirlia",
+      "stage": "Stage 1",
+      "evolvesFrom": "Ralts",
+      "hp": "70",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Sachiko Adachi",
+      "attacks": [
+        {
+          "name": "Hypnosis",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Dream Eater",
+          "damage": "50",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is not Asleep, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-32",
+      "itemType": "Pokemon Card",
+      "number": "32",
+      "name": "Lairon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Aron",
+      "hp": "70",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Sachiko Adachi",
+      "attacks": [
+        {
+          "name": "Granite Head",
+          "damage": "20",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done to Lairon by attacks is reduced by 10 (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Stomp",
+          "damage": "30+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 damage plus 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-33",
+      "itemType": "Pokemon Card",
+      "number": "33",
+      "name": "Machoke",
+      "stage": "Stage 1",
+      "evolvesFrom": "Machop",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Steady Punch",
+          "damage": "10+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage."
+        },
+        {
+          "name": "Mega Kick",
+          "damage": "50",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-34",
+      "itemType": "Pokemon Card",
+      "number": "34",
+      "name": "Medicham",
+      "stage": "Stage 1",
+      "evolvesFrom": "Meditite",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Tomoaki Imakuni",
+      "abilities": [
+        {
+          "name": "Vigorous Aura",
+          "text": "As long as Medicham is your Active Pokémon, attacks by each player's Active Pokémon do 10 more damage to any Active Pokémon (before applying Weakness and Resistance).",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Punch",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Rolling Kick",
+          "damage": "40",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-35",
+      "itemType": "Pokemon Card",
+      "number": "35",
+      "name": "Metang",
+      "stage": "Stage 1",
+      "evolvesFrom": "Beldum",
+      "hp": "80",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Tomokazu Komiya",
+      "abilities": [
+        {
+          "name": "Clear Body",
+          "text": "Metang can't be affected by any Special Conditions.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Extra Comet Punch",
+          "damage": "30+",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "text": "During your next turn, Extra Comet Punch does 30 damage plus 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-36",
+      "itemType": "Pokemon Card",
+      "number": "36",
+      "name": "Nuzleaf",
+      "stage": "Stage 1",
+      "evolvesFrom": "Seedot",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hajime Kusajima",
+      "attacks": [
+        {
+          "name": "Fake Out",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Gentle Slap",
+          "damage": "40",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-37",
+      "itemType": "Pokemon Card",
+      "number": "37",
+      "name": "Sealeo",
+      "stage": "Stage 1",
+      "evolvesFrom": "Spheal",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Ice Beam",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-38",
+      "itemType": "Pokemon Card",
+      "number": "38",
+      "name": "Sharpedo",
+      "stage": "Stage 1",
+      "evolvesFrom": "Carvanha",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Midori Harada",
+      "attacks": [
+        {
+          "name": "Tight Jaw",
+          "damage": "20",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Darkness Charge",
+          "damage": "50",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Put 1 damage counter on Sharpedo."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-39",
+      "itemType": "Pokemon Card",
+      "number": "39",
+      "name": "Shelgon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Bagon",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Midori Harada",
+      "attacks": [
+        {
+          "name": "Rage",
+          "damage": "10+",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Does 10 damage plus 10 more damage for each damage counter on Shelgon."
+        },
+        {
+          "name": "Rolling Tackle",
+          "damage": "40",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Colorless",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fire",
+          "value": "-30"
+        },
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-40",
+      "itemType": "Pokemon Card",
+      "number": "40",
+      "name": "Vibrava",
+      "stage": "Stage 1",
+      "evolvesFrom": "Trapinch",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Ram",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Dragonbreath",
+          "damage": "60",
+          "cost": [
+            "Grass",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Colorless",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-30"
+        },
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-41",
+      "itemType": "Pokemon Card",
+      "number": "41",
+      "name": "Vigoroth",
+      "stage": "Stage 1",
+      "evolvesFrom": "Slakoth",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hajime Kusajima",
+      "abilities": [
+        {
+          "name": "Strikes Back",
+          "text": "If Vigoroth is your Active Pokémon and is damaged by an opponent's attack (even if Vigoroth is Knocked Out), put 1 damage counter on the Attacking Pokémon.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Ambush",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-42",
+      "itemType": "Pokemon Card",
+      "number": "42",
+      "name": "Aron",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Common",
+      "artist": "Tomokazu Komiya",
+      "attacks": [
+        {
+          "name": "Dig Deep",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your discard pile for an Energy card, show it to your opponent, and put it into your hand."
+        },
+        {
+          "name": "Tackle",
+          "damage": "20",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-43",
+      "itemType": "Pokemon Card",
+      "number": "43",
+      "name": "Bagon",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "attacks": [
+        {
+          "name": "Retaliate",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Does 10 damage times the number of damage counters on Bagon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Colorless",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fire",
+          "value": "-30"
+        },
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-44",
+      "itemType": "Pokemon Card",
+      "number": "44",
+      "name": "Baltoy",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Psybeam",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Spinning Attack",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-45",
+      "itemType": "Pokemon Card",
+      "number": "45",
+      "name": "Beldum",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "attacks": [
+        {
+          "name": "Magnetic Lines",
+          "damage": "10",
+          "cost": [
+            "Metal"
+          ],
+          "text": "Flip a coin. If heads, move a basic Energy card from the Defending Pokémon to another of your opponent's Pokémon. (Ignore this effect if your opponent has only 1 Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-46",
+      "itemType": "Pokemon Card",
+      "number": "46",
+      "name": "Cacnea",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Hajime Kusajima",
+      "attacks": [
+        {
+          "name": "Feint Attack",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 10 damage to that Pokémon. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on that Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-47",
+      "itemType": "Pokemon Card",
+      "number": "47",
+      "name": "Carvanha",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Rough Skin",
+          "text": "If Carvanha is your Active Pokémon and is damaged by an opponent's attack (even if Carvanha is Knocked Out), put 1 damage counter on the Attacking Pokémon.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "damage": "20",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-48",
+      "itemType": "Pokemon Card",
+      "number": "48",
+      "name": "Charmander",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Sachiko Adachi",
+      "attacks": [
+        {
+          "name": "Smokescreen",
+          "damage": "10",
+          "cost": [
+            "Fire"
+          ],
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-49",
+      "itemType": "Pokemon Card",
+      "number": "49",
+      "name": "Chinchou",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Positive Ion",
+          "damage": "10+",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage."
+        },
+        {
+          "name": "Negative Ion",
+          "damage": "10",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 10 (before applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-50",
+      "itemType": "Pokemon Card",
+      "number": "50",
+      "name": "Duskull",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Surprise Attack",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-51",
+      "itemType": "Pokemon Card",
+      "number": "51",
+      "name": "Kabuto",
+      "stage": "Stage 1",
+      "evolvesFrom": "Mysterious Fossil",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Fast Evolution",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for an Evolution card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Double Scratch",
+          "damage": "20×",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-52",
+      "itemType": "Pokemon Card",
+      "number": "52",
+      "name": "Lileep",
+      "stage": "Stage 1",
+      "evolvesFrom": "Root Fossil",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Hajime Kusajima",
+      "attacks": [
+        {
+          "name": "Surprise",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Choose 1 card from your opponent's hand without looking. Look at the card you chose, then have your opponent shuffle that card into his or her deck."
+        },
+        {
+          "name": "Acid",
+          "damage": "40",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-53",
+      "itemType": "Pokemon Card",
+      "number": "53",
+      "name": "Machop",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Smash Punch",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        },
+        {
+          "name": "Submission",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Machop does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-54",
+      "itemType": "Pokemon Card",
+      "number": "54",
+      "name": "Magnemite",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Hajime Kusajima",
+      "attacks": [
+        {
+          "name": "Ram",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Spark",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-55",
+      "itemType": "Pokemon Card",
+      "number": "55",
+      "name": "Meditite",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "attacks": [
+        {
+          "name": "Psyshock",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Cross Chop",
+          "damage": "10+",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-56",
+      "itemType": "Pokemon Card",
+      "number": "56",
+      "name": "Omanyte",
+      "stage": "Stage 1",
+      "evolvesFrom": "Mysterious Fossil",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Influence",
+          "cost": [
+            "Water"
+          ],
+          "text": "Search your deck for Omanyte, Kabuto, Aerodactyl, Lileep, or Anorith and put up to 2 of them onto your Bench. Shuffle your deck afterward. Treat the new Benched Pokémon as Basic Pokémon."
+        },
+        {
+          "name": "Mud Shot",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-57",
+      "itemType": "Pokemon Card",
+      "number": "57",
+      "name": "Pikachu",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "attacks": [
+        {
+          "name": "Charge",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Search your discard pile for a Lightning Energy card and attach it to Pikachu."
+        },
+        {
+          "name": "Slam",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-58",
+      "itemType": "Pokemon Card",
+      "number": "58",
+      "name": "Poochyena",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "attacks": [
+        {
+          "name": "Double Kick",
+          "damage": "10×",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-59",
+      "itemType": "Pokemon Card",
+      "number": "59",
+      "name": "Ralts",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "attacks": [
+        {
+          "name": "Slap",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Teleportation Burst",
+          "damage": "20",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Switch Ralts with 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-60",
+      "itemType": "Pokemon Card",
+      "number": "60",
+      "name": "Seedot",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "attacks": [
+        {
+          "name": "Nap",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Remove 2 damage counters from Seedot."
+        },
+        {
+          "name": "Double Spin",
+          "damage": "20×",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-61",
+      "itemType": "Pokemon Card",
+      "number": "61",
+      "name": "Shuppet",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Bad Dream",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep. If tails, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-62",
+      "itemType": "Pokemon Card",
+      "number": "62",
+      "name": "Skitty",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Tomokazu Komiya",
+      "attacks": [
+        {
+          "name": "Tail Whip",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn."
+        },
+        {
+          "name": "Tackle",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-63",
+      "itemType": "Pokemon Card",
+      "number": "63",
+      "name": "Slakoth",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Tomokazu Komiya",
+      "attacks": [
+        {
+          "name": "Amnesia",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+        },
+        {
+          "name": "Scratch",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-64",
+      "itemType": "Pokemon Card",
+      "number": "64",
+      "name": "Snorunt",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Pebble Throw",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Benched Pokémon. This attack does 10 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Double Headbutt",
+          "damage": "20×",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-65",
+      "itemType": "Pokemon Card",
+      "number": "65",
+      "name": "Spheal",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Defense Curl",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, prevent all damage done to Spheal during your opponent's next turn."
+        },
+        {
+          "name": "Aurora Beam",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-66",
+      "itemType": "Pokemon Card",
+      "number": "66",
+      "name": "Swablu",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Fury Attack",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-67",
+      "itemType": "Pokemon Card",
+      "number": "67",
+      "name": "Torchic",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Super Singe",
+          "damage": "10",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Burned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-68",
+      "itemType": "Pokemon Card",
+      "number": "68",
+      "name": "Trapinch",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Sachiko Adachi",
+      "attacks": [
+        {
+          "name": "Surprise Attack",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-69",
+      "itemType": "Pokemon Card",
+      "number": "69",
+      "name": "Vulpix",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Confuse Ray",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Ember",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Discard a Fire Energy attached to Vulpix."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-70",
+      "itemType": "Pokemon Card",
+      "number": "70",
+      "name": "Wynaut",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Baby Evolution",
+          "text": "Once during your turn (before your attack), you may put Wobbuffet from your hand onto Wynaut (this counts as evolving Wynaut) and remove all damage counters from Wynaut.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Flail",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Does 10 damage times the number of damage counters on Wynaut."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-71",
+      "itemType": "Trainer Card",
+      "number": "71",
+      "name": "Battle Frontier",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Midori Harada",
+      "text": "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.,Each player's Colorless Evolved Pokémon, Darkness Evolved Pokémon, and Metal Evolved Pokémon can't use any Poké-Powers or Poké-Bodies."
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-72",
+      "itemType": "Trainer Card",
+      "number": "72",
+      "name": "Drake's Stadium",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.,Any damage done to Colorless Active Pokémon (both yours and your opponent's) by an opponent's attack is reduced by 10 (after applying Weakness and Resistance)."
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-73",
+      "itemType": "Trainer Card",
+      "number": "73",
+      "name": "Energy Recycle System",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Zu-Ka",
+      "text": "Search your discard pile for basic Energy cards. You may either show 1 basic Energy card to your opponent and put it into your hand, or show 3 basic Energy cards to your opponent and shuffle them into your deck."
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-74",
+      "itemType": "Trainer Card",
+      "number": "74",
+      "name": "Energy Removal 2",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Keiji Kinebuchi",
+      "text": "Flip a coin. If heads, choose 1 Energy card attached to 1 of your opponent's Pokémon and discard it."
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-75",
+      "itemType": "Trainer Card",
+      "number": "75",
+      "name": "Energy Switch",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Ikuji",
+      "text": "Move a basic Energy card attached to 1 of your Pokémon to another of your Pokémon."
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-76",
+      "itemType": "Trainer Card",
+      "number": "76",
+      "name": "Glacia's Stadium",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.,Each player's Water Pokémon (excluding Pokémon-ex) has no Weakness."
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-77",
+      "itemType": "Trainer Card",
+      "number": "77",
+      "name": "Great Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Nakaoka",
+      "text": "Search your deck for a Basic Pokémon (excluding Pokémon-ex) and put it onto your Bench. Shuffle your deck afterward."
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-78",
+      "itemType": "Trainer Card",
+      "number": "78",
+      "name": "Master Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Keiji Kinebuchi",
+      "text": "Look at the top 7 cards from your deck. Choose a Basic Pokémon or Evolution card from those cards, show it to your opponent, and put it into your hand. Put the other 6 cards back on top of your deck. Shuffle your deck afterward."
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-79",
+      "itemType": "Trainer Card",
+      "number": "79",
+      "name": "Phoebe's Stadium",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.,Each player pays ColorlessColorless less to retreat his or her Psychic Pokémon."
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-80",
+      "itemType": "Trainer Card",
+      "number": "80",
+      "name": "Professor Birch",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Draw cards from your deck until you have 6 cards in your hand."
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-81",
+      "itemType": "Trainer Card",
+      "number": "81",
+      "name": "Scott",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Search your deck for up to 3 cards in any combination of Supporter cards and Stadium cards, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-82",
+      "itemType": "Trainer Card",
+      "number": "82",
+      "name": "Sidney's Stadium",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.,Each player's Darkness Pokémon can't be Asleep, Confused, or Paralyzed."
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-83",
+      "itemType": "Trainer Card",
+      "number": "83",
+      "name": "Steven's Advice",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Draw a number of cards up to the number of your opponent's Pokémon in play.,If you have 7 or more cards (including this one) in your hand, you can't play this card."
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-84",
+      "itemType": "Trainer Card",
+      "number": "84",
+      "name": "Claw Fossil",
+      "hp": "40",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Jagged Stone",
+          "text": "If Claw Fossil is your Active Pokémon and is damaged by an opponent's attack (even if Claw Fossil is Knocked Out), put 1 damage counter on the Attacking Pokémon.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "Play Claw Fossil as if it were a Basic Pokémon. While in play Claw Fossil counts as a Colorless Pokémon (as well as a Trainer card). Claw Fossil has no attacks of its own, can't retreat, and can't be affected by any Special Conditions. If Claw Fossil is Knocked Out, it doesn't count as a Knocked Out Pokémon. (Discard it anyway.) At any time during your turn before your attack, you may discard Claw Fossil from play."
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-85",
+      "itemType": "Trainer Card",
+      "number": "85",
+      "name": "Mysterious Fossil",
+      "hp": "50",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "artist": "Ryo Ueda",
+      "text": "Play Mysterious Fossil as if it were a Basic Pokémon. While in play, Mysterious Fossil counts as a Colorless Pokémon (as well as a Trainer card). Mysterious Fossil has no attacks of its own, can't retreat, and can't be affected by any Special Conditions. If Mysterious Fossil is Knocked Out, it doesn't count as a Knocked Out Pokémon. (Discard it anyway.) At any time during your turn before your attack, you may discard Mysterious Fossil from play."
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-86",
+      "itemType": "Trainer Card",
+      "number": "86",
+      "name": "Root Fossil",
+      "hp": "40",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Spongy Stone",
+          "text": "At any time between turns, remove 1 damage counter from Root Fossil.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "Play Root Fossil as if it were a Basic Pokémon. While in play, Root Fossil counts as a Colorless Pokémon (as well as a Trainer card). Root Fossil has no attacks of its own, can't retreat, and can't be affected by any Special Conditions. If Root Fossil is Knocked Out, it doesn't count as a Knocked Out Pokémon. (Discard it anyway.) At any time during your turn before your attack, you may discard Root Fossil from play."
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-87",
+      "itemType": "Energy Card",
+      "number": "87",
+      "name": "Darkness Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Rare",
+      "artist": "Milky Isobe",
+      "text": "If the Pokémon Darkness Energy is attached to attacks, the attack does 10 more damage to the Active Pokémon (before applying Weakness and Resistance). Ignore this effect unless the Attacking Pokémon is Darkness or has Dark in its name. Darkness Energy provides Darkness Energy. (Doesn't count as a basic Energy card.)"
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-88",
+      "itemType": "Energy Card",
+      "number": "88",
+      "name": "Metal Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Rare",
+      "artist": "Milky Isobe",
+      "text": "Damage done by attacks to the Pokémon that Metal Energy is attached to is reduced by 10 (after applying Weakness and Resistance). Ignore this effect if the Pokémon that Metal Energy is attached to isn't Metal. Metal Energy provides Metal Energy. (Doesn't count as a basic Energy card.)"
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-89",
+      "itemType": "Energy Card",
+      "number": "89",
+      "name": "Multi Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Rare",
+      "artist": "Takumi Akabane",
+      "text": "Attach Multi Energy to 1 of your Pokémon. While in play, Multi Energy provides every type of Energy but provides only 1 Energy at a time. (Has no effect other than providing Energy.) Multi Energy provides Colorless Energy when attached to a Pokémon that already has Special Energy cards attached to it."
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-90",
+      "itemType": "Energy Card",
+      "number": "90",
+      "name": "Cyclone Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shin-ichi Yoshikawa",
+      "text": "Cyclone Energy provides Colorless Energy. When you attach this card from your hand to your Active Pokémon, switch 1 of the Defending Pokémon with 1 of your opponent's Benched Pokémon. Your opponent chooses the Benched Pokémon to switch."
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-91",
+      "itemType": "Energy Card",
+      "number": "91",
+      "name": "Warp Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shin-ichi Yoshikawa",
+      "text": "Warp Energy provides Colorless Energy. When you attach this card from your hand to your Active Pokémon, switch that Pokémon with 1 of your Benched Pokémon."
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-92",
+      "itemType": "Pokemon Card",
+      "number": "92",
+      "name": "Absol ex",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Cursed Eyes",
+          "text": "Once during your turn, when you put Absol ex from your hand onto your Bench, you may move 3 damage counters from 1 of your opponent's Pokémon to another of his or her Pokémon.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Psychic Pulse",
+          "damage": "30",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Does 10 damage to each of your opponent's Benched Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-93",
+      "itemType": "Pokemon Card",
+      "number": "93",
+      "name": "Claydol ex",
+      "stage": "Stage 1",
+      "evolvesFrom": "Baltoy",
+      "hp": "120",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Type Shift",
+          "text": "Once during your turn (before your attack), you may use this power. Claydol ex's type is Fighting until the end of your turn.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Psychic Boom",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 20 damage plus 10 more damage for each Energy attached to the Defending Pokémon."
+        },
+        {
+          "name": "Shadow Crush",
+          "damage": "60",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "You may discard a Psychic Energy card attached to Claydol ex. If you do, discard an Energy card attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-94",
+      "itemType": "Pokemon Card",
+      "number": "94",
+      "name": "Flygon ex",
+      "stage": "Stage 2",
+      "evolvesFrom": "Vibrava",
+      "hp": "150",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Psychic Protector",
+          "text": "If Flygon ex is damaged by an opponent's attack, you may discard up to 4 cards from your hand. If you do, any damage done to Flygon ex is reduced by 10 for each card you discarded.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Slashing Strike",
+          "damage": "70",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, Flygon ex can't use Slashing Strike during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Colorless",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-30"
+        },
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-95",
+      "itemType": "Pokemon Card",
+      "number": "95",
+      "name": "Metagross ex",
+      "stage": "Stage 2",
+      "evolvesFrom": "Metang",
+      "hp": "150",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Magnetic Redraw",
+          "text": "Once during your turn (before your attack), if Metagross ex is your Active Pokémon, you may use this power. Each player shuffles his or her hand into his or her deck. Then, each player draws 4 cards. This power can't be used if Metagross ex is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Scanblast",
+          "damage": "70",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "text": "Does 70 damage to each of your opponent's Benched Pokémon that has the same name as the Defending Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-96",
+      "itemType": "Pokemon Card",
+      "number": "96",
+      "name": "Salamence ex",
+      "stage": "Stage 2",
+      "evolvesFrom": "Shelgon",
+      "hp": "160",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Mitsuhiro Arita",
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Volcanic Flame",
+          "damage": "150",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard the top 5 cards from your deck."
+        },
+        {
+          "name": "Hydro Wave",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard all Water Energy attached to Salamence ex. This attack does 30 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Colorless",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fire",
+          "value": "-30"
+        },
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-97",
+      "itemType": "Pokemon Card",
+      "number": "97",
+      "name": "Shiftry ex",
+      "stage": "Stage 2",
+      "evolvesFrom": "Nuzleaf",
+      "hp": "140",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ryo Ueda",
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Skill Hack",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Look at your opponent's hand and choose a Basic Pokémon or Evolution card you find there. Choose 1 of that Pokémon's attacks. Skill Hack copies that attack except for its Energy cost. (You must still do anything else required for that attack.) (No matter what type that Pokémon is, Shiftry ex's type is still Darkness.) Shiftry ex performs that attack."
+        },
+        {
+          "name": "Dirge",
+          "damage": "60",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 60 damage to each of your opponent's Benched Pokémon that has the same name as the Defending Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-98",
+      "itemType": "Pokemon Card",
+      "number": "98",
+      "name": "Skarmory ex",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Metal Gravity",
+          "text": "If your opponent's Active Pokémon retreats and has 40 or more remaining HP, put 3 damage counters on that Pokémon. You can't use more than 1 Metal Gravity Poké-Body each turn.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Whirlwind",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "name": "Razor Wing",
+          "damage": "60",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-99",
+      "itemType": "Pokemon Card",
+      "number": "99",
+      "name": "Walrein ex",
+      "stage": "Stage 2",
+      "evolvesFrom": "Sealeo",
+      "hp": "150",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Chilling Breath",
+          "text": "Once during your turn, when you play Walrein ex from your hand to evolve 1 of your Pokémon, you may use this power. Your opponent can't play any Trainer cards from his or her hand during your opponent's next turn.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Wreck",
+          "damage": "70+",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "If there is any Stadium card in play, this attack does 70 damage plus 20 more damage. Discard that Stadium card."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-100",
+      "itemType": "Pokemon Card",
+      "number": "100",
+      "name": "Flareon ★",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo Star",
+      "artist": "Masakazu Fukuda",
+      "abilities": [
+        {
+          "name": "Crimson Ray",
+          "text": "Once during your turn, when you put Flareon Star from your hand onto your Bench, you may use this power. Each Active Pokémon (both yours and your opponent's) is now Burned.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "You can't have more than 1 Pokémon Star in your deck.",
+      "attacks": [
+        {
+          "name": "Flamethrower",
+          "damage": "50",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Discard a Fire Energy attached to Flareon Star."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-101",
+      "itemType": "Pokemon Card",
+      "number": "101",
+      "name": "Jolteon ★",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo Star",
+      "artist": "Masakazu Fukuda",
+      "abilities": [
+        {
+          "name": "Yellow Ray",
+          "text": "Once during your turn, when you put Jolteon Star from your hand onto your Bench, you may put 1 damage counter on each Active Pokémon (both yours and your opponent's).",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "You can't have more than 1 Pokémon Star in your deck.",
+      "attacks": [
+        {
+          "name": "Agility",
+          "damage": "40",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, prevent all effects of an attack, including damage, done to Jolteon Star during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-102",
+      "itemType": "Pokemon Card",
+      "number": "102",
+      "name": "Vaporeon ★",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo Star",
+      "artist": "Masakazu Fukuda",
+      "abilities": [
+        {
+          "name": "Blue Ray",
+          "text": "Once during your turn, when you put Vaporeon Star from your hand onto your Bench, you may remove all Special Conditions and 3 damage counters from each Active Pokémon (both yours and your opponent's).",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "You can't have more than 1 Pokémon Star in your deck.",
+      "attacks": [
+        {
+          "name": "Whirlpool",
+          "damage": "40",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy card attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-103",
+      "itemType": "Energy Card",
+      "number": "103",
+      "name": "Grass Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Rare Holo"
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-104",
+      "itemType": "Energy Card",
+      "number": "104",
+      "name": "Fire Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Rare Holo"
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-105",
+      "itemType": "Energy Card",
+      "number": "105",
+      "name": "Water Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Rare Holo"
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-106",
+      "itemType": "Energy Card",
+      "number": "106",
+      "name": "Lightning Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Rare Holo"
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-107",
+      "itemType": "Energy Card",
+      "number": "107",
+      "name": "Psychic Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Rare Holo"
+    },
+    {
+      "id": "tcg-pokemon-power-keepers-108",
+      "itemType": "Energy Card",
+      "number": "108",
+      "name": "Fighting Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Rare Holo"
+    }
+  ]
+}
