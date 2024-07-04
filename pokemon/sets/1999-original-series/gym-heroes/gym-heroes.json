@@ -1,39 +1,35 @@
 {
   "setId": "tcg-pokemon-gym-heroes",
   "cardCount": "132",
+  "setVariants": [
+    {
+      "id": "first-edition",
+      "name": "First Edition",
+      "description": "The first print run of the set. The cards have the 'Edition 1' symbol.",
+      "type": "print-run"
+    },
+    {
+      "id": "unlimited",
+      "name": "Unlimited",
+      "description": "The unlimited print of the set.",
+      "type": "print-run"
+    }
+  ],
   "sealedProducts": [
     {
       "id": "tcg-pokemon-gym-heroes-booster-box",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Sealed Product",
-      "name": "Gym-heroes Booster Box"
+      "name": "Gym Heroes Booster Box"
     },
     {
       "id": "tcg-pokemon-gym-heroes-booster-pack",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Sealed Product",
-      "name": "Gym-heroes Booster Pack"
+      "name": "Gym Heroes Booster Pack"
     }
   ],
   "cards": [
     {
       "id": "tcg-pokemon-gym-heroes-1",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "1",
       "name": "Blaine's Moltres",
@@ -73,12 +69,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-2",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "2",
       "name": "Brock's Rhydon",
@@ -131,12 +121,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-3",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "3",
       "name": "Erika's Clefable",
@@ -186,12 +170,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-4",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "4",
       "name": "Erika's Dragonair",
@@ -239,12 +217,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-5",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "5",
       "name": "Erika's Vileplume",
@@ -289,12 +261,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-6",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "6",
       "name": "Lt. Surge's Electabuzz",
@@ -336,12 +302,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-7",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "7",
       "name": "Lt. Surge's Fearow",
@@ -390,12 +350,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-8",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "8",
       "name": "Lt. Surge's Magneton",
@@ -441,15 +395,14 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-9",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Pokémon League Prerelease promo"
-        ]
-      },
+      "variants": [
+        {
+          "id": "prerelease-promo",
+          "name": "Pokemon League Prerelease Promo",
+          "description": "The card has 'PRERELEASE' stamped on the art.",
+          "type":"art"
+        }
+      ],
       "itemType": "Pokemon Card",
       "number": "9",
       "name": "Misty's Seadra",
@@ -493,12 +446,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-10",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "10",
       "name": "Misty's Tentacruel",
@@ -540,12 +487,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-11",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "11",
       "name": "Rocket's Hitmonchan",
@@ -587,12 +528,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-12",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "12",
       "name": "Rocket's Moltres",
@@ -636,12 +571,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-13",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "13",
       "name": "Rocket's Scyther",
@@ -689,12 +618,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-14",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "14",
       "name": "Sabrina's Gengar",
@@ -738,12 +661,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-15",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "15",
       "name": "Brock",
@@ -756,12 +673,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-16",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "16",
       "name": "Erika",
@@ -774,12 +685,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-17",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "17",
       "name": "Lt. Surge",
@@ -792,12 +697,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-18",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "18",
       "name": "Misty",
@@ -810,12 +709,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-19",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "19",
       "name": "The Rocket's Trap",
@@ -828,12 +721,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-20",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "20",
       "name": "Brock's Golem",
@@ -883,12 +770,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-21",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "21",
       "name": "Brock's Onix",
@@ -933,12 +814,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-22",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "22",
       "name": "Brock's Rhyhorn",
@@ -990,12 +865,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-23",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "23",
       "name": "Brock's Sandslash",
@@ -1046,12 +915,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-24",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "24",
       "name": "Brock's Zubat",
@@ -1095,12 +958,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-25",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "25",
       "name": "Erika's Clefairy",
@@ -1148,12 +1005,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-26",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "26",
       "name": "Erika's Victreebel",
@@ -1197,12 +1048,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-27",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "27",
       "name": "Lt. Surge's Electabuzz",
@@ -1245,12 +1090,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-28",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "28",
       "name": "Lt. Surge's Raichu",
@@ -1297,12 +1136,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-29",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "29",
       "name": "Misty's Cloyster",
@@ -1347,12 +1180,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-30",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "30",
       "name": "Misty's Goldeen",
@@ -1383,12 +1210,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-31",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "31",
       "name": "Misty's Poliwrath",
@@ -1428,12 +1249,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-32",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "32",
       "name": "Misty's Tentacool",
@@ -1471,12 +1286,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-33",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "33",
       "name": "Rocket's Snorlax",
@@ -1528,12 +1337,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-34",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "34",
       "name": "Sabrina's Venomoth",
@@ -1578,12 +1381,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-35",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "35",
       "name": "Blaine's Growlithe",
@@ -1626,12 +1423,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-36",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "36",
       "name": "Blaine's Kangaskhan",
@@ -1683,12 +1474,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-37",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "37",
       "name": "Blaine's Magmar",
@@ -1733,12 +1518,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-38",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "38",
       "name": "Brock's Geodude",
@@ -1779,12 +1558,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-39",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "39",
       "name": "Brock's Golbat",
@@ -1833,12 +1606,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-40",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "40",
       "name": "Brock's Graveler",
@@ -1876,12 +1643,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-41",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "41",
       "name": "Brock's Lickitung",
@@ -1933,12 +1694,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-42",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "42",
       "name": "Erika's Dratini",
@@ -1980,12 +1735,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-43",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "43",
       "name": "Erika's Exeggcute",
@@ -2027,12 +1776,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-44",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "44",
       "name": "Erika's Exeggutor",
@@ -2077,12 +1820,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-45",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "45",
       "name": "Erika's Gloom",
@@ -2126,12 +1863,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-46",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "46",
       "name": "Erika's Gloom",
@@ -2177,12 +1908,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-47",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "47",
       "name": "Erika's Oddish",
@@ -2224,12 +1949,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-48",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "48",
       "name": "Erika's Weepinbell",
@@ -2272,12 +1991,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-49",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "49",
       "name": "Erika's Weepinbell",
@@ -2322,12 +2035,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-50",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "50",
       "name": "Lt. Surge's Magnemite",
@@ -2367,12 +2074,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-51",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "51",
       "name": "Lt. Surge's Raticate",
@@ -2412,12 +2113,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-52",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "52",
       "name": "Lt. Surge's Spearow",
@@ -2453,12 +2148,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-53",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "53",
       "name": "Misty's Poliwhirl",
@@ -2505,15 +2194,14 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-54",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Top Deck Magazine W Promo"
-        ]
-      },
+      "variants": [
+        {
+          "id": "w-promo",
+          "name": "W Promo",
+          "description": "The card has a 'W' stamp on the artwork.",
+          "type": "art"      
+        }
+      ],
       "itemType": "Pokemon Card",
       "number": "54",
       "name": "Misty's Psyduck",
@@ -2553,12 +2241,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-55",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "55",
       "name": "Misty's Seaking",
@@ -2601,12 +2283,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-56",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "56",
       "name": "Misty's Starmie",
@@ -2652,12 +2328,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-57",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "57",
       "name": "Misty's Tentacool",
@@ -2692,12 +2362,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-58",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "58",
       "name": "Sabrina's Haunter",
@@ -2730,12 +2394,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-59",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "59",
       "name": "Sabrina's Jynx",
@@ -2778,12 +2436,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-60",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "60",
       "name": "Sabrina's Slowbro",
@@ -2828,12 +2480,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-61",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "61",
       "name": "Blaine's Charmander",
@@ -2875,12 +2521,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-62",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "62",
       "name": "Blaine's Growlithe",
@@ -2915,12 +2555,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-63",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "63",
       "name": "Blaine's Ponyta",
@@ -2952,12 +2586,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-64",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "64",
       "name": "Blaine's Tauros",
@@ -3008,12 +2636,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-65",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "65",
       "name": "Blaine's Vulpix",
@@ -3056,12 +2678,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-66",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "66",
       "name": "Brock's Geodude",
@@ -3103,12 +2719,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-67",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "67",
       "name": "Brock's Mankey",
@@ -3145,12 +2755,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-68",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "68",
       "name": "Brock's Mankey",
@@ -3189,12 +2793,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-69",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "69",
       "name": "Brock's Onix",
@@ -3238,12 +2836,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-70",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "70",
       "name": "Brock's Rhyhorn",
@@ -3286,12 +2878,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-71",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "71",
       "name": "Brock's Sandshrew",
@@ -3338,12 +2924,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-72",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "72",
       "name": "Brock's Sandshrew",
@@ -3384,12 +2964,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-73",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "73",
       "name": "Brock's Vulpix",
@@ -3431,12 +3005,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-74",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "74",
       "name": "Brock's Zubat",
@@ -3481,12 +3049,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-75",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "75",
       "name": "Erika's Bellsprout",
@@ -3528,12 +3090,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-76",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "76",
       "name": "Erika's Bellsprout",
@@ -3567,12 +3123,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-77",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "77",
       "name": "Erika's Exeggcute",
@@ -3615,12 +3165,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-78",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "78",
       "name": "Erika's Oddish",
@@ -3663,12 +3207,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-79",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "79",
       "name": "Erika's Tangela",
@@ -3711,12 +3249,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-80",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "80",
       "name": "Lt. Surge's Magnemite",
@@ -3758,12 +3290,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-81",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "81",
       "name": "Lt. Surge's Pikachu",
@@ -3805,12 +3331,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-82",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "82",
       "name": "Lt. Surge's Rattata",
@@ -3857,12 +3377,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-83",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "83",
       "name": "Lt. Surge's Spearow",
@@ -3908,12 +3422,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-84",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "84",
       "name": "Lt. Surge's Voltorb",
@@ -3956,12 +3464,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-85",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "85",
       "name": "Misty's Goldeen",
@@ -4002,12 +3504,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-86",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "86",
       "name": "Misty's Horsea",
@@ -4046,12 +3542,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-87",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "87",
       "name": "Misty's Poliwag",
@@ -4093,12 +3583,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-88",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "88",
       "name": "Misty's Seel",
@@ -4132,12 +3616,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-89",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "89",
       "name": "Misty's Shellder",
@@ -4179,12 +3657,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-90",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "90",
       "name": "Misty's Staryu",
@@ -4219,12 +3691,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-91",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "91",
       "name": "Sabrina's Abra",
@@ -4255,12 +3721,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-92",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "92",
       "name": "Sabrina's Drowzee",
@@ -4301,12 +3761,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-93",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "93",
       "name": "Sabrina's Gastly",
@@ -4341,12 +3795,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-94",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "94",
       "name": "Sabrina's Mr. Mime",
@@ -4387,12 +3835,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-95",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "95",
       "name": "Sabrina's Slowpoke",
@@ -4427,12 +3869,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-96",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "96",
       "name": "Sabrina's Venonat",
@@ -4474,12 +3910,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-97",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "97",
       "name": "Blaine's Quiz #1",
@@ -4492,12 +3922,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-98",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "98",
       "name": "Brock",
@@ -4510,12 +3934,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-99",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "99",
       "name": "Charity",
@@ -4528,12 +3946,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-100",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "100",
       "name": "Erika",
@@ -4546,12 +3958,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-101",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "101",
       "name": "Lt. Surge",
@@ -4564,12 +3970,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-102",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "102",
       "name": "Misty",
@@ -4582,12 +3982,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-103",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "103",
       "name": "No Removal Gym",
@@ -4600,12 +3994,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-104",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "104",
       "name": "The Rocket's Training Gym",
@@ -4618,12 +4006,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-105",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "105",
       "name": "Blaine's Last Resort",
@@ -4636,12 +4018,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-106",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "106",
       "name": "Brock's Training Method",
@@ -4654,12 +4030,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-107",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "107",
       "name": "Celadon City Gym",
@@ -4672,12 +4042,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-108",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "108",
       "name": "Cerulean City Gym",
@@ -4690,12 +4054,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-109",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "109",
       "name": "Erika's Maids",
@@ -4708,12 +4066,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-110",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "110",
       "name": "Erika's Perfume",
@@ -4726,12 +4078,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-111",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "111",
       "name": "Good Manners",
@@ -4744,12 +4090,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-112",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "112",
       "name": "Lt. Surge's Treaty",
@@ -4762,12 +4102,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-113",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "113",
       "name": "Minion of Team Rocket",
@@ -4780,12 +4114,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-114",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "114",
       "name": "Misty's Wrath",
@@ -4798,12 +4126,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-115",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "115",
       "name": "Pewter City Gym",
@@ -4816,12 +4138,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-116",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "116",
       "name": "Recall",
@@ -4834,12 +4150,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-117",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "117",
       "name": "Sabrina's ESP",
@@ -4852,12 +4162,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-118",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "118",
       "name": "Secret Mission",
@@ -4870,12 +4174,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-119",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "119",
       "name": "Tickling Machine",
@@ -4888,12 +4186,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-120",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "120",
       "name": "Vermilion City Gym",
@@ -4906,12 +4198,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-121",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "121",
       "name": "Blaine's Gamble",
@@ -4924,12 +4210,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-122",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "122",
       "name": "Energy Flow",
@@ -4942,12 +4222,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-123",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "123",
       "name": "Misty's Duel",
@@ -4960,12 +4234,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-124",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "124",
       "name": "Narrow Gym",
@@ -4978,12 +4246,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-125",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "125",
       "name": "Sabrina's Gaze",
@@ -4996,12 +4258,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-126",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "126",
       "name": "Trash Exchange",
@@ -5014,12 +4270,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-127",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Energy Card",
       "number": "127",
       "name": "Fighting Energy",
@@ -5030,12 +4280,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-128",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Energy Card",
       "number": "128",
       "name": "Fire Energy",
@@ -5046,12 +4290,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-129",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Energy Card",
       "number": "129",
       "name": "Grass Energy",
@@ -5062,12 +4300,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-130",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Energy Card",
       "number": "130",
       "name": "Lightning Energy",
@@ -5078,12 +4310,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-131",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Energy Card",
       "number": "131",
       "name": "Psychic Energy",
@@ -5094,12 +4320,6 @@
     },
     {
       "id": "tcg-pokemon-gym-heroes-132",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Energy Card",
       "number": "132",
       "name": "Water Energy",
