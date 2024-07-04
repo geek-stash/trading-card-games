@@ -1,5 +1,23 @@
 {
   "setId": "tcg-pokemon-skyridge",
+  "setVariants": [
+    {
+      "id": "reverse-holo",
+      "name": "Reverse Holo",
+      "description": "The reverse holo print of the set.",
+      "type": "art",
+      "exclusions": [
+        "tcg-pokemon-skyridge-booster-box",
+        "tcg-pokemon-skyridge-booster-pack"
+      ]
+    },
+    {
+      "id": "unlimited",
+      "name": "Unlimited",
+      "description": "The unlimited print of the set.",
+      "type": "print-run"
+    }
+  ],
   "cardCount": "182",
   "sealedProducts": [
     {
@@ -9,14 +27,6 @@
     },
     {
       "id": "tcg-pokemon-skyridge-booster-pack",
-      "variantTypes": {
-        "art": [
-          "Poliwrath",
-          "Vaporeon",
-          "Kabutops",
-          "Ho-Oh"
-        ]
-      },
       "itemType": "Sealed Product",
       "name": "Skyridge Booster Pack"
     }
