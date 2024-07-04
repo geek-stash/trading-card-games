@@ -1,0 +1,4004 @@
+{
+  "setId": "tcg-pokemon-ruby-sapphire",
+  "setVariants": [
+    {
+      "id": "reverse-holo",
+      "name": "Reverse Holo",
+      "description": "The reverse holo print of the set.",
+      "type": "art",
+      "exclusions": [
+        "tcg-pokemon-ruby-sapphire-booster-box",
+        "tcg-pokemon-ruby-sapphire-booster-pack"
+      ]
+    },
+    {
+      "id": "unlimited",
+      "name": "Unlimited",
+      "description": "The unlimited print of the set.",
+      "type": "print-run"
+    }
+  ],
+  "cardCount": "109",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-ruby-sapphire-booster-box",
+      "itemType": "Sealed Product",
+      "name": "Ruby Sapphire Booster Box"
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-booster-pack",
+      "itemType": "Sealed Product",
+      "name": "Ruby Sapphire Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-ruby-sapphire-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Aggron",
+      "stage": "Stage 2",
+      "evolvesFrom": "Lairon",
+      "hp": "110",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Retaliate",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage times the number of damage counters on Aggron."
+        },
+        {
+          "name": "Mega Punch",
+          "damage": "40",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Double Lariat",
+          "damage": "70×",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 70 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Beautifly",
+      "stage": "Stage 2",
+      "evolvesFrom": "Silcoon",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Hajime Kusajima",
+      "abilities": [
+        {
+          "name": "Withering Dust",
+          "text": "As long as Beautifly is in play, do not apply Resistance for all Active Pokémon.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Stun Spore",
+          "damage": "20",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Parallel Gain",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Remove 1 damage counter from each of your Pokémon, including Beautifly."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-3",
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Blaziken",
+      "stage": "Stage 2",
+      "evolvesFrom": "Combusken",
+      "hp": "100",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kouki Saitou",
+      "abilities": [
+        {
+          "name": "Firestarter",
+          "text": "Once during your turn (before your attack), you may attach a Fire Energy card from your discard pile to 1 of your Benched Pokémon. This power can't be used if Blaziken is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Fire Stream",
+          "damage": "50",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard a Fire Energy card attached to Blaziken. If you do, this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-4",
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Camerupt",
+      "stage": "Stage 1",
+      "evolvesFrom": "Numel",
+      "hp": "90",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Lava Burn",
+          "damage": "20",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Benched Pokémon. This attack does 10 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Fire Spin",
+          "damage": "100",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard 2 basic Energy cards attached to Camerupt or this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Delcatty",
+      "stage": "Stage 1",
+      "evolvesFrom": "Skitty",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Atsuko Nishida",
+      "abilities": [
+        {
+          "name": "Energy Draw",
+          "text": "Once during your turn (before your attack), you may discard 1 Energy card from your hand. Then draw up to 3 cards from your deck. This power can't be used if Delcatty is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Max Energy Source",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Does 10 damage times the amount of Energy attached to all of your Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-6",
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Dustox",
+      "stage": "Stage 2",
+      "evolvesFrom": "Cascoon",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Midori Harada",
+      "abilities": [
+        {
+          "name": "Protective Dust",
+          "text": "Prevent all effects of attacks, except damage, done to Dustox by the Attacking Pokémon.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Toxic",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Poisoned. Put 2 damage counters instead of 1 on the Defending Pokémon between turns."
+        },
+        {
+          "name": "Gust",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-7",
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Gardevoir",
+      "stage": "Stage 2",
+      "evolvesFrom": "Kirlia",
+      "hp": "100",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Psy Shadow",
+          "text": "Once during your turn (before your attack), you may search your deck for a Psychic Energy card and attach it to 1 of your Pokémon. Put 2 damage counters on that Pokémon. Shuffle your deck afterward. This power can't be used if Gardevoir is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Energy Burst",
+          "damage": "10×",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Does 10 damage times the total amount of Energy attached to Gardevoir and the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-8",
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "Hariyama",
+      "stage": "Stage 1",
+      "evolvesFrom": "Makuhita",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Naoyo Kimura",
+      "attacks": [
+        {
+          "name": "Super Slap Push",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Does 20 damage to each Defending Pokémon."
+        },
+        {
+          "name": "Mega Throw",
+          "damage": "40+",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is a Pokémon-ex, this attack does 40 damage plus 40 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-9",
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Manectric",
+      "stage": "Stage 1",
+      "evolvesFrom": "Electrike",
+      "hp": "70",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Attract Current",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a Lightning Energy card and attach it to 1 of your Pokémon. Shuffle your deck afterward."
+        },
+        {
+          "name": "Thunder Jolt",
+          "damage": "50",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, Manectric does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Mightyena",
+      "stage": "Stage 1",
+      "evolvesFrom": "Poochyena",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Atsuko Nishida",
+      "abilities": [
+        {
+          "name": "Intimidating Fang",
+          "text": "As long as Mightyena is your Active Pokémon, any damage done to your Pokémon by an opponent's attack is reduced by 10 (before applying Weakness and Resistance).",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Shakedown",
+          "damage": "40",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, choose 1 card from your opponent's hand without looking and discard it."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Sceptile",
+      "stage": "Stage 2",
+      "evolvesFrom": "Grovyle",
+      "hp": "120",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Midori Harada",
+      "attacks": [
+        {
+          "name": "Lizard Poison",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If 1 Energy is attached to Sceptile, the Defending Pokémon is now Asleep. If 2 Energy is attached to Sceptile, the Defending Pokémon is now Poisoned. If 3 Energy is attached to Sceptile, the Defending Pokémon is now Asleep and Poisoned. If 4 or more Energy is attached to Sceptile, the Defending Pokémon is now Asleep, Burned, and Poisoned."
+        },
+        {
+          "name": "Solarbeam",
+          "damage": "70",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Slaking",
+      "stage": "Stage 2",
+      "evolvesFrom": "Vigoroth",
+      "hp": "120",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Lazy",
+          "text": "As long as Slaking is your Active Pokémon, your opponent's Pokémon can't use any Poké-Powers.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Critical Move",
+          "damage": "100",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard a basic Energy card attached to Slaking or this attack does nothing. Slaking can't attack during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Swampert",
+      "stage": "Stage 2",
+      "evolvesFrom": "Marshtomp",
+      "hp": "110",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Water Call",
+          "text": "Once during your turn (before your attack), you may attach a Water Energy card from your hand to your Active Pokémon. This power can't be used if Swampert is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hypno Splash",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Wailord",
+      "stage": "Stage 1",
+      "evolvesFrom": "Wailmer",
+      "hp": "120",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Take Down",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Wailord does 20 damage to itself."
+        },
+        {
+          "name": "Surf",
+          "damage": "70",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Blaziken",
+      "stage": "Stage 2",
+      "evolvesFrom": "Combusken",
+      "hp": "110",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Clutch",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat until the end of your opponent's next turn."
+        },
+        {
+          "name": "Flamethrower",
+          "damage": "80",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard a Fire Energy card attached to Blaziken."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-16",
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Breloom",
+      "stage": "Stage 1",
+      "evolvesFrom": "Shroomish",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Battle Blast",
+          "damage": "40+",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 40 damage plus 10 more damage for each Fighting Energy attached to Breloom."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Donphan",
+      "stage": "Stage 1",
+      "evolvesFrom": "Phanpy",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "attacks": [
+        {
+          "name": "Rend",
+          "damage": "20+",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon has any damage counters on it, this attack does 20 damage plus 20 more damage."
+        },
+        {
+          "name": "Double Spin",
+          "damage": "60×",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 60 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-18",
+      "itemType": "Pokemon Card",
+      "number": "18",
+      "name": "Nosepass",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Invisible Hand",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If any of your opponent's Active Pokémon are Evolved Pokémon, search your deck for any 1 card and put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Repulsion",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent returns the Defending Pokémon and all cards attached to it to his or her hand. (If your opponent doesn't have any Benched Pokémon or other Active Pokémon, this attack does nothing.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-19",
+      "itemType": "Pokemon Card",
+      "number": "19",
+      "name": "Pelipper",
+      "stage": "Stage 1",
+      "evolvesFrom": "Wingull",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "attacks": [
+        {
+          "name": "Stockpile",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "During your next turn, Spit Up's base damage is 70 instead of 30, and Swallow's base damage is 60 instead of 20."
+        },
+        {
+          "name": "Spit Up",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Swallow",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "After your attack, remove from Pelipper the number of damage counters equal to the damage you did to the Defending Pokémon. If Pelipper has fewer damage counters than that, remove all of them."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-20",
+      "itemType": "Pokemon Card",
+      "number": "20",
+      "name": "Sceptile",
+      "stage": "Stage 2",
+      "evolvesFrom": "Grovyle",
+      "hp": "100",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Energy Trans",
+          "text": "As often as you like during your turn (before your attack), move a Grass Energy card attached to 1 of your Pokémon to another of your Pokémon. This power can't be used if Sceptile is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Tail Rap",
+          "damage": "50×",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 50 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-21",
+      "itemType": "Pokemon Card",
+      "number": "21",
+      "name": "Seaking",
+      "stage": "Stage 1",
+      "evolvesFrom": "Goldeen",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Hajime Kusajima",
+      "attacks": [
+        {
+          "name": "Water Arrow",
+          "cost": [
+            "Water"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Fast Stream",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Move 1 Energy card attached to the Defending Pokémon to the other Defending Pokémon. (Ignore this effect if your opponent has only 1 Defending Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-22",
+      "itemType": "Pokemon Card",
+      "number": "22",
+      "name": "Sharpedo",
+      "stage": "Stage 1",
+      "evolvesFrom": "Carvanha",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Hajime Kusajima",
+      "abilities": [
+        {
+          "name": "Rough Skin",
+          "text": "If Sharpedo is your Active Pokémon and is damaged by an opponent's attack (even if Sharpedo is Knocked Out), put 2 damage counters on the Attacking Pokémon.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Dark Slash",
+          "damage": "40+",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may discard a Darkness Energy card attached to Sharpedo. If you do, this attack does 40 damage plus 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-23",
+      "itemType": "Pokemon Card",
+      "number": "23",
+      "name": "Swampert",
+      "stage": "Stage 2",
+      "evolvesFrom": "Marshtomp",
+      "hp": "100",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Natural Remedy",
+          "text": "Once during your turn (before your attack), when you attach a Water Energy card from your hand to Swampert, remove 1 damage counter from Swampert.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Water Arrow",
+          "cost": [
+            "Water"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Waterfall",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-24",
+      "itemType": "Pokemon Card",
+      "number": "24",
+      "name": "Weezing",
+      "stage": "Stage 1",
+      "evolvesFrom": "Koffing",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Atsuko Nishida",
+      "attacks": [
+        {
+          "name": "Confusion Gas",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ],
+          "text": "The Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Poison Smog",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Each Defending Pokémon is now Poisoned. Does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-25",
+      "itemType": "Pokemon Card",
+      "number": "25",
+      "name": "Aron",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Midori Harada",
+      "attacks": [
+        {
+          "name": "Rollout",
+          "damage": "10",
+          "cost": [
+            "Metal"
+          ]
+        },
+        {
+          "name": "Double Stab",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-26",
+      "itemType": "Pokemon Card",
+      "number": "26",
+      "name": "Cascoon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Wurmple",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Midori Harada",
+      "abilities": [
+        {
+          "name": "Hard Cocoon",
+          "text": "During your opponent's turn, if Cascoon would be damaged by an opponent's attack (after applying Weakness and Resistance), flip a coin. If heads, reduce that damage by 30.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Poison Thread",
+          "cost": [
+            "Grass"
+          ],
+          "text": "The Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-27",
+      "itemType": "Pokemon Card",
+      "number": "27",
+      "name": "Combusken",
+      "stage": "Stage 1",
+      "evolvesFrom": "Torchic",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouki Saitou",
+      "attacks": [
+        {
+          "name": "Flare",
+          "damage": "20",
+          "cost": [
+            "Fire"
+          ]
+        },
+        {
+          "name": "Double Kick",
+          "damage": "40×",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 40 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-28",
+      "itemType": "Pokemon Card",
+      "number": "28",
+      "name": "Combusken",
+      "stage": "Stage 1",
+      "evolvesFrom": "Torchic",
+      "hp": "80",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Natural Cure",
+          "text": "When you attach a Fire Energy card from your hand to Combusken, remove all Special Conditions from Combusken.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Lunge",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-29",
+      "itemType": "Pokemon Card",
+      "number": "29",
+      "name": "Delcatty",
+      "stage": "Stage 1",
+      "evolvesFrom": "Skitty",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Energy Call",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Attach 1 Energy card from your discard pile to your Active Pokémon."
+        },
+        {
+          "name": "Cannonball",
+          "damage": "30+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 30 damage plus 10 more damage for each Energy attached to Delcatty but not used to pay for this attack's Energy cost."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-30",
+      "itemType": "Pokemon Card",
+      "number": "30",
+      "name": "Electrike",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hajime Kusajima",
+      "attacks": [
+        {
+          "name": "Charge",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Attach a Lightning Energy card from your discard pile to Electrike."
+        },
+        {
+          "name": "Thunder Jolt",
+          "damage": "30",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, Electrike does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-31",
+      "itemType": "Pokemon Card",
+      "number": "31",
+      "name": "Grovyle",
+      "stage": "Stage 1",
+      "evolvesFrom": "Treecko",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Midori Harada",
+      "attacks": [
+        {
+          "name": "Poison Breath",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Poisoned."
+        },
+        {
+          "name": "Swift",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-32",
+      "itemType": "Pokemon Card",
+      "number": "32",
+      "name": "Grovyle",
+      "stage": "Stage 1",
+      "evolvesFrom": "Treecko",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Natural Cure",
+          "text": "When you attach a Grass Energy card from your hand to Grovyle, remove all Special Conditions from Grovyle.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Slash",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-33",
+      "itemType": "Pokemon Card",
+      "number": "33",
+      "name": "Hariyama",
+      "stage": "Stage 1",
+      "evolvesFrom": "Makuhita",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Shove",
+          "damage": "20",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Slap Down",
+          "damage": "40+",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 40 damage plus 10 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-34",
+      "itemType": "Pokemon Card",
+      "number": "34",
+      "name": "Kirlia",
+      "stage": "Stage 1",
+      "evolvesFrom": "Ralts",
+      "hp": "70",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Removal Beam",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, discard 1 Energy card attached to the Defending Pokémon."
+        },
+        {
+          "name": "Super Psy",
+          "damage": "50",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-35",
+      "itemType": "Pokemon Card",
+      "number": "35",
+      "name": "Kirlia",
+      "stage": "Stage 1",
+      "evolvesFrom": "Ralts",
+      "hp": "70",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Atsuko Nishida",
+      "attacks": [
+        {
+          "name": "Dazzle Dance",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, each Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Life Drain",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, put damage counters on the Defending Pokémon until it is 10 HP away from being Knocked Out."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-36",
+      "itemType": "Pokemon Card",
+      "number": "36",
+      "name": "Lairon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Aron",
+      "hp": "70",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Ram",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Metal Claw",
+          "damage": "40",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-37",
+      "itemType": "Pokemon Card",
+      "number": "37",
+      "name": "Lairon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Aron",
+      "hp": "80",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Magnitude",
+          "damage": "20",
+          "cost": [
+            "Metal"
+          ],
+          "text": "Does 10 damage to each Benched Pokémon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "One-Two Strike",
+          "damage": "30+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 30 damage plus 20 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-38",
+      "itemType": "Pokemon Card",
+      "number": "38",
+      "name": "Linoone",
+      "stage": "Stage 1",
+      "evolvesFrom": "Zigzagoon",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Seek Out",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 2 cards and put them into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Continuous Headbutt",
+          "damage": "40×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. This attack does 40 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-39",
+      "itemType": "Pokemon Card",
+      "number": "39",
+      "name": "Manectric",
+      "stage": "Stage 1",
+      "evolvesFrom": "Electrike",
+      "hp": "70",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Thundershock",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Gigashock",
+          "damage": "40",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 10 damage to 2 of your opponent's Benched Pokémon (1 if there is only 1). (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-40",
+      "itemType": "Pokemon Card",
+      "number": "40",
+      "name": "Marshtomp",
+      "stage": "Stage 1",
+      "evolvesFrom": "Mudkip",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Bubble",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Slash",
+          "damage": "40",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-41",
+      "itemType": "Pokemon Card",
+      "number": "41",
+      "name": "Marshtomp",
+      "stage": "Stage 1",
+      "evolvesFrom": "Mudkip",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Natural Cure",
+          "text": "When you attach a Water Energy card from your hand to Marshtomp, remove all Special Conditions from Marshtomp.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Aqua Sonic",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack's damage is not affected by Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-42",
+      "itemType": "Pokemon Card",
+      "number": "42",
+      "name": "Mightyena",
+      "stage": "Stage 1",
+      "evolvesFrom": "Poochyena",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Ambush",
+          "damage": "30+",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 damage plus 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-43",
+      "itemType": "Pokemon Card",
+      "number": "43",
+      "name": "Silcoon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Wurmple",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hajime Kusajima",
+      "abilities": [
+        {
+          "name": "Hard Cocoon",
+          "text": "During your opponent's turn, if Silcoon would be damaged by an opponent's attack (after applying Weakness and Resistance), flip a coin. If heads, reduce that damage by 30.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Gooey Thread",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ],
+          "text": "The Defending Pokémon can't retreat until the end of your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-44",
+      "itemType": "Pokemon Card",
+      "number": "44",
+      "name": "Skitty",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Midori Harada",
+      "attacks": [
+        {
+          "name": "Minor Errand-Running",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for 2 basic Energy cards, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Lullaby",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-45",
+      "itemType": "Pokemon Card",
+      "number": "45",
+      "name": "Slakoth",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "attacks": [
+        {
+          "name": "Claw",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        },
+        {
+          "name": "Slack Off",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Remove all damage counters from Slakoth. Slakoth can't attack during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-46",
+      "itemType": "Pokemon Card",
+      "number": "46",
+      "name": "Swellow",
+      "stage": "Stage 1",
+      "evolvesFrom": "Taillow",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Drive Off",
+          "text": "Once during your turn (before your attack), if Swellow is your Active Pokémon, you may switch 1 of the Defending Pokémon with 1 of your opponent's Benched Pokémon. Your opponent picks the Benched Pokémon to switch. This power can't be used if Swellow is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-47",
+      "itemType": "Pokemon Card",
+      "number": "47",
+      "name": "Vigoroth",
+      "stage": "Stage 1",
+      "evolvesFrom": "Slakoth",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "attacks": [
+        {
+          "name": "Fury Swipes",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 20 damage times the number of heads."
+        },
+        {
+          "name": "Rage",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 20 damage plus 10 more damage for each damage counter on Vigoroth."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-48",
+      "itemType": "Pokemon Card",
+      "number": "48",
+      "name": "Wailmer",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Rest",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Remove all Special Conditions and 4 damage counters from Wailmer (all if there are less than 4). Wailmer is now Asleep."
+        },
+        {
+          "name": "Water Gun",
+          "damage": "20+",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage plus 10 more damage for each Water Energy attached to Wailmer but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-49",
+      "itemType": "Pokemon Card",
+      "number": "49",
+      "name": "Aron",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Teary Eyes",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done to Aron by attacks is reduced by 10."
+        },
+        {
+          "name": "Ram",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-50",
+      "itemType": "Pokemon Card",
+      "number": "50",
+      "name": "Aron",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-51",
+      "itemType": "Pokemon Card",
+      "number": "51",
+      "name": "Carvanha",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Hajime Kusajima",
+      "abilities": [
+        {
+          "name": "Rough Skin",
+          "text": "If Carvanha is your Active Pokémon and is damaged by an opponent's attack (even if Carvanha is Knocked Out), put 1 damage counter on the Attacking Pokémon.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Big Bite",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat until the end of your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-52",
+      "itemType": "Pokemon Card",
+      "number": "52",
+      "name": "Electrike",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-53",
+      "itemType": "Pokemon Card",
+      "number": "53",
+      "name": "Electrike",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Super Thunder Wave",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, each Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Tackle",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-54",
+      "itemType": "Pokemon Card",
+      "number": "54",
+      "name": "Koffing",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Double-edge",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Koffing does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-55",
+      "itemType": "Pokemon Card",
+      "number": "55",
+      "name": "Goldeen",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Hajime Kusajima",
+      "attacks": [
+        {
+          "name": "Flail",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Does 10 damage for each damage counter on Goldeen."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-56",
+      "itemType": "Pokemon Card",
+      "number": "56",
+      "name": "Makuhita",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Slap Push",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Lunge Out",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-57",
+      "itemType": "Pokemon Card",
+      "number": "57",
+      "name": "Makuhita",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "attacks": [
+        {
+          "name": "Fling",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "name": "Low Kick",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-58",
+      "itemType": "Pokemon Card",
+      "number": "58",
+      "name": "Makuhita",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Naoyo Kimura",
+      "attacks": [
+        {
+          "name": "Fake Out",
+          "damage": "10",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-59",
+      "itemType": "Pokemon Card",
+      "number": "59",
+      "name": "Mudkip",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Bubble",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-60",
+      "itemType": "Pokemon Card",
+      "number": "60",
+      "name": "Mudkip",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Pound",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Fury Swipes",
+          "damage": "10×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-61",
+      "itemType": "Pokemon Card",
+      "number": "61",
+      "name": "Numel",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Burn Off",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, each Defending Pokémon is now Burned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-62",
+      "itemType": "Pokemon Card",
+      "number": "62",
+      "name": "Phanpy",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "attacks": [
+        {
+          "name": "Stampede",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Trembler",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage to each Defending Pokémon, and each Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-63",
+      "itemType": "Pokemon Card",
+      "number": "63",
+      "name": "Poochyena",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-64",
+      "itemType": "Pokemon Card",
+      "number": "64",
+      "name": "Poochyena",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "attacks": [
+        {
+          "name": "Knock Off",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Flip a coin. If heads, choose 1 card from your opponent's hand without looking and discard it."
+        },
+        {
+          "name": "Rear Kick",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-65",
+      "itemType": "Pokemon Card",
+      "number": "65",
+      "name": "Poochyena",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Naoyo Kimura",
+      "attacks": [
+        {
+          "name": "Shadow Bind",
+          "damage": "10",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "The Defending Pokémon can't retreat until the end of your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-66",
+      "itemType": "Pokemon Card",
+      "number": "66",
+      "name": "Ralts",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Confuse Ray",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-67",
+      "itemType": "Pokemon Card",
+      "number": "67",
+      "name": "Ralts",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Hypnoblast",
+          "damage": "20",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-68",
+      "itemType": "Pokemon Card",
+      "number": "68",
+      "name": "Ralts",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "attacks": [
+        {
+          "name": "Pound",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Link Blast",
+          "damage": "40",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "If Ralts and the Defending Pokémon have a different amount of Energy attached to them, this attack's base damage is 10 instead of 40."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-69",
+      "itemType": "Pokemon Card",
+      "number": "69",
+      "name": "Shroomish",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "attacks": [
+        {
+          "name": "Sleep Powder",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-70",
+      "itemType": "Pokemon Card",
+      "number": "70",
+      "name": "Skitty",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Plus Energy",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Attach a basic Energy card from your hand to 1 of your Pokémon."
+        },
+        {
+          "name": "Scratch",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-71",
+      "itemType": "Pokemon Card",
+      "number": "71",
+      "name": "Skitty",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Lunge",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-72",
+      "itemType": "Pokemon Card",
+      "number": "72",
+      "name": "Taillow",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "attacks": [
+        {
+          "name": "Peck",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Wing Attack",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-73",
+      "itemType": "Pokemon Card",
+      "number": "73",
+      "name": "Torchic",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Peck",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Fireworks",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, discard a Fire Energy card attached to Torchic."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-74",
+      "itemType": "Pokemon Card",
+      "number": "74",
+      "name": "Torchic",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "attacks": [
+        {
+          "name": "Singe",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Burned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-75",
+      "itemType": "Pokemon Card",
+      "number": "75",
+      "name": "Treecko",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "attacks": [
+        {
+          "name": "Poison Breath",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-76",
+      "itemType": "Pokemon Card",
+      "number": "76",
+      "name": "Treecko",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Tail Slap",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Razor Leaf",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-77",
+      "itemType": "Pokemon Card",
+      "number": "77",
+      "name": "Wingull",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "attacks": [
+        {
+          "name": "Surprise Attack",
+          "damage": "20",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-78",
+      "itemType": "Pokemon Card",
+      "number": "78",
+      "name": "Wurmple",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Hajime Kusajima",
+      "attacks": [
+        {
+          "name": "Signs of Evolution",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for Silcoon and Beautifly, or Cascoon and Dustox cards. Show 1 card or both cards of a pair to your opponent and put them into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Poison Barb",
+          "cost": [
+            "Grass"
+          ],
+          "text": "The Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-79",
+      "itemType": "Pokemon Card",
+      "number": "79",
+      "name": "Zigzagoon",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "attacks": [
+        {
+          "name": "Fury Swipes",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-80",
+      "itemType": "Trainer Card",
+      "number": "80",
+      "name": "Energy Removal 2",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Keiji Kinebuchi",
+      "text": "Flip a coin. If heads, choose 1 Energy card attached to 1 of your opponent's Pokémon and discard it."
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-81",
+      "itemType": "Trainer Card",
+      "number": "81",
+      "name": "Energy Restore",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hideyuki Nakajima",
+      "text": "Flip 3 coins. For each heads, put a Basic Energy card from your discard pile into your hand. If you don't have that many basic Energy cards in your discard pile, put all of them into your hand."
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-82",
+      "itemType": "Trainer Card",
+      "number": "82",
+      "name": "Energy Switch",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Ikuji",
+      "text": "Move a basic Energy card attached to 1 of your Pokémon to another of your Pokémon."
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-83",
+      "itemType": "Trainer Card",
+      "number": "83",
+      "name": "Lady Outing",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Search your deck for up to 3 different types of basic Energy cards, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-84",
+      "itemType": "Trainer Card",
+      "number": "84",
+      "name": "Lum Berry",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kazuo Yazawa",
+      "text": "Attach Lum Berry to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it. If that Pokémon is Knocked Out, discard this card.,At any time between turns, if the Pokémon this card is attached to is affected by any Special Conditions, remove all of them. Then discard Lum Berry."
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-85",
+      "itemType": "Trainer Card",
+      "number": "85",
+      "name": "Oran Berry",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kazuo Yazawa",
+      "text": "Attach Oran Berry to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it. If that Pokémon is Knocked Out, discard this card.,At any time between turns, if the Pokémon this card is attached to has at least 2 damage counters on it, remove 2 damage counters from it. Then discard Oran Berry."
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-86",
+      "itemType": "Trainer Card",
+      "number": "86",
+      "name": "Poké Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "K. Hoshiba",
+      "text": "Flip a coin. If heads, search your deck for a Basic Pokémon or Evolution card, show it to your opponent and put it into your hand. Shuffle your deck afterward."
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-87",
+      "itemType": "Trainer Card",
+      "number": "87",
+      "name": "Pokémon Reversal",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hiromichi Sugiyama",
+      "text": "Flip a coin. If heads, your opponent switches 1 of his or her Active Pokémon with 1 of his or her Benched Pokémon."
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-88",
+      "itemType": "Trainer Card",
+      "number": "88",
+      "name": "PokéNav",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Katsura Tabata",
+      "text": "Look at the top 3 cards of your deck, and choose a Basic Pokémon, Evolution card, or Energy card. Show it to your opponent and put it into your hand. Put the 2 other cards back on top of your deck in any order."
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-89",
+      "itemType": "Trainer Card",
+      "number": "89",
+      "name": "Professor Birch",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Draw cards from your deck until you have 6 cards in your hand."
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-90",
+      "itemType": "Trainer Card",
+      "number": "90",
+      "name": "Energy Search",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "artist": "Kai Ishikawa",
+      "text": "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-91",
+      "itemType": "Trainer Card",
+      "number": "91",
+      "name": "Potion",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "artist": "Keiji Kinebuchi",
+      "text": "Remove 2 damage counters from 1 of your Pokémon (remove 1 damage counter if that Pokémon has only 1)."
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-92",
+      "itemType": "Trainer Card",
+      "number": "92",
+      "name": "Switch",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "artist": "Hiromichi Sugiyama",
+      "text": "Switch 1 of your Active Pokémon with 1 of your Benched Pokémon."
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-93",
+      "itemType": "Energy Card",
+      "number": "93",
+      "name": "Darkness Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Rare",
+      "artist": "Milky Isobe",
+      "text": "If the Pokémon Darkness Energy is attached to attacks, the attack does 10 more damage to the Active Pokémon (before applying Weakness and Resistance). Ignore this effect unless the Attacking Pokémon is Darkness or has Dark in its name. Darkness Energy provides Darkness Energy. (Doesn't count as a basic Energy card.)"
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-94",
+      "itemType": "Energy Card",
+      "number": "94",
+      "name": "Metal Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Rare",
+      "artist": "Milky Isobe",
+      "text": "Damage done by attacks to the Pokémon that Metal Energy is attached to is reduced by 10 (after applying Weakness and Resistance). Ignore this effect if the Pokémon that Metal Energy is attached to isn't Metal. Metal Energy provides Metal Energy. (Doesn't count as a basic Energy card.)"
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-95",
+      "itemType": "Energy Card",
+      "number": "95",
+      "name": "Rainbow Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Rare",
+      "artist": "Takumi Akabane",
+      "text": "Attach Rainbow Energy to 1 of your Pokémon. While in play, Rainbow Energy provides every type of Energy but provides only 1 Energy at a time. (Doesn't count as a basic Energy card when not in play.) When you attach this card from your hand to 1 of your Pokémon, put 1 damage counter on that Pokémon."
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-96",
+      "itemType": "Pokemon Card",
+      "number": "96",
+      "name": "Chansey ex",
+      "stage": "Basic",
+      "hp": "120",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ryo Ueda",
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Healing Egg",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Remove 2 damage counters (1 if there is only 1) from each of your Pokémon. Remove no damage counters from Chansey ex."
+        },
+        {
+          "name": "Double-edge",
+          "damage": "80",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Chansey ex does 60 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-97",
+      "itemType": "Pokemon Card",
+      "number": "97",
+      "name": "Electabuzz ex",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Hikaru Koike",
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Thundershock",
+          "damage": "10",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Quick Attack",
+          "damage": "40+",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 40 damage plus 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-98",
+      "itemType": "Pokemon Card",
+      "number": "98",
+      "name": "Hitmonchan ex",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Hiromichi Sugiyama",
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Steady Punch",
+          "damage": "10+",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage."
+        },
+        {
+          "name": "Sky Uppercut",
+          "damage": "50",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "This attack's damage is not affected by Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-99",
+      "itemType": "Pokemon Card",
+      "number": "99",
+      "name": "Lapras ex",
+      "stage": "Basic",
+      "hp": "110",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Hikaru Koike",
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Energy Ball",
+          "damage": "10+",
+          "cost": [
+            "Water"
+          ],
+          "text": "Does 10 damage plus 10 more damage for each Energy attached to Lapras ex but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+        },
+        {
+          "name": "Confuse Ray",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-100",
+      "itemType": "Pokemon Card",
+      "number": "100",
+      "name": "Magmar ex",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Hikaru Koike",
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Smokescreen",
+          "damage": "10",
+          "cost": [
+            "Fire"
+          ],
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        },
+        {
+          "name": "Super Singe",
+          "damage": "40",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Burned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-101",
+      "itemType": "Pokemon Card",
+      "number": "101",
+      "name": "Mewtwo ex",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Katsura Tabata",
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Energy Absorption",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Attach up to 2 Energy cards from your discard pile to Mewtwo ex."
+        },
+        {
+          "name": "Psyburn",
+          "damage": "60",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-102",
+      "itemType": "Pokemon Card",
+      "number": "102",
+      "name": "Scyther ex",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ryo Ueda",
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Agility",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, prevent all effects of an attack, including damage, done to Scyther ex during your opponent's next turn."
+        },
+        {
+          "name": "Slash",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-103",
+      "itemType": "Pokemon Card",
+      "number": "103",
+      "name": "Sneasel ex",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ryo Ueda",
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Double Scratch",
+          "damage": "10×",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "name": "Beat Up",
+          "damage": "20×",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Flip a coin for each of your Pokémon in play (including Sneasel ex). This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-104",
+      "itemType": "Energy Card",
+      "number": "104",
+      "name": "Grass Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Common"
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-105",
+      "itemType": "Energy Card",
+      "number": "105",
+      "name": "Fighting Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Common"
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-106",
+      "itemType": "Energy Card",
+      "number": "106",
+      "name": "Water Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Common"
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-107",
+      "itemType": "Energy Card",
+      "number": "107",
+      "name": "Psychic Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Common"
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-108",
+      "itemType": "Energy Card",
+      "number": "108",
+      "name": "Fire Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Common"
+    },
+    {
+      "id": "tcg-pokemon-ruby-sapphire-109",
+      "itemType": "Energy Card",
+      "number": "109",
+      "name": "Lightning Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Common"
+    }
+  ]
+}
