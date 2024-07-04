@@ -1,45 +1,35 @@
 {
   "setId": "tcg-pokemon-team-rocket",
+  "setVariants": [
+    {
+      "id": "first-edition",
+      "name": "First Edition",
+      "description": "The first print run of the set. The cards have the 'Edition 1' symbol.",
+      "type": "print-run"
+    },
+    {
+      "id": "unlimited",
+      "name": "Unlimited",
+      "description": "The unlimited print of the set.",
+      "type": "print-run"
+    }
+  ],
   "cardCount": "83",
   "sealedProducts": [
     {
       "id": "tcg-pokemon-team-rocket-booster-box",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Gyarados",
-          "Jessie and James",
-          "Giovanni",
-          "All Three"
-        ]
-      },
       "itemType": "Sealed Product",
-      "name": "Team-rocket Booster Box"
+      "name": "Team Rocket Booster Box"
     },
     {
       "id": "tcg-pokemon-team-rocket-booster-pack",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Sealed Product",
-      "name": "Team-rocket Booster Pack"
+      "name": "Team Rocket Booster Pack"
     }
   ],
   "cards": [
     {
       "id": "tcg-pokemon-team-rocket-1",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "1",
       "name": "Dark Alakazam",
@@ -89,12 +79,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-2",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "2",
       "name": "Dark Arbok",
@@ -141,12 +125,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-3",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "3",
       "name": "Dark Blastoise",
@@ -194,12 +172,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-4",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "4",
       "name": "Dark Charizard",
@@ -251,15 +223,14 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-5",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "errors": [
-          "Missing Holofoil"
-        ]
-      },
+      "variants": [
+        {
+          "id": "missing-holo-error",
+          "name": "Missing Holo Error",
+          "description": "The card is missing the holofoil on the art.",
+          "type": "error"
+        }
+      ],
       "itemType": "Pokemon Card",
       "number": "5",
       "name": "Dark Dragonite",
@@ -306,12 +277,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-6",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "6",
       "name": "Dark Dugtrio",
@@ -362,12 +327,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-7",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "7",
       "name": "Dark Golbat",
@@ -413,15 +372,14 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-8",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Pokémon League Prerelease promo"
-        ]
-      },
+      "variants": [
+        {
+          "id": "prerelease-promo",
+          "name": "Pokemon League Prerelease Promo",
+          "description": "The card has 'PRERELEASE' stamped on the art.",
+          "type":"art"
+        }
+      ],
       "itemType": "Pokemon Card",
       "number": "8",
       "name": "Dark Gyarados",
@@ -473,12 +431,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-9",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "9",
       "name": "Dark Hypno",
@@ -524,12 +476,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-10",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "10",
       "name": "Dark Machamp",
@@ -577,12 +523,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-11",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "11",
       "name": "Dark Magneton",
@@ -629,12 +569,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-12",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "12",
       "name": "Dark Slowbro",
@@ -679,12 +613,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-13",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "13",
       "name": "Dark Vileplume",
@@ -730,12 +658,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-14",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "14",
       "name": "Dark Weezing",
@@ -782,12 +704,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-15",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "15",
       "name": "Here Comes Team Rocket!",
@@ -800,12 +716,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-16",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "16",
       "name": "Rocket's Sneak Attack",
@@ -818,12 +728,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-17",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Energy Card",
       "number": "17",
       "name": "Rainbow Energy",
@@ -836,12 +740,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-18",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "18",
       "name": "Dark Alakazam",
@@ -891,15 +789,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-19",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Hong Kong Pokémon League W Promo"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "19",
       "name": "Dark Arbok",
@@ -946,12 +835,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-20",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "20",
       "name": "Dark Blastoise",
@@ -999,12 +882,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-21",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "21",
       "name": "Dark Charizard",
@@ -1056,12 +933,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-22",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "22",
       "name": "Dark Dragonite",
@@ -1108,12 +979,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-23",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "23",
       "name": "Dark Dugtrio",
@@ -1164,12 +1029,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-24",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "24",
       "name": "Dark Golbat",
@@ -1215,12 +1074,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-25",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "25",
       "name": "Dark Gyarados",
@@ -1272,12 +1125,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-26",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "26",
       "name": "Dark Hypno",
@@ -1323,12 +1170,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-27",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "27",
       "name": "Dark Machamp",
@@ -1376,12 +1217,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-28",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "28",
       "name": "Dark Magneton",
@@ -1428,12 +1263,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-29",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "29",
       "name": "Dark Slowbro",
@@ -1478,12 +1307,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-30",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "30",
       "name": "Dark Vileplume",
@@ -1529,12 +1352,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-31",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "31",
       "name": "Dark Weezing",
@@ -1581,15 +1398,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-32",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Kraft Giveaway W Promo (Australia)"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "32",
       "name": "Dark Charmeleon",
@@ -1636,12 +1444,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-33",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "33",
       "name": "Dark Dragonair",
@@ -1687,12 +1489,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-34",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "34",
       "name": "Dark Electrode",
@@ -1736,12 +1532,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-35",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "35",
       "name": "Dark Flareon",
@@ -1786,12 +1576,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-36",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "36",
       "name": "Dark Gloom",
@@ -1836,12 +1620,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-37",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "37",
       "name": "Dark Golduck",
@@ -1886,12 +1664,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-38",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "38",
       "name": "Dark Jolteon",
@@ -1937,12 +1709,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-39",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "39",
       "name": "Dark Kadabra",
@@ -1987,12 +1753,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-40",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "40",
       "name": "Dark Machoke",
@@ -2041,12 +1801,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-41",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "41",
       "name": "Dark Muk",
@@ -2091,12 +1845,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-42",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "42",
       "name": "Dark Persian",
@@ -2143,12 +1891,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-43",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "43",
       "name": "Dark Primeape",
@@ -2192,12 +1934,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-44",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "44",
       "name": "Dark Rapidash",
@@ -2239,12 +1975,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-45",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "45",
       "name": "Dark Vaporeon",
@@ -2291,12 +2021,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-46",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "46",
       "name": "Dark Wartortle",
@@ -2340,12 +2064,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-47",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "47",
       "name": "Magikarp",
@@ -2388,12 +2106,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-48",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "48",
       "name": "Porygon",
@@ -2440,12 +2152,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-49",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "49",
       "name": "Abra",
@@ -2487,12 +2193,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-50",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "50",
       "name": "Charmander",
@@ -2533,12 +2233,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-51",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "51",
       "name": "Dark Raticate",
@@ -2590,12 +2284,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-52",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "52",
       "name": "Diglett",
@@ -2640,12 +2328,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-53",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "53",
       "name": "Dratini",
@@ -2681,12 +2363,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-54",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "54",
       "name": "Drowzee",
@@ -2729,12 +2405,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-55",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "55",
       "name": "Eevee",
@@ -2783,12 +2453,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-56",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "56",
       "name": "Ekans",
@@ -2831,12 +2495,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-57",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "57",
       "name": "Grimer",
@@ -2879,12 +2537,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-58",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "58",
       "name": "Koffing",
@@ -2927,12 +2579,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-59",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "59",
       "name": "Machop",
@@ -2976,12 +2622,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-60",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "60",
       "name": "Magnemite",
@@ -3025,12 +2665,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-61",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "61",
       "name": "Mankey",
@@ -3070,12 +2704,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-62",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "62",
       "name": "Meowth",
@@ -3116,12 +2744,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-63",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "63",
       "name": "Oddish",
@@ -3162,12 +2784,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-64",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "64",
       "name": "Ponyta",
@@ -3203,12 +2819,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-65",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "65",
       "name": "Psyduck",
@@ -3251,12 +2861,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-66",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "66",
       "name": "Rattata",
@@ -3301,12 +2905,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-67",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "67",
       "name": "Slowpoke",
@@ -3347,12 +2945,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-68",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "68",
       "name": "Squirtle",
@@ -3387,12 +2979,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-69",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "69",
       "name": "Voltorb",
@@ -3426,12 +3012,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-70",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "70",
       "name": "Zubat",
@@ -3476,12 +3056,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-71",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "71",
       "name": "Here Comes Team Rocket!",
@@ -3494,12 +3068,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-72",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "72",
       "name": "Rocket's Sneak Attack",
@@ -3512,12 +3080,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-73",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "73",
       "name": "The Boss's Way",
@@ -3530,12 +3092,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-74",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "74",
       "name": "Challenge!",
@@ -3548,12 +3104,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-75",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "75",
       "name": "Digger",
@@ -3566,12 +3116,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-76",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "76",
       "name": "Imposter Oak's Revenge",
@@ -3584,12 +3128,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-77",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "77",
       "name": "Nightly Garbage Run",
@@ -3602,12 +3140,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-78",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "78",
       "name": "Goop Gas Attack",
@@ -3620,12 +3152,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-79",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "79",
       "name": "Sleep!",
@@ -3638,12 +3164,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-80",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Energy Card",
       "number": "80",
       "name": "Rainbow Energy",
@@ -3656,12 +3176,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-81",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Energy Card",
       "number": "81",
       "name": "Full Heal Energy",
@@ -3674,12 +3188,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-82",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Energy Card",
       "number": "82",
       "name": "Potion Energy",
@@ -3692,12 +3200,6 @@
     },
     {
       "id": "tcg-pokemon-team-rocket-83",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "83",
       "name": "Dark Raichu",
