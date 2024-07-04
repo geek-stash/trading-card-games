@@ -1,5 +1,33 @@
 {
   "setId": "tcg-pokemon-expedition",
+  "setVariants": [
+    {
+      "id": "reverse-holo",
+      "name": "Reverse Holo",
+      "description": "The reverse holo print of the set.",
+      "type": "art",
+      "exclusions": [
+        "tcg-pokemon-expedition-booster-box",
+        "tcg-pokemon-expedition-booster-pack"
+      ]
+    },
+    {
+      "id": "unlimited",
+      "name": "Unlimited",
+      "description": "The unlimited print of the set.",
+      "type": "print-run"
+    },
+    {
+      "id": "e3-japanese-back",
+      "name": "E3 Japanese Back Promo",
+      "description": "The card is from the 2002 E3 convention.",
+      "type": "art",
+      "inclusions": [
+        "tcg-pokemon-expedition-58",
+        "tcg-pokemon-expedition-112"
+      ]
+    }
+  ],
   "cardCount": "165",
   "sealedProducts": [
     {
@@ -9,14 +37,6 @@
     },
     {
       "id": "tcg-pokemon-expedition-booster-pack",
-      "variantTypes": {
-        "art": [
-          "Venusaur",
-          "Charizard",
-          "Blastoise",
-          "Feraligatr"
-        ]
-      },
       "itemType": "Sealed Product",
       "name": "Expedition Booster Pack"
     }
@@ -2463,11 +2483,6 @@
     },
     {
       "id": "tcg-pokemon-expedition-58",
-      "variantTypes": {
-        "art": [
-          "E3 Convention 2002 (Japanese Back)"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "58",
       "name": "Pichu",
@@ -4680,11 +4695,6 @@
     },
     {
       "id": "tcg-pokemon-expedition-112",
-      "variantTypes": {
-        "art": [
-          "E3 Convention 2002 (Japanese Back)"
-        ] 
-      },
       "itemType": "Pokemon Card",
       "number": "112",
       "name": "Hoppip",
