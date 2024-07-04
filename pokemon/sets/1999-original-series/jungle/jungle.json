@@ -1,31 +1,28 @@
 {
   "setId": "tcg-pokemon-jungle",
   "cardCount": "64",
+  "setVariants": [
+    {
+      "id": "first-edition",
+      "name": "First Edition",
+      "description": "The first print run of the set. The cards have the 'Edition 1' symbol.",
+      "type": "print-run"
+    },
+    {
+      "id": "unlimited",
+      "name": "Unlimited",
+      "description": "The unlimited print of the set.",
+      "type": "print-run"
+    }
+  ],
   "sealedProducts": [
     {
       "id": "tcg-pokemon-jungle-booster-box",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Sealed Product",
       "name": "Jungle Booster Box"
     },
     {
       "id": "tcg-pokemon-jungle-booster-pack",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Flareon",
-          "Scyther",
-          "Wigglytuff"
-        ]
-      },
       "itemType": "Sealed Product",
       "name": "Jungle Booster Pack"
     }
@@ -33,15 +30,14 @@
   "cards": [
     {
       "id": "tcg-pokemon-jungle-1",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Pokemon League Prerelease promo"
-        ]
-      },
+      "variants": [
+        {
+          "id": "prerelease-promo",
+          "name": "Pokemon League Prerelease Promo",
+          "description": "The card has 'PRERELEASE' stamped on the art.",
+          "type":"art"
+        }
+      ],
       "itemType": "Pokemon Card",
       "number": "1",
       "name": "Clefable",
@@ -91,12 +87,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-2",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "2",
       "name": "Electrode",
@@ -142,12 +132,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-3",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "3",
       "name": "Flareon",
@@ -195,12 +179,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-4",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "4",
       "name": "Jolteon",
@@ -247,12 +225,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-5",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "5",
       "name": "Kangaskhan",
@@ -305,12 +277,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-6",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "6",
       "name": "Mr. Mime",
@@ -353,12 +319,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-7",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "7",
       "name": "Nidoqueen",
@@ -407,12 +367,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-8",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "8",
       "name": "Pidgeot",
@@ -461,12 +415,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-9",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "9",
       "name": "Pinsir",
@@ -512,12 +460,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-10",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "10",
       "name": "Scyther",
@@ -563,12 +505,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-11",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "11",
       "name": "Snorlax",
@@ -622,12 +558,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-12",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "12",
       "name": "Vaporeon",
@@ -674,12 +604,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-13",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "13",
       "name": "Venomoth",
@@ -726,12 +650,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-14",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "14",
       "name": "Victreebel",
@@ -776,12 +694,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-15",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "15",
       "name": "Vileplume",
@@ -827,12 +739,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-16",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "16",
       "name": "Wigglytuff",
@@ -884,12 +790,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-17",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "17",
       "name": "Clefable",
@@ -939,12 +839,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-18",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "18",
       "name": "Electrode",
@@ -990,12 +884,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-19",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "19",
       "name": "Flareon",
@@ -1043,12 +931,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-20",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "20",
       "name": "Jolteon",
@@ -1095,12 +977,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-21",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "21",
       "name": "Kangaskhan",
@@ -1153,12 +1029,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-22",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "22",
       "name": "Mr. Mime",
@@ -1201,12 +1071,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-23",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "23",
       "name": "Nidoqueen",
@@ -1255,12 +1119,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-24",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "24",
       "name": "Pidgeot",
@@ -1309,12 +1167,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-25",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "25",
       "name": "Pinsir",
@@ -1360,12 +1212,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-26",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "26",
       "name": "Scyther",
@@ -1411,12 +1257,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-27",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "27",
       "name": "Snorlax",
@@ -1470,12 +1310,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-28",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "28",
       "name": "Vaporeon",
@@ -1522,12 +1356,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-29",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "29",
       "name": "Venomoth",
@@ -1574,12 +1402,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-30",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "30",
       "name": "Victreebel",
@@ -1624,12 +1446,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-31",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "31",
       "name": "Vileplume",
@@ -1675,12 +1491,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-32",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "32",
       "name": "Wigglytuff",
@@ -1732,15 +1542,14 @@
     },
     {
       "id": "tcg-pokemon-jungle-33",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "errors": [
-          "1st Edition - \"Edition d\""
-        ]
-      },
+      "variants": [
+        {
+          "id": "d-error",
+          "name": "D Error",
+          "description": "The '1' in the card's 'Edition 1' symbol looks like a 'd'.",
+          "type":"error"
+        }
+      ],
       "itemType": "Pokemon Card",
       "number": "33",
       "name": "Butterfree",
@@ -1791,12 +1600,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-34",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "34",
       "name": "Dodrio",
@@ -1844,12 +1647,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-35",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "35",
       "name": "Exeggutor",
@@ -1894,12 +1691,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-36",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "36",
       "name": "Fearow",
@@ -1950,12 +1741,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-37",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "37",
       "name": "Gloom",
@@ -1999,12 +1784,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-38",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "38",
       "name": "Lickitung",
@@ -2055,12 +1834,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-39",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "39",
       "name": "Marowak",
@@ -2112,12 +1885,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-40",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "40",
       "name": "Nidorina",
@@ -2162,12 +1929,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-41",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "41",
       "name": "Parasect",
@@ -2212,15 +1973,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-42",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Gold border Pokémon Rolls exclusive"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "42",
       "name": "Persian",
@@ -2269,12 +2021,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-43",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "43",
       "name": "Primeape",
@@ -2321,12 +2067,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-44",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "44",
       "name": "Rapidash",
@@ -2370,12 +2110,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-45",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "45",
       "name": "Rhydon",
@@ -2431,12 +2165,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-46",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "46",
       "name": "Seaking",
@@ -2479,12 +2207,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-47",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "47",
       "name": "Tauros",
@@ -2537,12 +2259,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-48",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "48",
       "name": "Weepinbell",
@@ -2586,12 +2302,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-49",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "49",
       "name": "Bellsprout",
@@ -2632,12 +2342,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-50",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "50",
       "name": "Cubone",
@@ -2686,12 +2390,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-51",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "51",
       "name": "Eevee",
@@ -2740,12 +2438,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-52",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "52",
       "name": "Exeggcute",
@@ -2788,12 +2480,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-53",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "53",
       "name": "Goldeen",
@@ -2824,12 +2510,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-54",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "54",
       "name": "Jigglypuff",
@@ -2877,12 +2557,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-55",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "55",
       "name": "Mankey",
@@ -2920,12 +2594,14 @@
     },
     {
       "id": "tcg-pokemon-jungle-56",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
+      "variants": [
+        {
+          "id": "gold-border",
+          "name": "Fruit Roll Up Promo (Gold Border)",
+          "description": "The card has a gold border.",
+          "type":"art"
+        }
+      ],
       "itemType": "Pokemon Card",
       "number": "56",
       "name": "Meowth",
@@ -2967,12 +2643,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-57",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "57",
       "name": "Nidoran ♀",
@@ -3015,12 +2685,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-58",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "58",
       "name": "Oddish",
@@ -3063,12 +2727,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-59",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "59",
       "name": "Paras",
@@ -3111,15 +2769,14 @@
     },
     {
       "id": "tcg-pokemon-jungle-60",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Duelist Magazine W Promo"
-        ]
-      },
+      "variants": [
+        {
+          "id": "w-promo",
+          "name": "W Promo",
+          "description": "The card has a 'W' stamp on the artwork.",
+          "type": "art"      
+        }
+      ],
       "itemType": "Pokemon Card",
       "number": "60",
       "name": "Pikachu",
@@ -3155,12 +2812,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-61",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "61",
       "name": "Rhyhorn",
@@ -3211,12 +2862,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-62",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "62",
       "name": "Spearow",
@@ -3262,15 +2907,14 @@
     },
     {
       "id": "tcg-pokemon-jungle-63",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "errors": [
-          "Dark line on top left where background meets border"
-        ]
-      },
+      "variants": [
+        {
+          "id": "line-error",
+          "name": "Line Print Error",
+          "description": "The card has a dark print line on the border.",
+          "type": "error"      
+        }
+      ],
       "itemType": "Pokemon Card",
       "number": "63",
       "name": "Venonat",
@@ -3314,12 +2958,6 @@
     },
     {
       "id": "tcg-pokemon-jungle-64",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "64",
       "name": "Poké Ball",
