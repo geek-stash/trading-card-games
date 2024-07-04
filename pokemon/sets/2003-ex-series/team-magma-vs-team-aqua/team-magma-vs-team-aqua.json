@@ -1,0 +1,3631 @@
+{
+  "setId": "tcg-pokemon-team-magma-vs-team-aqua",
+  "setVariants": [
+    {
+      "id": "reverse-holo",
+      "name": "Reverse Holo",
+      "description": "The reverse holo print of the set.",
+      "type": "art",
+      "exclusions": [
+        "tcg-pokemon-team-magma-vs-team-aqua-booster-box",
+        "tcg-pokemon-team-magma-vs-team-aqua-booster-pack"
+      ]
+    },
+    {
+      "id": "unlimited",
+      "name": "Unlimited",
+      "description": "The unlimited print of the set.",
+      "type": "print-run"
+    }
+  ],
+  "cardCount": "97",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-booster-box",
+      "itemType": "Sealed Product",
+      "name": "Team Magma vs Team Aqua Booster Box"
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-booster-pack",
+      "itemType": "Sealed Product",
+      "name": "Team Magma vs Team Aqua Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Team Aqua's Cacturne",
+      "stage": "Stage 1",
+      "evolvesFrom": "Team Aqua's Cacnea",
+      "hp": "80",
+      "types": [
+        "Grass",
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "K. Utsunomiya",
+      "text": "This Pokémon is both Grass Darkness type.",
+      "attacks": [
+        {
+          "name": "Dark Bind",
+          "damage": "10",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "You may discard a Darkness Energy card attached to Team Aqua's Cacturne. If you do, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Poison Barb",
+          "damage": "40",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Team Aqua's Crawdaunt",
+      "stage": "Stage 1",
+      "evolvesFrom": "Team Aqua's Corphish",
+      "hp": "80",
+      "types": [
+        "Water",
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Nakaoka",
+      "text": "This Pokémon is both Water Darkness type.",
+      "attacks": [
+        {
+          "name": "Aqua Reverse",
+          "damage": "20",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Before doing damage, you may choose 1 of your opponent's Benched Pokémon that has Team Magma in its name and switch it with 1 of the Defending Pokémon. Your opponent chooses the Defending Pokémon to switch."
+        },
+        {
+          "name": "Deep Impact",
+          "damage": "40",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon already has any damage counters on it, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-3",
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Team Aqua's Kyogre",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Water",
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "K. Hoshiba",
+      "abilities": [
+        {
+          "name": "Power Saver",
+          "text": "As long as the number of Pokémon in play (both yours and your opponent's) that has Team Aqua in its name is 3 or less, Team Aqua's Kyogre can't attack.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "This Pokémon is both Water Darkness type.",
+      "attacks": [
+        {
+          "name": "Aqua Trip",
+          "damage": "10",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused. If tails, the Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Aqua Smash",
+          "damage": "50+",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is affected by a Special Condition, this attack does 50 damage plus 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-4",
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Team Aqua's Manectric",
+      "stage": "Stage 1",
+      "evolvesFrom": "Team Aqua's Electrike",
+      "hp": "70",
+      "types": [
+        "Lightning",
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "K. Utsunomiya",
+      "abilities": [
+        {
+          "name": "Power Shift",
+          "text": "Once during your turn (before your attack), you may move any number of basic Energy cards attached to 1 of your Pokémon with Team Aqua in its name to another of your Pokémon. This power can't be used if Team Aqua's Manectric is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "This Pokémon is both Lightning Darkness type.",
+      "attacks": [
+        {
+          "name": "Thunderspark",
+          "damage": "50",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 10 damage to each Benched Pokémon (both yours and your opponent's) that has Energy cards attached to it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Team Aqua's Sharpedo",
+      "stage": "Stage 1",
+      "evolvesFrom": "Team Aqua's Carvanha",
+      "hp": "70",
+      "types": [
+        "Water",
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Katsura Tabata",
+      "text": "This Pokémon is both Water Darkness type.",
+      "attacks": [
+        {
+          "name": "Rage",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 10 damage plus 10 more damage for each damage counter on Team Aqua's Sharpedo."
+        },
+        {
+          "name": "Aqua Slash",
+          "damage": "60",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Team Aqua's Sharpedo can't attack during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-6",
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Team Aqua's Walrein",
+      "stage": "Stage 2",
+      "evolvesFrom": "Team Aqua's Sealeo",
+      "hp": "120",
+      "types": [
+        "Water",
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Ikuji",
+      "text": "This Pokémon is both Water Darkness type.",
+      "attacks": [
+        {
+          "name": "Power Blow",
+          "damage": "10+",
+          "cost": [
+            "Water"
+          ],
+          "text": "Does 10 damage plus 10 more damage for each Energy attached to Team Aqua's Walrein."
+        },
+        {
+          "name": "Hydro Reverse",
+          "damage": "50+",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may return any number of basic Water Energy cards attached to all of your Pokémon to your hand. If you do, this attack does 50 damage plus 10 more damage for each Energy you returned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        },
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-7",
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Team Magma's Aggron",
+      "stage": "Stage 2",
+      "evolvesFrom": "Team Magma's Lairon",
+      "hp": "120",
+      "types": [
+        "Fighting",
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Hiromichi Sugiyama",
+      "text": "This Pokémon is both Fighting Darkness type.",
+      "attacks": [
+        {
+          "name": "Crush",
+          "damage": "30×",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Flip a coin for each Energy attached to Team Magma's Aggron. This attack does 30 damage times the number of heads."
+        },
+        {
+          "name": "Land Stream",
+          "damage": "50+",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may discard any number of basic Energy cards attached to Team Magma's Aggron. If you do, this attack does 50 damage plus 20 more damage for each basic Energy card you discarded."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        },
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-8",
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "Team Magma's Claydol",
+      "stage": "Stage 1",
+      "evolvesFrom": "Team Magma's Baltoy",
+      "hp": "80",
+      "types": [
+        "Psychic",
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Zu-Ka",
+      "abilities": [
+        {
+          "name": "Magma Switch",
+          "text": "Once during your turn (before your attack), you may move an Energy card attached to your Pokémon with Team Magma in its name to another of your Pokémon. This power can't be used if Team Magma's Claydol is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "This Pokémon is both Psychic Darkness type.",
+      "attacks": [
+        {
+          "name": "Dark Hand",
+          "damage": "40+",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If you have more cards in your hand than your opponent, this attack does 40 damage plus 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-9",
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Team Magma's Groudon",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Fighting",
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kazuo Yazawa",
+      "abilities": [
+        {
+          "name": "Power Saver",
+          "text": "As long as the number of Pokémon in play (both yours and your opponent's) that has Team Magma in its name is 3 or less, Team Magma's Groudon can't attack.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "This Pokémon is both Fighting Darkness type.",
+      "attacks": [
+        {
+          "name": "Linear Attack",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Pulverize",
+          "damage": "50+",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon already has at least 2 damage counters on it, this attack does 50 damage plus 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Team Magma's Houndoom",
+      "stage": "Stage 1",
+      "evolvesFrom": "Team Magma's Houndour",
+      "hp": "70",
+      "types": [
+        "Fire",
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Ikuji",
+      "text": "This Pokémon is both Fire Darkness type.",
+      "attacks": [
+        {
+          "name": "Roasting Heat",
+          "damage": "30+",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is Burned, this attack does 30 damage plus 20 more damage."
+        },
+        {
+          "name": "Magma Spurt",
+          "damage": "30×",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard the top 5 cards from your deck. This attack does 30 damage times the number of Fire and Fighting basic Energy cards discarded in this way."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Team Magma's Rhydon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Team Magma's Rhyhorn",
+      "hp": "90",
+      "types": [
+        "Fighting",
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "T. Honda",
+      "text": "This Pokémon is both Fighting Darkness type.",
+      "attacks": [
+        {
+          "name": "Magma Jab",
+          "damage": "20",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "This attack's damage is not affected by Resistance."
+        },
+        {
+          "name": "Shoot Down",
+          "damage": "50",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon has Team Aqua in its name, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Team Magma's Torkoal",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fire",
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "K. Hoshiba",
+      "text": "This Pokémon is both Fire Darkness type.",
+      "attacks": [
+        {
+          "name": "Magma Burn",
+          "damage": "10",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Discard the top card from your opponent's deck, and flip a coin. If tails, discard a Fire Energy attached to Team Magma's Torkoal."
+        },
+        {
+          "name": "Hot Air",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Discard a Fire Energy attached to Team Magma's Torkoal and your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Raichu",
+      "stage": "Stage 1",
+      "evolvesFrom": "Pikachu",
+      "hp": "80",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Spark",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Does 10 damage to 2 of your opponent's Benched Pokémon (1 if there is only 1). (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Kerzap",
+          "damage": "40+",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 40 damage plus 40 more damage to the Defending Pokémon and discard all Lightning Energy cards attached to Raichu."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Team Aqua's Crawdaunt",
+      "stage": "Stage 1",
+      "evolvesFrom": "Team Aqua's Corphish",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Nakaoka",
+      "attacks": [
+        {
+          "name": "Poison Reaction",
+          "damage": "20+",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is Poisoned, this attack does 20 damage plus 20 more damage."
+        },
+        {
+          "name": "Double Claw",
+          "damage": "30+",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 30 damage plus 20 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Team Aqua's Mightyena",
+      "stage": "Stage 1",
+      "evolvesFrom": "Team Aqua's Poochyena",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "Shin-ichi Yoshikawa",
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": "20",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Mystic Fang",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is Pokémon-ex, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-16",
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Team Aqua's Sealeo",
+      "stage": "Stage 1",
+      "evolvesFrom": "Team Aqua's Spheal",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "T. Honda",
+      "attacks": [
+        {
+          "name": "Aqua Trance",
+          "damage": "20",
+          "cost": [
+            "Water"
+          ],
+          "text": "At the end of your opponent's next turn, the Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Super Hypnoblast",
+          "damage": "30+",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is Asleep, this attack does 30 damage plus 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Team Aqua's Seviper",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Jungo Suzuki",
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a Grass Basic Pokémon or Basic Pokémon with Team Aqua in its name and put it onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "name": "Thick Poison",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused and Poisoned. If tails, the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-18",
+      "itemType": "Pokemon Card",
+      "number": "18",
+      "name": "Team Aqua's Sharpedo",
+      "stage": "Stage 1",
+      "evolvesFrom": "Team Aqua's Carvanha",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Katsura Tabata",
+      "attacks": [
+        {
+          "name": "Slow-Acting Poison",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "At the end of your opponent's next turn, the Defending Pokémon is now Poisoned."
+        },
+        {
+          "name": "Aqua Smash",
+          "damage": "50+",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is affected by a Special Condition, this attack does 50 damage plus 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-19",
+      "itemType": "Pokemon Card",
+      "number": "19",
+      "name": "Team Magma's Camerupt",
+      "stage": "Stage 1",
+      "evolvesFrom": "Team Magma's Numel",
+      "hp": "80",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "artist": "Katsura Tabata",
+      "abilities": [
+        {
+          "name": "Overheat",
+          "text": "Once during your turn (before your attack), you may search your discard pile for a basic Energy card and attach it to Team Magma's Camerupt. Put 2 damage counters on Team Mamga's Camerupt. This power can't be used if Team Magma's Camerupt is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Flame Ball",
+          "damage": "50",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may move a Fire Energy card attached to Team Magma's Camerupt to 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-20",
+      "itemType": "Pokemon Card",
+      "number": "20",
+      "name": "Team Magma's Lairon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Team Magma's Aron",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Hiromichi Sugiyama",
+      "attacks": [
+        {
+          "name": "Body Slam",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Tackle",
+          "damage": "50",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-21",
+      "itemType": "Pokemon Card",
+      "number": "21",
+      "name": "Team Magma's Mightyena",
+      "stage": "Stage 1",
+      "evolvesFrom": "Team Magma's Poochyena",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "Shin-ichi Yoshikawa",
+      "attacks": [
+        {
+          "name": "Overrun",
+          "damage": "10",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Choose 1 of your opponent's Benched Pokémon. This attack does 10 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Bite Off",
+          "damage": "40+",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is Pokémon-ex, this attack does 40 damage plus 40 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-22",
+      "itemType": "Pokemon Card",
+      "number": "22",
+      "name": "Team Magma's Rhydon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Team Magma's Rhyhorn",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "T. Honda",
+      "attacks": [
+        {
+          "name": "Second Strike",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon already has at least 2 damage counters on it, this attack does 20 damage plus 20 more damage."
+        },
+        {
+          "name": "Land Crush",
+          "damage": "60",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, discard an Energy card attached to Team Magma's Rhydon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-23",
+      "itemType": "Pokemon Card",
+      "number": "23",
+      "name": "Team Magma's Zangoose",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Zu-Ka",
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a Colorless Basic Pokémon or Basic Pokémon with Team Magma in its name and put it onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "name": "Team Play",
+          "damage": "10×",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 10 damage times the number of Pokémon in play with Team Magma in its name."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-24",
+      "itemType": "Pokemon Card",
+      "number": "24",
+      "name": "Team Aqua's Cacnea",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass",
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "K. Utsunomiya",
+      "text": "This Pokémon is both Grass Darkness type.",
+      "attacks": [
+        {
+          "name": "Paralyzing Gaze",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Pin Missile",
+          "damage": "10×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 4 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-25",
+      "itemType": "Pokemon Card",
+      "number": "25",
+      "name": "Team Aqua's Carvanha",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mt. TBT",
+      "abilities": [
+        {
+          "name": "Dark Lift",
+          "text": "If Team Aqua's Carvanha has any Darkness Energy attached to it, the Retreat Cost for Team Aqua's Carvanha is 0.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Slow-Acting Poison",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "At the end of your opponent's next turn, the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-26",
+      "itemType": "Pokemon Card",
+      "number": "26",
+      "name": "Team Aqua's Corphish",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Jungo Suzuki",
+      "attacks": [
+        {
+          "name": "Double Pinchers",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "name": "Dark Poison",
+          "damage": "20",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Discard a basic Energy card attached to Team Aqua's Corphish or this attack does nothing. The Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-27",
+      "itemType": "Pokemon Card",
+      "number": "27",
+      "name": "Team Aqua's Electrike",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "M. Akiyama",
+      "attacks": [
+        {
+          "name": "Random Spark",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 10 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Plasma",
+          "damage": "10",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, search your discard pile for a Lightning Energy card and attach it to Team Aqua's Electrike."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-28",
+      "itemType": "Pokemon Card",
+      "number": "28",
+      "name": "Team Aqua's Lanturn",
+      "stage": "Stage 1",
+      "evolvesFrom": "Team Aqua's Chinchou",
+      "hp": "80",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Jungo Suzuki",
+      "abilities": [
+        {
+          "name": "Auxiliary Light",
+          "text": "Once during your turn (before your attack), you may attach a basic Energy card from your hand to Team Aqua's Lanturn. Put 2 damage counters on Team Aqua's Lanturn. This power can't be used if Team Aqua's Lanturn is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Lightning Ball",
+          "damage": "50",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-29",
+      "itemType": "Pokemon Card",
+      "number": "29",
+      "name": "Team Aqua's Manectric",
+      "stage": "Stage 1",
+      "evolvesFrom": "Team Aqua's Electrike",
+      "hp": "80",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "K. Utsunomiya",
+      "attacks": [
+        {
+          "name": "Aqua Beam",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon has Team Magma in its name, the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Chaos Crush",
+          "damage": "50",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is Confused, discard an Energy card attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-30",
+      "itemType": "Pokemon Card",
+      "number": "30",
+      "name": "Team Aqua's Mightyena",
+      "stage": "Stage 1",
+      "evolvesFrom": "Team Aqua's Poochyena",
+      "hp": "80",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shin-ichi Yoshikawa",
+      "attacks": [
+        {
+          "name": "Aqua Call",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for Pokémon that has Team Aqua in its name, show up to 3 of them to your opponent, and put them into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Wave Splash",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-31",
+      "itemType": "Pokemon Card",
+      "number": "31",
+      "name": "Team Aqua's Sealeo",
+      "stage": "Stage 1",
+      "evolvesFrom": "Team Aqua's Spheal",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "T. Honda",
+      "attacks": [
+        {
+          "name": "Aurora Beam",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Knock Over",
+          "damage": "40",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "You may discard any Stadium card in play."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-32",
+      "itemType": "Pokemon Card",
+      "number": "32",
+      "name": "Team Magma's Baltoy",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Atsuko Ujiie",
+      "attacks": [
+        {
+          "name": "Psymist",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. For each heads, choose 1 of you opponent's Pokémon and put 1 damage counter on that Pokémon."
+        },
+        {
+          "name": "Pain Amplifier",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Put 1 damage counter on each of your opponent's Pokémon that already has damage counters on it."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-33",
+      "itemType": "Pokemon Card",
+      "number": "33",
+      "name": "Team Magma's Claydol",
+      "stage": "Stage 1",
+      "evolvesFrom": "Team Magma's Baltoy",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Zu-Ka",
+      "attacks": [
+        {
+          "name": "Clay Curse",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Put 2 damage counters on your opponent's Pokémon in any way you like."
+        },
+        {
+          "name": "Clay Pulse",
+          "damage": "50",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Does 10 damage to each of your opponent's Benched Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-34",
+      "itemType": "Pokemon Card",
+      "number": "34",
+      "name": "Team Magma's Houndoom",
+      "stage": "Stage 1",
+      "evolvesFrom": "Team Magma's Houndour",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Ikuji",
+      "attacks": [
+        {
+          "name": "Target Scorch",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon has Team Aqua in its name, the Defending Pokémon is now Burned."
+        },
+        {
+          "name": "Damage Burn",
+          "damage": "40+",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon already has any damage counters on it, this attack does 40 damage plus 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-35",
+      "itemType": "Pokemon Card",
+      "number": "35",
+      "name": "Team Magma's Houndour",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Atsuko Ujiie",
+      "attacks": [
+        {
+          "name": "Singe",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Burned."
+        },
+        {
+          "name": "Dark Shock",
+          "damage": "20",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-36",
+      "itemType": "Pokemon Card",
+      "number": "36",
+      "name": "Team Magma's Lairon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Team Magma's Aron",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hiromichi Sugiyama",
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Land Sonic",
+          "damage": "40",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon already has any damage counters on it, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-37",
+      "itemType": "Pokemon Card",
+      "number": "37",
+      "name": "Team Magma's Mightyena",
+      "stage": "Stage 1",
+      "evolvesFrom": "Team Magma's Poochyena",
+      "hp": "80",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shin-ichi Yoshikawa",
+      "abilities": [
+        {
+          "name": "Call for Help",
+          "text": "Once during your turn (before your attack), if Team Magma's Mightyena is your Active Pokémon, you may search your deck for a Pokémon with Team Magma in its name, show it to your opponent, and put it into your hand. Shuffle your deck afterward. This power can't be used if Team Magma's Mightyena is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Lunge",
+          "damage": "50",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-38",
+      "itemType": "Pokemon Card",
+      "number": "38",
+      "name": "Team Magma's Rhyhorn",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mt. TBT",
+      "attacks": [
+        {
+          "name": "Double Damage",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Does 10 damage to each Defending Pokémon."
+        },
+        {
+          "name": "Horn Rush",
+          "damage": "60",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-39",
+      "itemType": "Pokemon Card",
+      "number": "39",
+      "name": "Bulbasaur",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Growth",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Attach a Grass Energy card from your hand to Bulbasaur."
+        },
+        {
+          "name": "Razor Leaf",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-40",
+      "itemType": "Pokemon Card",
+      "number": "40",
+      "name": "Cubone",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Bone Attack",
+          "damage": "20",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-41",
+      "itemType": "Pokemon Card",
+      "number": "41",
+      "name": "Jigglypuff",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Doubleslap",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "name": "Rest",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Remove all Special Conditions and 3 damage counters from Jigglypuff (all if there are less than 3). Jigglypuff is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-42",
+      "itemType": "Pokemon Card",
+      "number": "42",
+      "name": "Meowth",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Plunder",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Before doing damage, discard all Trainer cards attached to the Defending Pokémon (before they affect the damage)."
+        },
+        {
+          "name": "Scratch",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-43",
+      "itemType": "Pokemon Card",
+      "number": "43",
+      "name": "Pikachu",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Agility",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, prevent all effects of an attack, including damage, done to Pikachu during your opponent's next turn."
+        },
+        {
+          "name": "Thundershock",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-44",
+      "itemType": "Pokemon Card",
+      "number": "44",
+      "name": "Psyduck",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Bubble",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Confuse Ray",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-45",
+      "itemType": "Pokemon Card",
+      "number": "45",
+      "name": "Slowpoke",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Amnesia",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+        },
+        {
+          "name": "Tail Strike",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-46",
+      "itemType": "Pokemon Card",
+      "number": "46",
+      "name": "Squirtle",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Shell Retreat",
+          "text": "As long as Squirtle has any Energy cards attached to it, damage done to Squirtle by an opponent's attack is reduced by 10 (after applying Weakness and Resistance).",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-47",
+      "itemType": "Pokemon Card",
+      "number": "47",
+      "name": "Team Aqua's Carvanha",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Yosuke Da Silva",
+      "attacks": [
+        {
+          "name": "Confuse Ray",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Poison Fang",
+          "damage": "10",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-48",
+      "itemType": "Pokemon Card",
+      "number": "48",
+      "name": "Team Aqua's Carvanha",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Hiromichi Sugiyama",
+      "attacks": [
+        {
+          "name": "Wave Splash",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ]
+        },
+        {
+          "name": "Razor Fin",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-49",
+      "itemType": "Pokemon Card",
+      "number": "49",
+      "name": "Team Aqua's Chinchou",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Kazuo Yazawa",
+      "attacks": [
+        {
+          "name": "Confuse Ray",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Wave Splash",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-50",
+      "itemType": "Pokemon Card",
+      "number": "50",
+      "name": "Team Aqua's Corphish",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Jungo Suzuki",
+      "attacks": [
+        {
+          "name": "Toxic Grip",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-51",
+      "itemType": "Pokemon Card",
+      "number": "51",
+      "name": "Team Aqua's Corphish",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Jungo Suzuki",
+      "attacks": [
+        {
+          "name": "Slash",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ]
+        },
+        {
+          "name": "Slow-Acting Poison",
+          "damage": "10",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "At the end of your opponent's next turn, the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-52",
+      "itemType": "Pokemon Card",
+      "number": "52",
+      "name": "Team Aqua's Electrike",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "M. Akiyama",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Thundershock",
+          "damage": "10",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-53",
+      "itemType": "Pokemon Card",
+      "number": "53",
+      "name": "Team Aqua's Electrike",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "M. Akiyama",
+      "attacks": [
+        {
+          "name": "Self Charge",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Attach an Energy card from your hand to Team Aqua's Electrike."
+        },
+        {
+          "name": "Tackle",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-54",
+      "itemType": "Pokemon Card",
+      "number": "54",
+      "name": "Team Aqua's Poochyena",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Shin-ichi Yoshikawa",
+      "attacks": [
+        {
+          "name": "Double Scratch",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "name": "Tail Slap",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-55",
+      "itemType": "Pokemon Card",
+      "number": "55",
+      "name": "Team Aqua's Poochyena",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Shin-ichi Yoshikawa",
+      "attacks": [
+        {
+          "name": "Roar",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any."
+        },
+        {
+          "name": "Aqua Crush",
+          "damage": "10",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy card attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-56",
+      "itemType": "Pokemon Card",
+      "number": "56",
+      "name": "Team Aqua's Spheal",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Nakaoka",
+      "attacks": [
+        {
+          "name": "Powder Snow",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-57",
+      "itemType": "Pokemon Card",
+      "number": "57",
+      "name": "Team Aqua's Spheal",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Nakaoka",
+      "attacks": [
+        {
+          "name": "Rollout",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ]
+        },
+        {
+          "name": "Aqua Trance",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "At the end of your opponent's next turn, the Defending Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-58",
+      "itemType": "Pokemon Card",
+      "number": "58",
+      "name": "Team Magma's Aron",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Katsura Tabata",
+      "attacks": [
+        {
+          "name": "Mud Slap",
+          "damage": "10",
+          "cost": [
+            "Fighting"
+          ]
+        },
+        {
+          "name": "Tackle",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-59",
+      "itemType": "Pokemon Card",
+      "number": "59",
+      "name": "Team Magma's Aron",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Katsura Tabata",
+      "attacks": [
+        {
+          "name": "Dig Under",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 10 damage to that Pokémon. This attack's damage isn't affected by Weakness or Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-60",
+      "itemType": "Pokemon Card",
+      "number": "60",
+      "name": "Team Magma's Baltoy",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Ujiie",
+      "attacks": [
+        {
+          "name": "Peck",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Double Spin",
+          "damage": "20×",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-61",
+      "itemType": "Pokemon Card",
+      "number": "61",
+      "name": "Team Magma's Baltoy",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Ujiie",
+      "attacks": [
+        {
+          "name": "Night Attack",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Put 1 damage counter on 1 of your opponent's Pokémon."
+        },
+        {
+          "name": "Spinning Attack",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-62",
+      "itemType": "Pokemon Card",
+      "number": "62",
+      "name": "Team Magma's Houndour",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Ujiie",
+      "attacks": [
+        {
+          "name": "Combustion",
+          "damage": "10",
+          "cost": [
+            "Fire"
+          ]
+        },
+        {
+          "name": "Super Singe",
+          "damage": "10",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Burned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-63",
+      "itemType": "Pokemon Card",
+      "number": "63",
+      "name": "Team Magma's Houndour",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Ujiie",
+      "attacks": [
+        {
+          "name": "Kick Away",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any."
+        },
+        {
+          "name": "Steady Firebreathing",
+          "damage": "20",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-64",
+      "itemType": "Pokemon Card",
+      "number": "64",
+      "name": "Team Magma's Numel",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Katsura Tabata",
+      "attacks": [
+        {
+          "name": "Collect",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw a card."
+        },
+        {
+          "name": "Combustion",
+          "damage": "20",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-65",
+      "itemType": "Pokemon Card",
+      "number": "65",
+      "name": "Team Magma's Poochyena",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Shin-ichi Yoshikawa",
+      "attacks": [
+        {
+          "name": "Snarl",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage to the Defending Pokémon. If tails, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-66",
+      "itemType": "Pokemon Card",
+      "number": "66",
+      "name": "Team Magma's Poochyena",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Shin-ichi Yoshikawa",
+      "attacks": [
+        {
+          "name": "Darkness Call",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any."
+        },
+        {
+          "name": "Sharp Fang",
+          "damage": "20",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-67",
+      "itemType": "Pokemon Card",
+      "number": "67",
+      "name": "Team Magma's Rhyhorn",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Yosuke Da Silva",
+      "attacks": [
+        {
+          "name": "Double Stab",
+          "damage": "10×",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "name": "Second Strike",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon already has at least 2 damage counters on it, this attack does 10 damage plus 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-68",
+      "itemType": "Pokemon Card",
+      "number": "68",
+      "name": "Team Magma's Rhyhorn",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Yosuke Da Silva",
+      "attacks": [
+        {
+          "name": "Ram",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Knock Over",
+          "damage": "10",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "You may discard any Stadium card in play."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-69",
+      "itemType": "Trainer Card",
+      "number": "69",
+      "name": "Team Aqua Schemer",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Discard any 1 Pokémon from your hand. Then draw 3 cards. If you discarded a Pokémon with Team Aqua in its name, draw 4 cards instead."
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-70",
+      "itemType": "Trainer Card",
+      "number": "70",
+      "name": "Team Magma Schemer",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Discard any 1 Pokémon from your hand. Then draw 3 cards. If you discarded a Pokémon with Team Magma in its name, draw 4 cards instead."
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-71",
+      "itemType": "Trainer Card",
+      "number": "71",
+      "name": "Archie",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Search your deck for a Pokémon with Team Aqua in its name and put it onto your Bench. Shuffle your deck afterward. Treat the new Benched Pokémon as a Basic Pokémon. If it is a Stage 2 Pokémon, put 2 damage counters on that Pokémon."
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-72",
+      "itemType": "Trainer Card",
+      "number": "72",
+      "name": "Dual Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "\"Big Mama\" Tagawa",
+      "text": "Flip 2 coins. For each heads, search your deck for a Basic Pokémon card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-73",
+      "itemType": "Trainer Card",
+      "number": "73",
+      "name": "Maxie",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Search your hand or discard pile for a Pokémon with Team Magma in its name and put it onto your Bench. Treat the new Benched Pokémon as a Basic Pokémon. If it is a Stage 2 Pokémon, put 2 damage counters on that Pokémon."
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-74",
+      "itemType": "Trainer Card",
+      "number": "74",
+      "name": "Strength Charm",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Keiji Kinebuchi",
+      "text": "Attach Strength Charm to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it. If that Pokémon is Knocked Out, discard this card.,Whenever an attack from the Pokémon that Strength Charm is attached to does damage to the Active Pokémon (after applying Weakness and Resistance), the attack does 10 more damage. At the end of the turn in which this happens, discard Strength Charm."
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-75",
+      "itemType": "Trainer Card",
+      "number": "75",
+      "name": "Team Aqua Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Flip a coin. If heads, search your deck for a Pokémon that has Team Aqua in its name, show it to your opponent, and put it into your hand. If tails, search your deck for a Basic Pokémon that has Team Aqua in its name, show it to your opponent and put it into your hand. Shuffle your deck afterward."
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-76",
+      "itemType": "Trainer Card",
+      "number": "76",
+      "name": "Team Aqua Belt",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "text": "Attach Team Aqua Belt to 1 of your Pokémon with Team Aqua in its name that doesn't already have a Pokémon Tool attached to it. If that Pokémon is Knocked Out, discard this card.,At any time between turns, if the Pokémon Team Aqua Belt is attached to is your Active Pokémon, search your deck for a card that evolves from that Pokémon and put it on that Pokémon. (This counts as evolving that Pokémon.) Shuffle your deck afterward, then discard Team Aqua Belt."
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-77",
+      "itemType": "Trainer Card",
+      "number": "77",
+      "name": "Team Aqua Conspirator",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Search your deck for up to 2 in any combination of Basic Pokémon with Team Aqua in its name and basic Energy cards, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-78",
+      "itemType": "Trainer Card",
+      "number": "78",
+      "name": "Team Aqua Hideout",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hiromichi Sugiyama",
+      "text": "This card stays in play when you play it. Discard this card if another Stadium card comes into play.,Each Pokémon that does not have Team Aqua in its name pays Colorless more to retreat."
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-79",
+      "itemType": "Trainer Card",
+      "number": "79",
+      "name": "Team Aqua Technical Machine 01",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "text": "Attach this card to 1 of your Pokémon that has Team Aqua in its name. That Pokémon may use this card's attack instead of its own. At the end of your turn, discard Team Aqua Technical Machine 01.",
+      "attacks": [
+        {
+          "name": "Miracle",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Choose 1 Special Condition. The Defending Pokémon is now affected by that Special Condition."
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-80",
+      "itemType": "Trainer Card",
+      "number": "80",
+      "name": "Team Magma Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Flip a coin. If heads, search your deck for a Pokémon that has Team Magma in its name, show it to your opponent, and put it into your hand. If tails, search your deck for a Basic Pokémon that has Team Magma in its name, show it to your opponent and put it into your hand. Shuffle your deck afterward."
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-81",
+      "itemType": "Trainer Card",
+      "number": "81",
+      "name": "Team Magma Belt",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "text": "Attach Team Magma Belt to 1 of your Pokémon with Team Magma in its name that doesn't already have a Pokémon Tool attached to it. If that Pokémon is Knocked Out, discard this card.,At any time between turns, if the Pokémon Team Magma Belt is attached to is your Active Pokémon, search your deck for a card that evolves from that Pokémon and put it on that Pokémon. (This counts as evolving that Pokémon.) Shuffle your deck afterward, then discard Team Magma Belt."
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-82",
+      "itemType": "Trainer Card",
+      "number": "82",
+      "name": "Team Magma Conspirator",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Search your deck for up to 2 in any combination of Basic Pokémon with Team Magma in its name and basic Energy cards, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-83",
+      "itemType": "Trainer Card",
+      "number": "83",
+      "name": "Team Magma Hideout",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Ikuji",
+      "text": "This card stays in play when you play it. Discard this card if another Stadium card comes into play.,Whenever any player plays a Basic Pokémon that doesn't have Team Magma in its name from his or her hand, that player puts 1 damage counter on that Pokémon."
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-84",
+      "itemType": "Trainer Card",
+      "number": "84",
+      "name": "Team Magma Technical Machine 01",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "text": "Attach this card to 1 of your Pokémon that has Team Magma in its name. That Pokémon may use this card's attack instead of its own. At the end of your turn, discard Team Magma Technical Machine 01.",
+      "attacks": [
+        {
+          "name": "Crushing Magma",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Choose an Energy card attached to the Defending Pokémon and put that card at the bottom of your opponent's deck."
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-85",
+      "itemType": "Trainer Card",
+      "number": "85",
+      "name": "Warp Point",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Keiji Kinebuchi",
+      "text": "Your opponent switches 1 of his or her Defending Pokémon with 1 of his or her Benched Pokémon, if any. You switch 1 of your Active Pokémon with 1 of your Benched Pokémon, if any."
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-86",
+      "itemType": "Energy Card",
+      "number": "86",
+      "name": "Aqua Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Takumi Akabane",
+      "text": "Aqua Energy can be attached only to a Pokémon with Team Aqua in its name. Aqua Energy provides Water and Darkness Energy but provides 2 Energy at a time. (Doesn't count as a basic Energy card when not in play and has no other effect than providing Energy.) At the end of your turn, discard Aqua Energy."
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-87",
+      "itemType": "Energy Card",
+      "number": "87",
+      "name": "Magma Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Takumi Akabane",
+      "text": "Magma Energy can be attached only to a Pokémon with Team Magma in its name. Magma Energy provides Fighting and /or Darkness Energy but provides 2 Energy at a time. (Doesn't count as a basic Energy card when not in play and has no other effect than providing Energy.) At the end of your turn, discard Magma Energy."
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-88",
+      "itemType": "Energy Card",
+      "number": "88",
+      "name": "Double Rainbow Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Rare",
+      "artist": "Takumi Akabane",
+      "text": "Double Rainbow Energy can be attached only to an Evolved Pokémon (excluding Pokémon-ex). While in play, Double Rainbow Energy provides every type of Energy but provides 2 Energy at a time. (Doesn't count as a basic Energy when not in play and has no effect other than providing Energy.) Damage done to your opponent's Pokémon by the Pokémon Double Rainbow Energy is attached to is reduced by 10 (after applying Weakness and Resistance). When the Pokémon Double Rainbow Energy is attached to is no longer an Evolved Pokémon, discard Double Rainbow Energy."
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-89",
+      "itemType": "Pokemon Card",
+      "number": "89",
+      "name": "Blaziken ex",
+      "stage": "Stage 2",
+      "evolvesFrom": "Combusken",
+      "hp": "150",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Hikaru Koike",
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Blaze Kick",
+          "damage": "30+",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 damage plus 20 more damage. If tails, this attack does 30 damage and the Defending Pokémon is now Burned."
+        },
+        {
+          "name": "Volcanic Ash",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard 2 Fire Energy attached to Blaziken ex and then choose 1 of your opponent's Pokémon. This attack does 100 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        },
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-90",
+      "itemType": "Pokemon Card",
+      "number": "90",
+      "name": "Cradily ex",
+      "stage": "Stage 2",
+      "evolvesFrom": "Lileep",
+      "hp": "150",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Primal Vibes",
+          "text": "As long as Cradily ex is your Active Pokémon, your opponent can't play a Pokémon from his or her hand to evolve his or her Active Pokémon.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Eerie Light",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Acidic Poison",
+          "damage": "60",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Poisoned and Burned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        },
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-91",
+      "itemType": "Pokemon Card",
+      "number": "91",
+      "name": "Entei ex",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ryo Ueda",
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Searing Flame",
+          "damage": "10",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Burned."
+        },
+        {
+          "name": "Bright Flame",
+          "damage": "90",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Discard 2 Energy attached to Entei ex."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-92",
+      "itemType": "Pokemon Card",
+      "number": "92",
+      "name": "Raikou ex",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ryo Ueda",
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Dazzle Blast",
+          "damage": "10",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Lightning Tackle",
+          "damage": "70",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, Raikou ex does 20 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-93",
+      "itemType": "Pokemon Card",
+      "number": "93",
+      "name": "Sceptile ex",
+      "stage": "Stage 2",
+      "evolvesFrom": "Grovyle",
+      "hp": "150",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Hikaru Koike",
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Green Heal",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Remove 4 damage counters from each of your Pokémon that has Grass Energy attached. If that Pokémon has less than 4 damage counters, remove all of them."
+        },
+        {
+          "name": "Poison Ring",
+          "damage": "40",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Poisoned. The Defending Pokémon can't retreat until the end of your opponent's next turn."
+        },
+        {
+          "name": "Slashing Strike",
+          "damage": "100",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Sceptile ex can't use Slashing Strike during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        },
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-94",
+      "itemType": "Pokemon Card",
+      "number": "94",
+      "name": "Suicune ex",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ryo Ueda",
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Energy Flip",
+          "cost": [
+            "Water"
+          ],
+          "text": "Choose 1 of your opponent's Benched Pokémon. This attack does 10 damage to that Pokémon. You may move an Energy card attached to that Pokémon to another of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Reverse Stream",
+          "damage": "50+",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "You may return all basic Energy cards attached to Suicune ex to your hand. If you do, this attack does 50 damage plus 10 more damage for each basic Energy card you returned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-95",
+      "itemType": "Pokemon Card",
+      "number": "95",
+      "name": "Swampert ex",
+      "stage": "Stage 2",
+      "evolvesFrom": "Marshtomp",
+      "hp": "150",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Hikaru Koike",
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Hyper Pump",
+          "damage": "20+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Does 20 damage plus 20 more damage for each basic Energy attached to Swampert ex but not used to pay for this attack's Energy cost. You can't add more than 80 damage in this way."
+        },
+        {
+          "name": "Crushing Wave",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 40 damage to that Pokémon. After doing damage, flip a coin. If heads, your opponent discards an Energy card, if any, attached to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-96",
+      "itemType": "Pokemon Card",
+      "number": "96",
+      "name": "Absol",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage."
+        },
+        {
+          "name": "Feint Attack",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies or any other effects on that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-team-magma-vs-team-aqua-97",
+      "itemType": "Pokemon Card",
+      "number": "97",
+      "name": "Jirachi",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Hypnoblast",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Swift",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies or any other effects on the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    }
+  ]
+}
