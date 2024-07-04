@@ -1,39 +1,35 @@
 {
   "setId": "tcg-pokemon-gym-challenge",
   "cardCount": "132",
+  "setVariants": [
+    {
+      "id": "first-edition",
+      "name": "First Edition",
+      "description": "The first print run of the set. The cards have the 'Edition 1' symbol.",
+      "type": "print-run"
+    },
+    {
+      "id": "unlimited",
+      "name": "Unlimited",
+      "description": "The unlimited print of the set.",
+      "type": "print-run"
+    }
+  ],
   "sealedProducts": [
     {
       "id": "tcg-pokemon-gym-challenge-booster-box",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Sealed Product",
-      "name": "Gym-challenge Booster Box"
+      "name": "Gym Challenge Booster Box"
     },
     {
       "id": "tcg-pokemon-gym-challenge-booster-pack",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Sealed Product",
-      "name": "Gym-challenge Booster Pack"
+      "name": "Gym Challenge Booster Pack"
     }
   ],
   "cards": [
     {
       "id": "tcg-pokemon-gym-challenge-1",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "1",
       "name": "Blaine's Arcanine",
@@ -83,15 +79,14 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-2",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "errors": [
-          "Incorrect Fighting type symbol used in the Roaring Flames attack"
-        ]
-      },
+      "variants": [
+        {
+          "id": "fighting-energy-error",
+          "name": "Fighting Energy Error",
+          "description": "The 'Roaring Flames' description incorrectly has a fighting energy symbol.",
+          "type": "error"
+        }
+      ],
       "itemType": "Pokemon Card",
       "number": "2",
       "name": "Blaine's Charizard",
@@ -142,12 +137,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-3",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "3",
       "name": "Brock's Ninetales",
@@ -189,12 +178,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-4",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "4",
       "name": "Erika's Venusaur",
@@ -240,12 +223,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-5",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "5",
       "name": "Giovanni's Gyarados",
@@ -298,12 +275,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-6",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "6",
       "name": "Giovanni's Machamp",
@@ -350,12 +321,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-7",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "7",
       "name": "Giovanni's Nidoking",
@@ -402,12 +367,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-8",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "8",
       "name": "Giovanni's Persian",
@@ -454,12 +413,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-9",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "9",
       "name": "Koga's Beedrill",
@@ -508,12 +461,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-10",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "10",
       "name": "Koga's Ditto",
@@ -559,12 +506,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-11",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "11",
       "name": "Lt. Surge's Raichu",
@@ -612,12 +553,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-12",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "12",
       "name": "Misty's Golduck",
@@ -661,12 +596,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-13",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "13",
       "name": "Misty's Gyarados",
@@ -718,12 +647,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-14",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "14",
       "name": "Rocket's Mewtwo",
@@ -776,12 +699,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-15",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "15",
       "name": "Rocket's Zapdos",
@@ -827,12 +744,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-16",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "16",
       "name": "Sabrina's Alakazam",
@@ -879,12 +790,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-17",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "17",
       "name": "Blaine",
@@ -897,12 +802,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-18",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "18",
       "name": "Giovanni",
@@ -915,12 +814,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-19",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "19",
       "name": "Koga",
@@ -933,12 +826,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-20",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "20",
       "name": "Sabrina",
@@ -951,12 +838,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-21",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "21",
       "name": "Blaine's Ninetales",
@@ -1000,12 +881,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-22",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "22",
       "name": "Brock's Dugtrio",
@@ -1055,12 +930,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-23",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "23",
       "name": "Giovanni's Nidoqueen",
@@ -1109,12 +978,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-24",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "24",
       "name": "Giovanni's Pinsir",
@@ -1160,12 +1023,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-25",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "25",
       "name": "Koga's Arbok",
@@ -1209,12 +1066,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-26",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "26",
       "name": "Koga's Muk",
@@ -1259,12 +1110,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-27",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "27",
       "name": "Koga's Pidgeotto",
@@ -1315,12 +1160,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-28",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "28",
       "name": "Lt. Surge's Jolteon",
@@ -1366,12 +1205,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-29",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "29",
       "name": "Sabrina's Gengar",
@@ -1418,12 +1251,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-30",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "30",
       "name": "Sabrina's Golduck",
@@ -1469,12 +1296,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-31",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "31",
       "name": "Blaine's Charmeleon",
@@ -1519,12 +1340,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-32",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "32",
       "name": "Blaine's Dodrio",
@@ -1566,12 +1381,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-33",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "33",
       "name": "Blaine's Rapidash",
@@ -1612,12 +1421,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-34",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "34",
       "name": "Brock's Graveler",
@@ -1663,12 +1466,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-35",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "35",
       "name": "Brock's Primeape",
@@ -1712,12 +1509,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-36",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "36",
       "name": "Brock's Sandslash",
@@ -1768,15 +1559,14 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-37",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "art": [
-          "Top Deck Magazine W Promo"
-        ]
-      },
+      "variants": [
+        {
+          "id": "w-promo",
+          "name": "W Promo",
+          "description": "The card has a 'W' stamp on the artwork.",
+          "type": "art"      
+        }
+      ],
       "itemType": "Pokemon Card",
       "number": "37",
       "name": "Brock's Vulpix",
@@ -1818,12 +1608,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-38",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "38",
       "name": "Erika's Bellsprout",
@@ -1863,12 +1647,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-39",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "39",
       "name": "Erika's Bulbasaur",
@@ -1910,12 +1688,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-40",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "40",
       "name": "Erika's Clefairy",
@@ -1962,12 +1734,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-41",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "41",
       "name": "Erika's Ivysaur",
@@ -2012,12 +1778,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-42",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "42",
       "name": "Giovanni's Machoke",
@@ -2063,12 +1823,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-43",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "43",
       "name": "Giovanni's Meowth",
@@ -2116,12 +1870,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-44",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "44",
       "name": "Giovanni's Nidorina",
@@ -2168,12 +1916,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-45",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "45",
       "name": "Giovanni's Nidorino",
@@ -2211,12 +1953,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-46",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "46",
       "name": "Koga's Golbat",
@@ -2264,12 +2000,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-47",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "47",
       "name": "Koga's Kakuna",
@@ -2311,12 +2041,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-48",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "48",
       "name": "Koga's Koffing",
@@ -2359,12 +2083,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-49",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "49",
       "name": "Koga's Pidgey",
@@ -2411,12 +2129,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-50",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "50",
       "name": "Koga's Weezing",
@@ -2463,12 +2175,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-51",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "51",
       "name": "Lt. Surge's Eevee",
@@ -2515,12 +2221,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-52",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "52",
       "name": "Lt. Surge's Electrode",
@@ -2565,12 +2265,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-53",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "53",
       "name": "Lt. Surge's Raticate",
@@ -2619,12 +2313,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-54",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "54",
       "name": "Misty's Dewgong",
@@ -2672,12 +2360,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-55",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "55",
       "name": "Sabrina's Haunter",
@@ -2719,12 +2401,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-56",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "56",
       "name": "Sabrina's Hypno",
@@ -2768,12 +2444,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-57",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "57",
       "name": "Sabrina's Jynx",
@@ -2815,12 +2485,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-58",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "58",
       "name": "Sabrina's Kadabra",
@@ -2863,12 +2527,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-59",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "59",
       "name": "Sabrina's Mr. Mime",
@@ -2902,12 +2560,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-60",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "60",
       "name": "Blaine's Charmander",
@@ -2941,12 +2593,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-61",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "61",
       "name": "Blaine's Doduo",
@@ -2992,12 +2638,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-62",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "62",
       "name": "Blaine's Growlithe",
@@ -3040,12 +2680,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-63",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "63",
       "name": "Blaine's Mankey",
@@ -3083,12 +2717,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-64",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "64",
       "name": "Blaine's Ponyta",
@@ -3123,12 +2751,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-65",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "65",
       "name": "Blaine's Rhyhorn",
@@ -3179,12 +2801,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-66",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "66",
       "name": "Blaine's Vulpix",
@@ -3224,12 +2840,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-67",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "67",
       "name": "Brock's Diglett",
@@ -3278,12 +2888,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-68",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "68",
       "name": "Brock's Geodude",
@@ -3317,12 +2921,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-69",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "69",
       "name": "Erika's Jigglypuff",
@@ -3370,12 +2968,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-70",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "70",
       "name": "Erika's Oddish",
@@ -3409,12 +3001,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-71",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "71",
       "name": "Erika's Paras",
@@ -3455,12 +3041,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-72",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "72",
       "name": "Giovanni's Machop",
@@ -3502,12 +3082,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-73",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "73",
       "name": "Giovanni's Magikarp",
@@ -3550,12 +3124,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-74",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "74",
       "name": "Giovanni's Meowth",
@@ -3604,12 +3172,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-75",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "75",
       "name": "Giovanni's Nidoran ♀",
@@ -3652,12 +3214,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-76",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "76",
       "name": "Giovanni's Nidoran ♂",
@@ -3699,12 +3255,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-77",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "77",
       "name": "Koga's Ekans",
@@ -3738,12 +3288,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-78",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "78",
       "name": "Koga's Grimer",
@@ -3784,12 +3328,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-79",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "79",
       "name": "Koga's Koffing",
@@ -3823,12 +3361,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-80",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "80",
       "name": "Koga's Pidgey",
@@ -3877,12 +3409,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-81",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "81",
       "name": "Koga's Tangela",
@@ -3925,12 +3451,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-82",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "82",
       "name": "Koga's Weedle",
@@ -3972,12 +3492,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-83",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "83",
       "name": "Koga's Zubat",
@@ -4015,12 +3529,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-84",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "84",
       "name": "Lt. Surge's Pikachu",
@@ -4052,12 +3560,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-85",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "85",
       "name": "Lt. Surge's Rattata",
@@ -4102,12 +3604,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-86",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "86",
       "name": "Lt. Surge's Voltorb",
@@ -4142,12 +3638,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-87",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "87",
       "name": "Misty's Horsea",
@@ -4179,12 +3669,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-88",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "88",
       "name": "Misty's Magikarp",
@@ -4224,12 +3708,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-89",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "89",
       "name": "Misty's Poliwag",
@@ -4271,12 +3749,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-90",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "90",
       "name": "Misty's Psyduck",
@@ -4309,12 +3781,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-91",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "91",
       "name": "Misty's Seel",
@@ -4357,12 +3823,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-92",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "92",
       "name": "Misty's Staryu",
@@ -4396,12 +3856,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-93",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "93",
       "name": "Sabrina's Abra",
@@ -4440,12 +3894,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-94",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "94",
       "name": "Sabrina's Abra",
@@ -4486,12 +3934,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-95",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "95",
       "name": "Sabrina's Drowzee",
@@ -4533,12 +3975,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-96",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "96",
       "name": "Sabrina's Gastly",
@@ -4578,12 +4014,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-97",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "97",
       "name": "Sabrina's Gastly",
@@ -4624,12 +4054,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-98",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "98",
       "name": "Sabrina's Porygon",
@@ -4677,12 +4101,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-99",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Pokemon Card",
       "number": "99",
       "name": "Sabrina's Psyduck",
@@ -4723,12 +4141,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-100",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "100",
       "name": "Blaine",
@@ -4741,12 +4153,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-101",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "101",
       "name": "Brock's Protection",
@@ -4759,12 +4165,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-102",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "102",
       "name": "Chaos Gym",
@@ -4777,12 +4177,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-103",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "103",
       "name": "Erika's Kindness",
@@ -4795,12 +4189,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-104",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "104",
       "name": "Giovanni",
@@ -4813,12 +4201,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-105",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "105",
       "name": "Giovanni's Last Resort",
@@ -4831,12 +4213,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-106",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "106",
       "name": "Koga",
@@ -4849,12 +4225,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-107",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "107",
       "name": "Lt. Surge's Secret Plan",
@@ -4867,12 +4237,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-108",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "108",
       "name": "Misty's Wish",
@@ -4885,12 +4249,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-109",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "109",
       "name": "Resistance Gym",
@@ -4903,12 +4261,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-110",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "110",
       "name": "Sabrina",
@@ -4921,12 +4273,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-111",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "111",
       "name": "Blaine's Quiz #2",
@@ -4939,12 +4285,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-112",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "112",
       "name": "Blaine's Quiz #3",
@@ -4957,12 +4297,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-113",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "113",
       "name": "Cinnabar City Gym",
@@ -4975,12 +4309,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-114",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "114",
       "name": "Fuchsia City Gym",
@@ -4993,12 +4321,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-115",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "115",
       "name": "Koga's Ninja Trick",
@@ -5011,12 +4333,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-116",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "116",
       "name": "Master Ball",
@@ -5029,12 +4345,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-117",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "117",
       "name": "Max Revive",
@@ -5047,12 +4357,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-118",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "118",
       "name": "Misty's Tears",
@@ -5065,15 +4369,14 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-119",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ],
-        "errors": [
-          "Does not mention number of damage counters"
-        ]
-      },
+      "variants": [
+        {
+          "id": "damage-counter-error",
+          "name": "Damage Counter Error",
+          "description": "The card description doesn't mention how many damage counters to place the on card.",
+          "type": "error"
+        }
+      ],
       "itemType": "Trainer Card",
       "number": "119",
       "name": "Rocket's Minefield Gym",
@@ -5086,12 +4389,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-120",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "120",
       "name": "Rocket's Secret Experiment",
@@ -5104,12 +4401,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-121",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "121",
       "name": "Sabrina's Psychic Control",
@@ -5122,12 +4413,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-122",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "122",
       "name": "Saffron City Gym",
@@ -5140,12 +4425,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-123",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "123",
       "name": "Viridian City Gym",
@@ -5158,12 +4437,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-124",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "124",
       "name": "Fervor",
@@ -5176,12 +4449,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-125",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "125",
       "name": "Transparent Walls",
@@ -5194,12 +4461,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-126",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Trainer Card",
       "number": "126",
       "name": "Warp Point",
@@ -5212,12 +4473,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-127",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Energy Card",
       "number": "127",
       "name": "Fighting Energy",
@@ -5228,12 +4483,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-128",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Energy Card",
       "number": "128",
       "name": "Fire Energy",
@@ -5244,12 +4493,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-129",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Energy Card",
       "number": "129",
       "name": "Grass Energy",
@@ -5260,12 +4503,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-130",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Energy Card",
       "number": "130",
       "name": "Lightning Energy",
@@ -5276,12 +4513,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-131",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Energy Card",
       "number": "131",
       "name": "Psychic Energy",
@@ -5292,12 +4523,6 @@
     },
     {
       "id": "tcg-pokemon-gym-challenge-132",
-      "variantTypes": {
-        "editions": [
-          "1st Edition",
-          "Unlimited"
-        ]
-      },
       "itemType": "Energy Card",
       "number": "132",
       "name": "Water Energy",
