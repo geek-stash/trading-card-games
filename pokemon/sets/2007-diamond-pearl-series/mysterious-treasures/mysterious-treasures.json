@@ -1,0 +1,5047 @@
+{
+  "setId": "tcg-pokemon-mysterious-treasures",
+  "setVariants": [
+    {
+      "id": "reverse-holo",
+      "name": "Reverse Holo",
+      "description": "The reverse holo print of the set.",
+      "type": "art",
+      "exclusions": [
+        "tcg-pokemon-mysterious-treasures-booster-box",
+        "tcg-pokemon-mysterious-treasures-booster-pack"
+      ]
+    },
+    {
+      "id": "unlimited",
+      "name": "Unlimited",
+      "description": "The unlimited print of the set.",
+      "type": "print-run"
+    }
+  ],
+  "cardCount": "124",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-mysterious-treasures-booster-box",
+      "itemType": "Sealed Product",
+      "name": "Mysterious Treasures Booster Box"
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-booster-pack",
+      "itemType": "Sealed Product",
+      "name": "Mysterious Treasures Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-mysterious-treasures-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Aggron",
+      "stage": "Stage 2",
+      "evolvesFrom": "Lairon",
+      "hp": "130",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kouki Saitou",
+      "text": "While seeking iron for food, it digs tunnels by breaking through bedrock with its steel horns.",
+      "level": "49",
+      "attacks": [
+        {
+          "name": "Heap Up",
+          "damage": "40+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Search your discard pile for all Energy cards and show them to your opponent. If you find any Metal Special Energy cards there this attack does 40 damage plus 30 more damage. Put all of those Energy cards on top of your deck. Shuffle your deck afterward."
+        },
+        {
+          "name": "Hard Metal",
+          "damage": "60+",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Metal",
+            "Metal"
+          ],
+          "text": "You may do 60 damage plus 40 more damage. If you do, Aggron does 40 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+40"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Alakazam",
+      "stage": "Stage 2",
+      "evolvesFrom": "Kadabra",
+      "hp": "100",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kouki Saitou",
+      "abilities": [
+        {
+          "name": "Power Cancel",
+          "text": "Once during your opponent's turn, when your opponent's Pokémon uses any Poké-Power, you may discard 2 cards from your hand and prevent all effects of that Poké-Power. (This counts as that Pokémon using its Poké-Power.) This power can't be used if Alakazam is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Its superb memory lets it recall everything it has experienced from birth. Its IQ exceeds 5,000.",
+      "level": "47",
+      "attacks": [
+        {
+          "name": "Psychic Guard",
+          "damage": "50",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done to Alakazam by attacks from your opponent's Stage 2 Evolved Pokémon is reduced by 30 (after applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-3",
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Ambipom",
+      "stage": "Stage 1",
+      "evolvesFrom": "Aipom",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kouki Saitou",
+      "text": "To eat, it deftly shucks nuts with its two tails. It rarely uses its arms now.",
+      "level": "36",
+      "attacks": [
+        {
+          "name": "Tail Influence",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent flips a coin until he or she gets heads. For each tails, remove an Energy card attached to the Defending Pokémon and put it on the bottom of your opponent's deck."
+        },
+        {
+          "name": "Charity Tail",
+          "damage": "80",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Before Ambipom does damage, your opponent may discard 2 cards from his or her hand. If he or she does, this attack's base damage is 10 instead of 80."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-4",
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Azelf",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Downer Material",
+          "text": "If you have Uxie and Mesprit in play, the attack cost of each of your opponent's Basic Pokémon's attacks is Colorless more. You can't use more than 1 Downer Material Poké-Body each turn.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "Known as \"The Being of Willpower.\" It sleeps at the bottom of a lake to keep the world in balance.",
+      "level": "50",
+      "attacks": [
+        {
+          "name": "Bind Pulse",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "During your opponent's next turn, your opponent can't attach any Special Energy cards from his or her hand to any of his or her Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Blissey",
+      "stage": "Stage 1",
+      "evolvesFrom": "Chansey",
+      "hp": "130",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Kind Egg",
+          "text": "Once during your turn (before your attack), if Happiny is anywhere under Blissey, you may choose a number of cards in your hand up to the amount of Energy attached to Blissey and put those cards on top of your deck. Shuffle your deck afterward. Then, draw that many cards. This power can't be used if Blissey is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "This kindhearted Pokémon nurses sick Pokémon to health. It senses feelings of sadness.",
+      "level": "44",
+      "attacks": [
+        {
+          "name": "Happy Chance",
+          "damage": "20+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Does 20 damage plus 10 for each Energy attached to Blissey. Before doing damage, you may search your discard pile for a basic Energy card and attach it to Blissey."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-6",
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Bronzong",
+      "stage": "Stage 1",
+      "evolvesFrom": "Bronzor",
+      "hp": "90",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Daisuke Ito",
+      "abilities": [
+        {
+          "name": "Miracle Oracle",
+          "text": "Once during your turn (before your attack), you may draw a card. Then, discard a card from your hand. If you discard an Energy card, draw 1 more card. This power can't be used if Bronzong is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "One caused a news sensation when it was dug up at a construction site after a 2,000-year sleep.",
+      "level": "40",
+      "attacks": [
+        {
+          "name": "Shady Stamp",
+          "damage": "50",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-7",
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Celebi",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kagemaru Himeno",
+      "text": "It has the power to travel across time, but is is said to appear only in peaceful times.",
+      "level": "39",
+      "attacks": [
+        {
+          "name": "Sprouting",
+          "text": "Search your deck for a Grass Energy card and attach it to Celebi. Shuffle your deck afterward."
+        },
+        {
+          "name": "Leaf Tornado",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": "You may move any number of basic Grass Energy cards attached to your Pokémon to your other Pokémon in any way you like."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-8",
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "Feraligatr",
+      "stage": "Stage 2",
+      "evolvesFrom": "Croconaw",
+      "hp": "130",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kazuyuki Kano",
+      "text": "It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.",
+      "level": "53",
+      "attacks": [
+        {
+          "name": "Energy Cyclone",
+          "damage": "20×",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "Choose as many Energy cards from your hand as you like and show them to your opponent. This attack does 20 damage times the number of Energy cards you chose. Put those Energy cards on top of your deck. Shuffle your deck afterward."
+        },
+        {
+          "name": "Breaking Tail",
+          "damage": "60",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Choose 1 card from your opponent's hand without looking and discard it."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-9",
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Garchomp",
+      "stage": "Stage 2",
+      "evolvesFrom": "Gabite",
+      "hp": "130",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kazuyuki Kano",
+      "abilities": [
+        {
+          "name": "Rainbow Scale",
+          "text": "If an Active Pokémon has Weakness to any of the types of Energy attached to Garchomp, Garchomp's attacks do 40 more damage to that Pokémon (before applying Weakness and Resistance). Rainbow Scale Poké-Body can't be used if Garchomp has any Special Energy cards attached to it.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "When it folds up its body and extends its wings, it looks like a jet plane. It flies at sonic speed.",
+      "level": "66",
+      "attacks": [
+        {
+          "name": "Dragon Fang",
+          "damage": "70",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Colorless",
+          "value": "+30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Honchkrow",
+      "stage": "Stage 1",
+      "evolvesFrom": "Murkrow",
+      "hp": "90",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kazuyuki Kano",
+      "abilities": [
+        {
+          "name": "Dark Genes",
+          "text": "As long as Honchkrow has the Energy necessary to use its attack, each of your Murkrow can use Honchkrow's attack as its own without the Energy necessary to use that attack.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "Becoming active at night, it is known to swarm with numerous MURKROW in tow.",
+      "level": "42",
+      "attacks": [
+        {
+          "name": "Dark Wing Flaps",
+          "damage": "50",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Choose 1 card from your opponent's hand without looking. Look at the card you chose, then have your opponent shuffle that card into his or her deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Lumineon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Finneon",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Lure Ring",
+          "text": "Once during your turn (before your attack), if Lumineon is your Active Pokémon, you may choose 1 of your opponent's Benched Pokémon that has a maximum HP of 100 or more and switch it with 1 of the Defending Pokémon. This power can't be used if Lumineon is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "It lives on the deep-sea floor. It attracts prey by flashing the patterns on its four tail fins.",
+      "level": "34",
+      "attacks": [
+        {
+          "name": "Reverse Stream",
+          "damage": "30+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 30 damage plus 10 more damage for each Water Energy attached to Lumineon. Then, return all Water Energy attached to Lumineon to your hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Magmortar",
+      "stage": "Stage 1",
+      "evolvesFrom": "Magmar",
+      "hp": "100",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Hiroaki Ito",
+      "text": "It blasts fireballs of over 3,600 degrees F from the ends of its arms. It lives in volcanic craters.",
+      "level": "48",
+      "attacks": [
+        {
+          "name": "Smoke Bomb",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        },
+        {
+          "name": "Flame Drum",
+          "damage": "80",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "If Magby isn't anywhere under Magmortar, discard 2 Energy cards from your hand. (If you can't discard 2 Energy cards from your hand, this attack does nothing.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Meganium",
+      "stage": "Stage 2",
+      "evolvesFrom": "Bayleef",
+      "hp": "130",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Daisuke Ito",
+      "text": "Its breath has the fantastic ability to revive dead plants and flowers.",
+      "level": "48",
+      "attacks": [
+        {
+          "name": "Ultra Powder",
+          "damage": "20",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip 3 coins. If the first coin is heads, the Defending Pokémon is now Poisoned. If the second coin is heads, the Defending Pokémon is now Burned. If the third coin is heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Fire Counterattack",
+          "damage": "60+",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "If your opponent has any Fire Pokémon in play, this attack does 60 damage plus 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Mesprit",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Upper Material",
+          "text": "If you have Uxie and Azelf in play, the Retreat Cost for each Uxie, Mesprit, and Azelf (both yours and your opponent's) is 0.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "Known as \"The Being of Emotion.\" It taught humans the nobility of sorrow, pain, and joy.",
+      "level": "50",
+      "attacks": [
+        {
+          "name": "Teleportation Burst",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "You may switch Mesprit with 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Raichu",
+      "stage": "Stage 1",
+      "evolvesFrom": "Pikachu",
+      "hp": "90",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Daisuke Ito",
+      "text": "It turns aggressive if it has too much electricity in its body. It discharges power through its tail.",
+      "level": "40",
+      "attacks": [
+        {
+          "name": "Electromagnetic Induction",
+          "text": "Search your deck for up to 2 Lightning Energy cards and attach them to 1 of your Pokémon. Shuffle your deck afterward."
+        },
+        {
+          "name": "Explosive Thunder",
+          "damage": "30×",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Discard all basic Lightning Energy cards attached to Raichu. This attack does 30 damage times the number of Lightning Energy cards you discarded."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-16",
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Typhlosion",
+      "stage": "Stage 2",
+      "evolvesFrom": "Quilava",
+      "hp": "110",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kazuyuki Kano",
+      "abilities": [
+        {
+          "name": "Firestarter",
+          "text": "Once during your turn (before your attack), you may attach a Fire Energy card from your discard pile to 1 of your Benched Pokémon. This power can't be used if Typhlosion is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.",
+      "level": "46",
+      "attacks": [
+        {
+          "name": "Evaporating Heat",
+          "damage": "60",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Discard a Water Energy attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Tyranitar",
+      "stage": "Stage 2",
+      "evolvesFrom": "Pupitar",
+      "hp": "140",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Masakazu Fukuda",
+      "text": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
+      "level": "57",
+      "attacks": [
+        {
+          "name": "Payback",
+          "damage": "40+",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "If your opponent has only 1 Prize card left, this attack does 40 damage plus 40 more damage and discard the top 3 cards from your opponent's deck."
+        },
+        {
+          "name": "Ground Burn",
+          "damage": "80+",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Darkness",
+            "Darkness"
+          ],
+          "text": "Each player discards the top card of his or her deck. This attack does 80 damage plus 20 more damage for each Energy card discarded in this way."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-18",
+      "itemType": "Pokemon Card",
+      "number": "18",
+      "name": "Uxie",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Memory Out",
+          "text": "Once during your opponent's turn, if Uxie is damaged by an opponent's attack (even if Uxie is Knocked Out), you may use this power. The Attacking Pokémon can't use that attack during your opponent's next turn.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Known as \"The Being of Knowledge.\" It is said that it can wipe out the memory of those who see its eyes.",
+      "level": "50",
+      "attacks": [
+        {
+          "name": "Mind Off",
+          "damage": "10+",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "If you have Mesprit and Azelf in play, this attack does 10 damage plus 20 more damage and the Defending Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-19",
+      "itemType": "Pokemon Card",
+      "number": "19",
+      "name": "Abomasnow",
+      "stage": "Stage 1",
+      "evolvesFrom": "Snover",
+      "hp": "100",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Kazuyuki Kano",
+      "abilities": [
+        {
+          "name": "Glacier Snow",
+          "text": "If Abomasnow is your Active Pokémon and is damaged by an opponent's attack (even if Abomasnow is Knocked Out), the Attacking Pokémon is now Asleep.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "It whips up blizzards in mountains that are always buried in snow. It is the abominable snowman.",
+      "level": "40",
+      "attacks": [
+        {
+          "name": "Heavy Blizzard",
+          "damage": "60",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, put 1 damage counter on each of your opponent's Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-20",
+      "itemType": "Pokemon Card",
+      "number": "20",
+      "name": "Ariados",
+      "stage": "Stage 1",
+      "evolvesFrom": "Spinarak",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Midori Harada",
+      "abilities": [
+        {
+          "name": "Sticky",
+          "text": "The Retreat Cost for each player's Pokémon (excluding Ariados) is Colorless more.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "It attaches silk to its prey and sets it free. Later, it tracks the silk to the prey and its friends.",
+      "level": "32",
+      "attacks": [
+        {
+          "name": "Offensive Needle",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned. If tails, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-21",
+      "itemType": "Pokemon Card",
+      "number": "21",
+      "name": "Bastiodon",
+      "stage": "Stage 2",
+      "evolvesFrom": "Shieldon",
+      "hp": "130",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "artist": "Kazuyuki Kano",
+      "abilities": [
+        {
+          "name": "Protective Wall",
+          "text": "Prevent all damage done to your Benched Pokémon by your opponent's attacks.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "Any frontal attack is repulsed. It is a docile Pokémon that feeds on grass and berries.",
+      "level": "51",
+      "attacks": [
+        {
+          "name": "Anger Revenge",
+          "damage": "60",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "text": "If Bastiodon was damaged by an attack during your opponent's last turn, this attack does 40 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+40"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-22",
+      "itemType": "Pokemon Card",
+      "number": "22",
+      "name": "Chimecho",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Daisuke Ito",
+      "text": "To knock foes flying, it makes the air shudder with its cries. It converses using seven cries.",
+      "level": "21",
+      "attacks": [
+        {
+          "name": "Call In",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw a card. If Chingling is anywhere under Chimecho, draw 2 more cards."
+        },
+        {
+          "name": "Strange Bell",
+          "damage": "20",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "If the Defending Pokémon is a Basic Pokémon, that Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-23",
+      "itemType": "Pokemon Card",
+      "number": "23",
+      "name": "Crobat",
+      "stage": "Stage 2",
+      "evolvesFrom": "Golbat",
+      "hp": "100",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Masakazu Fukuda",
+      "abilities": [
+        {
+          "name": "Evolutionary Toxic",
+          "text": "Once during your turn, when you play Crobat from your hand to evolve 1 of your Pokémon, you may choose 1 of the Defending Pokémon. That Pokémon is now Poisoned. Put 2 damage counters instead of 1 on that Pokémon between turns.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Having four wings enables it to fly faster and more quietly. It turns active when the night comes.",
+      "level": "45",
+      "attacks": [
+        {
+          "name": "Strike and Fade",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 50 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Flip a coin. If tails, shuffle Crobat and all cards attached to it back into your deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-24",
+      "itemType": "Pokemon Card",
+      "number": "24",
+      "name": "Exeggutor",
+      "stage": "Stage 1",
+      "evolvesFrom": "Exeggcute",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Masakazu Fukuda",
+      "text": "It is called \"The Walking Jungle.\" If a head grows too big, it falls off and becomes an EXEGGCUTE.",
+      "level": "46",
+      "attacks": [
+        {
+          "name": "String Bomb",
+          "damage": "30×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin for each basic Energy card attached to Exeggutor and to the Defending Pokémon. This attack does 30 damage times the number of heads."
+        },
+        {
+          "name": "Nutritional Support",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Search your deck for up to 2 Grass Energy cards and attach them to any of your Pokémon in any way you like. Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-25",
+      "itemType": "Pokemon Card",
+      "number": "25",
+      "name": "Glalie",
+      "stage": "Stage 1",
+      "evolvesFrom": "Snorunt",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Craggy Face",
+          "text": "As long as Glalie is your Active Pokémon, any damage done by attacks from your opponent's Stage 2 Evolved Pokémon is reduced by 20 (before applying Weakness and Resistance).",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "To protect itself, it clads its body in an armor of ice, made by freezing moisture in the air.",
+      "level": "43",
+      "attacks": [
+        {
+          "name": "Intimidation Pebble",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent can't play any Trainer cards or Supporter cards from his or her hand during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-26",
+      "itemType": "Pokemon Card",
+      "number": "26",
+      "name": "Gyarados",
+      "stage": "Stage 1",
+      "evolvesFrom": "Magikarp",
+      "hp": "120",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Dragon DNA",
+          "text": "Gyarados can use any attack from its Basic Pokémon. (You still have to pay for that attack's Energy cost.) If Gyarados uses any attack from its Basic Pokémon, that attack does 30 more damage to the Defending Pokémon (before applying Weakness and Resistance).",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "Once it appears, its rage never settles until it has razed the fields and mountains around it.",
+      "level": "49",
+      "attacks": [
+        {
+          "name": "Enrage",
+          "damage": "80",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. For each heads, choose 1 card from your opponent's hand without looking and discard it. If the first coin is tails, Gyarados is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-27",
+      "itemType": "Pokemon Card",
+      "number": "27",
+      "name": "Kricketune",
+      "stage": "Stage 1",
+      "evolvesFrom": "Kricketot",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "text": "It crosses its knifelike arms in front of its chest when it cries. It can compose melodies ad lib.",
+      "level": "38",
+      "attacks": [
+        {
+          "name": "Sore Performance",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Concerto",
+          "damage": "40+",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": "Does 40 damage plus 10 more damage for each Kricketot and each Kricketune you have in play."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-28",
+      "itemType": "Pokemon Card",
+      "number": "28",
+      "name": "Manectric",
+      "stage": "Stage 1",
+      "evolvesFrom": "Electrike",
+      "hp": "80",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "Atsuko Nishida",
+      "text": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
+      "level": "38",
+      "attacks": [
+        {
+          "name": "Lightning Twister",
+          "damage": "20×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Does 20 damage times the number of basic Energy cards attached to Manectric."
+        },
+        {
+          "name": "Chain Lightning",
+          "damage": "70",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "text": "Does 20 damage to each of your opponent's Benched Pokémon that is the same type as the Defending Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-29",
+      "itemType": "Pokemon Card",
+      "number": "29",
+      "name": "Mantine",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Masakazu Fukuda",
+      "abilities": [
+        {
+          "name": "Jumbo Fin",
+          "text": "If Mantyke is anywhere under Mantine, the Retreat Cost for each of your Water Pokémon is ColorlessColorless less.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "When the waves are calm, one may encounter a swarm of Mantine swimming as if they are in flight.",
+      "level": "25",
+      "attacks": [
+        {
+          "name": "Giant Wave",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "Mantine can't use Giant Wave during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-30",
+      "itemType": "Pokemon Card",
+      "number": "30",
+      "name": "Mr. Mime",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Airy Wall",
+          "text": "If your opponent's Pokémon that has 2 or less Energy cards attached to it attacks Mr. Mime, prevent all damage done to Mr. Mime from that attack. If Mime Jr. is anywhere under Mr. Mime, prevent all effects of that attack, including damage, done to Mr. Mime.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "It is a pantomime expert that can create invisible but solid walls using miming gestures.",
+      "level": "33",
+      "attacks": [
+        {
+          "name": "Trick Play",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Put a coin next to your Active Pokémon without showing your opponent and cover it with your hand. Your opponent guesses if the coin is heads or tails. If he or she is wrong, this attack does 50 damage to the Defending Pokémon. If he or she is right, Mr. Mime does 20 damage to itself, and this attack's damage isn't affected by Weakness or Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-31",
+      "itemType": "Pokemon Card",
+      "number": "31",
+      "name": "Nidoqueen",
+      "stage": "Stage 2",
+      "evolvesFrom": "Nidorina",
+      "hp": "120",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Mother Pheromone",
+          "text": "The attack cost of your Nidoran ♀, Nidorina, Nidoran ♂, Nidorino, and Nidoking's attacks is Colorless less.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "Its entire body is armored with hard scales. It will protect the young in its burrow with its life.",
+      "level": "50",
+      "attacks": [
+        {
+          "name": "Give Aid",
+          "damage": "90",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "If you have the same number of or less Benched Pokémon than your opponent, this attack's base damage is 50 instead of 90."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-32",
+      "itemType": "Pokemon Card",
+      "number": "32",
+      "name": "Ninetales",
+      "stage": "Stage 1",
+      "evolvesFrom": "Vulpix",
+      "hp": "80",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "abilities": [
+        {
+          "name": "Color Shift",
+          "text": "Once during your turn (before your attack), you may choose 1 of your opponent's Pokémon. Ninetales is the same type as that Pokémon (all if that Pokémon is more than 1 type) until the end of your turn. This power can't be used if Ninetales is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.",
+      "level": "37",
+      "attacks": [
+        {
+          "name": "Fire Blast",
+          "damage": "60",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "text": "Discard a Fire Energy attached to Ninetales."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-33",
+      "itemType": "Pokemon Card",
+      "number": "33",
+      "name": "Rampardos",
+      "stage": "Stage 2",
+      "evolvesFrom": "Cranidos",
+      "hp": "120",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Kazuyuki Kano",
+      "text": "Its powerful head butt has enough power to shatter even the most durable things upon impact.",
+      "level": "48",
+      "attacks": [
+        {
+          "name": "Assurance",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "As long as the Defending Pokémon's remaining HP is 60 or less, this attack's base damage is 60 instead of 30."
+        },
+        {
+          "name": "Hasty Headbutt",
+          "damage": "100",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "Rampardos does 20 damage to itself. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-34",
+      "itemType": "Pokemon Card",
+      "number": "34",
+      "name": "Slaking",
+      "stage": "Stage 2",
+      "evolvesFrom": "Vigoroth",
+      "hp": "140",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "abilities": [
+        {
+          "name": "Energetic Impulse",
+          "text": "Once during your turn (before your attack), if Slaking is your Active Pokémon, you may flip a coin. If heads, Slaking's Lazy Blow attack's base damage is 130 during this turn. If tails, Slaking can't attack or retreat during this turn. (If Slaking is no longer your Active Pokémon, this effect ends.)",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "The world's laziest Pokémon. When it is lounging, it is actually saving energy for striking back.",
+      "level": "56",
+      "attacks": [
+        {
+          "name": "Lazy Blow",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-35",
+      "itemType": "Pokemon Card",
+      "number": "35",
+      "name": "Sudowoodo",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Atsuko Nishida",
+      "text": "Despite appearing to be a tree, its body is closer to rocks and stones. It is very weak to water.",
+      "level": "22",
+      "attacks": [
+        {
+          "name": "Sidestep",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If Bonsly is anywhere under Sudowoodo, flip a coin. If heads, prevent all effects of an attack, including damage, done to Sudowoodo during your opponent's next turn."
+        },
+        {
+          "name": "Persuade",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon. The new Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-36",
+      "itemType": "Pokemon Card",
+      "number": "36",
+      "name": "Toxicroak",
+      "stage": "Stage 1",
+      "evolvesFrom": "Croagunk",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Daisuke Ito",
+      "abilities": [
+        {
+          "name": "Poison Sacs",
+          "text": "Your opponent can't remove the Special Condition Poisoned by evolving or devolving his or her Poisoned Pokémon. (This also includes putting a Pokémon Level-Up card onto the Poisoned Pokémon.)",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal.",
+      "level": "39",
+      "attacks": [
+        {
+          "name": "Knuckle Claws",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-37",
+      "itemType": "Pokemon Card",
+      "number": "37",
+      "name": "Unown [I]",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Daisuke Ito",
+      "abilities": [
+        {
+          "name": "ITEM",
+          "text": "Once during your turn (before your attack), if you have Unown I, Unown T, Unown E, and Unown M on your Bench, you may search your deck for a Trainer card, show it to your opponent, and put it into your hand. Shuffle your deck afterward. You can't use more than 1 ITEM Poké-Power each turn.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Shaped like ancient writing, it is a huge mystery whether language or UNOWN came first.",
+      "level": "16",
+      "attacks": [
+        {
+          "name": "Hidden Power",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Choose an Energy card attached to the Defending Pokémon and put it face down. Treat that card as a Special Energy card that provides Colorless Energy and doesn't have any effect other than providing Energy. Put that card face up at the end of your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-38",
+      "itemType": "Pokemon Card",
+      "number": "38",
+      "name": "Ursaring",
+      "stage": "Stage 1",
+      "evolvesFrom": "Teddiursa",
+      "hp": "100",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "text": "In its territory, it leaves scratches on trees that bear delicious berries or fruits.",
+      "level": "38",
+      "attacks": [
+        {
+          "name": "Bad Temper",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Confused. During your opponent's next turn, that Pokémon's attacks do 60 more damage to the Active Pokémon (before applying Weakness and Resistance)."
+        },
+        {
+          "name": "Defensive Claw",
+          "damage": "60+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If Teddiursa is on your Bench, this attack does 60 damage plus 20 more damage. If Teddiursa is on your Bench and has any damage counters on it, this attack does 60 damage plus 40 more damage and remove all damage counters from that Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-39",
+      "itemType": "Pokemon Card",
+      "number": "39",
+      "name": "Walrein",
+      "stage": "Stage 2",
+      "evolvesFrom": "Sealeo",
+      "hp": "130",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Midori Harada",
+      "abilities": [
+        {
+          "name": "Freeze-up",
+          "text": "Once during your turn, when you play Walrein from your hand to evolve 1 of your Pokémon, you may flip 2 coins. If both are heads, discard 1 of the Defending Pokémon and all cards attached to it. (This doesn't count as a Knocked Out Pokémon.)",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.",
+      "level": "51",
+      "attacks": [
+        {
+          "name": "Ice Bind",
+          "damage": "70",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "If your opponent doesn't discard a card from his or her hand, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-40",
+      "itemType": "Pokemon Card",
+      "number": "40",
+      "name": "Whiscash",
+      "stage": "Stage 1",
+      "evolvesFrom": "Barboach",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Daisuke Ito",
+      "text": "It is very territorial. It repels foes by setting of tremors that extend over a three-mile radius.",
+      "level": "41",
+      "attacks": [
+        {
+          "name": "Fury",
+          "damage": "20×",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 20 damage times the number of damage counters on Whiscash."
+        },
+        {
+          "name": "Magnitude",
+          "damage": "60",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 20 damage to each Benched Pokémon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-41",
+      "itemType": "Pokemon Card",
+      "number": "41",
+      "name": "Bayleef",
+      "stage": "Stage 1",
+      "evolvesFrom": "Chikorita",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Midori Harada",
+      "text": "The buds that ring its neck give off a spicy aroma that perks people up.",
+      "level": "28",
+      "attacks": [
+        {
+          "name": "Evolution Impulse",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for an Evolution card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Leaf Boomerang",
+          "damage": "30×",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-42",
+      "itemType": "Pokemon Card",
+      "number": "42",
+      "name": "Chingling",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Emi Yoshida",
+      "abilities": [
+        {
+          "name": "Baby Evolution",
+          "text": "Once during your turn (before your attack), you may put Chimecho from your hand onto Chingling (this counts as evolving Chingling) and remove all damage counters from Chingling.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "It emits cries by agitating an orb at the back of its throat. It moves with flouncing hops.",
+      "level": "6",
+      "attacks": [
+        {
+          "name": "Inviting Bell",
+          "text": "Search your deck for a Supporter card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-43",
+      "itemType": "Pokemon Card",
+      "number": "43",
+      "name": "Cranidos",
+      "stage": "Stage 1",
+      "evolvesFrom": "Skull Fossil",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "text": "It lived in jungles around 100 million years ago. Its skull is as hard as iron.",
+      "level": "24",
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Steamroll",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-44",
+      "itemType": "Pokemon Card",
+      "number": "44",
+      "name": "Croconaw",
+      "stage": "Stage 1",
+      "evolvesFrom": "Totodile",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Evolutionary Vitality",
+          "text": "Once during your turn, when you play Croconaw from your hand to evolve 1 of your Pokémon, you may look at the top 5 cards of your deck. Choose all Energy cards you find there, show them to your opponent, and put them into your hand. Put the other cards back on top of your deck. Shuffle your deck afterward.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Once it bites down, it won't let go until it loses its fangs. New fangs quickly grow into place.",
+      "level": "27",
+      "attacks": [
+        {
+          "name": "Hover Over",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-45",
+      "itemType": "Pokemon Card",
+      "number": "45",
+      "name": "Dewgong",
+      "stage": "Stage 1",
+      "evolvesFrom": "Seel",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Masakazu Fukuda",
+      "abilities": [
+        {
+          "name": "Cold Fat",
+          "text": "As long as Dewgong is Asleep, any damage done to Dewgong by attacks is reduced by 40 (after applying Weakness and Resistance).",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "In snow, the pure white coat covering its body obscures it from predators.",
+      "level": "36",
+      "attacks": [
+        {
+          "name": "Collapse",
+          "damage": "60",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Dewgong is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-46",
+      "itemType": "Pokemon Card",
+      "number": "46",
+      "name": "Dodrio",
+      "stage": "Stage 1",
+      "evolvesFrom": "Doduo",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Masakazu Fukuda",
+      "text": "When DODUO evolves into this odd breed, one of its heads splits into two. It runs at nearly 40 mph.",
+      "level": "34",
+      "attacks": [
+        {
+          "name": "Fury Attack",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "name": "Triple Pick",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Choose 3 of your opponent's Evolved Pokémon. This attack does 30 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-47",
+      "itemType": "Pokemon Card",
+      "number": "47",
+      "name": "Dunsparce",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Midori Harada",
+      "text": "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.",
+      "level": "21",
+      "attacks": [
+        {
+          "name": "Snake Hook",
+          "text": "Draw a card."
+        },
+        {
+          "name": "Bite and Run",
+          "damage": "10",
+          "text": "Switch Dunsparce with 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-48",
+      "itemType": "Pokemon Card",
+      "number": "48",
+      "name": "Gabite",
+      "stage": "Stage 1",
+      "evolvesFrom": "Gible",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "There is a long-held belief that medicine made from its scale will heal even incurable illnesses.",
+      "level": "32",
+      "attacks": [
+        {
+          "name": "Gather Up",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your discard pile for up to 2 Energy cards, show them to your opponent, and put them into your hand."
+        },
+        {
+          "name": "Marvelous Shine",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads put 4 damage counters on 1 of your opponent's Pokémon. If tails, remove 4 damage counters from 1 of your Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Colorless",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-49",
+      "itemType": "Pokemon Card",
+      "number": "49",
+      "name": "Girafarig",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Midori Harada",
+      "text": "Its tail also has a small brain. It bites to repel any foe trying to sneak up on it from behind.",
+      "level": "27",
+      "attacks": [
+        {
+          "name": "Crane Neck",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a Trainer card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Psybeam",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-50",
+      "itemType": "Pokemon Card",
+      "number": "50",
+      "name": "Golbat",
+      "stage": "Stage 1",
+      "evolvesFrom": "Zubat",
+      "hp": "70",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kazuyuki Kano",
+      "text": "It loves the blood of humans and Pokémon. It flies around at night in search of neck veins.",
+      "level": "22",
+      "attacks": [
+        {
+          "name": "Pulse Search",
+          "damage": "30",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Look at your opponent's hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-51",
+      "itemType": "Pokemon Card",
+      "number": "51",
+      "name": "Graveler",
+      "stage": "Stage 1",
+      "evolvesFrom": "Geodude",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "text": "GRAVELER make their homes on sheer cliff faces by gouging out numerous horizontal holes.",
+      "level": "34",
+      "attacks": [
+        {
+          "name": "Rock Cannon",
+          "damage": "30×",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. This attack does 30 damage times the number of heads."
+        },
+        {
+          "name": "Rock Slide",
+          "damage": "40",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 10 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-52",
+      "itemType": "Pokemon Card",
+      "number": "52",
+      "name": "Happiny",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yuka Morii",
+      "abilities": [
+        {
+          "name": "Baby Evolution",
+          "text": "Once during your turn (before your attack), you may put Chansey from your hand onto Happiny (this counts as evolving Happiny) and remove all damage counters from Happiny.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "It loves round white things. It carries and egg-shaped rock in imitation of CHANSEY.",
+      "level": "8",
+      "attacks": [
+        {
+          "name": "Lively",
+          "text": "Remove 2 damage counters from 1 of your Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-53",
+      "itemType": "Pokemon Card",
+      "number": "53",
+      "name": "Lairon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Aron",
+      "hp": "80",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Midori Harada",
+      "text": "For food, it digs up iron ore. It smashes its steely body against others to fight over territory.",
+      "level": "32",
+      "attacks": [
+        {
+          "name": "Mend",
+          "cost": [
+            "Metal"
+          ],
+          "text": "Search your discard pile for a Metal Energy card and attach it to Lairon. If you do, remove 2 damage counters from Lairon."
+        },
+        {
+          "name": "Confront",
+          "damage": "50",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-54",
+      "itemType": "Pokemon Card",
+      "number": "54",
+      "name": "Magmar",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "text": "Born in the spout of a volcano, its body is covered by flames that shimmer like the sun.",
+      "level": "30",
+      "attacks": [
+        {
+          "name": "Flare",
+          "damage": "20",
+          "cost": [
+            "Fire"
+          ]
+        },
+        {
+          "name": "Flamethrower",
+          "damage": "50",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Discard an Energy attached to Magmar."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-55",
+      "itemType": "Pokemon Card",
+      "number": "55",
+      "name": "Masquerain",
+      "stage": "Stage 1",
+      "evolvesFrom": "Surskit",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Midori Harada",
+      "text": "Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.",
+      "level": "32",
+      "attacks": [
+        {
+          "name": "Centrifugal Force",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 20 damage times the number of Colorless Energy in the Defending Pokémon's Retreat Cost (after applying effects to the Retreat Cost)."
+        },
+        {
+          "name": "Swirling Ripple",
+          "damage": "30+",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": "If your opponent has any Water Pokémon in play, this attack does 30 damage plus 30 more damage and the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-56",
+      "itemType": "Pokemon Card",
+      "number": "56",
+      "name": "Nidorina",
+      "stage": "Stage 1",
+      "evolvesFrom": "Nidoran ♀",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Atsuko Nishida",
+      "text": "When it senses danger, it raises all the barbs on its body. These barbs grow slower than NIDORINO's.",
+      "level": "25",
+      "attacks": [
+        {
+          "name": "Rescue",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your discard pile for up to 2 Pokémon, show them to your opponent, and put them into your hand."
+        },
+        {
+          "name": "Scratch",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-57",
+      "itemType": "Pokemon Card",
+      "number": "57",
+      "name": "Octillery",
+      "stage": "Stage 1",
+      "evolvesFrom": "Remoraid",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "It lives in the gaps of boulders and in holes on the seafloor. Its suction cups grip prey tightly.",
+      "level": "32",
+      "attacks": [
+        {
+          "name": "Crash Bomber",
+          "damage": "30+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon has any Special Energy cards attached to it, this attack does 30 damage plus 30 more damage. Then, discard a Special Energy card attached to the Defending Pokémon."
+        },
+        {
+          "name": "Aqua Liner",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "Choose 1 of your opponent's Benched Pokémon. This attack does 40 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-58",
+      "itemType": "Pokemon Card",
+      "number": "58",
+      "name": "Parasect",
+      "stage": "Stage 1",
+      "evolvesFrom": "Paras",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Masakazu Fukuda",
+      "text": "A mushroom grown larger than the host's body controls PARASECT. It scatters poisonous spores.",
+      "level": "36",
+      "attacks": [
+        {
+          "name": "Wild Spores",
+          "damage": "20",
+          "cost": [
+            "Grass"
+          ],
+          "text": "If Parasect evolved from Paras during this turn, this attack does 40 damage and the Defending Pokémon is now Asleep and Poisoned."
+        },
+        {
+          "name": "Extend Fungus",
+          "damage": "60",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Remove 2 damage counters from Parasect."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-59",
+      "itemType": "Pokemon Card",
+      "number": "59",
+      "name": "Pupitar",
+      "stage": "Stage 1",
+      "evolvesFrom": "Larvitar",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Midori Harada",
+      "text": "Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket.",
+      "level": "31",
+      "attacks": [
+        {
+          "name": "Pressurized Gas",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Rocket Tackle",
+          "damage": "50",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Pupitar does 10 damage to itself. Flip a coin. If heads, prevent all damage done to Pupitar by attacks during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-60",
+      "itemType": "Pokemon Card",
+      "number": "60",
+      "name": "Quilava",
+      "stage": "Stage 1",
+      "evolvesFrom": "Cyndaquil",
+      "hp": "80",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Atsuko Nishida",
+      "text": "It intimidates foes with the heat of its flames. The fire burn more strongly when it readies to fight.",
+      "level": "25",
+      "attacks": [
+        {
+          "name": "Fireworks",
+          "damage": "40",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, discard a Fire Energy attached to Quilava."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-61",
+      "itemType": "Pokemon Card",
+      "number": "61",
+      "name": "Sandslash",
+      "stage": "Stage 1",
+      "evolvesFrom": "Sandshrew",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Atsuko Nishida",
+      "text": "It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.",
+      "level": "37",
+      "attacks": [
+        {
+          "name": "Spike Armor",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, if Sandslash is damaged by an opponent's attack (even if Sandslash is Knocked Out), put 4 damage counters on the Attacking Pokémon."
+        },
+        {
+          "name": "Poison Spike",
+          "damage": "60",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon already has any damage counters on it, that Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-62",
+      "itemType": "Pokemon Card",
+      "number": "62",
+      "name": "Sealeo",
+      "stage": "Stage 1",
+      "evolvesFrom": "Spheal",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouki Saitou",
+      "text": "It habitually spins things on its nose. By doing so, it learns textures and odors.",
+      "level": "27",
+      "attacks": [
+        {
+          "name": "Ice Rider",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-63",
+      "itemType": "Pokemon Card",
+      "number": "63",
+      "name": "Shieldon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Armor Fossil",
+      "hp": "80",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouki Saitou",
+      "text": "A Pokémon that lived in jungles around 100 million years ago. Its facial hide is extremely hard.",
+      "level": "26",
+      "attacks": [
+        {
+          "name": "Hard Face",
+          "damage": "20",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done to Shieldon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Shield Attack",
+          "damage": "40+",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 40 damage plus 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-64",
+      "itemType": "Pokemon Card",
+      "number": "64",
+      "name": "Tropius",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kazuyuki Kano",
+      "text": "Because it continually ate only its favorite fruit, the fruit started growing around its neck.",
+      "level": "28",
+      "attacks": [
+        {
+          "name": "Bonus Leaf",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Remove 3 damage counters from each of your Benched Pokémon that has any Grass Energy attached to it."
+        },
+        {
+          "name": "Whirlwind",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-65",
+      "itemType": "Pokemon Card",
+      "number": "65",
+      "name": "Unown [E]",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Daisuke Ito",
+      "abilities": [
+        {
+          "name": "EQUIP",
+          "text": "Once during your turn (before your attack), if Unown E is on your Bench, you may discard all cards attached to Unown E and attach Unown E to 1 of your Pokémon as a Pokémon Tool card. As long as Unown E is attached to a Pokémon, that Pokémon gets +10 HP.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Shaped like ancient writing, it is a huge mystery whether language or UNOWN came first.",
+      "level": "18",
+      "attacks": [
+        {
+          "name": "Hidden Power",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, whenever your opponent flips a coin, treat it as tails."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-66",
+      "itemType": "Pokemon Card",
+      "number": "66",
+      "name": "Unown [M]",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kazuyuki Kano",
+      "abilities": [
+        {
+          "name": "MAGNET",
+          "text": "Once during your turn (before your attack), if Unown M is your Active Pokémon, you may flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with 1 of the Defending Pokémon. This power can't be used if Unown M is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Shaped like ancient writing, it is a huge mystery whether language or UNOWN came first.",
+      "level": "15",
+      "attacks": [
+        {
+          "name": "Hidden Power",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 damage. If tails, this attack does 30 damage to 1 of your Pokémon, and this attack's damage isn't affected by Weakness or Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-67",
+      "itemType": "Pokemon Card",
+      "number": "67",
+      "name": "Unown [T]",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kazuyuki Kano",
+      "abilities": [
+        {
+          "name": "THROW",
+          "text": "Once during your turn (before your attack), if Unown T is your Active Pokémon, you may discard a card from your hand. Then, flip a coin. If heads, put 2 damage counters on 1 of your opponent's Benched Pokémon. This power can't be used if Unown T is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Shaped like ancient writing, it is a huge mystery whether language or UNOWN came first.",
+      "level": "14",
+      "attacks": [
+        {
+          "name": "Hidden Power",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Look at your opponent's hand and choose 1 card, then have your opponent shuffle that card into his or her deck. Then, show your opponent your hand and he or she chooses 1 card. Shuffle that card into your deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-68",
+      "itemType": "Pokemon Card",
+      "number": "68",
+      "name": "Vigoroth",
+      "stage": "Stage 1",
+      "evolvesFrom": "Slakoth",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Masakazu Fukuda",
+      "text": "Its heart beats at a tenfold tempo, so it cannot sit still even for a moment.",
+      "level": "24",
+      "attacks": [
+        {
+          "name": "Wake-up Punch",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If Vigoroth evolved from Slakoth during this turn and Slakoth was Asleep, this attack's base damage is 60 instead of 10."
+        },
+        {
+          "name": "Fury Swipes",
+          "damage": "30×",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-69",
+      "itemType": "Pokemon Card",
+      "number": "69",
+      "name": "Abra",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "It sleeps for 18 hours a day. Even when awake, it teleports itself while remaining seated.",
+      "level": "8",
+      "attacks": [
+        {
+          "name": "Play Search",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Look at the top 5 cards of your deck, choose 1 of them, and put it into your hand. Put the other 4 cards back on top of your deck. Shuffle your deck afterward."
+        },
+        {
+          "name": "Ultra Evolution",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Search your deck for Alakazam and put it on Abra (this counts as evolving Abra). Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-70",
+      "itemType": "Pokemon Card",
+      "number": "70",
+      "name": "Aipom",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "It uses its tail to pluck fruits that are out of reach. Its tail is more adept than its real hands.",
+      "level": "17",
+      "attacks": [
+        {
+          "name": "Tail Whap",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Throw Off",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Before doing damage, discard all Pokémon Tool cards attached to that Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-71",
+      "itemType": "Pokemon Card",
+      "number": "71",
+      "name": "Aron",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Common",
+      "artist": "Yuka Morii",
+      "text": "It usually lives deep in mountains. However, hunger may drive it to eat railroad tracks and cars.",
+      "level": "15",
+      "attacks": [
+        {
+          "name": "Steel Tackle",
+          "damage": "30",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "text": "Aron does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-72",
+      "itemType": "Pokemon Card",
+      "number": "72",
+      "name": "Barboach",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "It coats its entire body with a slimy fluid so it can squirm and slip away if grabbed.",
+      "level": "12",
+      "attacks": [
+        {
+          "name": "Mud Spit",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-73",
+      "itemType": "Pokemon Card",
+      "number": "73",
+      "name": "Bidoof",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Yusuke Ohmura",
+      "text": "Wacan Berry: Any damage done to Bidoof by attacks from Lightning Pokémon is reduced by 20 (after applying Weakness and Resistance).",
+      "level": "11",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-74",
+      "itemType": "Pokemon Card",
+      "number": "74",
+      "name": "Bronzor",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "Implements shaped like it were discovered in ancient tombs. It is unknown if they are related.",
+      "level": "8",
+      "attacks": [
+        {
+          "name": "Dull Light",
+          "damage": "20",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-75",
+      "itemType": "Pokemon Card",
+      "number": "75",
+      "name": "Buizel",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Kenkichi Toyama",
+      "text": "Chesto Berry: If Buizel is Asleep, remove the Special Condition Asleep from Buizel at the end of each player's turn.",
+      "level": "12",
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-76",
+      "itemType": "Pokemon Card",
+      "number": "76",
+      "name": "Chansey",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "text": "It is said to deliver happiness. Being compassionate, it shares its eggs with injured people.",
+      "level": "31",
+      "attacks": [
+        {
+          "name": "Scrunch",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, prevent all damage done to Chansey by attacks during your opponent's next turn."
+        },
+        {
+          "name": "Double-edge",
+          "damage": "80",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Chansey does 60 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-77",
+      "itemType": "Pokemon Card",
+      "number": "77",
+      "name": "Chikorita",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "It uses the leaf on its head to determine the temperature and humidity. It loves to sunbathe.",
+      "level": "10",
+      "attacks": [
+        {
+          "name": "Sleep Scent",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Jump On",
+          "damage": "10+",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-78",
+      "itemType": "Pokemon Card",
+      "number": "78",
+      "name": "Croagunk",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "Its cheeks hold poison sacs. It tries to catch foes off guard to jab them with toxic fingers.",
+      "level": "17",
+      "attacks": [
+        {
+          "name": "Ghastly Sound",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent can't play any Supporter cards from his or her hand during his or her next turn."
+        },
+        {
+          "name": "Finger Poke",
+          "damage": "20",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-79",
+      "itemType": "Pokemon Card",
+      "number": "79",
+      "name": "Cyndaquil",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Masakazu Fukuda",
+      "text": "It has a timid nature. If it is startled, the flames on its back burn more vigorously.",
+      "level": "12",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10"
+        },
+        {
+          "name": "Live Coal",
+          "damage": "20",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-80",
+      "itemType": "Pokemon Card",
+      "number": "80",
+      "name": "Doduo",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "The brains in its two heads appear to communicate emotions to each other with a telepathic power.",
+      "level": "18",
+      "attacks": [
+        {
+          "name": "Double Stab",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "name": "Accelerating Stab",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Doduo can't use Accelerating Stab during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-81",
+      "itemType": "Pokemon Card",
+      "number": "81",
+      "name": "Electrike",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
+      "level": "16",
+      "attacks": [
+        {
+          "name": "Electromagnetic Jam",
+          "damage": "10",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Flip a coin. If heads, your opponent can't attach any Energy cards from his or her hand to the Active Pokémon during his or her next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-82",
+      "itemType": "Pokemon Card",
+      "number": "82",
+      "name": "Exeggcute",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
+      "level": "12",
+      "attacks": [
+        {
+          "name": "Direct-hit Bomb",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin for each Energy attached to Exeggcute. Choose 1 of your opponent's Pokémon. For each heads, this attack does 10 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-83",
+      "itemType": "Pokemon Card",
+      "number": "83",
+      "name": "Finneon",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "After long exposure to sunlight, the patterns on its tail fins shine vividly when darkness arrives.",
+      "level": "12",
+      "attacks": [
+        {
+          "name": "Elegant Swim",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, prevent all effects of an attack, including damage, done to Finneon during your opponent's next turn."
+        },
+        {
+          "name": "Tackle",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-84",
+      "itemType": "Pokemon Card",
+      "number": "84",
+      "name": "Geodude",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "Many live on mountain trails and remain half buried while keeping an eye on climbers.",
+      "level": "12",
+      "attacks": [
+        {
+          "name": "Stone Throw",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Choose 2 of your opponent's Benched Pokémon. This attack does 10 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-85",
+      "itemType": "Pokemon Card",
+      "number": "85",
+      "name": "Gible",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Hiroki Fuchino",
+      "text": "It nests in small, horizontal holes in cave walls. It pounces to catch prey that stray too close.",
+      "level": "9",
+      "attacks": [
+        {
+          "name": "Push Down",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Colorless",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-86",
+      "itemType": "Pokemon Card",
+      "number": "86",
+      "name": "Kricketot",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "text": "It shakes its head back to front, causing its antennae to hit each other and sound like a xylophone.",
+      "level": "9",
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "name": "Sling",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-87",
+      "itemType": "Pokemon Card",
+      "number": "87",
+      "name": "Larvitar",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Masakazu Fukuda",
+      "text": "A Pokémon that eats soil. Once it has eaten a large mountain, it goes to sleep so it can grow.",
+      "level": "18",
+      "attacks": [
+        {
+          "name": "Mountain Bite",
+          "damage": "10+",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "You may discard the top card of your deck. If you do, this attack does 10 damage plus 10 more damage and Larvitar is now Asleep."
+        },
+        {
+          "name": "Hammer In",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-88",
+      "itemType": "Pokemon Card",
+      "number": "88",
+      "name": "Magby",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "abilities": [
+        {
+          "name": "Baby Evolution",
+          "text": "Once during your turn (before your attack), you may put Magmar from your hand onto Magby (this counts as evolving Magby) and remove all damage counters from Magby.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Its body temperature is around 1,100 degrees F. It is healthy if it is breathing yellow flames.",
+      "level": "5",
+      "attacks": [
+        {
+          "name": "Scorch",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Burned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-89",
+      "itemType": "Pokemon Card",
+      "number": "89",
+      "name": "Magikarp",
+      "stage": "Basic",
+      "hp": "30",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Yusuke Ohmura",
+      "text": "It is said to be the world's weakest Pokémon. No one knows why it has managed to survive.",
+      "level": "13",
+      "attacks": [
+        {
+          "name": "Flail",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Does 10 damage times the number of damage counters on Magikarp."
+        },
+        {
+          "name": "Dragon Rage",
+          "damage": "60",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "Flip 2 coins. If either of them is tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-90",
+      "itemType": "Pokemon Card",
+      "number": "90",
+      "name": "Murkrow",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "text": "It is believed that seeing this Pokémon at night will bring about ominous occurrences.",
+      "level": "20",
+      "attacks": [
+        {
+          "name": "Swarm",
+          "text": "Search your deck for Murkrow and put it onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "name": "Hide Crowd",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Switch Murkrow with 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-91",
+      "itemType": "Pokemon Card",
+      "number": "91",
+      "name": "Nidoran ♀",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "While it does not prefer to fight, even one drop of the poison it secretes from barbs can be fatal.",
+      "level": "12",
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for Nidoran ♂ or Nidoran ♀ and put it onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "name": "Poison Sting",
+          "damage": "20",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-92",
+      "itemType": "Pokemon Card",
+      "number": "92",
+      "name": "Paras",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "Mushrooms named tochukaso grow on its back. They grow along with the host PARAS.",
+      "level": "16",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Mushroom Tackle",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-93",
+      "itemType": "Pokemon Card",
+      "number": "93",
+      "name": "Pichu",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Yuka Morii",
+      "abilities": [
+        {
+          "name": "Baby Evolution",
+          "text": "Once during your turn (before your attack), you may put Pikachu from your hand onto Pichu (this counts as evolving Pichu) and remove all damage counters from Pichu.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "The electric pouches on its cheeks are still small. They cannot store much electricity yet.",
+      "level": "6",
+      "attacks": [
+        {
+          "name": "Chupi",
+          "damage": "20",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-94",
+      "itemType": "Pokemon Card",
+      "number": "94",
+      "name": "Pikachu",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Sumiyoshi Kizuki",
+      "abilities": [
+        {
+          "name": "Electro Recycle",
+          "text": "Once during your turn (before your attack), if Pichu is anywhere under Pikachu, you may search your discard pile for a Lightning Energy card, show it to your opponent, and put it into your hand. This power can't be used if Pikachu is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
+      "level": "15",
+      "attacks": [
+        {
+          "name": "BikaBika",
+          "damage": "20+",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-95",
+      "itemType": "Pokemon Card",
+      "number": "95",
+      "name": "Remoraid",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Sumiyoshi Kizuki",
+      "text": "It squirts water forcefully from its mouth to shoot down flying prey.",
+      "level": "15",
+      "attacks": [
+        {
+          "name": "Sharpshooting",
+          "cost": [
+            "Water"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 10 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Numbing Water",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-96",
+      "itemType": "Pokemon Card",
+      "number": "96",
+      "name": "Sandshrew",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.",
+      "level": "16",
+      "attacks": [
+        {
+          "name": "Sand Attack",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        },
+        {
+          "name": "Ram",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-97",
+      "itemType": "Pokemon Card",
+      "number": "97",
+      "name": "Seel",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "A Pokémon that lives on icebergs. It swims in the sea using the point on its head to break up ice.",
+      "level": "18",
+      "attacks": [
+        {
+          "name": "Freezing Headbutt",
+          "damage": "10",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-98",
+      "itemType": "Pokemon Card",
+      "number": "98",
+      "name": "Shinx",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Lee HyunJung",
+      "text": "Rawst Berry: If Shinx is Burned, remove the Special Condition Burned from Shinx at the end of each player's turn.",
+      "level": "9",
+      "attacks": [
+        {
+          "name": "Plasma",
+          "damage": "10",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Flip a coin. If heads, search your discard pile for a Lightning Energy card and attach it to Shinx."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-99",
+      "itemType": "Pokemon Card",
+      "number": "99",
+      "name": "Slakoth",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Yuka Morii",
+      "text": "It spends nearly all its time in a day sprawled out. Just seeing it makes one drowsy.",
+      "level": "7",
+      "attacks": [
+        {
+          "name": "Drowsy",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Both Slakoth and the Defending Pokémon are now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-100",
+      "itemType": "Pokemon Card",
+      "number": "100",
+      "name": "Snorunt",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "In the snow country, certain folklore says a house will prosper if a SNORUNT lives there.",
+      "level": "14",
+      "attacks": [
+        {
+          "name": "Collect",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw a card."
+        },
+        {
+          "name": "Snowball",
+          "damage": "20",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-101",
+      "itemType": "Pokemon Card",
+      "number": "101",
+      "name": "Snover",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "It lives on snowy mountains. Having had little contact with humans, it is boldly inquisitive.",
+      "level": "20",
+      "attacks": [
+        {
+          "name": "Curiosity",
+          "text": "Look at your opponent's hand."
+        },
+        {
+          "name": "Snowball Fight",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, Snover does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-102",
+      "itemType": "Pokemon Card",
+      "number": "102",
+      "name": "Spheal",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Sumiyoshi Kizuki",
+      "text": "It rolls across ice floes to reach shore because its body is poorly shaped for swimming.",
+      "level": "17",
+      "attacks": [
+        {
+          "name": "Rollout",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Willpower",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, during your next turn, Spheal's Rollout attack's base damage is 40."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-103",
+      "itemType": "Pokemon Card",
+      "number": "103",
+      "name": "Spinarak",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "It sets a trap by spinning a web with thin but strong silk. It waits motionlessly for prey to arrive.",
+      "level": "18",
+      "attacks": [
+        {
+          "name": "Impound",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "name": "Double Scratch",
+          "damage": "20×",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-104",
+      "itemType": "Pokemon Card",
+      "number": "104",
+      "name": "Surskit",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head.",
+      "level": "14",
+      "attacks": [
+        {
+          "name": "Sleep Inducer",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Switch 1 of your opponent's Benched Pokémon with 1 of the Defending Pokémon. The new Defending Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-105",
+      "itemType": "Pokemon Card",
+      "number": "105",
+      "name": "Teddiursa",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Yuka Morii",
+      "text": "It lets honey soak into its paws so it can lick them all the time. Every sets of paws tastes unique.",
+      "level": "20",
+      "attacks": [
+        {
+          "name": "Rest",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Remove all Special Conditions and 2 damage counters from Teddiursa. Teddiursa is now Asleep."
+        },
+        {
+          "name": "Sweet Palm",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Before doing damage, remove 1 damage counter from the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-106",
+      "itemType": "Pokemon Card",
+      "number": "106",
+      "name": "Totodile",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "It has the habit of biting anything with its developed jaws. Even its Trainer need to be careful.",
+      "level": "15",
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": "10"
+        },
+        {
+          "name": "Shining Fang",
+          "damage": "10+",
+          "cost": [
+            "Water"
+          ],
+          "text": "If the Defending Pokémon already has any damage counters on it, this attack does 10 damage plus 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-107",
+      "itemType": "Pokemon Card",
+      "number": "107",
+      "name": "Vulpix",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "It controls balls of fire. As it grows, its six tails split from their tips to make more tails.",
+      "level": "16",
+      "attacks": [
+        {
+          "name": "Fire Soul",
+          "damage": "20",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "text": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-108",
+      "itemType": "Pokemon Card",
+      "number": "108",
+      "name": "Zubat",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "Even though it has no eyes, it can sense obstacles using ultrasonic waves it emits from its mouth.",
+      "level": "8",
+      "attacks": [
+        {
+          "name": "Supersonic",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Bite",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-109",
+      "itemType": "Trainer Card",
+      "number": "109",
+      "name": "Bebe's Search",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Choose a card from your hand and put it on top of your deck. Search your deck for a Pokémon, show it to your opponent, and put it into your hand. Shuffle your deck afterward. (If this is the only card in your hand, you can't play this card.)"
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-110",
+      "itemType": "Trainer Card",
+      "number": "110",
+      "name": "Dusk Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Look at the 7 cards from the bottom of your deck. Choose 1 Pokémon you find there, show it to your opponent, and put it into your hand. Put the remaining cards back on top of your deck. Shuffle your deck afterward."
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-111",
+      "itemType": "Trainer Card",
+      "number": "111",
+      "name": "Fossil Excavator",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kanako Eo",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Search your deck or discard pile for a Trainer card that has Fossil in its name or a Stage 1 or Stage 2 Evolution card that evolves from a Fossil. Show it to your opponent and put it into your hand. If you searched your deck, shuffle your deck afterward."
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-112",
+      "itemType": "Trainer Card",
+      "number": "112",
+      "name": "Lake Boundary",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.,Apply Weakness for each Pokémon (both yours and your opponent's) as ×2 instead."
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-113",
+      "itemType": "Trainer Card",
+      "number": "113",
+      "name": "Night Maintenance",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Search your discard pile for up to 3 in any combination of Pokémon and basic Energy cards. Show them to your opponent and shuffle them into your deck."
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-114",
+      "itemType": "Trainer Card",
+      "number": "114",
+      "name": "Quick Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Reveal cards from your deck until you reveal a Pokémon. Show that Pokémon to your opponent and put it into your hand. Shuffle the other revealed cards back into your deck. (If you don't reveal a Pokémon, shuffle all the revealed cards back into your deck.)"
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-115",
+      "itemType": "Trainer Card",
+      "number": "115",
+      "name": "Team Galactic's Wager",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Each player shuffles his or her hand into his or her deck, and you and your opponent play \"Rock-Paper-Scissors.\" The player who wins draws up to 6 cards. The player who loses draws up to 3 cards. (You draw your cards first.)"
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-116",
+      "itemType": "Trainer Card",
+      "number": "116",
+      "name": "Armor Fossil",
+      "hp": "50",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Armor Stone",
+          "text": "Whenever Armor Fossil would be damaged by your opponent's attack, flip a coin until you get tails. For each heads, reduce that damage by 10.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "Play Armor Fossil as if it were a Colorless Basic Pokémon. (Armor Fossil counts as a Trainer card as well, but if Armor Fossil is Knocked Out, this counts as a Knocked Out Pokémon.) Armor Fossil can't be affected by any Special Conditions and can't retreat. At any time during your turn before your attack, you may discard Armor Fossil from play. (This doesn't count as a Knocked Out Pokémon.)"
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-117",
+      "itemType": "Trainer Card",
+      "number": "117",
+      "name": "Skull Fossil",
+      "hp": "50",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Skull Stone",
+          "text": "During your opponent's turn, if Skull Fossil would be Knocked Out by damage from an opponent's attack, flip a coin until you get tails. For each heads, put 1 damage counter on the Attacking Pokémon.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "Play Skull Fossil as if it were a Colorless Basic Pokémon. (Skull Fossil counts as a Trainer card as well, but if Skull Fossil is Knocked Out, this counts as a Knocked Out Pokémon.) Skull Fossil can't be affected by any Special Conditions and can't retreat. At any time during your turn before your attack, you may discard Skull Fossil from play. (This doesn't count as a Knocked Out Pokémon.)"
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-118",
+      "itemType": "Energy Card",
+      "number": "118",
+      "name": "Multi Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Rare",
+      "artist": "Takumi Akabane",
+      "text": "Attach Multi Energy to 1 of your Pokémon. While in play, Multi Energy provides every type of Energy but provides only 1 Energy at a time. (Has no effect other than providing Energy.) Multi Energy provides Colorless Energy when attached to a Pokémon that already has Special Energy cards attached to it."
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-119",
+      "itemType": "Energy Card",
+      "number": "119",
+      "name": "Darkness Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Takumi Akabane",
+      "text": "If the Pokémon Darkness Energy is attached to attacks, the attack does 10 more damage to the Active Pokémon (before applying Weakness and Resistance). Ignore this effect if the Pokémon that Darkness Energy is attached to isn't Darkness. Darkness Energy provides Darkness Energy. (Doesn't count as a basic Energy card.)"
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-120",
+      "itemType": "Energy Card",
+      "number": "120",
+      "name": "Metal Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Takumi Akabane",
+      "text": "Damage done by attacks to the Pokémon that Metal Energy is attached to is reduced by 10 (after applying Weakness and Resistance). Ignore this effect if the Pokémon that Metal Energy is attached to isn't Metal. Metal Energy provides Metal Energy. (Doesn't count as a basic Energy card.)"
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-121",
+      "itemType": "Pokemon Card",
+      "number": "121",
+      "name": "Electivire LV.X",
+      "stage": "Level-Up",
+      "evolvesFrom": "Electivire",
+      "hp": "120",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "artist": "Shizurow",
+      "abilities": [
+        {
+          "name": "Shocking Tail",
+          "text": "As long as Electivire is your Active Pokémon, whenever your opponent attaches an Energy card from his or her hand to 1 of his or her Pokémon, put 2 damage counters on that Pokémon.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "Put this card onto your Active Electivire. Electivire LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.",
+      "level": "X",
+      "attacks": [
+        {
+          "name": "Pulse Barrier",
+          "damage": "50",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Discard all of your opponent's Pokémon Tool cards and Stadium cards in play. If you do, prevent all effects, including damage, done to Electivire during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-122",
+      "itemType": "Pokemon Card",
+      "number": "122",
+      "name": "Lucario LV.X",
+      "stage": "Level-Up",
+      "evolvesFrom": "Lucario",
+      "hp": "110",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Stance",
+          "text": "Once during your turn (before your attack), when you put Lucario LV.X from your hand onto your Active Lucario, you may use this power. Prevent all effects of an attack, including damage, done to Lucario during your opponent's next turn. (If Lucario is no longer your Active Pokémon, this effect ends.)",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Put this card onto your Active Lucario. Lucario LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.",
+      "level": "X",
+      "attacks": [
+        {
+          "name": "Close Combat",
+          "damage": "80",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done to Lucario by attacks is increased by 30 (after applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-123",
+      "itemType": "Pokemon Card",
+      "number": "123",
+      "name": "Magmortar LV.X",
+      "stage": "Level-Up",
+      "evolvesFrom": "Magmortar",
+      "hp": "130",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "artist": "Shizurow",
+      "abilities": [
+        {
+          "name": "Torrid Wave",
+          "text": "Once during your turn (before your attack), if Magmortar is your Active Pokémon, you may choose 1 of the Defending Pokémon. That Pokémon is now Burned. Put 3 damage counters instead of 2 on that Pokémon between turns. This power can't be used if Magmortar is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Put this card onto your Active Magmortar. Magmortar LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.",
+      "level": "X",
+      "attacks": [
+        {
+          "name": "Flame Bluster",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "text": "Discard 2 Fire Energy attached to Magmortar. Choose 1 of your opponent's Pokémon. This attack does 100 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) During your next turn, Magmortar can't use Flame Bluster."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-mysterious-treasures-124",
+      "itemType": "Trainer Card",
+      "number": "124",
+      "name": "Time-Space Distortion",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Shizurow",
+      "text": "Flip 3 coins. For each heads, search your discard pile for a Pokémon, show it to your opponent, and put it into your hand."
+    }
+  ]
+}
