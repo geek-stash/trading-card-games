@@ -33,6 +33,37 @@ jobs:
         id: sync-jobs
         run: |
           for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
+            if [[ $file == *"images"* ]]; then
+              [[ $file =~ ^([^/]*)/([^/]*)/([^/]*)/([^/]*)/([^/]*)/([^/]*)$ ]]
+              setName=${BASH_REMATCH[-3]}
+            else
+              [[ $file =~ ^([^/]*)/([^/]*)/([^/]*)/([^/]*)/([^/]*)$ ]]
+              setName=${BASH_REMATCH[-2]}
+            fi
+
+            if [[ -z $currentSetName ]]; then
+              currentSetName=$setName
+            fi
+
+            if [[ $currentSetName != $setName ]]; then
+              pokemonFilePaths=[${pokemonFilePaths::-1}]
+
+              echo $pokemonFilePaths
+
+              CODE=`curl --write-out '%{http_code}' \
+                --silent \
+                --request POST \
+                --header 'content-type: application/json' \
+                --url '${{ secrets.POKEMON_SYNC_ENDPOINT }}' \
+                --data ${pokemonFilePaths}`
+            
+              echo $CODE
+
+              unset pokemonFilePaths
+
+              currentSetName=$setName
+            fi
+
             if [[ $file == *"pokemon"* ]]; then
               pokemonFilePaths+='"geek-stash/trading-card-games/main/'${file}'",'
             fi
