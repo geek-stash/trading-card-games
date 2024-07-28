@@ -1,0 +1,5145 @@
+{
+  "setId": "tcg-pokemon-diamond-pearl",
+  "setVariants": [
+    {
+      "id": "reverse-holo",
+      "name": "Reverse Holo",
+      "description": "The reverse holo print of the set.",
+      "type": "art",
+      "exclusions": [
+        "tcg-pokemon-diamond-pearl-booster-box",
+        "tcg-pokemon-diamond-pearl-booster-pack"
+      ]
+    },
+    {
+      "id": "unlimited",
+      "name": "Unlimited",
+      "description": "The unlimited print of the set.",
+      "type": "print-run"
+    }
+  ],
+  "cardCount": "130",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-diamond-pearl-booster-box",
+      "itemType": "Sealed Product",
+      "name": "Diamond Pearl Booster Box"
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-booster-pack",
+      "itemType": "Sealed Product",
+      "name": "Diamond Pearl Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-diamond-pearl-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Dialga",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Nakaoka",
+      "text": "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.",
+      "level": "68",
+      "attacks": [
+        {
+          "name": "Time Bellow",
+          "damage": "10",
+          "cost": [
+            "Metal"
+          ],
+          "text": "Draw a card."
+        },
+        {
+          "name": "Flash Cannon",
+          "damage": "40",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "text": "You may return all Energy cards attached to Dialga to your hand. If you do, remove the highest Stage Evolution card from the Defending Pokémon and shuffle that card into your opponent's deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Dusknoir",
+      "stage": "Stage 2",
+      "evolvesFrom": "Dusclops",
+      "hp": "120",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Takabon",
+      "abilities": [
+        {
+          "name": "Dark Palm",
+          "text": "Once during your turn (before your attack), if your opponent has 4 or more Benched Pokémon, you may choose 1 of them and shuffle that Pokémon and all cards attached to it into his or her deck. This power can't be used if Dusknoir if affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "The antenna on its head captures radio waves from the world of spirits that command it to take people there.",
+      "level": "42",
+      "attacks": [
+        {
+          "name": "Hard Feelings",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Put 5 damage counters on the Defending Pokémon. Then, count the number of Prize cards your opponent has taken and put that many damage counters on the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Colorless",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-3",
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Electivire",
+      "stage": "Stage 1",
+      "evolvesFrom": "Electabuzz",
+      "hp": "100",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Nakaoka",
+      "abilities": [
+        {
+          "name": "Intense Voltage",
+          "text": "As often as you like during your turn (before your attack), if Elekid is anywhere under Electivire, you may move a Lightning Energy attached to your Pokémon to Electivire. This power can't be used if Electivire is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "It pushes the tips of its two tails against the foe, then lets loose with over 20,000 volts of power.",
+      "level": "46",
+      "attacks": [
+        {
+          "name": "Giga Impact",
+          "damage": "60",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "You may discard all Lightning Energy attached to Electivire. If you do, this attack's base damage is 120 instead of 60."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-4",
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Empoleon",
+      "stage": "Stage 2",
+      "evolvesFrom": "Prinplup",
+      "hp": "130",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Nakaoka",
+      "text": "The three horns that extend from its beak attest to its power. The leader has the biggest horns.",
+      "level": "42",
+      "attacks": [
+        {
+          "name": "Ice Blade",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 40 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Aqua Jet",
+          "damage": "70",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Infernape",
+      "stage": "Stage 2",
+      "evolvesFrom": "Monferno",
+      "hp": "100",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Nakaoka",
+      "text": "It uses a special kind of martial arts involving all its limbs. Its fire never goes out.",
+      "level": "40",
+      "attacks": [
+        {
+          "name": "Meteor Punch",
+          "damage": "30×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. This attack does 30 damage times the number of heads."
+        },
+        {
+          "name": "Flare Blitz",
+          "damage": "90",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "text": "Discard all Fire Energy attached to Infernape."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-6",
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Lucario",
+      "stage": "Stage 1",
+      "evolvesFrom": "Riolu",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Sugimori",
+      "text": "It has the ability to sense the auras of all things. It understands human speech.",
+      "level": "30",
+      "attacks": [
+        {
+          "name": "Feint",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Resistance."
+        },
+        {
+          "name": "Aura Sphere",
+          "damage": "40",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "Does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-7",
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Luxray",
+      "stage": "Stage 2",
+      "evolvesFrom": "Luxio",
+      "hp": "120",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mikiko Takeda",
+      "abilities": [
+        {
+          "name": "Gleam Eyes",
+          "text": "Once during your turn, when you play Luxray from your hand to evolve 1 of your Pokémon, you may look at your opponent's hand. If your opponent's Bench isn't full, choose 1 Basic Pokémon from your opponent's hand, and put it onto his or her Bench. Then, switch it with the Defending Pokémon.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "It has eyes that can see through anything. It spots and captures prey hiding behind objects.",
+      "level": "48",
+      "attacks": [
+        {
+          "name": "Lightning Star",
+          "damage": "80",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "text": "Move all Lightning Energy attached to Luxray to 1 of your Benched Pokémon. (Ignore this effect if you don't have any Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-8",
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "Magnezone",
+      "stage": "Stage 2",
+      "evolvesFrom": "Magneton",
+      "hp": "120",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Nakaoka",
+      "abilities": [
+        {
+          "name": "Magnetize",
+          "text": "If you have any Metal Energy attached to your Active Pokémon, the Retreat Cost for that Pokémon is 0.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "It evolved from exposure to a special magnetic field. Three units generate magnetism.",
+      "level": "48",
+      "attacks": [
+        {
+          "name": "Metal Blast",
+          "damage": "50+",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 50 damage plus 10 more damage for each Metal Energy attached to Magnezone."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-9",
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Manaphy",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Nakaoka",
+      "text": "Born on a cold seafloor, it will swim great distances to return to its birthplace.",
+      "level": "20",
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "name": "Aqua Ring",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "Switch Manaphy with 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Mismagius",
+      "stage": "Stage 1",
+      "evolvesFrom": "Misdreavus",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mikiko Takeda",
+      "text": "Its cries sound like incantations. Those hearing it are tormented by headaches and hallucinations.",
+      "level": "37",
+      "attacks": [
+        {
+          "name": "Avenge",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Count the number of your Pokémon that have any damage counters on them. Put that many damage counters on the Defending Pokémon."
+        },
+        {
+          "name": "Psywave",
+          "damage": "30+",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Does 30 damage plus 20 more damage for each Energy attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Colorless",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Palkia",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Nakaoka",
+      "text": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
+      "level": "67",
+      "attacks": [
+        {
+          "name": "Spacial Rend",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ],
+          "text": "Search your deck for a Stadium card, show it to your opponent, and put it into your hand. Shuffle your deck afterward. If there is any Stadium card in play, discard it."
+        },
+        {
+          "name": "Transback",
+          "damage": "40",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "You may flip a coin. If heads, discard all Energy attached to Palkia and put the Defending Pokémon and all cards attached to it on top of your opponent's deck. Your opponent shuffles his or her deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Rhyperior",
+      "stage": "Stage 2",
+      "evolvesFrom": "Rhydon",
+      "hp": "140",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Nakaoka",
+      "abilities": [
+        {
+          "name": "Earth Fissure",
+          "text": "Once during your turn, when you play Rhyperior from your hand to evolve 1 of your Pokémon, you may discard the top 3 cards from your opponent's deck.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "It puts rocks in holes in its palms and uses its muscles to shoot them. Geodude are shot at rare times.",
+      "level": "61",
+      "attacks": [
+        {
+          "name": "Rock Wrecker",
+          "damage": "80",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Weakness or Resistance. Rhyperior can't attack during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Roserade",
+      "stage": "Stage 1",
+      "evolvesFrom": "Roselia",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Nakaoka",
+      "text": "It attracts prey with a sweet aroma, then downs it with thorny whips hidden in its arms.",
+      "level": "33",
+      "attacks": [
+        {
+          "name": "Poison Sting",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": "The Defending Pokémon is now Poisoned."
+        },
+        {
+          "name": "Spike Whip",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "If Budew is anywhere under Roserade, choose 1 of your opponent's Benched Pokémon. This attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Shiftry",
+      "stage": "Stage 2",
+      "evolvesFrom": "Nuzleaf",
+      "hp": "120",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Masakazu Fukuda",
+      "abilities": [
+        {
+          "name": "Darkness Fan",
+          "text": "Once during your turn (before your attack), if Shiftry is your Active Pokémon, you may flip a coin. If heads, choose 1 Evolved Pokémon on your opponent's Bench, remove the highest Stage Evolution card from that Pokémon, and put it back into his or her hand. This power can't be used if Shiftry is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.",
+      "level": "48",
+      "attacks": [
+        {
+          "name": "Spirit Dance",
+          "damage": "50+",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 50 damage plus 20 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Skuntank",
+      "stage": "Stage 1",
+      "evolvesFrom": "Stunky",
+      "hp": "90",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Hiroaki Ito",
+      "text": "It sprays a vile-smelling fluid from the tip of its tail to attack. Its range is over 160 feet.",
+      "level": "36",
+      "attacks": [
+        {
+          "name": "Frustration",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon that doesn't have any damage counters on it. This attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Toxic Cloud",
+          "damage": "30",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned. Put 2 damage counters instead of 1 on the Defending Pokémon between turns."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-16",
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Staraptor",
+      "stage": "Stage 2",
+      "evolvesFrom": "Staravia",
+      "hp": "100",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Masahiko Ishii",
+      "text": "It has a savage nature. It will courageously challenge foes that are much larger.",
+      "level": "54",
+      "attacks": [
+        {
+          "name": "Accelerative Dive",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing. If heads, prevent all damage done to Staraptor by attacks (both yours and your opponent's) until the end of your next turn."
+        },
+        {
+          "name": "Brave Heart",
+          "damage": "100",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, Staraptor does 100 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Torterra",
+      "stage": "Stage 2",
+      "evolvesFrom": "Grotle",
+      "hp": "140",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Masahiko Ishii",
+      "text": "Small Pokémon occasionally gather on its unmoving back to begin building their nests.",
+      "level": "45",
+      "attacks": [
+        {
+          "name": "Body Slam",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Leaf Storm",
+          "damage": "60",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Remove 2 damage counters from each of your Grass Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-18",
+      "itemType": "Pokemon Card",
+      "number": "18",
+      "name": "Azumarill",
+      "stage": "Stage 1",
+      "evolvesFrom": "Marill",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Naoyo Kimura",
+      "text": "It lives in rivers and lakes. In water, its coloring and patterns trick the vision of foes.",
+      "level": "35",
+      "attacks": [
+        {
+          "name": "Defense Curl",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, prevent all damage done to Azumarill during your opponent's next turn."
+        },
+        {
+          "name": "Bubble Pump",
+          "damage": "40+",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "If Azumarill has 3 or more Energy attached to it, this attack does 40 damage plus 20 more damage. If Azurill is anywhere under Azumarill, flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-19",
+      "itemType": "Pokemon Card",
+      "number": "19",
+      "name": "Beautifly",
+      "stage": "Stage 2",
+      "evolvesFrom": "Silcoon",
+      "hp": "100",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Atsuko Nishida",
+      "text": "It has an aggressive nature. It stabs prey with its long, narrow mouth to drain the prey's fluids.",
+      "level": "29",
+      "attacks": [
+        {
+          "name": "Whirlwind",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "name": "Giga Drain",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "After your attack, remove from Beautifly the number of damage counters equal to the damage you did to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-20",
+      "itemType": "Pokemon Card",
+      "number": "20",
+      "name": "Bibarel",
+      "stage": "Stage 1",
+      "evolvesFrom": "Bidoof",
+      "hp": "100",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "text": "It makes its nest by damming streams with bark and mud. It is known as an industrious worker.",
+      "level": "26",
+      "attacks": [
+        {
+          "name": "Rest",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Remove all Special Conditions and 4 damage counters from Bibarel. Bibarel is now Asleep."
+        },
+        {
+          "name": "Take Down",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Bibarel does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-21",
+      "itemType": "Pokemon Card",
+      "number": "21",
+      "name": "Carnivine",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "text": "It attracts prey with its sweet-smelling saliva, then chomps down. It takes a whole day to eat prey.",
+      "level": "32",
+      "attacks": [
+        {
+          "name": "Swallow Up",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Before doing damage, count the remaining HP of the Defending Pokémon and Carnivine. If the Defending Pokémon has fewer remaining HP than Carnivine's, this attack does 60 damage instead."
+        },
+        {
+          "name": "Wring Out",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed and discard an Energy card attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-22",
+      "itemType": "Pokemon Card",
+      "number": "22",
+      "name": "Clefable",
+      "stage": "Stage 1",
+      "evolvesFrom": "Clefairy",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "text": "Rarely seen by people, it is said to be drawn by the full moon to play at deserted lakes.",
+      "level": "37",
+      "attacks": [
+        {
+          "name": "Double Slap",
+          "damage": "30×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+        },
+        {
+          "name": "Metronome",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Choose 1 of the Defending Pokémon's attacks. Metronome copies that attack except for its Energy cost. (You must still do anything else in order to use that attack.) Clefable performs that attack."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-23",
+      "itemType": "Pokemon Card",
+      "number": "23",
+      "name": "Drapion",
+      "stage": "Stage 1",
+      "evolvesFrom": "Skorupi",
+      "hp": "100",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "text": "It has the power in its clawed arms to make scrap of a car. The tips of its claws release poison.",
+      "level": "41",
+      "attacks": [
+        {
+          "name": "Stomp",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 20 more damage."
+        },
+        {
+          "name": "Poison Claws",
+          "damage": "50",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-24",
+      "itemType": "Pokemon Card",
+      "number": "24",
+      "name": "Drifblim",
+      "stage": "Stage 1",
+      "evolvesFrom": "Drifloon",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "text": "It's drowzy in daytime, but flies off in the evening in big groups. No one knows where they go.",
+      "level": "40",
+      "attacks": [
+        {
+          "name": "Wind Wave",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your discard pile for up to 5 in any combination of Pokémon and Supporter cards. Show them to your opponent and shuffle them into your deck."
+        },
+        {
+          "name": "Explosive Smoke",
+          "damage": "60",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Does 10 damage to each Benched Pokémon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Colorless",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-25",
+      "itemType": "Pokemon Card",
+      "number": "25",
+      "name": "Dustox",
+      "stage": "Stage 2",
+      "evolvesFrom": "Cascoon",
+      "hp": "120",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "text": "A nocturnal Pokémon. Drawn by streetlights, they messily eat the leaves of trees lining boulevards.",
+      "level": "34",
+      "attacks": [
+        {
+          "name": "Stun Spore",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Toxic Dust",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Poisoned. Put 2 damage counters instead of 1 on the Defending Pokémon between turns."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-26",
+      "itemType": "Pokemon Card",
+      "number": "26",
+      "name": "Floatzel",
+      "stage": "Stage 1",
+      "evolvesFrom": "Buizel",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Masahiko Ishii",
+      "text": "It floats using its well-developed floatation sac. It assists in the rescues of drowning people.",
+      "level": "29",
+      "attacks": [
+        {
+          "name": "Screw Tail",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy attached to the Defending Pokémon."
+        },
+        {
+          "name": "Water Gun",
+          "damage": "40+",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "Does 40 damage plus 20 more damage for each Water Energy attached to Floatzel but not used to pay for this attack's Energy cost. You can't add more than 40 damage in this way."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-27",
+      "itemType": "Pokemon Card",
+      "number": "27",
+      "name": "Gengar",
+      "stage": "Stage 2",
+      "evolvesFrom": "Haunter",
+      "hp": "110",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "text": "It hides in shadows. It is said that if Gengar is hiding, it cools that area by nearly 10 degrees F.",
+      "level": "39",
+      "attacks": [
+        {
+          "name": "Life Drain",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, put damage counter on the Defending Pokémon until it is 10 HP away from being Knocked Out."
+        },
+        {
+          "name": "Shadow Dance",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Put 4 damage counters on your opponent's Pokémon in any way you like. Then, switch Gengar with 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Colorless",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-28",
+      "itemType": "Pokemon Card",
+      "number": "28",
+      "name": "Heracross",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "text": "It gathers in forests to search for tree sap, its favorite food. It's strong enough to hurl foes.",
+      "level": "29",
+      "attacks": [
+        {
+          "name": "Pitch",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "name": "Horn Slash",
+          "damage": "30+",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 damage plus 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-29",
+      "itemType": "Pokemon Card",
+      "number": "29",
+      "name": "Hippowdon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Hippopotas",
+      "hp": "110",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "text": "It blasts internally stored sand from ports on its body to create a towering twister for attack.",
+      "level": "45",
+      "attacks": [
+        {
+          "name": "Vacuum Up",
+          "damage": "40",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "name": "Sand Eject",
+          "damage": "60",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your next turn, if an attack does damage to the Defending Pokémon (after applying Weakness and Resistance), that attack does 40 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-30",
+      "itemType": "Pokemon Card",
+      "number": "30",
+      "name": "Lopunny",
+      "stage": "Stage 1",
+      "evolvesFrom": "Buneary",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "text": "An extremely cautious Pokémon. It cloaks its body with its fluffy ear fur when it senses danger.",
+      "level": "33",
+      "attacks": [
+        {
+          "name": "Healing Wish",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. Remove a number of damage counters equal to the number of heads from 1 of your Pokémon."
+        },
+        {
+          "name": "Flop",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) You may switch Lopunny with 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-31",
+      "itemType": "Pokemon Card",
+      "number": "31",
+      "name": "Machamp",
+      "stage": "Stage 2",
+      "evolvesFrom": "Machoke",
+      "hp": "130",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "text": "It punches with its four arms at blinding speed. It can launch 1,000 punches in two seconds.",
+      "level": "59",
+      "attacks": [
+        {
+          "name": "Revenge",
+          "damage": "20+",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "If any of your Pokémon were Knocked Out by damage from an opponent's attack during his or her last turn, this attack does 20 damage plus 50 more damage."
+        },
+        {
+          "name": "Dynamic Punch",
+          "damage": "60+",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "Flip a coin. If heads, this attack does 60 damage plus 30 more damage and the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-32",
+      "itemType": "Pokemon Card",
+      "number": "32",
+      "name": "Medicham",
+      "stage": "Stage 1",
+      "evolvesFrom": "Meditite",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "text": "Through yoga training, it has honed its sixth sense. Its movements are elegant.",
+      "level": "42",
+      "attacks": [
+        {
+          "name": "Force Palm",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Count the number of damage counters on Medicham. Put that many damage counters on 1 of your opponent's Pokémon."
+        },
+        {
+          "name": "Spinning Kick",
+          "damage": "80",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Medicham does 20 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-33",
+      "itemType": "Pokemon Card",
+      "number": "33",
+      "name": "Munchlax",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Baby Evolution",
+          "text": "Once during your turn (before your attack), you may put Snorlax from your hand onto Munchlax (this counts as evolving Munchlax) and remove all damage counters from Munchlax.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "It wolfs down its weight in food once a day, swallowing food whole with almost no chewing.",
+      "level": "8",
+      "attacks": [
+        {
+          "name": "Heave",
+          "damage": "30×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Discard 2 cards from your hand. (If you can't discard 2 cards, this attack does nothing.) Flip 2 coins. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-34",
+      "itemType": "Pokemon Card",
+      "number": "34",
+      "name": "Noctowl",
+      "stage": "Stage 1",
+      "evolvesFrom": "Hoothoot",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Atsuko Nishida",
+      "text": "Its eyes are special. They can pick out objects as long as there is the tiniest amount of light.",
+      "level": "40",
+      "attacks": [
+        {
+          "name": "See Beyond",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Choose a card from your hand and put it as a Prize card face up. Then, choose 1 of your face-down Prize cards without looking and put it into your hand. This attack does nothing if all of your Prize cards are face up."
+        },
+        {
+          "name": "Extrasensory",
+          "damage": "30+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If you have the same number of cards in your hand as your opponent, this attack does 30 damage plus 50 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-35",
+      "itemType": "Pokemon Card",
+      "number": "35",
+      "name": "Pachirisu",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "text": "It makes fur balls that crackle with static electricity. It stores them with berries in tree holes.",
+      "level": "23",
+      "attacks": [
+        {
+          "name": "Minor Errand-Running",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Thunder Jolt",
+          "damage": "20",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Flip a coin. If tails, Pachirisu does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-36",
+      "itemType": "Pokemon Card",
+      "number": "36",
+      "name": "Purugly",
+      "stage": "Stage 1",
+      "evolvesFrom": "Glameow",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Masakazu Fukuda",
+      "text": "It is a brazen brute that barges its way into another Pokémon's nest and claims it as its own.",
+      "level": "44",
+      "attacks": [
+        {
+          "name": "High Hat",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Choose 1 card from your opponent's hand without looking and discard it."
+        },
+        {
+          "name": "Body Slam",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-37",
+      "itemType": "Pokemon Card",
+      "number": "37",
+      "name": "Snorlax",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "text": "Its stomach can digest any kind of food, even if it happens to be moldy or rotten.",
+      "level": "35",
+      "attacks": [
+        {
+          "name": "Block",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "name": "Ease Up",
+          "damage": "40+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Snorlax is now Asleep. If Snorlax is evolved from Munchlax, this attack does 40 damage plus 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-38",
+      "itemType": "Pokemon Card",
+      "number": "38",
+      "name": "Steelix",
+      "stage": "Stage 1",
+      "evolvesFrom": "Onix",
+      "hp": "110",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "text": "Tempered underground under high pressure and heat, its body is harder than any metal.",
+      "level": "50",
+      "attacks": [
+        {
+          "name": "Slam",
+          "damage": "30×",
+          "cost": [
+            "Metal"
+          ],
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+        },
+        {
+          "name": "Metal Slash",
+          "damage": "100",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Steelix can't attack during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-39",
+      "itemType": "Pokemon Card",
+      "number": "39",
+      "name": "Vespiquen",
+      "stage": "Stage 1",
+      "evolvesFrom": "Combee",
+      "hp": "100",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "text": "Its abdomen is a honeycomb for grubs. It raises its grubs on honey collected by COMBEE.",
+      "level": "40",
+      "attacks": [
+        {
+          "name": "Leaf Honey",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Discard a Grass Energy attached to Vespiquen and remove all damage counters from 1 of your Benched Grass Pokémon."
+        },
+        {
+          "name": "Attack Order",
+          "damage": "10×",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 10 damage times the number of Grass Pokémon in play (both yours and your opponent's)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-40",
+      "itemType": "Pokemon Card",
+      "number": "40",
+      "name": "Weavile",
+      "stage": "Stage 1",
+      "evolvesFrom": "Sneasel",
+      "hp": "80",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "Naoyo Kimura",
+      "text": "They live in cold regions, forming groups of four or five that hunt prey with impressive coordination.",
+      "level": "37",
+      "attacks": [
+        {
+          "name": "Nasty Plot",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Search your deck for any 1 card and put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Dark Pulse",
+          "damage": "10×",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Darkness"
+          ],
+          "text": "Does 10 damage times the total amount of Darkness Energy attached to all of your Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-41",
+      "itemType": "Pokemon Card",
+      "number": "41",
+      "name": "Wobbuffet",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "text": "It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.",
+      "level": "25",
+      "attacks": [
+        {
+          "name": "Countercharge",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, move all damage counters from Wobbuffet to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-42",
+      "itemType": "Pokemon Card",
+      "number": "42",
+      "name": "Wynaut",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Masakazu Fukuda",
+      "abilities": [
+        {
+          "name": "Baby Evolution",
+          "text": "Once during your turn (before your attack), you may put Wobbuffet from your hand onto Wynaut (this counts as evolving Wynaut) and remove all damage counters from Wynaut.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "It grows strong by pushing up against others en masse. It loves eating sweet fruit.",
+      "level": "6",
+      "attacks": [
+        {
+          "name": "Astonish",
+          "text": "Choose 1 card from your opponent's hand without looking. Look at the card you chose, then have your opponent shuffle that card into his or her deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-43",
+      "itemType": "Pokemon Card",
+      "number": "43",
+      "name": "Budew",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Baby Evolution",
+          "text": "Once during your turn (before your attack), you may put Roselia from your hand onto Budew (this counts as evolving Budew) and remove all damage counters from Budew.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.",
+      "level": "6",
+      "attacks": [
+        {
+          "name": "Errand-Running",
+          "text": "Search your deck for a Trainer card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-44",
+      "itemType": "Pokemon Card",
+      "number": "44",
+      "name": "Cascoon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Wurmple",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "It is hot inside its cocoon. All the cells in its body create the energy for it to evolve.",
+      "level": "8",
+      "attacks": [
+        {
+          "name": "Harden",
+          "cost": [
+            "Grass"
+          ],
+          "text": "During your opponent's next turn, if Cascoon would be damaged by an attack, prevent that attack's damage done to Cascoon if that damage is 30 or less."
+        },
+        {
+          "name": "Gooey Thread",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-45",
+      "itemType": "Pokemon Card",
+      "number": "45",
+      "name": "Cherrim",
+      "stage": "Stage 1",
+      "evolvesFrom": "Cherubi",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Atsuko Nishida",
+      "text": "It blooms during times of strong sunlight. It tries to make up for everything it endured as a bud.",
+      "level": "26",
+      "attacks": [
+        {
+          "name": "Worry Seed",
+          "damage": "20",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Magical Leaf",
+          "damage": "20+",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 20 more damage and remove 3 damage counters from Cherrim."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-46",
+      "itemType": "Pokemon Card",
+      "number": "46",
+      "name": "Drifloon",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "A Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.",
+      "level": "17",
+      "attacks": [
+        {
+          "name": "Blowing Wind",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, put 1 of your Benched Pokémon and all cards attached to on top of your deck. Shuffle your deck afterward."
+        },
+        {
+          "name": "Ominous Wind",
+          "damage": "10",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused and can't retreat during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Colorless",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-47",
+      "itemType": "Pokemon Card",
+      "number": "47",
+      "name": "Dusclops",
+      "stage": "Stage 1",
+      "evolvesFrom": "Duskull",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouki Saitou",
+      "text": "Its body is hollow. It is said that those who look into its body are sucked into the void.",
+      "level": "38",
+      "attacks": [
+        {
+          "name": "Roam",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, put 2 damage counters on each of your opponent's Pokémon. If tails, put 2 damage counters on 1 of your Pokémon."
+        },
+        {
+          "name": "Gravity Wave",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Does 10 damage to each of your opponent's Benched Pokémon that doesn't have a Retreat Cost. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Colorless",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-48",
+      "itemType": "Pokemon Card",
+      "number": "48",
+      "name": "Elekid",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Baby Evolution",
+          "text": "Once during your turn (before your attack), you may put Electabuzz from your hand onto Elekid (this counts as evolving Elekid) and remove all damage counters from Elekid.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "It generates electricity by whirling its arms. However, it can't store the energy it makes.",
+      "level": "6",
+      "attacks": [
+        {
+          "name": "Outlet",
+          "text": "Search your deck for a Lightning Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-49",
+      "itemType": "Pokemon Card",
+      "number": "49",
+      "name": "Grotle",
+      "stage": "Stage 1",
+      "evolvesFrom": "Turtwig",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "It lives along water in forests. In the daytime, it leaves the forest to sunbathe its treed shell.",
+      "level": "21",
+      "attacks": [
+        {
+          "name": "Synthesis",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Search your deck for a Grass Energy card and attach it to 1 of your Pokémon. Shuffle your deck afterward."
+        },
+        {
+          "name": "Cut",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-50",
+      "itemType": "Pokemon Card",
+      "number": "50",
+      "name": "Haunter",
+      "stage": "Stage 1",
+      "evolvesFrom": "Gastly",
+      "hp": "70",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Naoyo Kimura",
+      "text": "It can slip through any obstacle. It lurks inside walls to keep an eye on its foes.",
+      "level": "32",
+      "attacks": [
+        {
+          "name": "Hypnosis",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Dream Eater",
+          "damage": "60",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "If the Defending Pokémon is not Asleep, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Colorless",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-51",
+      "itemType": "Pokemon Card",
+      "number": "51",
+      "name": "Hippopotas",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "text": "It lives in arid places. Instead of perspiration, it expels grainy sand from its body.",
+      "level": "23",
+      "attacks": [
+        {
+          "name": "Yawn",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Sand Attack",
+          "damage": "10",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-52",
+      "itemType": "Pokemon Card",
+      "number": "52",
+      "name": "Luxio",
+      "stage": "Stage 1",
+      "evolvesFrom": "Shinx",
+      "hp": "80",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "Its claws loose electricity with enough amperage to cause fainting. They live in small groups.",
+      "level": "19",
+      "attacks": [
+        {
+          "name": "Fasten Claws",
+          "damage": "10+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 30 more damage."
+        },
+        {
+          "name": "Thunder Fang",
+          "damage": "30",
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-53",
+      "itemType": "Pokemon Card",
+      "number": "53",
+      "name": "Machoke",
+      "stage": "Stage 1",
+      "evolvesFrom": "Machop",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouki Saitou",
+      "text": "MACHOKE's boundless power is very dangerous, so it wears a belt that suppresses its energy.",
+      "level": "39",
+      "attacks": [
+        {
+          "name": "Karate Chop",
+          "damage": "40-",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Does 40 damage minus 10 damage for each damage counter on Machoke."
+        },
+        {
+          "name": "Seismic Toss",
+          "damage": "60",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-54",
+      "itemType": "Pokemon Card",
+      "number": "54",
+      "name": "Magneton",
+      "stage": "Stage 1",
+      "evolvesFrom": "Magnemite",
+      "hp": "70",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouki Saitou",
+      "text": "It is actually three MAGNEMITE linked by magnetism. A group can set off a magnetic storm.",
+      "level": "35",
+      "attacks": [
+        {
+          "name": "Tri Attack",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 20 damage times the number of heads."
+        },
+        {
+          "name": "Magnetic Ray",
+          "damage": "40",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Before doing damage, you may choose 1 of your opponent's Benched Pokémon that has any Energy attached to it and switch that Pokémon with 1 of the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-55",
+      "itemType": "Pokemon Card",
+      "number": "55",
+      "name": "Mantyke",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Midori Harada",
+      "abilities": [
+        {
+          "name": "Baby Evolution",
+          "text": "Once during your turn (before your attack), you may put Mantine from your hand onto Mantyke (this counts as evolving Mantyke) and remove all damage counters from Mantyke.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "A friendly Pokémon that captures the subtle flows of seawater using its two antennae.",
+      "level": "6",
+      "attacks": [
+        {
+          "name": "Call for Friends",
+          "text": "Search your deck for a Water Basic Pokémon, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-56",
+      "itemType": "Pokemon Card",
+      "number": "56",
+      "name": "Monferno",
+      "stage": "Stage 1",
+      "evolvesFrom": "Chimchar",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "To intimidate attackers, it stretches the fire on its tail to make itself appear bigger.",
+      "level": "18",
+      "attacks": [
+        {
+          "name": "Flame Dance",
+          "damage": "30",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Search your discard pile for a Fire Energy card and attach it to Monferno."
+        },
+        {
+          "name": "Fury Swipes",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-57",
+      "itemType": "Pokemon Card",
+      "number": "57",
+      "name": "Nuzleaf",
+      "stage": "Stage 1",
+      "evolvesFrom": "Seedot",
+      "hp": "80",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "The sound of its grass flute makes its listeners uneasy. It lives deep in forests.",
+      "level": "28",
+      "attacks": [
+        {
+          "name": "Dirty Trick",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy card attached to 1 of your opponent's Pokémon."
+        },
+        {
+          "name": "Razor Wind",
+          "damage": "40",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-58",
+      "itemType": "Pokemon Card",
+      "number": "58",
+      "name": "Prinplup",
+      "stage": "Stage 1",
+      "evolvesFrom": "Piplup",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "It lives alone, away from others. Apparently, every one of them believes it is the most important.",
+      "level": "20",
+      "attacks": [
+        {
+          "name": "Aqua Shower",
+          "cost": [
+            "Water"
+          ],
+          "text": "Does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Brine",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon that has any damage counters on it. This attack does 40 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-59",
+      "itemType": "Pokemon Card",
+      "number": "59",
+      "name": "Rapidash",
+      "stage": "Stage 1",
+      "evolvesFrom": "Ponyta",
+      "hp": "80",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Naoyo Kimura",
+      "text": "It gallops at nearly 150 mph. With its mane blazing ferociously, it races as if it were an arrow.",
+      "level": "34",
+      "attacks": [
+        {
+          "name": "Overrun",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Blaze Up",
+          "damage": "50",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, discard a Fire Energy attached to Rapidash and this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-60",
+      "itemType": "Pokemon Card",
+      "number": "60",
+      "name": "Rhydon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Rhyhorn",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Naoyo Kimura",
+      "text": "Its brain developed after it stood up on its hind legs. Its drill horn bores tunnels through solid rock.",
+      "level": "43",
+      "attacks": [
+        {
+          "name": "Storm Up",
+          "damage": "30+",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "If there is any Stadium card in play, this attack does 30 damage plus 20 more damage. Discard that Stadium card."
+        },
+        {
+          "name": "Crash Impact",
+          "damage": "60",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Rhydon does 10 damage to itself. Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-61",
+      "itemType": "Pokemon Card",
+      "number": "61",
+      "name": "Riolu",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "The aura that emanates from its body intensifies to alert others if it is afraid or sad.",
+      "level": "7",
+      "attacks": [
+        {
+          "name": "Wild Kick",
+          "damage": "30",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-62",
+      "itemType": "Pokemon Card",
+      "number": "62",
+      "name": "Seaking",
+      "stage": "Stage 1",
+      "evolvesFrom": "Goldeen",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Atsuko Nishida",
+      "text": "It makes its nest by hollowing out boulders in streams with its horn. It defends its eggs with its life.",
+      "level": "41",
+      "attacks": [
+        {
+          "name": "Flail",
+          "damage": "10×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 10 damage times the number of damage counters on Seaking."
+        },
+        {
+          "name": "Horn Drill",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Water"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-63",
+      "itemType": "Pokemon Card",
+      "number": "63",
+      "name": "Silcoon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Wurmple",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "It anchors itself by wrapping twigs with the silk from its body. It motionlessly awaits evolution.",
+      "level": "8",
+      "attacks": [
+        {
+          "name": "Harden",
+          "cost": [
+            "Grass"
+          ],
+          "text": "During your opponent's next turn, If Silcoon would be damaged by an attack, prevent that attack's damage done to Silcoon if that damage is 30 or less."
+        },
+        {
+          "name": "Entangling String",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-64",
+      "itemType": "Pokemon Card",
+      "number": "64",
+      "name": "Staravia",
+      "stage": "Stage 1",
+      "evolvesFrom": "Starly",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Masakazu Fukuda",
+      "text": "It flies around forests and fields in search of bug Pokémon. It stays within a huge flock.",
+      "level": "21",
+      "attacks": [
+        {
+          "name": "Whirlwind",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "name": "Clutch",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-65",
+      "itemType": "Pokemon Card",
+      "number": "65",
+      "name": "Unown [A]",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Nakaoka",
+      "abilities": [
+        {
+          "name": "ANALYZE",
+          "text": "Once during your turn (before your attack), if Unown A is on your Bench, you may look at the top 2 cards of your deck and put them back on top of your deck in any order.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Shaped like ancient writing, it is a huge mystery whether language or UNOWN came first.",
+      "level": "15",
+      "attacks": [
+        {
+          "name": "Hidden Power",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-66",
+      "itemType": "Pokemon Card",
+      "number": "66",
+      "name": "Unown [B]",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Nakaoka",
+      "abilities": [
+        {
+          "name": "BOUNCE",
+          "text": "Once during your turn (before your attack), if Unown B is on your Bench, you may flip a coin. If heads, discard all cards attached to any 1 of your Unown and shuffle that Pokémon back into your deck.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Shaped like ancient writing, it is a huge mystery whether language or UNOWN came first.",
+      "level": "12",
+      "attacks": [
+        {
+          "name": "Hidden Power",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-67",
+      "itemType": "Pokemon Card",
+      "number": "67",
+      "name": "Unown [C]",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Nakaoka",
+      "abilities": [
+        {
+          "name": "CALL",
+          "text": "Once during your turn (before your attack), if Unown C is on your Bench, you may flip coin. If heads, search your deck for any 1 Unown and put it onto your Bench. Shuffle your deck afterward.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Shaped like ancient writing, it is a huge mystery whether language or UNOWN came first.",
+      "level": "18",
+      "attacks": [
+        {
+          "name": "Hidden Power",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-68",
+      "itemType": "Pokemon Card",
+      "number": "68",
+      "name": "Unown [D]",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Nakaoka",
+      "abilities": [
+        {
+          "name": "DRAW",
+          "text": "Once during your turn (before your attack), if Unown D is on your Bench, you may flip a coin. If heads, each player may draw a card. (You draw your card first.)",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Shaped like ancient writing, it is a huge mystery whether language or UNOWN came first.",
+      "level": "14",
+      "attacks": [
+        {
+          "name": "Hidden Power",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-69",
+      "itemType": "Pokemon Card",
+      "number": "69",
+      "name": "Azurill",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Baby Evolution",
+          "text": "Once during your turn (before your attack), you may put Marill from your hand onto Azurill (this counts a evolving Azurill) and remove all damage counters from Azurill.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "A Pokémon that lives by water. It moves quickly on land by bouncing on its big tail.",
+      "level": "6",
+      "attacks": [
+        {
+          "name": "Delivery",
+          "text": "Put any 1 card from your discard pile into your hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-70",
+      "itemType": "Pokemon Card",
+      "number": "70",
+      "name": "Bidoof",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",
+      "level": "10",
+      "attacks": [
+        {
+          "name": "Amnesia",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+        },
+        {
+          "name": "Scavenge",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your discard pile for a Trainer card, show it to your opponent, and put it into your hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-71",
+      "itemType": "Pokemon Card",
+      "number": "71",
+      "name": "Bonsly",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "abilities": [
+        {
+          "name": "Baby Evolution",
+          "text": "Once during your turn (before your attack), you may put Sudowoodo from your hand onto Bonsly (this counts as evolving Bonsly) and remove all damage counters from Bonsly.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "It looks as if it is always crying. It is actually adjusting its body's fluid levels by eliminating excess.",
+      "level": "6",
+      "attacks": [
+        {
+          "name": "Fake Tears",
+          "text": "Flip a coin. If heads, your opponent can't play any Trainer cards from his or her hand during your opponent's next turn, and any damage done to Bonsly by attacks is reduced by 30 (after applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-72",
+      "itemType": "Pokemon Card",
+      "number": "72",
+      "name": "Buizel",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "It has a flotation sac that is like an inflatable collar. It floats on water with its head out.",
+      "level": "10",
+      "attacks": [
+        {
+          "name": "Splash About",
+          "damage": "10+",
+          "cost": [
+            "Water"
+          ],
+          "text": "If Buizel has less Energy attached to it than the Defending Pokémon, this attack does 10 damage plus 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-73",
+      "itemType": "Pokemon Card",
+      "number": "73",
+      "name": "Buneary",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "It slams foes by sharply uncoiling its rolled ears. It stings enough to make a grown-up cry in pain.",
+      "level": "11",
+      "attacks": [
+        {
+          "name": "Splash",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Jump Kick",
+          "damage": "10",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-74",
+      "itemType": "Pokemon Card",
+      "number": "74",
+      "name": "Chatot",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "It can learn and speak human words. If they gather, they all learn the same saying.",
+      "level": "27",
+      "attacks": [
+        {
+          "name": "Me First",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw a card."
+        },
+        {
+          "name": "Tone-Deaf",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-75",
+      "itemType": "Pokemon Card",
+      "number": "75",
+      "name": "Cherubi",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "The small ball holds the nutrients needed for evolution. Apparently, it is very sweet and tasty.",
+      "level": "7",
+      "attacks": [
+        {
+          "name": "Sleep Powder",
+          "cost": [
+            "Grass"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Leech Seed",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "If this attack does any damage to the Defending Pokémon (after applying Weakness and Resistance), remove 1 damage counter from Cherubi."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-76",
+      "itemType": "Pokemon Card",
+      "number": "76",
+      "name": "Chimchar",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "It agilely scales sheer cliffs to live atop craggy mountains. Its fire is put out when it sleeps.",
+      "level": "8",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "10"
+        },
+        {
+          "name": "Ember",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, discard a Fire Energy attached to Chimchar."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-77",
+      "itemType": "Pokemon Card",
+      "number": "77",
+      "name": "Clefairy",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "Thought to live with others on quiet mountains, it is popular for its adorable nature.",
+      "level": "18",
+      "attacks": [
+        {
+          "name": "Sing",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Moon Impact",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If Clefairy is evolved from Cleffa, this attack does 20 damage plus 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-78",
+      "itemType": "Pokemon Card",
+      "number": "78",
+      "name": "Cleffa",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Baby Evolution",
+          "text": "Once during your turn (before your attack), you may put Clefairy from your hand onto Cleffa (this counts as evolving Cleffa) and remove all damage counters from Cleffa.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Its silhouette is like a star. It is believed to arrive riding on shooting stars.",
+      "level": "5",
+      "attacks": [
+        {
+          "name": "Eeek",
+          "text": "Draw a card."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-79",
+      "itemType": "Pokemon Card",
+      "number": "79",
+      "name": "Combee",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "A Pokémon formed by three others. It busily carries sweet floral honey to VESPIQUEN.",
+      "level": "8",
+      "attacks": [
+        {
+          "name": "Soliciting Nectar",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Switch 1 of your opponent's Benched Pokémon with 1 of the Defending Pokémon. The new Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Gust",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-80",
+      "itemType": "Pokemon Card",
+      "number": "80",
+      "name": "Duskull",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "text": "It doggedly pursues its prey wherever it goes. However, the chase is abandoned at sunrise.",
+      "level": "15",
+      "attacks": [
+        {
+          "name": "Disable",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+        },
+        {
+          "name": "Night Shade",
+          "damage": "20",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Colorless",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-81",
+      "itemType": "Pokemon Card",
+      "number": "81",
+      "name": "Electabuzz",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "Half of all blackouts occur when this Pokémon appears at power plants and eats electricity.",
+      "level": "29",
+      "attacks": [
+        {
+          "name": "Thunderpunch",
+          "damage": "30+",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 damage plus 10 more damage. If tails, Electabuzz does 10 damage to itself."
+        },
+        {
+          "name": "Shock Wave",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If Electabuzz is evolved from Elekid, this attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-82",
+      "itemType": "Pokemon Card",
+      "number": "82",
+      "name": "Gastly",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "This Pokémon's body is 95% made up of gases, which are blown away by strong gusts of wind.",
+      "level": "12",
+      "attacks": [
+        {
+          "name": "Pain Payback",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Move 1 damage counter from Gastly to 1 of your opponent's Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Colorless",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-83",
+      "itemType": "Pokemon Card",
+      "number": "83",
+      "name": "Glameow",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "It claws if displeased and purrs when affectionate. Its fickleness if very popular among some.",
+      "level": "12",
+      "attacks": [
+        {
+          "name": "Charm",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 (before applying Weakness and Resistance)."
+        },
+        {
+          "name": "Pose",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-84",
+      "itemType": "Pokemon Card",
+      "number": "84",
+      "name": "Goldeen",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "text": "It swims elegantly by flittering its tail as if it were a dress. It has the look of a queen.",
+      "level": "14",
+      "attacks": [
+        {
+          "name": "Horn Attack",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Take Down",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Goldeen does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-85",
+      "itemType": "Pokemon Card",
+      "number": "85",
+      "name": "Hoothoot",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "text": "It always stands on one foot. Even when attacked, it does not brace itself using both feet.",
+      "level": "7",
+      "attacks": [
+        {
+          "name": "Hypnosis",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Kick Shot",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-86",
+      "itemType": "Pokemon Card",
+      "number": "86",
+      "name": "Machop",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "text": "It hefts a GRAVELER repeatedly to strengthen its entire body. It uses every type of martial arts.",
+      "level": "20",
+      "attacks": [
+        {
+          "name": "Low Kick",
+          "damage": "20",
+          "cost": [
+            "Fighting"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-87",
+      "itemType": "Pokemon Card",
+      "number": "87",
+      "name": "Magnemite",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "The units at its sides generate electromagnetic waves that keep it airborne. It feeds on electricity.",
+      "level": "10",
+      "attacks": [
+        {
+          "name": "Metal Sound",
+          "cost": [
+            "Metal"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Resonance",
+          "damage": "20+",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is Confused, this attack does 20 damage plus 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-88",
+      "itemType": "Pokemon Card",
+      "number": "88",
+      "name": "Marill",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "text": "Using its tail as a float, it dives underwater. It likes eating plants that grow on river bottoms.",
+      "level": "12",
+      "attacks": [
+        {
+          "name": "Rollout",
+          "damage": "10+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If Marill is evolved from Azurill, this attack does 10 damage plus 20 more damage."
+        },
+        {
+          "name": "Splashing Turn",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "Switch Marill with 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-89",
+      "itemType": "Pokemon Card",
+      "number": "89",
+      "name": "Meditite",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Masakazu Fukuda",
+      "text": "It eats just one berry a day. By enduring hunger, its spirit is tempered and made sharper.",
+      "level": "19",
+      "attacks": [
+        {
+          "name": "Detect",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Flip a coin. If heads, prevent all effects of an attack, including damage, done to Meditite during your opponent's next turn."
+        },
+        {
+          "name": "Meditate",
+          "damage": "10+",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Does 10 damage plus 10 more damage for each damage counter on the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-90",
+      "itemType": "Pokemon Card",
+      "number": "90",
+      "name": "Mime Jr.",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Baby Evolution",
+          "text": "Once during your turn (before your attack), you may put Mr. Mime from your hand onto Mime Jr. (this counts as evolving Mime Jr.) and remove all damage counters from Mime Jr.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "It habitually mimics foes. Once mimicked, the foe cannot take its eyes off this Pokémon.",
+      "level": "5",
+      "attacks": [
+        {
+          "name": "Mime",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Shuffle your hand into your deck. Then, draw a number of cards equal to the number of cards in your opponent's hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-91",
+      "itemType": "Pokemon Card",
+      "number": "91",
+      "name": "Misdreavus",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "It loves to sneak up on people late at night, then startle them with its shrieklike cry.",
+      "level": "16",
+      "attacks": [
+        {
+          "name": "Astonish",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Choose 1 card from your opponent's hand without looking. Look at the card you chose, then have your opponent shuffle that card into his or her deck."
+        },
+        {
+          "name": "Confuse Ray",
+          "damage": "20",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Colorless",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-92",
+      "itemType": "Pokemon Card",
+      "number": "92",
+      "name": "Onix",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "When it travels underground, it causes rumbling and tremors. It can move at 50 mph.",
+      "level": "22",
+      "attacks": [
+        {
+          "name": "Tunneling",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Choose up to 2 of your opponent's Benched Pokémon. This attack does 10 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.) Onix can't attack during your next turn."
+        },
+        {
+          "name": "Headbutt",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-93",
+      "itemType": "Pokemon Card",
+      "number": "93",
+      "name": "Piplup",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
+      "level": "9",
+      "attacks": [
+        {
+          "name": "Peck",
+          "damage": "10"
+        },
+        {
+          "name": "Water Splash",
+          "damage": "20+",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-94",
+      "itemType": "Pokemon Card",
+      "number": "94",
+      "name": "Ponyta",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "About an hour after birth, its fiery mane and tail grow out, giving it an impressive appearance.",
+      "level": "12",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Flame Tail",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Fire"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-95",
+      "itemType": "Pokemon Card",
+      "number": "95",
+      "name": "Rhyhorn",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "Its body is clad in a thick hide, and its tackles topple buildings. Unfortunately, it is not smart.",
+      "level": "19",
+      "attacks": [
+        {
+          "name": "Horn Attack",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Take Down",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Rhyhorn does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-96",
+      "itemType": "Pokemon Card",
+      "number": "96",
+      "name": "Roselia",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "ROSELIA raised on clean drinking water are known to grow vividly colored flowers.",
+      "level": "31",
+      "attacks": [
+        {
+          "name": "Toxic Spikes",
+          "cost": [
+            "Grass"
+          ],
+          "text": "The Defending Pokémon is now Poisoned. If Roselia is evolved from Budew, this attack does 10 damage to the Defending Pokémon."
+        },
+        {
+          "name": "Sweet Spike",
+          "damage": "10",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": "The Defending Pokémon is now Asleep. Remove 2 damage counters from 1 of your Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-97",
+      "itemType": "Pokemon Card",
+      "number": "97",
+      "name": "Seedot",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Masakazu Fukuda",
+      "text": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
+      "level": "9",
+      "attacks": [
+        {
+          "name": "Bide",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, during your opponent's next turn, if Seedot would be Knocked Out by damage from an attack, Seedot is not Knocked Out and its remaining HP becomes 10 instead."
+        },
+        {
+          "name": "Rollout",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-98",
+      "itemType": "Pokemon Card",
+      "number": "98",
+      "name": "Shinx",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
+      "level": "7",
+      "attacks": [
+        {
+          "name": "Spark",
+          "damage": "10",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-99",
+      "itemType": "Pokemon Card",
+      "number": "99",
+      "name": "Skorupi",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes.",
+      "level": "9",
+      "attacks": [
+        {
+          "name": "Poison Sting",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        },
+        {
+          "name": "Pin Missile",
+          "damage": "10×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 4 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-100",
+      "itemType": "Pokemon Card",
+      "number": "100",
+      "name": "Sneasel",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "It feeds on eggs stolen from nests. Its sharply hooked claws rip vulnerable spots on prey.",
+      "level": "21",
+      "attacks": [
+        {
+          "name": "Double Slap",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "name": "Feint Attack",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on that Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-101",
+      "itemType": "Pokemon Card",
+      "number": "101",
+      "name": "Starly",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "They flock in great numbers. Though small, they flap their wings with great power.",
+      "level": "8",
+      "attacks": [
+        {
+          "name": "Gust",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Quick Attack",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-102",
+      "itemType": "Pokemon Card",
+      "number": "102",
+      "name": "Stunky",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "It protects itself by spraying a noxious fluid from its rear. The stench lingers for 24 hours.",
+      "level": "17",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Severe Gas",
+          "damage": "10",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-103",
+      "itemType": "Pokemon Card",
+      "number": "103",
+      "name": "Turtwig",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "Made from soil, the shell on its back hardens when it drinks water. It lives along lakes.",
+      "level": "10",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10"
+        },
+        {
+          "name": "Razor Leaf",
+          "damage": "20",
+          "cost": [
+            "Grass"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-104",
+      "itemType": "Pokemon Card",
+      "number": "104",
+      "name": "Wurmple",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "It loves to eat leaves. If it is attacked by a STARLY, it will defend itself with its spiked rear.",
+      "level": "7",
+      "attacks": [
+        {
+          "name": "Needling Sting",
+          "damage": "10+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage."
+        },
+        {
+          "name": "String Shot",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-105",
+      "itemType": "Trainer Card",
+      "number": "105",
+      "name": "Double Full Heal",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Remove all Special Conditions from each of your Active Pokémon."
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-106",
+      "itemType": "Trainer Card",
+      "number": "106",
+      "name": "Energy Restore",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hideyuki Nakajima",
+      "text": "Flip 3 coins. For each heads, put a basic Energy card from your discard pile into your hand. If you don't have that many basic Energy cards in your discard pile, put all of them into your hand."
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-107",
+      "itemType": "Trainer Card",
+      "number": "107",
+      "name": "Energy Switch",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Move a basic Energy card attached to 1 of your Pokémon to another of your Pokémon."
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-108",
+      "itemType": "Trainer Card",
+      "number": "108",
+      "name": "Night Pokémon Center",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Choose 1 of your Pokémon. Flip 2 coins. If both are heads, remove all damage counters from that Pokémon. If both are tails, discard all Energy cards attached to that Pokémon."
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-109",
+      "itemType": "Trainer Card",
+      "number": "109",
+      "name": "PlusPower",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Attach PlusPower to 1 of your Pokémon. Discard this card at the end of your turn.,If the Pokémon PlusPower is attached to attacks, the attack does 10 more damage to the Active Pokémon (before applying Weakness and Resistance)."
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-110",
+      "itemType": "Trainer Card",
+      "number": "110",
+      "name": "Poké Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shin-ichi Yoshikawa",
+      "text": "Flip a coin. If heads, search your deck for a Pokémon, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-111",
+      "itemType": "Trainer Card",
+      "number": "111",
+      "name": "Pokédex HANDY910is",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Look at the top 2 cards of your deck, choose 1 of them, and put it into your hand. Put the other card on the bottom of your deck."
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-112",
+      "itemType": "Trainer Card",
+      "number": "112",
+      "name": "Professor Rowan",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Choose 1 card in your hand and shuffle the rest of your cards into your deck. Then, draw 4 cards. (If this is the only card in your hand, you can't play this card.)"
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-113",
+      "itemType": "Trainer Card",
+      "number": "113",
+      "name": "Rival",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Reveal the top 5 cards of your deck. Your opponent chooses 3 of those cards. Put those cards into your hand and put other 2 cards on top of your deck. Shuffle your deck afterward."
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-114",
+      "itemType": "Trainer Card",
+      "number": "114",
+      "name": "Speed Stadium",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.,Once during each player's turn, the player may flip a coin until he or she gets tails. For each heads, that player draws a card."
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-115",
+      "itemType": "Trainer Card",
+      "number": "115",
+      "name": "Super Scoop Up",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shizurow",
+      "text": "Flip a coin. If heads, return 1 of your Pokémon and all cards attached to it to your hand."
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-116",
+      "itemType": "Trainer Card",
+      "number": "116",
+      "name": "Warp Point",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Keiji Kinebuchi",
+      "text": "Your opponent switches 1 of his or her Defending Pokémon with 1 of his or her Benched Pokémon, if any. You switch 1 of your Active Pokémon with 1 of your Benched Pokémon, if any."
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-117",
+      "itemType": "Trainer Card",
+      "number": "117",
+      "name": "Energy Search",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "artist": "Kai Ishikawa",
+      "text": "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-118",
+      "itemType": "Trainer Card",
+      "number": "118",
+      "name": "Potion",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "artist": "Shin-ichi Yoshikawa",
+      "text": "Remove 2 damage counters from 1 of your Pokémon (remove 1 damage counter if that Pokémon has only 1)."
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-119",
+      "itemType": "Trainer Card",
+      "number": "119",
+      "name": "Switch",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "artist": "Ryo Ueda",
+      "text": "Switch 1 of your Active Pokémon with 1 of your Benched Pokémon."
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-120",
+      "itemType": "Pokemon Card",
+      "number": "120",
+      "name": "Empoleon LV.X",
+      "stage": "Level-Up",
+      "evolvesFrom": "Empoleon",
+      "hp": "140",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "artist": "Shizurow",
+      "abilities": [
+        {
+          "name": "Supreme Command",
+          "text": "Once during your turn (before your attack), you may choose up to 2 cards from your opponent's hand without looking and put them face down next to the Defending Pokémon. (These cards are not in play or in your opponent's hand.) At the end of your opponent's next turn, return those cards to your opponent's hand. This power can't be used if Empoleon is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Put this card onto your Active Empoleon. Empoleon LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.",
+      "level": "X",
+      "attacks": [
+        {
+          "name": "Hydro Impact",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 80 damage to that Pokémon (Don't apply Weakness and Resistance for Benched Pokémon.) Empoleon can't attack during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-121",
+      "itemType": "Pokemon Card",
+      "number": "121",
+      "name": "Infernape LV.X",
+      "stage": "Level-Up",
+      "evolvesFrom": "Infernape",
+      "hp": "120",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "artist": "Shizurow",
+      "abilities": [
+        {
+          "name": "Burning Head",
+          "text": "Once during your turn (before your attack), you may look at the top 3 cards of your deck, choose 1 of them, and put it into your hand. Discard the other 2 cards. This power can't be used if Infernape is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Put this card onto your Active Infernape. Infernape LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.",
+      "level": "X",
+      "attacks": [
+        {
+          "name": "Flare Up",
+          "damage": "150",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "text": "Search your discard pile for 8 Fire Energy cards, show them to your opponent, and shuffle them into your deck. (This attack does nothing if you don't have 8 Fire Energy cards in your discard pile.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-122",
+      "itemType": "Pokemon Card",
+      "number": "122",
+      "name": "Torterra LV.X",
+      "stage": "Level-Up",
+      "evolvesFrom": "Torterra",
+      "hp": "160",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "artist": "Shizurow",
+      "abilities": [
+        {
+          "name": "Forest Murmurs",
+          "text": "Once during your turn (before your attack), if you have more Prize cards left than your opponent, you may choose 1 of your opponent's Benched Pokémon and switch it with 1 of the Defending Pokémon. This power can't be used if Torterra is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Put this card onto your Active Torterra. Torterra LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.",
+      "level": "X",
+      "attacks": [
+        {
+          "name": "Vigorous Dash",
+          "damage": "100",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Torterra does 30 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-123",
+      "itemType": "Energy Card",
+      "number": "123",
+      "name": "Grass Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Common"
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-124",
+      "itemType": "Energy Card",
+      "number": "124",
+      "name": "Fire Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Common"
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-125",
+      "itemType": "Energy Card",
+      "number": "125",
+      "name": "Water Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Common"
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-126",
+      "itemType": "Energy Card",
+      "number": "126",
+      "name": "Lightning Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Common"
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-127",
+      "itemType": "Energy Card",
+      "number": "127",
+      "name": "Psychic Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Common"
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-128",
+      "itemType": "Energy Card",
+      "number": "128",
+      "name": "Fighting Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Common"
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-129",
+      "itemType": "Energy Card",
+      "number": "129",
+      "name": "Darkness Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Common"
+    },
+    {
+      "id": "tcg-pokemon-diamond-pearl-130",
+      "itemType": "Energy Card",
+      "number": "130",
+      "name": "Metal Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Common"
+    }
+  ]
+}
