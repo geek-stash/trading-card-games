@@ -33,6 +33,10 @@ jobs:
         id: sync-jobs
         run: |
           for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
+            if [[ $file != *"pokemon"* ]]; then
+              continue
+            fi
+
             if [[ $file == *"images"* ]]; then
               [[ $file =~ ^([^/]*)/([^/]*)/([^/]*)/([^/]*)/([^/]*)/([^/]*)$ ]]
               setName=${BASH_REMATCH[-3]}
