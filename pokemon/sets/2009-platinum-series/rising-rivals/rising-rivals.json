@@ -1,0 +1,5151 @@
+{
+  "setId": "tcg-pokemon-rising-rivals",
+  "cardCount": "120",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-rising-rivals-booster-box",
+      "itemType": "Sealed Product",
+      "name": "Rising-rivals Booster Box"
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-booster-pack",
+      "itemType": "Sealed Product",
+      "name": "Rising-rivals Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-rising-rivals-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Arcanine",
+      "stage": "Stage 1",
+      "evolvesFrom": "Growlithe",
+      "hp": "100",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Masakazu Fukuda",
+      "abilities": [
+        {
+          "name": "Flare Condition",
+          "text": "As long as Arcanine has any Fire Energy attached to it, Arcanine has no Weakness.",
+          "type": "Poké-Body"
+        }
+      ],
+      "level": "53",
+      "attacks": [
+        {
+          "name": "Burn Out",
+          "damage": "30+",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "You may do 30 damage plus 30 more damage. If you do, Arcanine is now Burned."
+        },
+        {
+          "name": "Flames of Rage",
+          "damage": "60+",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard a Fire Energy attached to Arcanine. This attack does 60 damage plus 10 more damage for each damage counter on Arcanine."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Bastiodon GL",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Hajime Kusajima",
+      "level": "41",
+      "attacks": [
+        {
+          "name": "Bounce Back",
+          "damage": "30",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "name": "Smack Attack",
+          "damage": "60",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Remove 1 damage counter from Bastiodon GL."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-3",
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Darkrai G",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Makoto Imai",
+      "abilities": [
+        {
+          "name": "Eerie Aura",
+          "text": "Put 1 damage counter on each of your opponent's Pokémon that remains Asleep between turns.",
+          "type": "Poké-Body"
+        }
+      ],
+      "level": "58",
+      "attacks": [
+        {
+          "name": "Darkness Sleep",
+          "damage": "50",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon already has any damage counters on it, that Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-4",
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Floatzel GL",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Midori Harada",
+      "level": "37",
+      "attacks": [
+        {
+          "name": "Incite",
+          "text": "Search your discard pile for up to 2 Supporter cards, show them to your opponent, and put them into your hand."
+        },
+        {
+          "name": "Giant Wave",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "Floatzel GL can't use Giant Wave during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Flygon",
+      "stage": "Stage 2",
+      "evolvesFrom": "Vibrava",
+      "hp": "120",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kouki Saitou",
+      "abilities": [
+        {
+          "name": "Rainbow Float",
+          "text": "If any basic Energy card attached to Flygon is the same type as any of your Pokémon, the Retreat Cost for those Pokémon is 0.",
+          "type": "Poké-Body"
+        }
+      ],
+      "level": "65",
+      "attacks": [
+        {
+          "name": "Sand Wall",
+          "damage": "40",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard a Stadium card your opponent has in play. If you do, prevent all effects of an attack, including damage, done to Flygon during your opponent's next turn."
+        },
+        {
+          "name": "Power Swing",
+          "damage": "60+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 60 damage plus 10 more damage for each Evolved Pokémon on your Bench."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Colorless",
+          "value": "+30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-6",
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Froslass GL",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Atsuko Nishida",
+      "level": "44",
+      "attacks": [
+        {
+          "name": "Sleep Inducer",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Switch the Defending Pokémon with 1 of your opponent's Benched Pokémon. The new Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Wake-Up Slap",
+          "damage": "30+",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is affected by any Special Conditions, this attack does 30 damage plus 20 more damage. Then, remove all Special Conditions from the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-7",
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Jirachi",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kenkichi Toyama",
+      "abilities": [
+        {
+          "name": "Final Wish",
+          "text": "Once during your opponent's turn, if Jirachi would be Knocked Out by damage from an attack, you may search your deck for any 1 card and put it into your hand. Shuffle your deck afterward.",
+          "type": "Poké-Power"
+        }
+      ],
+      "level": "39",
+      "attacks": [
+        {
+          "name": "Detour",
+          "text": "If you have a Supporter card in play, use the effect of that card as the effect of this attack."
+        },
+        {
+          "name": "Swift",
+          "damage": "20",
+          "cost": [
+            "Metal"
+          ],
+          "text": "This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-8",
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "Lucario GL",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Boundary Aura",
+          "text": "Apply Weakness for each Pokémon (both yours and your opponent's) as ×2 instead.",
+          "type": "Poké-Body"
+        }
+      ],
+      "level": "32",
+      "attacks": [
+        {
+          "name": "Combo Throw",
+          "damage": "30+",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 30 damage plus 10 more damage for each Energy attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-9",
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Luxray GL",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kouki Saitou",
+      "level": "48",
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Trash Bolt",
+          "damage": "70",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard an Energy card from your hand. (If you can't discard a card from your hand, this attack does nothing.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Mismagius GL",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Naoyo Kimura",
+      "level": "26",
+      "attacks": [
+        {
+          "name": "Psychic Removal",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip 2 coins. If both of them are heads, discard all Energy attached to the Defending Pokémon."
+        },
+        {
+          "name": "Grudge",
+          "damage": "20+",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Does 20 damage plus 10 more damage for each Prize card your opponent has taken."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Colorless",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Rampardos GL",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Suwama Chiaki",
+      "level": "63",
+      "attacks": [
+        {
+          "name": "Trample",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip a coin for each Benched Pokémon (both yours and your opponent's). If that coin flip is heads, this attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Rend",
+          "damage": "40+",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon has any damage counters on it, this attack does 40 damage plus 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Roserade GL",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kanako Eo",
+      "level": "22",
+      "attacks": [
+        {
+          "name": "Poison Bind",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Poisoned and can't retreat during your opponent's next turn."
+        },
+        {
+          "name": "Long Whip",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is affected by any Special Conditions, you may do 30 damage to any 1 Benched Pokémon instead. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Shiftry",
+      "stage": "Stage 2",
+      "evolvesFrom": "Nuzleaf",
+      "hp": "130",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Unlucky Wind",
+          "text": "As long as Shiftry is your Active Pokémon, whenever your opponent flips a coin during his or her turn, treat it as tails.",
+          "type": "Poké-Body"
+        }
+      ],
+      "level": "55",
+      "attacks": [
+        {
+          "name": "Conform",
+          "damage": "40",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "If you have the same number of cards in your hand as your opponent, the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Seal Off",
+          "damage": "60",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't use any Poké-Powers or Poké-Bodies during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Aggron",
+      "stage": "Stage 2",
+      "evolvesFrom": "Lairon",
+      "hp": "130",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "artist": "Naoyo Kimura",
+      "level": "53",
+      "attacks": [
+        {
+          "name": "Return Blow",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If Aggron was damaged by an attack during your opponent's last turn, this attack does the same amount of damage done to Aggron to the Defending Pokémon."
+        },
+        {
+          "name": "Metal Fang",
+          "damage": "40",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may discard the top card of your deck. If you do, remove 2 damage counters and all Special Conditions from Aggron."
+        },
+        {
+          "name": "Heavy Impact",
+          "damage": "70",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Beedrill",
+      "stage": "Stage 2",
+      "evolvesFrom": "Kakuna",
+      "hp": "110",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Flutter Wings",
+          "text": "Once during your turn (before your attack), you may search your deck for a Grass Pokémon, show it to your opponent, and put it into your hand. Shuffle your deck afterward. This power can't be used if Beedrill is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Its best attack involves flying around at high speed, striking with poison needles, then flying off.",
+      "level": "47",
+      "attacks": [
+        {
+          "name": "Needle Shock",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Paralyzed and Poisoned. Ignore this effect if any of your Pokémon used Needle Shock during your last turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-16",
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Bronzong E4",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "level": "54",
+      "attacks": [
+        {
+          "name": "Hand Refresh",
+          "text": "Each player shuffles his or her hand into his or her deck and draws up to 4 cards. (You draw your cards first.)"
+        },
+        {
+          "name": "Payback",
+          "damage": "10+",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "If your opponent has only 1 Prize card left, this attack does 10 damage plus 50 more damage and the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fire",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Drapion E4",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "level": "53",
+      "attacks": [
+        {
+          "name": "Body Slam",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Mega Impact",
+          "damage": "70",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-18",
+      "itemType": "Pokemon Card",
+      "number": "18",
+      "name": "Espeon E4",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "level": "55",
+      "attacks": [
+        {
+          "name": "Hypnosis",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Psywave",
+          "damage": "20+",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Does 20 damage plus 10 more damage for each Energy attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-19",
+      "itemType": "Pokemon Card",
+      "number": "19",
+      "name": "Flareon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "80",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "artist": "Midori Harada",
+      "abilities": [
+        {
+          "name": "Undevelop",
+          "text": "Once during your turn (before your attack), you may devolve Flareon and put Flareon into your hand. This power can't be used if Flareon is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "level": "38",
+      "attacks": [
+        {
+          "name": "Tail Slap",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Evolving Flare",
+          "damage": "40+",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "If Flareon evolved from Eevee during this turn, this attack does 40 damage plus 20 more damage and the Defending Pokémon is now Burned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-20",
+      "itemType": "Pokemon Card",
+      "number": "20",
+      "name": "Gallade E4",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "level": "59",
+      "attacks": [
+        {
+          "name": "Chop Up",
+          "damage": "20",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Does 10 damage to each of your opponent's Benched Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Feint",
+          "damage": "50",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-21",
+      "itemType": "Pokemon Card",
+      "number": "21",
+      "name": "Gastrodon East Sea",
+      "stage": "Stage 1",
+      "evolvesFrom": "Shellos East Sea",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Sticky Hold",
+          "text": "If Gastrodon East Sea is switched or retreats to your Bench, move as many Energy cards attached to Gastrodon East Sea as you like to the new Active Pokémon.",
+          "type": "Poké-Body"
+        }
+      ],
+      "level": "40",
+      "attacks": [
+        {
+          "name": "Calling Wave",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 2 Gastrodon and put them onto your Bench as Basic Pokémon. Put 2 damage counters on each of them. Shuffle your deck afterward."
+        },
+        {
+          "name": "Wave Splash",
+          "damage": "40",
+          "cost": [
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-22",
+      "itemType": "Pokemon Card",
+      "number": "22",
+      "name": "Gastrodon West Sea",
+      "stage": "Stage 1",
+      "evolvesFrom": "Shellos West Sea",
+      "hp": "110",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Kyoko Umemoto",
+      "level": "50",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Muddy Bomb",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon and 10 damage to each of your opponent's other Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Raging Sea",
+          "damage": "60+",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 60 damage plus 10 more damage for each of your Benched Pokémon that has any damage counters on it."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-23",
+      "itemType": "Pokemon Card",
+      "number": "23",
+      "name": "Golem E4",
+      "stage": "Basic",
+      "hp": "110",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "level": "52",
+      "attacks": [
+        {
+          "name": "Rage",
+          "damage": "20+",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 20 damage plus 10 more damage for each damage counter on Golem GL."
+        },
+        {
+          "name": "Double-edge",
+          "damage": "100",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Golem E4 does 60 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-24",
+      "itemType": "Pokemon Card",
+      "number": "24",
+      "name": "Heracross E4",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "level": "51",
+      "attacks": [
+        {
+          "name": "Focus Energy",
+          "text": "During your next turn, Heracross E4's Megahorn attack's base damage is 100."
+        },
+        {
+          "name": "Megahorn",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-25",
+      "itemType": "Pokemon Card",
+      "number": "25",
+      "name": "Hippowdon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Hippopotas",
+      "hp": "110",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Tomoaki Imakuni",
+      "abilities": [
+        {
+          "name": "Sand Cover",
+          "text": "As long as Hippowdon is your Active Pokémon, put 1 damage counter on each of your opponent's Pokémon LV.X between turns.",
+          "type": "Poké-Body"
+        }
+      ],
+      "level": "48",
+      "attacks": [
+        {
+          "name": "Save Sand",
+          "damage": "20+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Does 20 damage plus 10 more damage for each Energy attached to Hippowdon. Before doing damage, you may search your discard pile for a Fighting Energy card and attach it to Hippowdon."
+        },
+        {
+          "name": "Groundquake",
+          "damage": "80",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 10 damage to each Benched Pokémon that isn't an Evolved Pokémon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-26",
+      "itemType": "Pokemon Card",
+      "number": "26",
+      "name": "Jolteon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "80",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "Hajime Kusajima",
+      "abilities": [
+        {
+          "name": "Undevelop",
+          "text": "Once during your turn (before your attack), you may devolve Jolteon and put Jolteon into your hand. This power can't be used if Jolteon is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "level": "43",
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "damage": "10+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 30 more damage."
+        },
+        {
+          "name": "Evolving Thunder",
+          "damage": "50",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "If Jolteon evolved from Eevee during this turn, this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-27",
+      "itemType": "Pokemon Card",
+      "number": "27",
+      "name": "Mamoswine GL",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Atsuko Nishida",
+      "abilities": [
+        {
+          "name": "Icy Aura",
+          "text": "As long as Mamoswine GL is your Active Pokémon, put 1 damage counter on each Active Pokémon (excluding Water Pokémon) (both yours and your opponent's) between turns.",
+          "type": "Poké-Body"
+        }
+      ],
+      "level": "61",
+      "attacks": [
+        {
+          "name": "Avalanche",
+          "damage": "60",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-28",
+      "itemType": "Pokemon Card",
+      "number": "28",
+      "name": "Mr. Mime E4",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "level": "53",
+      "attacks": [
+        {
+          "name": "Magic Heal",
+          "text": "Flip 3 coins. Remove a number of damage counters equal to the number of heads from your Pokémon in any way you like."
+        },
+        {
+          "name": "Barrier Attack",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done to Mr. Mime E4 by attacks is reduced by 10 (after applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-29",
+      "itemType": "Pokemon Card",
+      "number": "29",
+      "name": "Nidoking",
+      "stage": "Stage 2",
+      "evolvesFrom": "Nidorino",
+      "hp": "130",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Masakazu Fukuda",
+      "abilities": [
+        {
+          "name": "Territoriality",
+          "text": "If your Active Pokémon is damaged by an opponent's attack (even if that Pokémon is Knocked Out), put 2 damage counters on the Attacking Pokémon. You can't put more than 2 damage counters in this way.",
+          "type": "Poké-Body"
+        }
+      ],
+      "level": "59",
+      "attacks": [
+        {
+          "name": "Fling Away",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent has any Benched Pokémon, this attack's base damage is 30 instead of 60 and this attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Giga Horn",
+          "damage": "100",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. If both of them are tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-30",
+      "itemType": "Pokemon Card",
+      "number": "30",
+      "name": "Nidoqueen",
+      "stage": "Stage 2",
+      "evolvesFrom": "Nidorina",
+      "hp": "120",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Midori Harada",
+      "abilities": [
+        {
+          "name": "Maternal Comfort",
+          "text": "At any times between turns, remove 1 damage counter from each of your Pokémon. You can't use more than 1 Maternal Comfort Poké-Body between turns.",
+          "type": "Poké-Body"
+        }
+      ],
+      "level": "54",
+      "attacks": [
+        {
+          "name": "Mega Punch",
+          "damage": "40",
+          "cost": [
+            "Psychic"
+          ]
+        },
+        {
+          "name": "Ruthless Tail",
+          "damage": "50+",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 50 damage plus 10 more damage for each of your opponent's Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-31",
+      "itemType": "Pokemon Card",
+      "number": "31",
+      "name": "Raichu GL",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "level": "46",
+      "attacks": [
+        {
+          "name": "Thunder Throw",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Choose 2 of your opponent's Benched Pokémon. This attack does 10 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Repeat Lightning",
+          "damage": "30+",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Does 30 damage plus 10 more damage for each of your opponent's Benched Pokémon that has any damage counters on it."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-32",
+      "itemType": "Pokemon Card",
+      "number": "32",
+      "name": "Rhyperior E4",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "level": "55",
+      "attacks": [
+        {
+          "name": "Double Lariat",
+          "damage": "30×",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+        },
+        {
+          "name": "Rock Tumble",
+          "damage": "60",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-33",
+      "itemType": "Pokemon Card",
+      "number": "33",
+      "name": "Snorlax",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "text": "It stops eating only to sleep. It doesn't feel full unless it eats nearly 900 pounds a day.",
+      "level": "37",
+      "attacks": [
+        {
+          "name": "Pick and Collect",
+          "text": "Search your discard pile for up to 4 basic Energy cards, show them to your opponent, and put them into your hand."
+        },
+        {
+          "name": "Roll Over",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, both Snorlax and the Defending Pokémon are now Asleep. If tails, Snorlax is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-34",
+      "itemType": "Pokemon Card",
+      "number": "34",
+      "name": "Vaporeon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Masakazu Fukuda",
+      "abilities": [
+        {
+          "name": "Undevelop",
+          "text": "Once during your turn (before your attack), you may devolve Vaporeon and put Vaporeon into your hand. This power can't be used if Vaporeon is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "level": "48",
+      "attacks": [
+        {
+          "name": "Muddy Water",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Evolving Aqua",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon that has any damage counters on it. This attack does 40 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) If Vaporeon evolved from Eevee during this turn, this attack does 60 damage instead."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-35",
+      "itemType": "Pokemon Card",
+      "number": "35",
+      "name": "Vespiquen E4",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "abilities": [
+        {
+          "name": "Royal Gain",
+          "text": "When you attach a Grass Energy card from your hand to Vespiquen E4, remove 1 damage counter from Vespiquen E4.",
+          "type": "Poké-Body"
+        }
+      ],
+      "level": "50",
+      "attacks": [
+        {
+          "name": "Leaf Needle",
+          "damage": "30+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin for each Grass Energy attached to Vespiquen E4. This attack does 30 damage plus 20 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-36",
+      "itemType": "Pokemon Card",
+      "number": "36",
+      "name": "Walrein",
+      "stage": "Stage 2",
+      "evolvesFrom": "Sealeo",
+      "hp": "140",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "kawayoo",
+      "abilities": [
+        {
+          "name": "Gather Ice",
+          "text": "Once during your turn (before your attack), when you play Walrein from your hand to evolve 1 of your Pokémon, you may attach as many Water Energy cards from your hand to Walrein as you like.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.",
+      "level": "59",
+      "attacks": [
+        {
+          "name": "Cold Crush",
+          "damage": "70",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard an Energy card attached to Walrein and then discard an Energy card attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-37",
+      "itemType": "Pokemon Card",
+      "number": "37",
+      "name": "Yanmega E4",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "level": "49",
+      "attacks": [
+        {
+          "name": "Skill Dive",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 10 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Whirlwind",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-38",
+      "itemType": "Pokemon Card",
+      "number": "38",
+      "name": "Alakazam E4",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "level": "56",
+      "attacks": [
+        {
+          "name": "Recover",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Discard a Psychic Energy attached to Alakazam E4 and remove 4 damage counters from Alakazam E4."
+        },
+        {
+          "name": "Mysterious Beam",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy card attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-39",
+      "itemType": "Pokemon Card",
+      "number": "39",
+      "name": "Electrode G",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yusuke Ishikawa",
+      "level": "38",
+      "attacks": [
+        {
+          "name": "Reckless Bomb",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "This attack does 20 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Electrode G does 100 damage to itself."
+        },
+        {
+          "name": "Reflect Energy",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Move an Energy card attached to Electrode G to 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-40",
+      "itemType": "Pokemon Card",
+      "number": "40",
+      "name": "Gengar GL",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Naoyo Kimura",
+      "level": "65",
+      "attacks": [
+        {
+          "name": "Confuse Ray",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "The Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Attack and Hide",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Put 3 damage counters on 1 of your opponent's Pokémon. You may shuffle Gengar GL and all cards attached to it back into your deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Colorless",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-41",
+      "itemType": "Pokemon Card",
+      "number": "41",
+      "name": "Glaceon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Naoyo Kimura",
+      "abilities": [
+        {
+          "name": "Frost Wind",
+          "text": "As long as Glaceon is your Active Pokémon, any damage done to your Pokémon by your opponent's attacks is reduced by 10 (after applying Weakness and Resistance).",
+          "type": "Poké-Body"
+        }
+      ],
+      "level": "42",
+      "attacks": [
+        {
+          "name": "Ice Blade",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Ice Bind",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent doesn't discard a card from his or her hand, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-42",
+      "itemType": "Pokemon Card",
+      "number": "42",
+      "name": "Hippowdon E4",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Sand Armor",
+          "text": "If Hippowdon E4 has any Fighting Energy attached to it, any damage done to Hippowdon E4 by attacks is reduced by 10 (after applying Weakness and Resistance).",
+          "type": "Poké-Body"
+        }
+      ],
+      "level": "52",
+      "attacks": [
+        {
+          "name": "Bite and Crush",
+          "damage": "30+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 30 damage plus 10 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-43",
+      "itemType": "Pokemon Card",
+      "number": "43",
+      "name": "Infernape E4",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Masakazu Fukuda",
+      "level": "55",
+      "attacks": [
+        {
+          "name": "Split Bomb",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Choose 2 of your opponent's Pokémon. This attack does 20 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "High Jump Kick",
+          "damage": "50",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-44",
+      "itemType": "Pokemon Card",
+      "number": "44",
+      "name": "Lairon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Aron",
+      "hp": "80",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yukiko Baba",
+      "text": "For food, it digs up iron ore. It smashes its steely body against others to fight over territory.",
+      "level": "37",
+      "attacks": [
+        {
+          "name": "Heavy Metal",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin for each Metal Energy attached to Lairon. This attack does 10 damage plus 20 more damage for each heads."
+        },
+        {
+          "name": "Granite Head",
+          "damage": "40",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done to Lairon by attacks is reduced by 10 (after applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-45",
+      "itemType": "Pokemon Card",
+      "number": "45",
+      "name": "Leafeon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Suwama Chiaki",
+      "abilities": [
+        {
+          "name": "Energy Refresh",
+          "text": "As long as Leafeon is your Active Pokémon, whenever you attach an Energy card from your hand to 1 of your Pokémon, remove 2 damage counters from that Pokémon.",
+          "type": "Poké-Body"
+        }
+      ],
+      "level": "49",
+      "attacks": [
+        {
+          "name": "Plus Energy",
+          "damage": "40",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Attach a basic Energy card from your hand to 1 of your Pokémon."
+        },
+        {
+          "name": "Soothing Scent",
+          "damage": "60",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-46",
+      "itemType": "Pokemon Card",
+      "number": "46",
+      "name": "Machamp GL",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "level": "64",
+      "attacks": [
+        {
+          "name": "Cross-Cut",
+          "damage": "30+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is an Evolved Pokémon, this attack does 30 damage plus 20 more damage."
+        },
+        {
+          "name": "Brush Off",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Put the Defending Pokémon and all cards attached to it on top of your opponent's deck. Your opponent shuffles his or her deck afterward. (If your opponent doesn't have any Benched Pokémon, this attack does nothing.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-47",
+      "itemType": "Pokemon Card",
+      "number": "47",
+      "name": "Rapidash E4",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Masakazu Fukuda",
+      "level": "53",
+      "attacks": [
+        {
+          "name": "Pickup Power",
+          "text": "Flip 3 coins. For each heads, search your discard pile for a basic Energy card, show it to your opponent, and put it into your hand."
+        },
+        {
+          "name": "Fire Mane",
+          "damage": "20",
+          "cost": [
+            "Fire"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-48",
+      "itemType": "Pokemon Card",
+      "number": "48",
+      "name": "Scizor E4",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouki Saitou",
+      "level": "49",
+      "attacks": [
+        {
+          "name": "Cut",
+          "damage": "20",
+          "cost": [
+            "Grass"
+          ]
+        },
+        {
+          "name": "Crushing Blow",
+          "damage": "40",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy card attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-49",
+      "itemType": "Pokemon Card",
+      "number": "49",
+      "name": "Sharpedo",
+      "stage": "Stage 1",
+      "evolvesFrom": "Carvanha",
+      "hp": "90",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouki Saitou",
+      "abilities": [
+        {
+          "name": "Energy Shark",
+          "text": "If Sharpedo is your Active Pokémon and is damaged by an opponent's attack (even if Sharpedo is Knocked Out), flip a coin. If heads, discard an Energy card attached to the Attacking Pokémon.",
+          "type": "Poké-Body"
+        }
+      ],
+      "level": "43",
+      "attacks": [
+        {
+          "name": "Crunch",
+          "damage": "20",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "If an attack does damage to the Defending Pokémon (after applying Weakness and Resistance), that attack does 40 more damage to that Pokémon until the end of your next turn."
+        },
+        {
+          "name": "Sharp Fang",
+          "damage": "60",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-50",
+      "itemType": "Pokemon Card",
+      "number": "50",
+      "name": "Starmie",
+      "stage": "Stage 1",
+      "evolvesFrom": "Staryu",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Aqua Recycle",
+          "text": "Once during your turn (before your attack), you may search your discard pile for a Water Energy card, show it to your opponent, and put it into your hand. This power can't be used if Starmie is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "level": "44",
+      "attacks": [
+        {
+          "name": "Synchro Gain",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If Starmie and the Defending Pokémon have the same amount of Energy attached to them, remove 4 damage counters from Starmie."
+        },
+        {
+          "name": "Powerful Spin",
+          "damage": "40",
+          "cost": [
+            "Water"
+          ],
+          "text": "Starmie can't attack during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-51",
+      "itemType": "Pokemon Card",
+      "number": "51",
+      "name": "Steelix GL",
+      "stage": "Basic",
+      "hp": "110",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hajime Kusajima",
+      "level": "38",
+      "attacks": [
+        {
+          "name": "Mend",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Search your discard pile for a Metal Energy card and attach it to Steelix GL. If you do, remove 1 damage counter from Steelix GL."
+        },
+        {
+          "name": "Squeeze",
+          "damage": "30+",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 damage plus 50 more damage and the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-52",
+      "itemType": "Pokemon Card",
+      "number": "52",
+      "name": "Tropius",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "level": "35",
+      "attacks": [
+        {
+          "name": "Fly",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing. If heads, prevent all effects of an attack, including damage, done to Tropius during your opponent's next turn."
+        },
+        {
+          "name": "Blessed Fruit",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": "Remove all damage counters from 1 of your Benched Grass Pokémon."
+        },
+        {
+          "name": "Solarbeam",
+          "damage": "60",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-53",
+      "itemType": "Pokemon Card",
+      "number": "53",
+      "name": "Vibrava",
+      "stage": "Stage 1",
+      "evolvesFrom": "Trapinch",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kyoko Umemoto",
+      "text": "It violently shudders its wings, generating ultrasonic waves to induce headaches in people.",
+      "level": "36",
+      "attacks": [
+        {
+          "name": "Energy Typhoon",
+          "damage": "20×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Does 20 damage times the number of Energy cards in your opponent's discard pile. Then, put those Energy cards on top of your opponent's deck. Your opponent shuffles his or her deck afterward."
+        },
+        {
+          "name": "Quick Attack",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Colorless",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-54",
+      "itemType": "Pokemon Card",
+      "number": "54",
+      "name": "Whiscash E4",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "level": "50",
+      "attacks": [
+        {
+          "name": "Sleep Pulse",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Earthquake",
+          "damage": "60",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-55",
+      "itemType": "Pokemon Card",
+      "number": "55",
+      "name": "Aerodactyl GL",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Suwama Chiaki",
+      "level": "62",
+      "attacks": [
+        {
+          "name": "Collect",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw 2 cards."
+        },
+        {
+          "name": "Primal Breath",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Your opponent can't play any Pokémon from his or her hand to Evolve or to Level-Up the Defending Pokémon during his or her next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-56",
+      "itemType": "Pokemon Card",
+      "number": "56",
+      "name": "Ambipom G",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Makoto Imai",
+      "level": "40",
+      "attacks": [
+        {
+          "name": "Tail Code",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Move an Energy card attached to the Defending Pokémon to another of your opponent's Pokémon."
+        },
+        {
+          "name": "Snap Attack",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon has any Energy cards attached to it, this attack's base damage is 20 instead of 60."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-57",
+      "itemType": "Pokemon Card",
+      "number": "57",
+      "name": "Aron",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Common",
+      "artist": "Takao Unno",
+      "text": "It usually lives deep in mountains. However, hunger may drive it to eat railroad tracks and cars.",
+      "level": "21",
+      "attacks": [
+        {
+          "name": "Iron Head",
+          "damage": "10×",
+          "cost": [
+            "Metal"
+          ],
+          "text": "Flip a coin until you get tails. This attack does 10 damage times the number of heads."
+        },
+        {
+          "name": "Ram",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-58",
+      "itemType": "Pokemon Card",
+      "number": "58",
+      "name": "Carvanha",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "text": "They swarm any foes that invades their territory. Their sharp fangs can tear out boat hulls.",
+      "level": "13",
+      "attacks": [
+        {
+          "name": "Scary Face",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon can't attack or retreat during your opponent's next turn."
+        },
+        {
+          "name": "Whirlpool",
+          "damage": "10",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-59",
+      "itemType": "Pokemon Card",
+      "number": "59",
+      "name": "Eevee",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Naoyo Kimura",
+      "text": "Because its genetic makeup is irregular, it quickly changes its form due to a variety of causes.",
+      "level": "10",
+      "attacks": [
+        {
+          "name": "Signs of Evolution",
+          "text": "Search your deck for up to 2 cards that evolve from Eevee, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Bounce",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Switch Eevee with 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-60",
+      "itemType": "Pokemon Card",
+      "number": "60",
+      "name": "Flareon E4",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Masakazu Fukuda",
+      "level": "55",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Fire Tail Slap",
+          "damage": "40",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, discard a Fire Energy attached to Flareon ."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-61",
+      "itemType": "Pokemon Card",
+      "number": "61",
+      "name": "Forretress G",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Common",
+      "artist": "Ryota Saito",
+      "level": "35",
+      "attacks": [
+        {
+          "name": "Shell Scatter",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This attack does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Forretress G can't use Shell Scatter during your next turn."
+        },
+        {
+          "name": "Bomb Risk",
+          "damage": "80",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "text": "Does 10 damage to each Benched Pokémon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.) Flip a coin. If tails, Forretress G does 80 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-62",
+      "itemType": "Pokemon Card",
+      "number": "62",
+      "name": "Gliscor E4",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "level": "53",
+      "attacks": [
+        {
+          "name": "Irongrip",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Loaded Needle",
+          "damage": "10+",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 30 more damage. If tails, the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-63",
+      "itemType": "Pokemon Card",
+      "number": "63",
+      "name": "Growlithe",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Naoyo Kimura",
+      "text": "A Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer.",
+      "level": "26",
+      "attacks": [
+        {
+          "name": "Stoke",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a Fire Energy card and attach it to Growlithe. Shuffle your deck afterward."
+        },
+        {
+          "name": "Take Down",
+          "damage": "50",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Growlithe does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-64",
+      "itemType": "Pokemon Card",
+      "number": "64",
+      "name": "Hippopotas",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "kawayoo",
+      "text": "It shuts its nostrils tight then travels through sand as if walking. They form colonies of around ten.",
+      "level": "31",
+      "attacks": [
+        {
+          "name": "Push Down",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "name": "Endeavor",
+          "damage": "30+",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 30 damage plus 20 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-65",
+      "itemType": "Pokemon Card",
+      "number": "65",
+      "name": "Houndoom E4",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Masakazu Fukuda",
+      "level": "52",
+      "attacks": [
+        {
+          "name": "Corner",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "name": "Fire Fang",
+          "damage": "40",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Burned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-66",
+      "itemType": "Pokemon Card",
+      "number": "66",
+      "name": "Kakuna",
+      "stage": "Stage 1",
+      "evolvesFrom": "Weedle",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "abilities": [
+        {
+          "name": "Exoskeleton",
+          "text": "Any damage done to Kakuna by attacks is reduced by 20 (after applying Weakness and Resistance).",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "While awaiting evolution, it hides from predators under leaves and in nooks of branches.",
+      "level": "8",
+      "attacks": [
+        {
+          "name": "Dangerous Evolution",
+          "cost": [
+            "Grass"
+          ],
+          "text": "The Defending Pokémon is now Poisoned. Flip a coin. If heads, search your deck for an Evolution card that evolves from Kakuna and put it onto Kakuna. (This counts as evolving Kakuna.) Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-67",
+      "itemType": "Pokemon Card",
+      "number": "67",
+      "name": "Kecleon",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "abilities": [
+        {
+          "name": "Colorful Body",
+          "text": "Kecleon's type is Grass Fire Water Lightning Psychic Fighting Darkness Metal Colorless.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "It can freely change its body's color. The zigzag pattern on its belly doesn't change, however.",
+      "level": "34",
+      "attacks": [
+        {
+          "name": "Triple Smash",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 10 damage plus 20 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-68",
+      "itemType": "Pokemon Card",
+      "number": "68",
+      "name": "Koffing",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Yukiko Baba",
+      "text": "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.",
+      "level": "22",
+      "attacks": [
+        {
+          "name": "Offensive Gas",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused and Poisoned."
+        },
+        {
+          "name": "Gas Bomb",
+          "damage": "30",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Koffing does 30 damage to itself, and don't apply Weakness and Resistance to this damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-69",
+      "itemType": "Pokemon Card",
+      "number": "69",
+      "name": "Munchlax",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Tomokazu Komiya",
+      "abilities": [
+        {
+          "name": "Baby Evolution",
+          "text": "Once during your turn (before your attack), you may put Snorlax from your hand onto Munchlax (this counts as evolving Munchlax) and remove all damage counters from Munchlax.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "In its desperation to gulp down food, it forgets about the food it has hidden under its fur.",
+      "level": "13",
+      "attacks": [
+        {
+          "name": "Rest",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Remove all Special Conditions and 6 damage counters from Munchlax. Munchlax is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-70",
+      "itemType": "Pokemon Card",
+      "number": "70",
+      "name": "Munchlax",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Baby Evolution",
+          "text": "Once during your turn (before your attack), you may put Snorlax from your hand onto Munchlax (this counts as evolving Munchlax) and remove all damage counters from Munchlax.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "It hides food under its long body hair. However, it forgets it has hidden the food.",
+      "level": "15",
+      "attacks": [
+        {
+          "name": "Errand-Running",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Search your deck for a Trainer card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-71",
+      "itemType": "Pokemon Card",
+      "number": "71",
+      "name": "Nidoran ♀",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Miki Tanaka",
+      "text": "While it does not prefer to fight, even one drop of the poison it secretes from barbs can be fatal.",
+      "level": "14",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ]
+        },
+        {
+          "name": "Offer Help",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Search your deck for a Supporter card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-72",
+      "itemType": "Pokemon Card",
+      "number": "72",
+      "name": "Nidoran ♂",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.",
+      "level": "9",
+      "attacks": [
+        {
+          "name": "Leer",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn."
+        },
+        {
+          "name": "Horn Hazard",
+          "damage": "40",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-73",
+      "itemType": "Pokemon Card",
+      "number": "73",
+      "name": "Nidorina",
+      "stage": "Stage 1",
+      "evolvesFrom": "Nidoran ♀",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "When it senses danger, it raises all the barbs on its body. These barbs grow slower than NIDORINO's.",
+      "level": "29",
+      "attacks": [
+        {
+          "name": "Jump Tackle",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Nidorina does 10 damage to itself, and don't apply Weakness and Resistance to this damage."
+        },
+        {
+          "name": "Stress Poison",
+          "damage": "40+",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If Nidorina has any damage counters on it, this attack does 40 damage plus 20 more damage and the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-74",
+      "itemType": "Pokemon Card",
+      "number": "74",
+      "name": "Nidorino",
+      "stage": "Stage 1",
+      "evolvesFrom": "Nidoran ♂",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "kawayoo",
+      "text": "It has a violent disposition and stabs foes with its horn, which oozes poison upon impact.",
+      "level": "30",
+      "attacks": [
+        {
+          "name": "Toxic",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Poisoned. Put 2 damage counters instead of 1 on the Defending Pokémon between turns."
+        },
+        {
+          "name": "Frustration",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon that doesn't have any damage counters on it. This attack does 40 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-75",
+      "itemType": "Pokemon Card",
+      "number": "75",
+      "name": "Nuzleaf",
+      "stage": "Stage 1",
+      "evolvesFrom": "Seedot",
+      "hp": "80",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Yukiko Baba",
+      "text": "The sound of its grass flute makes its listeners uneasy. It lives deep in forests.",
+      "level": "25",
+      "attacks": [
+        {
+          "name": "Blind",
+          "damage": "10",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        },
+        {
+          "name": "Feint Attack",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on that Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-76",
+      "itemType": "Pokemon Card",
+      "number": "76",
+      "name": "Quagsire GL",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "abilities": [
+        {
+          "name": "Submerge",
+          "text": "As long as Quagsire GL is on your Bench, prevent all damage done to Quagsire GL by attacks (both yours and your opponent's).",
+          "type": "Poké-Body"
+        }
+      ],
+      "level": "34",
+      "attacks": [
+        {
+          "name": "Punch and Run",
+          "damage": "40",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may switch Quagsire GL with 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-77",
+      "itemType": "Pokemon Card",
+      "number": "77",
+      "name": "Sealeo",
+      "stage": "Stage 1",
+      "evolvesFrom": "Spheal",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Saya Tsuruta",
+      "text": "It habitually spins things on its nose. By doing so, it learns textures and odors.",
+      "level": "31",
+      "attacks": [
+        {
+          "name": "Find Ice",
+          "text": "Search your deck for up to 2 Water Energy cards, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Sheer Cold",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-78",
+      "itemType": "Pokemon Card",
+      "number": "78",
+      "name": "Seedot",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Miki Tanaka",
+      "text": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
+      "level": "8",
+      "attacks": [
+        {
+          "name": "Harden",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, if Seedot would be damaged by an attack, prevent that attack's damage done to Seedot if that damage is 40 or less."
+        },
+        {
+          "name": "Astonish",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Choose 1 card from your opponent's hand without looking. Look at that card you chose, then have your opponent shuffle that card into his or her deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-79",
+      "itemType": "Pokemon Card",
+      "number": "79",
+      "name": "Shellos East Sea",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Tomokazu Komiya",
+      "text": "Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.",
+      "level": "21",
+      "attacks": [
+        {
+          "name": "Ripple",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, put 1 damage counter on each of your opponent's Pokémon."
+        },
+        {
+          "name": "Brine",
+          "cost": [
+            "Water"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon that has any damage counters on it. This attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-80",
+      "itemType": "Pokemon Card",
+      "number": "80",
+      "name": "Shellos West Sea",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Miki Tanaka",
+      "text": "Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.",
+      "level": "27",
+      "attacks": [
+        {
+          "name": "Healing Sea",
+          "text": "Flip 2 coins. Choose 1 of your Pokémon. For each heads, remove 1 damage counter from that Pokémon."
+        },
+        {
+          "name": "Mud Shot",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-81",
+      "itemType": "Pokemon Card",
+      "number": "81",
+      "name": "Snorlax",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "abilities": [
+        {
+          "name": "Bad Sleeping Habits",
+          "text": "As long as Snorlax is Asleep, your opponent's Active Pokémon can't retreat.",
+          "type": "Poké-Body"
+        }
+      ],
+      "level": "40",
+      "attacks": [
+        {
+          "name": "Toss and Turn",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If Snorlax is Asleep, this attack does 20 damage plus 30 more damage. (This attack can be used even if Snorlax is Asleep.)"
+        },
+        {
+          "name": "Heavy Press",
+          "damage": "40+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 40 damage plus 40 more damage. If tails, Snorlax is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-82",
+      "itemType": "Pokemon Card",
+      "number": "82",
+      "name": "Spheal",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Tomokazu Komiya",
+      "text": "It rolls across ice floes to reach shore because its body is poorly shaped for swimming.",
+      "level": "18",
+      "attacks": [
+        {
+          "name": "Powder Snow",
+          "cost": [
+            "Water"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Ice Ball",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-83",
+      "itemType": "Pokemon Card",
+      "number": "83",
+      "name": "Staryu",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "text": "If its body is torn, it can grow back if the red core remains. The core flashes at midnight.",
+      "level": "18",
+      "attacks": [
+        {
+          "name": "Cosmic Draw",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If your opponent has any Evolved Pokémon in play, draw 3 cards."
+        },
+        {
+          "name": "Swift",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ],
+          "text": "This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-84",
+      "itemType": "Pokemon Card",
+      "number": "84",
+      "name": "Trapinch",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "abilities": [
+        {
+          "name": "Gather Sand",
+          "text": "Once during your turn (before your attack), if Trapinch is your Active Pokémon, you may search your discard pile for a basic Fighting card and attach it to Trapinch.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.",
+      "level": "14",
+      "attacks": [
+        {
+          "name": "Grind",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Does 10 damage times the amount of Energy attached to Trapinch."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-85",
+      "itemType": "Pokemon Card",
+      "number": "85",
+      "name": "Turtwig GL",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Kanako Eo",
+      "abilities": [
+        {
+          "name": "Overgrow",
+          "text": "As long as Turtwig GL's remaining HP is 60 or less, each of Turtwig GL's attacks does 30 more damage to the Defending Pokémon (before applying Weakness and Resistance).",
+          "type": "Poké-Body"
+        }
+      ],
+      "level": "20",
+      "attacks": [
+        {
+          "name": "Giga Drain",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "After your attack, remove from Turtwig GL the number of damage counters equal to the damage you did to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-86",
+      "itemType": "Pokemon Card",
+      "number": "86",
+      "name": "Weedle",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "It eats its weight in leaves every day. It fends off attackers with the needle on its head.",
+      "level": "6",
+      "attacks": [
+        {
+          "name": "Rescue String",
+          "text": "Search your discard pile for up to 5 Pokémon, show them to your opponent, and shuffle them into your deck."
+        },
+        {
+          "name": "Needling Sting",
+          "damage": "10+",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-87",
+      "itemType": "Pokemon Card",
+      "number": "87",
+      "name": "Weezing",
+      "stage": "Stage 1",
+      "evolvesFrom": "Koffing",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Camouflage Gas",
+          "text": "If Weezing is Confused and is Knocked Out, your opponent can't take a Prize card.",
+          "type": "Poké-Body"
+        }
+      ],
+      "level": "47",
+      "attacks": [
+        {
+          "name": "Damage Breakdown",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Count the number of damage counters on Weezing. Put that many damage counters on the Defending Pokémon and Weezing is now Confused."
+        },
+        {
+          "name": "Smog",
+          "damage": "20",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "The Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-88",
+      "itemType": "Trainer Card",
+      "number": "88",
+      "name": "Aaron's Collection",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Search your discard pile for up to 2 in any combination of Pokémon SP and basic Energy cards, show them to your opponent, and put them into your hand."
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-89",
+      "itemType": "Trainer Card",
+      "number": "89",
+      "name": "Bebe's Search",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Choose a card from your hand and put it on top of your deck. Search your deck for a Pokémon, show it to your opponent, and put it into your hand. Shuffle your deck afterward. (If this is the only card in your hand, you can't play this card.)"
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-90",
+      "itemType": "Trainer Card",
+      "number": "90",
+      "name": "Bertha's Warmth",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Remove 5 damage counters from 1 of your Pokémon SP."
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-91",
+      "itemType": "Trainer Card",
+      "number": "91",
+      "name": "Flint's Willpower",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Attach a basic Energy card from your hand to 1 of your Pokémon SP."
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-92",
+      "itemType": "Trainer Card",
+      "number": "92",
+      "name": "Lucian's Assignment",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Move as many Energy cards attached to 1 of your Pokémon as you like to another of your Pokémon."
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-93",
+      "itemType": "Trainer Card",
+      "number": "93",
+      "name": "Pokémon Contest Hall",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Makoto Imai",
+      "text": "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.,Once during each player's turn, if that player's Bench isn't full, the player may flip a coin. If heads, that player searches his or her deck for a Basic Pokémon and puts it onto his or her Bench. If the player does, he or she may search his or her deck for a Pokémon Tool card and attach it to that Pokémon. If that player searched his or her deck, the player shuffles his or her deck afterward."
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-94",
+      "itemType": "Trainer Card",
+      "number": "94",
+      "name": "Sunyshore City Gym",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yusuke Ishikawa",
+      "text": "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.,Any damage done by attacks from Lightning Pokémon (both yours and your opponent's) to the Defending Pokémon isn't affected by Resistance. Each Lightning Pokémon in play (both yours and your opponent's) has no Weakness."
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-95",
+      "itemType": "Trainer Card",
+      "number": "95",
+      "name": "Team Galactic's Invention G-107 Technical Machine G",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Makoto Imai",
+      "text": "Attach this card to 1 of your Pokémon SP in play. That Pokémon may use this card's attack instead of its own. When the Pokémon this card is attached to is no longer Pokémon SP, discard this card.",
+      "attacks": [
+        {
+          "name": "Damage Porter",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 10 damage times the number of damage counters on the Pokémon this card is attached to to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-96",
+      "itemType": "Trainer Card",
+      "number": "96",
+      "name": "Team Galactic's Invention G-109 SP Radar",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kent Kanetsuna",
+      "text": "Choose a card from your hand and put it on top of your deck. Search your deck for a Pokémon SP, show it to your opponent, and put it into your hand. Shuffle your deck afterward. (If this is the only card in your hand, you can't play this card.)"
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-97",
+      "itemType": "Trainer Card",
+      "number": "97",
+      "name": "Underground Expedition",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Look at the 4 cards from the bottom of your deck. Choose any 2 cards there and put them into your hand. Put the remaining cards back on the bottom of your deck in any order."
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-98",
+      "itemType": "Trainer Card",
+      "number": "98",
+      "name": "Volkner's Philosophy",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,You may discard a card from your hand. Then, draw cards until you have 6 cards in your hand. (If you can't draw any cards, you can't play this card.)"
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-99",
+      "itemType": "Energy Card",
+      "number": "99",
+      "name": "Darkness Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Takumi Akabane",
+      "text": "If the Pokémon Darkness Energy is attached to attacks, the attack does 10 more damage to the Active Pokémon (before applying Weakness and Resistance). Ignore this effect if the Pokémon that Darkness Energy is attached to isn't Darkness. Darkness Energy provides Darkness Energy. (Doesn't count as a basic Energy card.)"
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-100",
+      "itemType": "Energy Card",
+      "number": "100",
+      "name": "Metal Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Takumi Akabane",
+      "text": "Damage done by attacks to the Pokémon that Metal Energy is attached to is reduced by 10 (after applying Weakness and Resistance). Ignore this effect if the Pokémon that Metal Energy is attached to isn't Metal. Metal Energy provides Metal Energy. (Doesn't count as a basic Energy card.)"
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-101",
+      "itemType": "Energy Card",
+      "number": "101",
+      "name": "SP Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kent Kanetsuna",
+      "text": "SP Energy provides Colorless Energy. If the Pokémon SP Energy is attached to is a Pokémon SP, SP Energy provides every type of Energy buy provides only 1 Energy at a time. (Doesn't count as a basic Energy card.)"
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-102",
+      "itemType": "Energy Card",
+      "number": "102",
+      "name": "Upper Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Upper Energy provides Colorless Energy. If you have more Prize cards left than your opponent and this card is attached to a Pokémon (excluding Pokémon LV.X), Upper Energy provides ColorlessColorless."
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-103",
+      "itemType": "Pokemon Card",
+      "number": "103",
+      "name": "Alakazam E4 LV.X",
+      "stage": "Level-Up",
+      "evolvesFrom": "Alakazam E4",
+      "hp": "100",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Damage Switch",
+          "text": "As often as you like during your turn (before your attack), you may move 1 damage counter from 1 of your Pokémon SP to another of your Pokémon SP. This power can't be used if Alakazam E4 is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Put this card onto your Active Alakazam E4. Alakazam E4 LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.",
+      "level": "X",
+      "attacks": [
+        {
+          "name": "Mind Shock",
+          "damage": "50",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Weakness or Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-104",
+      "itemType": "Pokemon Card",
+      "number": "104",
+      "name": "Floatzel GL LV.X",
+      "stage": "Level-Up",
+      "evolvesFrom": "Floatzel GL",
+      "hp": "100",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Water Rescue",
+          "text": "Whenever any of your Water Pokémon (excluding any Floatzel GL) is Knocked Out by damage from your opponent's attack, you may put that Pokémon and all cards that were attached to it from your discard pile into your hand.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "Put this card onto your Active Floatzel GL. Floatzel GL LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.",
+      "level": "X",
+      "attacks": [
+        {
+          "name": "Energy Cyclone",
+          "damage": "20×",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "Choose as many Energy cards from your hand as you like and show them to your opponent. This attack does 20 damage times the number of Energy cards you chose. Put those Energy cards on top of your deck. Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-105",
+      "itemType": "Pokemon Card",
+      "number": "105",
+      "name": "Flygon LV.X",
+      "stage": "Level-Up",
+      "evolvesFrom": "Flygon",
+      "hp": "140",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "artist": "Shizurow",
+      "abilities": [
+        {
+          "name": "Wind Erosion",
+          "text": "As long as Flygon is your Active Pokémon, discard the top card from your opponent's deck between turns.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "Put this card onto your Active Flygon. Flygon LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.",
+      "level": "X",
+      "attacks": [
+        {
+          "name": "Extreme Attack",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon LV.X. This attack does 150 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Colorless",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-106",
+      "itemType": "Pokemon Card",
+      "number": "106",
+      "name": "Gallade E4 LV.X",
+      "stage": "Level-Up",
+      "evolvesFrom": "Gallade E4",
+      "hp": "100",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Blade Storm",
+          "text": "Once during your turn (before your attack), when you put Gallade E4 LV.X from your hand onto your Active Gallade E4, you may put 1 damage counter on each of your opponent's Pokémon.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Put this card onto your Active Gallade E4. Gallade E4 LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.",
+      "level": "X",
+      "attacks": [
+        {
+          "name": "Aimed Cut",
+          "damage": "40+",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 40 damage plus 10 more damage for each damage counter on the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-107",
+      "itemType": "Pokemon Card",
+      "number": "107",
+      "name": "Hippowdon LV.X",
+      "stage": "Level-Up",
+      "evolvesFrom": "Hippowdon",
+      "hp": "130",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "artist": "Shizurow",
+      "abilities": [
+        {
+          "name": "Sand Reset",
+          "text": "Once during a game on your turn (before your attack), each player shuffles all cards in play (excluding Pokémon and Supporter cards) into his or her deck. You can't use more than 1 Sand Reset Poké-Power each game.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Put this card onto your Active Hippowdon. Hippowdon LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.",
+      "level": "X",
+      "attacks": [
+        {
+          "name": "Double Shoot",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard 2 Fighting Energy attached to Hippowdon and choose 2 of your opponent's Benched Pokémon. This attack does 40 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-108",
+      "itemType": "Pokemon Card",
+      "number": "108",
+      "name": "Infernape E4 LV.X",
+      "stage": "Level-Up",
+      "evolvesFrom": "Infernape E4",
+      "hp": "110",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Intimidating Roar",
+          "text": "Once during your turn (before your attack), you may have your opponent switch his or her Active Pokémon with 1 of his or her Benched Pokémon. This power can't be used if Infernape E4 is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Put this card onto your Active Infernape E4. Infernape E4 LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.",
+      "level": "X",
+      "attacks": [
+        {
+          "name": "Fire Spin",
+          "damage": "100",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Discard 2 Energy attached to Infernape E4."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-109",
+      "itemType": "Pokemon Card",
+      "number": "109",
+      "name": "Luxray GL LV.X",
+      "stage": "Level-Up",
+      "evolvesFrom": "Luxray GL",
+      "hp": "110",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Bright Look",
+          "text": "Once during your turn (before your attack), when you put Luxray GL LV.X from your hand onto your Active Luxray GL, you may switch the Defending Pokémon with 1 of your opponent's Benched Pokémon.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Put this card onto your Active Luxray GL. Luxray GL LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.",
+      "level": "X",
+      "attacks": [
+        {
+          "name": "Flash Impact",
+          "damage": "60",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Does 30 damage to 1 of your Pokémon, and don't apply Weakness and Resistance to this damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-110",
+      "itemType": "Pokemon Card",
+      "number": "110",
+      "name": "Mismagius GL LV.X",
+      "stage": "Level-Up",
+      "evolvesFrom": "Mismagius GL",
+      "hp": "100",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "artist": "Kent Kanetsuna",
+      "abilities": [
+        {
+          "name": "Magical Return",
+          "text": "As often as you like during your turn (before your attack), you may return a Pokémon Tool or Technical Machine card attached to your Pokémon to your hand. This power can't be used if Mismagius GL is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Put this card onto your Active Mismagius GL. Mismagius GL LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.",
+      "level": "X",
+      "attacks": [
+        {
+          "name": "Darkness Magic",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Count the number of cards in your hand. Put that many damage counters on the Defending Pokémon. You can't put more than 8 damage counters in this way."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Colorless",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-111",
+      "itemType": "Pokemon Card",
+      "number": "111",
+      "name": "Snorlax LV.X",
+      "stage": "Level-Up",
+      "evolvesFrom": "Snorlax",
+      "hp": "130",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo LV.X",
+      "artist": "Shizurow",
+      "abilities": [
+        {
+          "name": "Big Appetite",
+          "text": "Once during your turn (before your attack), if Snorlax is your Active Pokémon, you may draw cards until you have 6 cards in your hand. If you do, Snorlax is now Asleep. This power can't be used if Snorlax is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Put this card onto your Active Snorlax. Snorlax LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.",
+      "level": "X",
+      "attacks": [
+        {
+          "name": "Exercise",
+          "damage": "80",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may discard as many Energy cards as you like from your hand. If you do, remove that many damage counters from Snorlax."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-112",
+      "itemType": "Pokemon Card",
+      "number": "112",
+      "name": "Pikachu",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Mitsuhiro Arita",
+      "text": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
+      "level": "12",
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Thunder Jolt",
+          "damage": "30",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, Pikachu does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-113",
+      "itemType": "Pokemon Card",
+      "number": "113",
+      "name": "Flying Pikachu",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Toshinao Aoki",
+      "text": "By learning how to fly, Pikachu overcame its weakness to Fighting Pokémon.",
+      "level": "12",
+      "attacks": [
+        {
+          "name": "Thundershock",
+          "damage": "10",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Fly",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing. If heads, prevent all effects of an attack, including damage, done to Flying Pikachu during your opponent's next turn."
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-114",
+      "itemType": "Pokemon Card",
+      "number": "114",
+      "name": "Surfing Pikachu",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Toshinao Aoki",
+      "text": "One summer, a group of Pikachu was found riding the waves at the local beach.",
+      "level": "13",
+      "attacks": [
+        {
+          "name": "Surf",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Water"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-RT1",
+      "itemType": "Pokemon Card",
+      "number": "RT1",
+      "name": "Fan Rotom",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "Motofumi Fujiwara",
+      "abilities": [
+        {
+          "name": "Fan Shift",
+          "text": "Once during your turn (before your attack), you may use this power. Fan Rotom's type is Colorless until the end of your turn.",
+          "type": "Poké-Power"
+        }
+      ],
+      "level": "46",
+      "attacks": [
+        {
+          "name": "Spin Storm",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent returns the Defending Pokémon and all cards attached to it to his or her hand."
+        },
+        {
+          "name": "Air Slash",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, discard an Energy attached to Fan Rotom."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Colorless",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-RT2",
+      "itemType": "Pokemon Card",
+      "number": "RT2",
+      "name": "Frost Rotom",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "Hironobu Yoshida",
+      "abilities": [
+        {
+          "name": "Frost Shift",
+          "text": "Once during your turn (before your attack), you may use this power. Frost Rotom's type is Water until the end of your turn.",
+          "type": "Poké-Power"
+        }
+      ],
+      "level": "46",
+      "attacks": [
+        {
+          "name": "Hail",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Crushing Ice",
+          "damage": "40+",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 40 damage plus 10 more damage for each Colorless Energy in the Defending Pokémon's Retreat Cost (after applying effects to the Retreat Cost)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Colorless",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-RT3",
+      "itemType": "Pokemon Card",
+      "number": "RT3",
+      "name": "Heat Rotom",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "Lee HyunJung",
+      "abilities": [
+        {
+          "name": "Heat Shift",
+          "text": "Once during your turn (before your attack), you may use this power. Heat Rotom's type is Fire until the end of your turn.",
+          "type": "Poké-Power"
+        }
+      ],
+      "level": "46",
+      "attacks": [
+        {
+          "name": "Warm Up",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a Fire Energy card and attach it to 1 of your Benched Pokémon. Shuffle your deck afterward."
+        },
+        {
+          "name": "Heat Burn",
+          "damage": "40",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Burned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Colorless",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-RT4",
+      "itemType": "Pokemon Card",
+      "number": "RT4",
+      "name": "Mow Rotom",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "Yusuke Ohmura",
+      "abilities": [
+        {
+          "name": "Mow Shift",
+          "text": "Once during your turn (before your attack), you may use this power. Mow Rotom's type is Grass until the end of your turn.",
+          "type": "Poké-Power"
+        }
+      ],
+      "level": "46",
+      "attacks": [
+        {
+          "name": "Slash",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Mow Down",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy card attached to each of your opponent's Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Colorless",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-RT5",
+      "itemType": "Pokemon Card",
+      "number": "RT5",
+      "name": "Wash Rotom",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "Hiroki Fuchino",
+      "abilities": [
+        {
+          "name": "Wash Shift",
+          "text": "Once during your turn (before your attack), you may use this power. Wash Rotom's type is Water until the end of your turn.",
+          "type": "Poké-Power"
+        }
+      ],
+      "level": "46",
+      "attacks": [
+        {
+          "name": "Cleanse Away",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Remove 3 damage counters from each of your Benched Pokémon."
+        },
+        {
+          "name": "Drain Wash",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. For each heads, choose 1 card from your opponent's hand without looking and discard it."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Colorless",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-rising-rivals-RT6",
+      "itemType": "Trainer Card",
+      "number": "RT6",
+      "name": "Charon's Choice",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, put this card into your hand instead of discarding it.,Search your deck for any Rotom and switch it with any Rotom you have in play. Any cards attached to Rotom and damage counters on it are now on the new Pokémon. (Remove all Special Conditions and effects from Rotom.) Put Rotom on top of your deck. Shuffle your deck afterward."
+    }
+  ]
+}
