@@ -1,0 +1,3779 @@
+{
+  "setId": "tcg-pokemon-unleashed",
+  "cardCount": "96",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-unleashed-booster-box",
+      "itemType": "Sealed Product",
+      "name": "Unleashed Booster Box"
+    },
+    {
+      "id": "tcg-pokemon-unleashed-booster-pack",
+      "itemType": "Sealed Product",
+      "name": "Unleashed Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-unleashed-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Jirachi",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Wataru Kawahara",
+      "abilities": [
+        {
+          "name": "Stardust Song",
+          "text": "Once during your turn, when you put Jirachi from your hand onto your Bench, you may flip 3 coins. For each heads, search your discard pile for a Psychic Energy card and attach it to Jirachi.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Generations have believed that any wish written on a note on its head will come true when it awakens.",
+      "attacks": [
+        {
+          "name": "Time Hollow",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Choose a number of your opponent's Stage 1 or Stage 2 Evolved Pokémon up to the amount of Energy attached to Jirachi. Remove the highest Stage Evolution card from each of those Pokémon and put those cards back into your opponent's hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Magmortar",
+      "stage": "Stage 1",
+      "evolvesFrom": "Magmar",
+      "hp": "110",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Hajime Kusajima",
+      "text": "It blasts fireballs of over 3,600 degrees Fahrenheit out of its arms. Its breath also sears and sizzles.",
+      "attacks": [
+        {
+          "name": "Hard Crush",
+          "damage": "50×",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard the top 3 cards from your deck. This attack does 50 damage times the number of Energy cards you discarded."
+        },
+        {
+          "name": "Mantle Bazooka",
+          "damage": "100",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard 2 Fire Energy attached to Magmortar."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-3",
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Manaphy",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Masakazu Fukuda",
+      "text": "It starts its life with a wondrous power that permits it to bond with any kind of Pokémon.",
+      "attacks": [
+        {
+          "name": "Deep Sea Swirl",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Shuffle your hand into your deck. Then, draw 5 cards."
+        },
+        {
+          "name": "Wave Splash",
+          "damage": "20",
+          "cost": [
+            "Water"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-4",
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Metagross",
+      "stage": "Stage 2",
+      "evolvesFrom": "Metang",
+      "hp": "130",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Wataru Kawahara",
+      "abilities": [
+        {
+          "name": "Psychic Float",
+          "text": "If you have any Psychic Energy attached to your Active Pokémon, the Retreat Cost for that Pokémon is 0.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Pulse Blast",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Double Leg Hammer",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Choose 2 of your opponent's Benched Pokémon. This attack does 40 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Mismagius",
+      "stage": "Stage 1",
+      "evolvesFrom": "Misdreavus",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Hideaki Hakozaki",
+      "abilities": [
+        {
+          "name": "Magical Trans",
+          "text": "Once during your turn (before your attack), you may move a Psychic Energy attached to 1 of your Pokémon to another of your Pokémon. This power can't be used if Mismagius is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Its cries sound like incantations to torment the foe. It appears where you least expect it.",
+      "attacks": [
+        {
+          "name": "Psychic Pulse",
+          "damage": "30",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Does 10 damage to each of your opponent's Benched Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Colorless",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-6",
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Octillery",
+      "stage": "Stage 1",
+      "evolvesFrom": "Remoraid",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ken Sugimori",
+      "text": "It traps foes with the suction cups on its tentacles, then smashes them with its rock-hard head.",
+      "attacks": [
+        {
+          "name": "Switch Cannon",
+          "cost": [
+            "Water"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Switch Octillery with 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Ink Bomb",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-7",
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Politoed",
+      "stage": "Stage 2",
+      "evolvesFrom": "Poliwhirl",
+      "hp": "120",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Naoyo Kimura",
+      "abilities": [
+        {
+          "name": "Leap Frog",
+          "text": "Once during your turn (before your attack), you may choose a Water Pokémon on your Bench and switch it with your Active Pokémon. This power can't be used if Politoed is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Whenever three or more of these get together, they sing in a loud voice that sounds like bellowing.",
+      "attacks": [
+        {
+          "name": "Big Chorus",
+          "damage": "30×",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin for each Water Pokémon you have in play. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-8",
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "Shaymin",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Hideaki Hakozaki",
+      "abilities": [
+        {
+          "name": "Celebration Wind",
+          "text": "Once during your turn, when you put Shaymin from your hand onto your Bench, you may move as many Energy cards attached to your Pokémon as you like to any of your other Pokémon.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "The blooming of Gracidea flowers confers the power of flight upon it. Feelings of gratitude are the message it delivers.",
+      "attacks": [
+        {
+          "name": "Energy Bloom",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Remove 3 damage counters from each of your Pokémon that has any Energy attached to it."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-9",
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Sudowoodo",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Sachiko Adachi",
+      "text": "It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining.",
+      "attacks": [
+        {
+          "name": "Push Over",
+          "damage": "20×",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Does 20 damage times the amount of Fighting Energy attached to Sudowoodo."
+        },
+        {
+          "name": "Rumble",
+          "damage": "40",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Torterra",
+      "stage": "Stage 2",
+      "evolvesFrom": "Grotle",
+      "hp": "140",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "match",
+      "text": "Ancient people imagined that beneath the ground, a gigantic Torterra dwelled.",
+      "attacks": [
+        {
+          "name": "Giga Drain",
+          "damage": "40",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Remove from Torterra the number of damage counters equal to the damage you did to the Defending Pokémon."
+        },
+        {
+          "name": "Land Crush",
+          "damage": "80",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Xatu",
+      "stage": "Stage 1",
+      "evolvesFrom": "Natu",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "sui",
+      "text": "In South America, it is said that its right eye sees the future and its left eye views the past.",
+      "attacks": [
+        {
+          "name": "Psywave",
+          "damage": "20×",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Does 20 damage times the amount of Energy attached to the Defending Pokémon."
+        },
+        {
+          "name": "Confuse Ray",
+          "damage": "50",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Beedrill",
+      "stage": "Stage 2",
+      "evolvesFrom": "Kakuna",
+      "hp": "110",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Kyoko Umemoto",
+      "text": "It can take down any opponent with its powerful poison stingers. It sometimes attacks in swarms.",
+      "attacks": [
+        {
+          "name": "Twineedle",
+          "damage": "50×",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip 2 coins. This attack does 50 damage times the number of heads."
+        },
+        {
+          "name": "Paralyze Poison",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Poisoned. Flip a coin. If heads, the Defending Pokémon is also Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Blastoise",
+      "stage": "Stage 2",
+      "evolvesFrom": "Wartortle",
+      "hp": "130",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Masakazu Fukuda",
+      "abilities": [
+        {
+          "name": "Wash Out",
+          "text": "As often as you like during your turn (before your attack), you may move a Water Energy attached to 1 of your Benched Pokémon to your Active Pokémon. This power can't be used if Blastoise is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "It deliberately makes itself heavy so it can withstand the recoil of the water jets it fires.",
+      "attacks": [
+        {
+          "name": "Hydro Launcher",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Return 2 Water Energy attached to Blastoise to your hand. Choose 1 of your opponent's Pokémon. This attack does 100 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Crobat",
+      "stage": "Stage 2",
+      "evolvesFrom": "Golbat",
+      "hp": "110",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "kawayoo",
+      "text": "The development of wings on its legs enables it to fly fast but also makes it tough to stop and rest.",
+      "attacks": [
+        {
+          "name": "Supersonic",
+          "damage": "30",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "The Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Hurricane Wing",
+          "damage": "30×",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 4 coins. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Fearow",
+      "stage": "Stage 1",
+      "evolvesFrom": "Spearow",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "text": "It shoots itself suddenly high into the sky, then plummets down in one fell swoop to strike its prey.",
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Repeating Drill",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 5 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-16",
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Floatzel",
+      "stage": "Stage 1",
+      "evolvesFrom": "Buizel",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Masakazu Fukuda",
+      "abilities": [
+        {
+          "name": "Water Acceleration",
+          "text": "Once during your turn (before your attack), you may attach a Water Energy card from your hand to Floatzel. This power can't be used if Floatzel is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "With its flotation sac inflated, it can carry people on its back. It deflates the sac before it dives.",
+      "attacks": [
+        {
+          "name": "Waterfall",
+          "damage": "60",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Kingdra",
+      "stage": "Stage 2",
+      "evolvesFrom": "Seadra",
+      "hp": "130",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Shin Nagasawa",
+      "text": "It sleeps deep on the ocean floor to build its energy. It is said to cause tornadoes as it wakes.",
+      "attacks": [
+        {
+          "name": "Water Arrow",
+          "cost": [
+            "Water"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Stream Pump",
+          "damage": "50+",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may do 50 damage plus 30 more damage. If you do, return an Energy card attached to Kingdra to your hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-18",
+      "itemType": "Pokemon Card",
+      "number": "18",
+      "name": "Lanturn",
+      "stage": "Stage 1",
+      "evolvesFrom": "Chinchou",
+      "hp": "90",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "sui",
+      "text": "The light it emits is so bright that it can illuminate the sea's surface from a depth of over three miles.",
+      "attacks": [
+        {
+          "name": "Confuse Ray",
+          "damage": "20",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Reflect Energy",
+          "damage": "60",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Move an Energy card attached to Lanturn to 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-19",
+      "itemType": "Pokemon Card",
+      "number": "19",
+      "name": "Lucario",
+      "stage": "Stage 1",
+      "evolvesFrom": "Riolu",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "text": "It's said that no foe can remain invisible to Lucario, since it can detect auras, even foes it could not otherwise see.",
+      "attacks": [
+        {
+          "name": "Bulk Up",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "During your next turn, each of Lucario's attacks does 30 more damage to the Defending Pokémon (before applying Weakness and Resistance)."
+        },
+        {
+          "name": "Magnum Punch",
+          "damage": "50",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-20",
+      "itemType": "Pokemon Card",
+      "number": "20",
+      "name": "Ninetales",
+      "stage": "Stage 1",
+      "evolvesFrom": "Vulpix",
+      "hp": "90",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "artist": "Hajime Kusajima",
+      "text": "Some legends claim that each of its nine tails has its own unique type of special mystical power.",
+      "attacks": [
+        {
+          "name": "Heat Acceleration",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Search your discard pile for up to 3 Fire Energy cards and attach them to 1 of your Pokémon."
+        },
+        {
+          "name": "Searing Flame",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Burned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-21",
+      "itemType": "Pokemon Card",
+      "number": "21",
+      "name": "Poliwrath",
+      "stage": "Stage 2",
+      "evolvesFrom": "Poliwhirl",
+      "hp": "130",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Naoyo Kimura",
+      "text": "Although an energetic, skilled swimmer that uses all of its muscles, it lives on dry land.",
+      "attacks": [
+        {
+          "name": "Steamroll",
+          "damage": "40",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Dynamic Punch",
+          "damage": "60+",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 60 damage plus 40 more damage and the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-22",
+      "itemType": "Pokemon Card",
+      "number": "22",
+      "name": "Primeape",
+      "stage": "Stage 1",
+      "evolvesFrom": "Mankey",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Sachiko Adachi",
+      "text": "If approached while asleep, it may awaken and angrily give chase in a groggy state of semi-sleep.",
+      "attacks": [
+        {
+          "name": "Low Kick",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Bebop Punch",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. Flip a coin until you get tails. This attack does 50 damage times the number of heads to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-23",
+      "itemType": "Pokemon Card",
+      "number": "23",
+      "name": "Roserade",
+      "stage": "Stage 1",
+      "evolvesFrom": "Roselia",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Takashi Yamaguchi",
+      "abilities": [
+        {
+          "name": "Energy Signal",
+          "text": "When you attach a Grass Energy card or Psychic Energy card from your hand to Roserade during your turn, you may use this power. If you attach a Grass Energy card, the Defending Pokémon is now Confused. If you attach a Psychic Energy card, the Defending Pokémon is now Poisoned. This power can't be used if Roserade is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Its sweet aroma attracts prey. Then it spews poison. The more toxic it is, the sweeter its aroma.",
+      "attacks": [
+        {
+          "name": "Power Blow",
+          "damage": "20×",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Does 20 damage times the amount of Energy attached to Roserade."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-24",
+      "itemType": "Pokemon Card",
+      "number": "24",
+      "name": "Steelix",
+      "stage": "Stage 1",
+      "evolvesFrom": "Onix",
+      "hp": "120",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "artist": "Masakazu Fukuda",
+      "text": "Its body has been compressed deep under the ground. As a result, it is even harder than a diamond.",
+      "attacks": [
+        {
+          "name": "Guard Press",
+          "damage": "40",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done to Steelix by attacks is reduced by 20 (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Steel Swing",
+          "damage": "80×",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 80 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-25",
+      "itemType": "Pokemon Card",
+      "number": "25",
+      "name": "Torkoal",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "artist": "Hideaki Hakozaki",
+      "abilities": [
+        {
+          "name": "Hot Snort",
+          "text": "Once during your turn, when you put Torkoal from your hand onto your Bench, you may flip a coin. If heads, the Defending Pokémon is now Burned.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "You find abandoned coal mines full of them. They dig tirelessly in search of coal.",
+      "attacks": [
+        {
+          "name": "Flare",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-26",
+      "itemType": "Pokemon Card",
+      "number": "26",
+      "name": "Tyranitar",
+      "stage": "Stage 2",
+      "evolvesFrom": "Pupitar",
+      "hp": "140",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "text": "Extremely strong, it can change the landscape. It has an insolent nature that makes it not care about others.",
+      "attacks": [
+        {
+          "name": "Tail Crush",
+          "damage": "40+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 40 damage plus 20 more damage."
+        },
+        {
+          "name": "Hyper Beam",
+          "damage": "80",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard an Energy card attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-27",
+      "itemType": "Pokemon Card",
+      "number": "27",
+      "name": "Ursaring",
+      "stage": "Stage 1",
+      "evolvesFrom": "Teddiursa",
+      "hp": "100",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "text": "With its ability to distinguish any aroma, it unfailing finds all food buried deep underground.",
+      "attacks": [
+        {
+          "name": "Confront",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Cross Chop",
+          "damage": "50+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 50 damage plus 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-28",
+      "itemType": "Pokemon Card",
+      "number": "28",
+      "name": "Cherrim",
+      "stage": "Stage 1",
+      "evolvesFrom": "Cherubi",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "match",
+      "abilities": [
+        {
+          "name": "Sunny Heal",
+          "text": "Once during your turn (before your attack), you may remove 1 damage counter from your Active Pokémon. This power can't be used if Cherrim is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "During times of strong sunlight, its bud blooms, its petals open fully, and it becomes very active.",
+      "attacks": [
+        {
+          "name": "Seed Bomb",
+          "damage": "30",
+          "cost": [
+            "Grass"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-29",
+      "itemType": "Pokemon Card",
+      "number": "29",
+      "name": "Dunsparce",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Takashi Yamaguchi",
+      "text": "When spotted, this Pokémon escapes backward by furiously boring into the ground with its tail.",
+      "attacks": [
+        {
+          "name": "Return",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw cards until you have 6 cards in your hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-30",
+      "itemType": "Pokemon Card",
+      "number": "30",
+      "name": "Golbat",
+      "stage": "Stage 1",
+      "evolvesFrom": "Zubat",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "kawayoo",
+      "text": "It can drink more than 10 ounces of blood at once. If it has too much, it gets heavy and flies clumsily.",
+      "attacks": [
+        {
+          "name": "Mean Look",
+          "damage": "20",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-31",
+      "itemType": "Pokemon Card",
+      "number": "31",
+      "name": "Grotle",
+      "stage": "Stage 1",
+      "evolvesFrom": "Turtwig",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "match",
+      "text": "A Grotle that lives in the forest is said to have its own secret springwater.",
+      "attacks": [
+        {
+          "name": "Razor Leaf",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Sleep Powder",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-32",
+      "itemType": "Pokemon Card",
+      "number": "32",
+      "name": "Kakuna",
+      "stage": "Stage 1",
+      "evolvesFrom": "Weedle",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kyoko Umemoto",
+      "text": "Although it is a cocoon, it can move a little. It can extend its poison barb if it is attacked.",
+      "attacks": [
+        {
+          "name": "Speed Evolution",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a card that evolves from Kakuna and put it onto Kakuna. (This counts as evolving Kakuna.) Shuffle your deck afterward."
+        },
+        {
+          "name": "Poison Sting",
+          "cost": [
+            "Grass"
+          ],
+          "text": "The Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-33",
+      "itemType": "Pokemon Card",
+      "number": "33",
+      "name": "Metang",
+      "stage": "Stage 1",
+      "evolvesFrom": "Beldum",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Wataru Kawahara",
+      "text": "When two Beldum fuse together, a magnetic nervous system places their brains in union.",
+      "attacks": [
+        {
+          "name": "Energy Crane",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Search your discard pile for up to 2 Psychic Energy cards and attach them to your Pokémon in any way you like."
+        },
+        {
+          "name": "Psypunch",
+          "damage": "50",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-34",
+      "itemType": "Pokemon Card",
+      "number": "34",
+      "name": "Minun",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouki Saitou",
+      "text": "Exposure to electricity from Minun and Plusle promotes blood circulation and relaxes muscles.",
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "name": "Tag Team Boost",
+          "damage": "10+",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "If Plusle is on your Bench, this attack does 10 damage plus 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-35",
+      "itemType": "Pokemon Card",
+      "number": "35",
+      "name": "Numel",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hajime Kusajima",
+      "text": "The flaming magma it stores in the hump on its back is the source of its tremendous power.",
+      "attacks": [
+        {
+          "name": "Flare Bonus",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Discard a Fire Energy card from your hand. Then, draw 3 cards."
+        },
+        {
+          "name": "Combustion",
+          "damage": "40",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-36",
+      "itemType": "Pokemon Card",
+      "number": "36",
+      "name": "Plusle",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouki Saitou",
+      "text": "It absorbs electricity from telephone poles. It shorts out its body to create crackling noises.",
+      "attacks": [
+        {
+          "name": "Collect",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw 2 cards."
+        },
+        {
+          "name": "Thunder Jolt",
+          "damage": "20",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Flip a coin. If tails, Plusle does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-37",
+      "itemType": "Pokemon Card",
+      "number": "37",
+      "name": "Poliwhirl",
+      "stage": "Stage 1",
+      "evolvesFrom": "Poliwag",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Naoyo Kimura",
+      "text": "The skin on most of its body is moist. However, the skin on its belly spiral feels smooth.",
+      "attacks": [
+        {
+          "name": "Hypnoblast",
+          "damage": "20",
+          "cost": [
+            "Water"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Light Punch",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-38",
+      "itemType": "Pokemon Card",
+      "number": "38",
+      "name": "Pupitar",
+      "stage": "Stage 1",
+      "evolvesFrom": "Larvitar",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Sumiyoshi Kizuki",
+      "abilities": [
+        {
+          "name": "Boost Gas",
+          "text": "If Pupitar has any Energy attached to it, the Retreat Cost of Pupitar is 0.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "Its shell is as hard as sheet rock, and it is also very strong. Its thrashing can topple a mountain.",
+      "attacks": [
+        {
+          "name": "Rage",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 20 damage plus 10 more damage for each damage counter on Pupitar."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-39",
+      "itemType": "Pokemon Card",
+      "number": "39",
+      "name": "Pupitar",
+      "stage": "Stage 1",
+      "evolvesFrom": "Larvitar",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouki Saitou",
+      "text": "Even sealed in its shell, it can move freely. Hard and fast, it has outstanding destructive power.",
+      "attacks": [
+        {
+          "name": "Hammer In",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Speed Attack",
+          "damage": "50",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-40",
+      "itemType": "Pokemon Card",
+      "number": "40",
+      "name": "Seadra",
+      "stage": "Stage 1",
+      "evolvesFrom": "Horsea",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shin Nagasawa",
+      "text": "Its fin tips leak poison. Its fins and bones are highly valued as ingredients in herbal medicine.",
+      "attacks": [
+        {
+          "name": "Muddy Water",
+          "damage": "20",
+          "cost": [
+            "Water"
+          ],
+          "text": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Razor Fin",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-41",
+      "itemType": "Pokemon Card",
+      "number": "41",
+      "name": "Tauros",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Tomokazu Komiya",
+      "text": "They fight each other by locking horns. The herd's protector takes pride in its battle-scarred horns.",
+      "attacks": [
+        {
+          "name": "Smash Kick",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Crimson Bull",
+          "damage": "30×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 30 damage times the number of heads. Tauros is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-42",
+      "itemType": "Pokemon Card",
+      "number": "42",
+      "name": "Wartortle",
+      "stage": "Stage 1",
+      "evolvesFrom": "Squirtle",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Masakazu Fukuda",
+      "text": "It is a well-established symbol of longevity. If its shell has algae on it, that Wartortle is very old.",
+      "attacks": [
+        {
+          "name": "Water Arrow",
+          "cost": [
+            "Water"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Surf",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-43",
+      "itemType": "Pokemon Card",
+      "number": "43",
+      "name": "Aipom",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "It lives atop tall trees. When leaping from branch to branch, it deftly uses its tail for balance.",
+      "attacks": [
+        {
+          "name": "Tail Code",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Move an Energy card attached to the Defending Pokémon to another of your opponent's Pokémon."
+        },
+        {
+          "name": "Tail Smash",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-44",
+      "itemType": "Pokemon Card",
+      "number": "44",
+      "name": "Beldum",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Wataru Kawahara",
+      "text": "The magnetic force generated by its body repels the ground's natural magnetism, letting it float.",
+      "attacks": [
+        {
+          "name": "Reaction",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "You may switch Beldum with 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-45",
+      "itemType": "Pokemon Card",
+      "number": "45",
+      "name": "Buizel",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Masakazu Fukuda",
+      "text": "It inflates its flotation sac, keeping its face above water in order to watch for prey movement.",
+      "attacks": [
+        {
+          "name": "Muddy Water",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ],
+          "text": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-46",
+      "itemType": "Pokemon Card",
+      "number": "46",
+      "name": "Carnivine",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Wataru Kawahara",
+      "text": "It walks around on its tentacles in search of a tree branch where it can dangle down and ambush prey.",
+      "attacks": [
+        {
+          "name": "Drawup Power",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for an Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Spit Up",
+          "damage": "20",
+          "cost": [
+            "Grass"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-47",
+      "itemType": "Pokemon Card",
+      "number": "47",
+      "name": "Cherubi",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "match",
+      "text": "It evolves by sucking the energy out of the small ball where it had been storing nutrients.",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-48",
+      "itemType": "Pokemon Card",
+      "number": "48",
+      "name": "Chinchou",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "sui",
+      "text": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
+      "attacks": [
+        {
+          "name": "Ram",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Lightning Ball",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-49",
+      "itemType": "Pokemon Card",
+      "number": "49",
+      "name": "Horsea",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Shin Nagasawa",
+      "text": "Its big, developed fins move rapidly, allowing it to swim backward while still facing forward.",
+      "attacks": [
+        {
+          "name": "Beat",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Fin Smack",
+          "damage": "20×",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-50",
+      "itemType": "Pokemon Card",
+      "number": "50",
+      "name": "Larvitar",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Sumiyoshi Kizuki",
+      "text": "It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow.",
+      "attacks": [
+        {
+          "name": "Mountain Eater",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Discard the top card of your opponent's deck. Then, remove 2 damage counters from Larvitar."
+        },
+        {
+          "name": "Reckless Charge",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Larvitar does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-51",
+      "itemType": "Pokemon Card",
+      "number": "51",
+      "name": "Larvitar",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "It is born deep underground. It can't emerge until it has entirely consumed the soil around it.",
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Knuckle Punch",
+          "damage": "20",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-52",
+      "itemType": "Pokemon Card",
+      "number": "52",
+      "name": "Magmar",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Hajime Kusajima",
+      "text": "It dislikes cold places, so it blows scorching flames to make the environment suitable for itself.",
+      "attacks": [
+        {
+          "name": "Live Coal",
+          "damage": "10",
+          "cost": [
+            "Fire"
+          ]
+        },
+        {
+          "name": "Magma Punch",
+          "damage": "20",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-53",
+      "itemType": "Pokemon Card",
+      "number": "53",
+      "name": "Mankey",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Sachiko Adachi",
+      "text": "It is extremely ill-tempered. Groups of them will attack any handy target for no reason.",
+      "attacks": [
+        {
+          "name": "Punch",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Karate Chop",
+          "damage": "40-",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Does 40 damage minus 10 damage for each damage counter on Mankey."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-54",
+      "itemType": "Pokemon Card",
+      "number": "54",
+      "name": "Misdreavus",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Hideaki Hakozaki",
+      "text": "It likes playing mischievous tricks such as screaming and wailing to startle people at night.",
+      "attacks": [
+        {
+          "name": "Sharpshooting",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 10 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Colorless",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-55",
+      "itemType": "Pokemon Card",
+      "number": "55",
+      "name": "Natu",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "sui",
+      "text": "It usually forages for food on the ground but may, on rare occasions, hop onto branches to peck at shoots.",
+      "attacks": [
+        {
+          "name": "Peck",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Teleport",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Switch Natu with 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-56",
+      "itemType": "Pokemon Card",
+      "number": "56",
+      "name": "Onix",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "MAHOU",
+      "abilities": [
+        {
+          "name": "Energy Healer",
+          "text": "Whenever you attach an Energy card from your hand to Onix, remove a damage counter from Onix.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "It rapidly bores through the ground at 50 mph by squirming and twisting its massive, rugged body.",
+      "attacks": [
+        {
+          "name": "Boundless Power",
+          "damage": "80",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Onix can't attack during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-57",
+      "itemType": "Pokemon Card",
+      "number": "57",
+      "name": "Onix",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Masakazu Fukuda",
+      "text": "It twists and squirms through the ground. The thunderous roar of its tunneling echoes a long way.",
+      "attacks": [
+        {
+          "name": "Swing Around",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 damage plus 20 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-58",
+      "itemType": "Pokemon Card",
+      "number": "58",
+      "name": "Poliwag",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Naoyo Kimura",
+      "text": "The direction of its belly spiral differs by area. The equator is thought to have an effect on this.",
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "name": "Razor Fin",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-59",
+      "itemType": "Pokemon Card",
+      "number": "59",
+      "name": "Remoraid",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "It has superb accuracy. The water it shoots out can strike even moving prey from more than 300 feet.",
+      "attacks": [
+        {
+          "name": "Rain Splash",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ]
+        },
+        {
+          "name": "Water Arrow",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-60",
+      "itemType": "Pokemon Card",
+      "number": "60",
+      "name": "Riolu",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "They communicate with one another using their auras. They are able to run all through the night.",
+      "attacks": [
+        {
+          "name": "Kick",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Double Chop",
+          "damage": "20×",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-61",
+      "itemType": "Pokemon Card",
+      "number": "61",
+      "name": "Roselia",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Takashi Yamaguchi",
+      "text": "Roselia that drink nutritionally rich springwater are said to reveal rare coloration when they bloom.",
+      "attacks": [
+        {
+          "name": "Petal Dance",
+          "damage": "20×",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip 3 coins. This attack does 20 damage times the number of heads. Roselia is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-62",
+      "itemType": "Pokemon Card",
+      "number": "62",
+      "name": "Spearow",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "It flaps its short wings to flush out insects from tall grass. It then plucks them with its stubby beak.",
+      "attacks": [
+        {
+          "name": "Roost",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Remove 4 damage counters from Spearow. Spearow can't retreat during your next turn."
+        },
+        {
+          "name": "Flap",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-63",
+      "itemType": "Pokemon Card",
+      "number": "63",
+      "name": "Squirtle",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Masakazu Fukuda",
+      "text": "The shell is soft when it is born. It soon becomes so resilient, prodding fingers will bounce off it.",
+      "attacks": [
+        {
+          "name": "Rain Splash",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ]
+        },
+        {
+          "name": "Shell Attack",
+          "damage": "40",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-64",
+      "itemType": "Pokemon Card",
+      "number": "64",
+      "name": "Stantler",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "The curved antlers subtly change the flow of air to create a strange space where reality is distorted.",
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "name": "Mystifying Horns",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-65",
+      "itemType": "Pokemon Card",
+      "number": "65",
+      "name": "Teddiursa",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "Before food becomes scarce in wintertime, its habit is to hoard food in many hidden locations.",
+      "attacks": [
+        {
+          "name": "Take Down",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Teddiursa does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-66",
+      "itemType": "Pokemon Card",
+      "number": "66",
+      "name": "Tropius",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "match",
+      "text": "The bunch of fruit around its neck ripens twice a year and is delicious. It's a highly favored tropical snack.",
+      "attacks": [
+        {
+          "name": "Green Call",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip 2 coins. For each heads, search your deck for a Grass Pokémon, show it to your opponent, and put it into your hand. If you do, shuffle your deck afterward."
+        },
+        {
+          "name": "Gust",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-67",
+      "itemType": "Pokemon Card",
+      "number": "67",
+      "name": "Turtwig",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "match",
+      "text": "Photosynthesis occurs across its body under the sun. The shell on its back is actually hardened soil.",
+      "attacks": [
+        {
+          "name": "Leech Seed",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ],
+          "text": "If this attack does any damage to the Defending Pokémon (after applying Weakness and Resistance), remove 1 damage counter from Turtwig."
+        },
+        {
+          "name": "Ram",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-68",
+      "itemType": "Pokemon Card",
+      "number": "68",
+      "name": "Vulpix",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Hajime Kusajima",
+      "text": "As it develops, its single white tail gains color and splits into six. It is quite warm and cuddly.",
+      "attacks": [
+        {
+          "name": "Fireworks",
+          "damage": "20",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Flip a coin. If tails, discard a Fire Energy attached to Vulpix."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-69",
+      "itemType": "Pokemon Card",
+      "number": "69",
+      "name": "Weedle",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Kyoko Umemoto",
+      "text": "Its poison stinger is very powerful. Its bright-colored body is intended to warn off its enemies.",
+      "attacks": [
+        {
+          "name": "Speed Evolution",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a card that evolves from Weedle and put it onto Weedle. (This counts as evolving Weedle.) Shuffle your deck afterward."
+        },
+        {
+          "name": "Sting",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-70",
+      "itemType": "Pokemon Card",
+      "number": "70",
+      "name": "Zubat",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "kawayoo",
+      "text": "Capable of flying safely in dark places, it emits ultrasonic cries to check for any obstacles.",
+      "attacks": [
+        {
+          "name": "Glide",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Double Attack",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Choose 2 of your opponent's Benched Pokémon. This attack does 10 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-71",
+      "itemType": "Trainer Card",
+      "number": "71",
+      "name": "Cheerleader's Cheer",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouki Saitou",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Draw 3 cards. Your opponent may draw a card."
+    },
+    {
+      "id": "tcg-pokemon-unleashed-72",
+      "itemType": "Trainer Card",
+      "number": "72",
+      "name": "Dual Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Takashi Yamaguchi",
+      "text": "Flip 2 coins. For each heads, search your deck for a Basic Pokémon, show it to your opponent, and put it into your hand. If you do, shuffle your deck afterward."
+    },
+    {
+      "id": "tcg-pokemon-unleashed-73",
+      "itemType": "Trainer Card",
+      "number": "73",
+      "name": "Emcee's Chatter",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouki Saitou",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Flip a coin. If heads, draw 3 cards. If tails, draw 2 cards."
+    },
+    {
+      "id": "tcg-pokemon-unleashed-74",
+      "itemType": "Trainer Card",
+      "number": "74",
+      "name": "Energy Returner",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Wataru Kawahara",
+      "text": "Search your discard pile for 4 basic Energy cards, show them to your opponent, and shuffle them into your deck."
+    },
+    {
+      "id": "tcg-pokemon-unleashed-75",
+      "itemType": "Trainer Card",
+      "number": "75",
+      "name": "Engineer's Adjustments",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouki Saitou",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Discard an Energy card from your hand. Then, draw 4 cards."
+    },
+    {
+      "id": "tcg-pokemon-unleashed-76",
+      "itemType": "Trainer Card",
+      "number": "76",
+      "name": "Good Rod",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Wataru Kawahara",
+      "text": "Flip a coin. If heads, search your discard pile for a Pokémon, show it to your opponent, and put it on top of your deck. If tails, search your discard pile for a Trainer card, show it to your opponent, and put it on top of your deck."
+    },
+    {
+      "id": "tcg-pokemon-unleashed-77",
+      "itemType": "Trainer Card",
+      "number": "77",
+      "name": "Interviewer's Questions",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouki Saitou",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Look at the top 8 cards of your deck. Choose as many Energy cards as you like, show them to your opponent, and put them into your hand. Shuffle the other cards back into your deck."
+    },
+    {
+      "id": "tcg-pokemon-unleashed-78",
+      "itemType": "Trainer Card",
+      "number": "78",
+      "name": "Judge",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouki Saitou",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Each player shuffles his or her hand into his or her deck and draws 4 cards."
+    },
+    {
+      "id": "tcg-pokemon-unleashed-79",
+      "itemType": "Trainer Card",
+      "number": "79",
+      "name": "Life Herb",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hideaki Hakozaki",
+      "text": "Flip a coin. If heads, choose 1 of your Pokémon, and remove all Special Conditions and 6 damage counters from that Pokémon (all if there are less than 6)."
+    },
+    {
+      "id": "tcg-pokemon-unleashed-80",
+      "itemType": "Trainer Card",
+      "number": "80",
+      "name": "PlusPower",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Takashi Yamaguchi",
+      "text": "Attach PlusPower to 1 of your Pokémon. Discard this card at the end of your turn.,If the Pokémon PlusPower is attached to attacks, the attack does 10 more damage to the Defending Pokémon (before applying Weakness and Resistance)."
+    },
+    {
+      "id": "tcg-pokemon-unleashed-81",
+      "itemType": "Trainer Card",
+      "number": "81",
+      "name": "Pokémon Circulator",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hideaki Hakozaki",
+      "text": "Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon."
+    },
+    {
+      "id": "tcg-pokemon-unleashed-82",
+      "itemType": "Trainer Card",
+      "number": "82",
+      "name": "Rare Candy",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Noriko Hotta",
+      "text": "Choose 1 of your Basic Pokémon in play. If you have a Stage 1 or Stage 2 card that evolves from that Pokémon in your hand, put that card on the Basic Pokémon. (This counts as evolving that Pokémon.) If you choose a Stage 2 Pokémon in your hand, put that Pokémon on the Basic Pokémon instead of on a Stage 1 Pokémon."
+    },
+    {
+      "id": "tcg-pokemon-unleashed-83",
+      "itemType": "Trainer Card",
+      "number": "83",
+      "name": "Super Scoop Up",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Wataru Kawahara",
+      "text": "Flip a coin. If heads, return 1 of your Pokémon and all cards attached to it to your hand."
+    },
+    {
+      "id": "tcg-pokemon-unleashed-84",
+      "itemType": "Pokemon Card",
+      "number": "84",
+      "name": "Crobat",
+      "stage": "Stage 2",
+      "evolvesFrom": "Golbat",
+      "hp": "130",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Prime",
+      "artist": "Hideaki Hakozaki",
+      "attacks": [
+        {
+          "name": "Severe Poison",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "The Defending Pokémon is now Poisoned. Put 4 damage counters instead of 1 on that Pokémon between turns."
+        },
+        {
+          "name": "Skill Dive",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-85",
+      "itemType": "Pokemon Card",
+      "number": "85",
+      "name": "Kingdra",
+      "stage": "Stage 2",
+      "evolvesFrom": "Seadra",
+      "hp": "130",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Prime",
+      "artist": "Hideaki Hakozaki",
+      "abilities": [
+        {
+          "name": "Spray Splash",
+          "text": "Once during your turn (before your attack), you may put 1 damage counter on 1 of your opponent's Pokémon. This power can't be used if Kingdra is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Dragon Steam",
+          "damage": "60",
+          "cost": [
+            "Water"
+          ],
+          "text": "If your opponent has any Fire Pokémon in play, this attack's base damage is 20 instead of 60."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-86",
+      "itemType": "Pokemon Card",
+      "number": "86",
+      "name": "Lanturn",
+      "stage": "Stage 1",
+      "evolvesFrom": "Chinchou",
+      "hp": "110",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Prime",
+      "artist": "Hideaki Hakozaki",
+      "abilities": [
+        {
+          "name": "Underwater Dive",
+          "text": "Once during your turn (before your attack), you may use this power. Lanturn's type is Water until the end of your turn. This power can't be used if Lanturn is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Powerful Spark",
+          "damage": "40+",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 40 damage plus 10 more damage for each Energy attached to all of your Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-87",
+      "itemType": "Pokemon Card",
+      "number": "87",
+      "name": "Steelix",
+      "stage": "Stage 1",
+      "evolvesFrom": "Onix",
+      "hp": "140",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Prime",
+      "artist": "Wataru Kawahara",
+      "abilities": [
+        {
+          "name": "Perfect Metal",
+          "text": "Steelix can't be affected by any Special Conditions",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Energy Stream",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Search your discard pile for an Energy card and attach it to Steelix."
+        },
+        {
+          "name": "Gaia Crush",
+          "damage": "100",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may discard any Stadium card in play."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-88",
+      "itemType": "Pokemon Card",
+      "number": "88",
+      "name": "Tyranitar",
+      "stage": "Stage 2",
+      "evolvesFrom": "Pupitar",
+      "hp": "160",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Prime",
+      "artist": "Wataru Kawahara",
+      "attacks": [
+        {
+          "name": "Darkness Howl",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "This attack does 20 damage to each Pokémon in play (both yours and your opponent's) (excluding any Darkness Pokémon). (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Power Claw",
+          "damage": "60",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+        },
+        {
+          "name": "Megaton Tail",
+          "damage": "120",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard the top 3 cards of your deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-89",
+      "itemType": "Pokemon Card",
+      "number": "89",
+      "name": "Ursaring",
+      "stage": "Stage 1",
+      "evolvesFrom": "Teddiursa",
+      "hp": "110",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Prime",
+      "artist": "Wataru Kawahara",
+      "abilities": [
+        {
+          "name": "Berserk",
+          "text": "If Ursaring has any damage counters on it, each of Ursaring's attacks does 60 more damage (before applying Weakness and Resistance).",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hammer Arm",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard the top card from your opponent's deck."
+        },
+        {
+          "name": "Megaton Lariat",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-90",
+      "itemType": "Pokemon Card",
+      "number": "90",
+      "name": "Entei & Raikou LEGEND",
+      "stage": "LEGEND",
+      "hp": "140",
+      "types": [
+        "Fire",
+        "Lightning"
+      ],
+      "rarity": "LEGEND",
+      "artist": "Shinji Higuchi + Sachiko Eba",
+      "text": "Put this card from your hand onto your Bench only with the other half of Entei & Raikou LEGEND.,When this Pokémon has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Detonation Spin",
+          "damage": "90",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Discard a Fire Energy attached to Entei & Raikou LEGEND."
+        },
+        {
+          "name": "Thunder Fall",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Discard all Energy attached to Entei & Raikou LEGEND. This attack does 80 damage to each Pokémon that has any Poké-Powers (both yours and your opponent's). This attack's damage isn't affected by Weakness or Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-91",
+      "itemType": "Pokemon Card",
+      "number": "91",
+      "name": "Entei & Raikou LEGEND",
+      "stage": "LEGEND",
+      "hp": "140",
+      "types": [
+        "Fire",
+        "Lightning"
+      ],
+      "rarity": "LEGEND",
+      "artist": "Shinji Higuchi + Sachiko Eba",
+      "text": "Put this card from your hand onto your Bench only with the other half of Entei & Raikou LEGEND.,When this Pokémon has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Detonation Spin",
+          "damage": "90",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Discard a Fire Energy attached to Entei & Raikou LEGEND."
+        },
+        {
+          "name": "Thunder Fall",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Discard all Energy attached to Entei & Raikou LEGEND. This attack does 80 damage to each Pokémon that has any Poké-Powers (both yours and your opponent's). This attack's damage isn't affected by Weakness or Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        },
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-92",
+      "itemType": "Pokemon Card",
+      "number": "92",
+      "name": "Raikou & Suicune LEGEND",
+      "stage": "LEGEND",
+      "hp": "160",
+      "types": [
+        "Lightning",
+        "Water"
+      ],
+      "rarity": "LEGEND",
+      "artist": "Shinji Higuchi + Noriko Takaya",
+      "text": "Put this card from your hand onto your Bench only with the other half of Raikou & Suicune LEGEND.,When this Pokémon has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Thunderbolt Spear",
+          "damage": "150",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Raikou & Suicune LEGEND does 50 damage to itself and don't apply Weakness to this damage."
+        },
+        {
+          "name": "Aurora Gain",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Remove 5 damage counters from Raikou & Suicune LEGEND."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        },
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-93",
+      "itemType": "Pokemon Card",
+      "number": "93",
+      "name": "Raikou & Suicune LEGEND",
+      "stage": "LEGEND",
+      "hp": "160",
+      "types": [
+        "Lightning",
+        "Water"
+      ],
+      "rarity": "LEGEND",
+      "artist": "Shinji Higuchi + Noriko Takaya",
+      "text": "Put this card from your hand onto your Bench only with the other half of Raikou & Suicune LEGEND.,When this Pokémon has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Thunderbolt Spear",
+          "damage": "150",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Raikou & Suicune LEGEND does 50 damage to itself and don't apply Weakness to this damage."
+        },
+        {
+          "name": "Aurora Gain",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Remove 5 damage counters from Raikou & Suicune LEGEND."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        },
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-94",
+      "itemType": "Pokemon Card",
+      "number": "94",
+      "name": "Suicune & Entei LEGEND",
+      "stage": "LEGEND",
+      "hp": "160",
+      "types": [
+        "Water",
+        "Fire"
+      ],
+      "rarity": "LEGEND",
+      "artist": "Shinji Higuchi + Sachiko Eba",
+      "text": "Put this card from your hand onto your Bench only with the other half of Suicune & Entei LEGEND.,When this Pokémon has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Torrent Blade",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Return 2 Water Energy attached to Suicune & Entei LEGEND to your hand. Choose 1 of your opponent's Benched Pokémon. This attack does 100 damage to that Pokémon. (Don't apply Weakness or Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Bursting Inferno",
+          "damage": "80",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Burned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        },
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-95",
+      "itemType": "Pokemon Card",
+      "number": "95",
+      "name": "Suicune & Entei LEGEND",
+      "stage": "LEGEND",
+      "hp": "160",
+      "types": [
+        "Water",
+        "Fire"
+      ],
+      "rarity": "LEGEND",
+      "artist": "Shinji Higuchi + Sachiko Eba",
+      "text": "Put this card from your hand onto your Bench only with the other half of Suicune & Entei LEGEND.,When this Pokémon has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Torrent Blade",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Return 2 Water Energy attached to Suicune & Entei LEGEND to your hand. Choose 1 of your opponent's Benched Pokémon. This attack does 100 damage to that Pokémon. (Don't apply Weakness or Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Bursting Inferno",
+          "damage": "80",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Burned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        },
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-unleashed-TWO",
+      "itemType": "Trainer Card",
+      "number": "TWO",
+      "name": "Alph Lithograph",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Milky Isobe",
+      "text": "Shuffle your deck!"
+    }
+  ]
+}
