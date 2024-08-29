@@ -1,0 +1,3715 @@
+{
+  "setId": "tcg-pokemon-undaunted",
+  "cardCount": "91",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-undaunted-booster-box",
+      "itemType": "Sealed Product",
+      "name": "Undaunted Booster Box"
+    },
+    {
+      "id": "tcg-pokemon-undaunted-booster-pack",
+      "itemType": "Sealed Product",
+      "name": "Undaunted Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-undaunted-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Bellossom",
+      "stage": "Stage 2",
+      "evolvesFrom": "Gloom",
+      "hp": "110",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Hustle Step",
+          "text": "Once during your turn (before your attack), you may remove 1 damage counter from each of your Pokémon. This power can't be used if Bellossom is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Bellossom gather at times and seem to dance. They say that the dance is a ritual to summon the sun.",
+      "attacks": [
+        {
+          "name": "Dance 'til Dawn",
+          "damage": "30×",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 30 damage times the number of heads. Bellossom is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Espeon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "match",
+      "text": "It uses the fine hair that covers its body to sense air currents and predict its enemy's actions.",
+      "attacks": [
+        {
+          "name": "Solar Suggestion",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Move up to 4 damage counters from any of your Pokémon to any of your opponent's Pokémon in any way you like."
+        },
+        {
+          "name": "Psybeam",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-3",
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Forretress",
+      "stage": "Stage 1",
+      "evolvesFrom": "Pineco",
+      "hp": "90",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kyoko Umemoto",
+      "text": "Its entire body is shielded by a steel-hard shell. What lurks inside this shell is a total mystery.",
+      "attacks": [
+        {
+          "name": "Mirror Shot",
+          "damage": "30",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, this attack does nothing."
+        },
+        {
+          "name": "Everyone Explode Now",
+          "damage": "30×",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 30 damage times the number of Pineco and Forretress you have in play. This attack does 30 damage to each of your Pineco and Forretress in play."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-4",
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Gliscor",
+      "stage": "Stage 1",
+      "evolvesFrom": "Gligar",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Naoki Saito",
+      "text": "Its flight is soundless. It uses its lengthy tail to carry off its prey… Then its elongated fangs do the rest.",
+      "attacks": [
+        {
+          "name": "Ninja Fang",
+          "damage": "30",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "If, before Gliscor does damage, the Defending Pokémon has no damage counters on it and is then damaged by this attack (after applying Weakness and Resistance), the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Poison Jab",
+          "damage": "50",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Houndoom",
+      "stage": "Stage 1",
+      "evolvesFrom": "Houndour",
+      "hp": "90",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kagemaru Himeno",
+      "text": "Upon hearing its eerie howls, other Pokémon get the shivers and head straight back to their nests.",
+      "attacks": [
+        {
+          "name": "Fire Counterattack",
+          "damage": "20+",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "If your opponent has any Fighting Pokémon in play, this attack does 20 damage plus 60 more damage."
+        },
+        {
+          "name": "Dark Roar",
+          "damage": "50",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "text": "Your opponent discards a card from his or her hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-6",
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Magcargo",
+      "stage": "Stage 1",
+      "evolvesFrom": "Slugma",
+      "hp": "100",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Yuka Morii",
+      "text": "Its brittle shell occasionally spouts intense flames that circulate throughout its body.",
+      "attacks": [
+        {
+          "name": "Searing Flame",
+          "damage": "20",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Burned."
+        },
+        {
+          "name": "Lava Flow",
+          "damage": "60+",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "You may discard any number of Fire Energy cards attached to Magcargo. If you do , this attack does 60 damage plus 20 more damage for each Fire Energy card you discarded."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-7",
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Scizor",
+      "stage": "Stage 1",
+      "evolvesFrom": "Scyther",
+      "hp": "90",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kent Kanetsuna/Direc. Shinji Higuchi",
+      "text": "Its wings are not used for flying. They are flapped at high speed to adjust its body temperature.",
+      "attacks": [
+        {
+          "name": "Cut",
+          "damage": "50",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Metal Claw",
+          "damage": "80",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-8",
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "Smeargle",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Midori Harada",
+      "abilities": [
+        {
+          "name": "Portrait",
+          "text": "Once during your turn (before your attack), if Smeargle is your Active Pokémon, you may look at your opponent's hand. If you do, choose a Supporter card you find there and use the effect of that card as the effect of this power. This power can't be used if Smeargle is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Once it becomes an adult, it has a tendency to let its comrades plant footprints on its back.",
+      "attacks": [
+        {
+          "name": "Tail Rap",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-9",
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Togekiss",
+      "stage": "Stage 2",
+      "evolvesFrom": "Togetic",
+      "hp": "120",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Atsuko Nishida",
+      "text": "As everyone knows, it visits peaceful regions, bringing them gifts of kindness and sweet blessings.",
+      "attacks": [
+        {
+          "name": "Blessed Wings",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Remove all damage counters from each of your Pokémon. Shuffle Togekiss and all cards attached to it back into your deck."
+        },
+        {
+          "name": "Air Cutter",
+          "damage": "80",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Umbreon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "90",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "text": "When agitated, this Pokémon protects itself by spraying poisonous sweat from its pores.",
+      "attacks": [
+        {
+          "name": "Moonlight Fang",
+          "damage": "30",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "During your opponent's next turn, prevent all effects, including damage, done to Umbreon by attacks from your opponent's Pokémon that has any Poké-Powers or Poké-Bodies."
+        },
+        {
+          "name": "Quick Blow",
+          "damage": "30+",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 damage plus 30 damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Dodrio",
+      "stage": "Stage 1",
+      "evolvesFrom": "Doduo",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Yukiko Baba",
+      "abilities": [
+        {
+          "name": "Retreat Aid",
+          "text": "As long as Dodrio is on your Bench, your Active Pokémon's Retreat Cost is ColorlessColorless less.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "It collects data and plans three times as wisely, but it may think too much and fall into a state of immobility.",
+      "attacks": [
+        {
+          "name": "Incessant Peck",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. This attack does 20 damage plus 20 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Drifblim",
+      "stage": "Stage 1",
+      "evolvesFrom": "Drifloon",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "text": "It can generate and release gas within its body. That's how it can control the altitude of its drift.",
+      "attacks": [
+        {
+          "name": "Balloon Tackle",
+          "damage": "60",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Drifblim does 20 damage to itself."
+        },
+        {
+          "name": "Take Away",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Shuffle Drifblim and all cards attached to it back into your deck. Then, your opponent shuffles the Defending Pokémon and all cards attached to it into his or her deck. (You choose your new Active Pokémon first.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Colorless",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Forretress",
+      "stage": "Stage 1",
+      "evolvesFrom": "Pineco",
+      "hp": "80",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "text": "It remains immovably rooted to its tree. It scatters pieces of its hard shell to drive its enemies away.",
+      "attacks": [
+        {
+          "name": "Spike Spread",
+          "cost": [
+            "Metal"
+          ],
+          "text": "This attack does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Gyro Ball",
+          "damage": "30",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "text": "You may switch Forretress with 1 of your Benched Pokémon. If you do, your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Hariyama",
+      "stage": "Stage 1",
+      "evolvesFrom": "Makuhita",
+      "hp": "100",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Tomokazu Komiya",
+      "text": "It loves challenging others to tests of strength. It has the power to stop a train with a slap.",
+      "attacks": [
+        {
+          "name": "Hammer In",
+          "damage": "60",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Backward Belt Throw",
+          "damage": "80+",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may do 80 damage plus 20 more damage. If you do, Hariyama does 20 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Honchkrow",
+      "stage": "Stage 1",
+      "evolvesFrom": "Murkrow",
+      "hp": "90",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "kawayoo",
+      "text": "It is merciless by nature. It is said that it never forgives the mistakes of its Murkrow followers.",
+      "attacks": [
+        {
+          "name": "Whirlwind",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "name": "Blindside",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon that has any damage counters on it. This attack does 50 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-16",
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Honchkrow",
+      "stage": "Stage 1",
+      "evolvesFrom": "Murkrow",
+      "hp": "90",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "Masakazu Fukuda",
+      "text": "It is merciless by nature. It is said that it never forgives the mistakes of its Murkrow followers.",
+      "attacks": [
+        {
+          "name": "Shadow Bind",
+          "damage": "30",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "name": "Vengeance",
+          "damage": "10+",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 10 damage plus 10 more damage for each Darkness Pokémon in your discard pile."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Leafeon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Noriko Hotta",
+      "text": "When you see Leafeon asleep in a patch of sunshine, you'll know it is using photosynthesis to produce clean air.",
+      "attacks": [
+        {
+          "name": "Miasma Wind",
+          "damage": "50×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Does 50 damage damage times the number of Special Conditions affecting the Defending Pokémon."
+        },
+        {
+          "name": "Soothing Scent",
+          "damage": "30",
+          "cost": [
+            "Grass"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-18",
+      "itemType": "Pokemon Card",
+      "number": "18",
+      "name": "Metagross",
+      "stage": "Stage 2",
+      "evolvesFrom": "Metang",
+      "hp": "130",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "artist": "TOKIYA",
+      "text": "It folds its four legs when flying. Its four brains are said to be superior to a supercomputer.",
+      "attacks": [
+        {
+          "name": "Strength",
+          "damage": "70",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Quad Smash",
+          "damage": "50×",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 4 coins. This attack does 50 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-19",
+      "itemType": "Pokemon Card",
+      "number": "19",
+      "name": "Mismagius",
+      "stage": "Stage 1",
+      "evolvesFrom": "Misdreavus",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Suwama Chiaki",
+      "text": "Its cries sound like incantations to torment the foe. It appears where you least expect it.",
+      "attacks": [
+        {
+          "name": "Sleeping Spell",
+          "damage": "30",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Poltergeist",
+          "damage": "30×",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Look at your opponent's hand. This attack does 30 damage times the number of Trainer, Supporter, and Stadium cards in your opponent's hand.]"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Colorless",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-20",
+      "itemType": "Pokemon Card",
+      "number": "20",
+      "name": "Rotom",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "MAHOU",
+      "abilities": [
+        {
+          "name": "Mischievous Trick",
+          "text": "Once during your turn (before your attack), you may switch 1 of your face-down Prize cards with the top card of your deck. This power can't be used if Rotom is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Research continues on this Pokémon, which could be the power source of a unique motor.",
+      "attacks": [
+        {
+          "name": "Plasma Arrow",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 20 damage for each Energy attached to that Pokémon. This attack's damage isn't affected by Weakness or Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Colorless",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-21",
+      "itemType": "Pokemon Card",
+      "number": "21",
+      "name": "Skarmory",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "artist": "Midori Harada",
+      "text": "After nesting in bramble bushes, the wings of its chicks grow hard from scratches by thorns.",
+      "attacks": [
+        {
+          "name": "Steel Coat",
+          "cost": [
+            "Metal"
+          ],
+          "text": "Search your deck for a Metal Energy card and attach it to 1 of your Pokémon. Shuffle your deck afterward."
+        },
+        {
+          "name": "Razor Wing",
+          "damage": "40",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-22",
+      "itemType": "Pokemon Card",
+      "number": "22",
+      "name": "Tropius",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Masakazu Fukuda",
+      "text": "The bunch of fruit around its neck ripens twice a year and is delicious. It's a highly favored tropical snack.",
+      "attacks": [
+        {
+          "name": "Fresh-Picked Fruit",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Remove 6 damage counters from 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Cutting Wind",
+          "damage": "40",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-23",
+      "itemType": "Pokemon Card",
+      "number": "23",
+      "name": "Vespiquen",
+      "stage": "Stage 1",
+      "evolvesFrom": "Combee",
+      "hp": "100",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Naoyo Kimura",
+      "abilities": [
+        {
+          "name": "Defense Sign",
+          "text": "Prevent all damage done to your Benched Grass Pokémon by attacks.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "It raises grubs in the holes in its body. It secretes pheromones to control Combee.",
+      "attacks": [
+        {
+          "name": "Mach Wind",
+          "damage": "60",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your next turn, Vespiquen's Retreat Cost is 0."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-24",
+      "itemType": "Pokemon Card",
+      "number": "24",
+      "name": "Vileplume",
+      "stage": "Stage 2",
+      "evolvesFrom": "Gloom",
+      "hp": "120",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Allergy Flower",
+          "text": "Each player can't play any Trainer cards from his or her hand.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "It has the world's largest petals. With every step, the petals shake out heavy clouds of toxic pollen.",
+      "attacks": [
+        {
+          "name": "Dazzling Pollen",
+          "damage": "50+",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 50 damage plus 20 more damage. If tails, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-25",
+      "itemType": "Pokemon Card",
+      "number": "25",
+      "name": "Weavile",
+      "stage": "Stage 1",
+      "evolvesFrom": "Sneasel",
+      "hp": "80",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "Aya Kusube",
+      "abilities": [
+        {
+          "name": "Claw Snag",
+          "text": "Once during your turn, when you play Weavile from your hand to evolve 1 of your Pokémon, you may look at your opponent's hand. Choose a card from your opponent's hand and discard it.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "It lives in snowy regions. It carves patterns in trees with its claws as a signal to others.",
+      "attacks": [
+        {
+          "name": "Feint Attack",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on that Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-26",
+      "itemType": "Pokemon Card",
+      "number": "26",
+      "name": "Flareon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "90",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "kawayoo",
+      "text": "It stores some of the air it inhales in its internal flame pouch, which heats it to over 3,000 degrees Fahrenheit.",
+      "attacks": [
+        {
+          "name": "Flame Tail",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Flamethrower",
+          "damage": "90",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Discard an Energy attached to Flareon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-27",
+      "itemType": "Pokemon Card",
+      "number": "27",
+      "name": "Gloom",
+      "stage": "Stage 1",
+      "evolvesFrom": "Oddish",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "text": "What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched.",
+      "attacks": [
+        {
+          "name": "Miracle Powder",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, choose 1 Special Condition. The Defending Pokémon is now affected by that Special Condition."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-28",
+      "itemType": "Pokemon Card",
+      "number": "28",
+      "name": "Jolteon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "80",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shin Nagasawa",
+      "text": "It concentrates the weak electric charges emitted by its cells and launches wicked lightning bolts.",
+      "attacks": [
+        {
+          "name": "Agility",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to Jolteon during your opponent's next turn."
+        },
+        {
+          "name": "Mach Bolt",
+          "damage": "70",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-29",
+      "itemType": "Pokemon Card",
+      "number": "29",
+      "name": "Lairon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Aron",
+      "hp": "90",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "artist": "match",
+      "text": "It loves iron ore. Groups of them fight for territory by bashing one another with their steel bodies.",
+      "attacks": [
+        {
+          "name": "Scrap Attack",
+          "damage": "20",
+          "cost": [
+            "Metal"
+          ],
+          "text": "Flip a coin. If heads, search your discard pile for a Metal Energy card and attach it to Lairon."
+        },
+        {
+          "name": "Tackle",
+          "damage": "60",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-30",
+      "itemType": "Pokemon Card",
+      "number": "30",
+      "name": "Metang",
+      "stage": "Stage 1",
+      "evolvesFrom": "Beldum",
+      "hp": "80",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "artist": "TOKIYA",
+      "text": "When two Beldum fuse together, a magnetic nervous system places their brains in union.",
+      "attacks": [
+        {
+          "name": "Hammer In",
+          "damage": "30",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Double Smash",
+          "damage": "50×",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 50 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-31",
+      "itemType": "Pokemon Card",
+      "number": "31",
+      "name": "Muk",
+      "stage": "Stage 1",
+      "evolvesFrom": "Grimer",
+      "hp": "100",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Midori Harada",
+      "text": "Its body is made of a powerful poison. Touching it accidentally will cause a fever that requires bed rest.",
+      "attacks": [
+        {
+          "name": "Sludge Drag",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Switch the Defending Pokémon with 1 of your opponent's Benched Pokémon. The new Defending Pokémon is now Confused and Poisoned."
+        },
+        {
+          "name": "Pester",
+          "damage": "50+",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is affected by a Special Condition, this attack does 50 damage plus 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-32",
+      "itemType": "Pokemon Card",
+      "number": "32",
+      "name": "Pinsir",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "match",
+      "text": "With its horns, it digs burrows to sleep in at night. In the morning, damp soil clings to its body.",
+      "attacks": [
+        {
+          "name": "Charging Horn",
+          "damage": "10+",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage."
+        },
+        {
+          "name": "Guillotine",
+          "damage": "60",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-33",
+      "itemType": "Pokemon Card",
+      "number": "33",
+      "name": "Raichu",
+      "stage": "Stage 1",
+      "evolvesFrom": "Pikachu",
+      "hp": "80",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouki Saitou",
+      "text": "When its electricity builds, its muscles are stimulated, and it becomes more aggressive than usual.",
+      "attacks": [
+        {
+          "name": "Pain-full Punch",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Spark",
+          "damage": "40",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-34",
+      "itemType": "Pokemon Card",
+      "number": "34",
+      "name": "Raticate",
+      "stage": "Stage 1",
+      "evolvesFrom": "Rattata",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Sachiko Adachi",
+      "text": "Its whiskers help it to maintain balance. Its fangs never stop growing, so it gnaws to pare them down.",
+      "attacks": [
+        {
+          "name": "Razor-Sharp Incisors",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Does 10 damage times the number of damage counters on the Defending Pokémon."
+        },
+        {
+          "name": "Gnaw Up",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Discard a Special Energy card attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-35",
+      "itemType": "Pokemon Card",
+      "number": "35",
+      "name": "Sableye",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Midori Harada",
+      "text": "It dwells in the darkness of caves. It uses its sharp claws to dig up gems to nourish itself.",
+      "attacks": [
+        {
+          "name": "Pull Out",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Search your discard pile for any 1 card, show it to your opponent, and put it on top of your deck."
+        },
+        {
+          "name": "Dark Hand",
+          "damage": "20+",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "If you have more cards in your hand than your opponent, this attack does 20 damage plus 30 more damage."
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Colorless",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-36",
+      "itemType": "Pokemon Card",
+      "number": "36",
+      "name": "Scyther",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Wataru Kawahara/Direc. Shinji Higuchi",
+      "text": "When it moves, it leaves only a blur. If it hides in grass, its protective colors make it invisible.",
+      "attacks": [
+        {
+          "name": "Afterimage Strike",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, if Scyther would be damaged by an attack, flip a coin. If heads, prevent that attack's damage done to Scyther."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-37",
+      "itemType": "Pokemon Card",
+      "number": "37",
+      "name": "Skuntank",
+      "stage": "Stage 1",
+      "evolvesFrom": "Stunky",
+      "hp": "80",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Naoyo Kimura",
+      "text": "It attacks by spraying a repugnant fluid from its tail, but the stench dulls after a few squirts.",
+      "attacks": [
+        {
+          "name": "Stun Gas",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned. If tails, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Fury Swipes",
+          "damage": "30×",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-38",
+      "itemType": "Pokemon Card",
+      "number": "38",
+      "name": "Slowbro",
+      "stage": "Stage 1",
+      "evolvesFrom": "Slowpoke",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "Naturally dull to begin with, it lost its ability to feel pain due to Shellder's seeping poison.",
+      "attacks": [
+        {
+          "name": "Full-Belly Refresh",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Remove all Special Conditions and 3 damage counters from Slowbro."
+        },
+        {
+          "name": "Startling Trip",
+          "damage": "50",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused. If tails, Slowbro is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-39",
+      "itemType": "Pokemon Card",
+      "number": "39",
+      "name": "Togetic",
+      "stage": "Stage 1",
+      "evolvesFrom": "Togepi",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Atsuko Nishida",
+      "text": "It grows dispirited if it is not with kind people. It can float in midair without moving its wings.",
+      "attacks": [
+        {
+          "name": "Chase Up",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for any 1 card and put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Fly",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing. If heads, prevent all effects of attacks, including damage done to Togetic during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-40",
+      "itemType": "Pokemon Card",
+      "number": "40",
+      "name": "Unown",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hideaki Hakozaki",
+      "abilities": [
+        {
+          "name": "DARK",
+          "text": "Once during your turn, when you put Unown from your hand onto your Bench, you may search your deck for a Darkness Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Their shapes look like hieroglyphs on ancient tablets. It is said that the two are somehow related.",
+      "attacks": [
+        {
+          "name": "Hidden Power",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-41",
+      "itemType": "Pokemon Card",
+      "number": "41",
+      "name": "Vaporeon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "sui",
+      "text": "When Vaporeon's fins begin to vibrate, it is a sign that rain will come within a few hours.",
+      "attacks": [
+        {
+          "name": "Spiral Drain",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Remove 2 damage counters from Vaporeon."
+        },
+        {
+          "name": "Dual Splash",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Choose 2 of your opponent's Pokémon. This attack does 30 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-42",
+      "itemType": "Pokemon Card",
+      "number": "42",
+      "name": "Aron",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Common",
+      "artist": "match",
+      "text": "When it evolves, it sheds the steel carapace that covered its whole body and develops a new one.",
+      "attacks": [
+        {
+          "name": "Metal Sound",
+          "cost": [
+            "Metal"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Headbutt",
+          "damage": "20",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-43",
+      "itemType": "Pokemon Card",
+      "number": "43",
+      "name": "Beldum",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Common",
+      "artist": "TOKIYA",
+      "text": "The magnetic force generated by its body repels the ground's natural magnetism, letting it float.",
+      "attacks": [
+        {
+          "name": "Lunge Out",
+          "damage": "10",
+          "cost": [
+            "Metal"
+          ]
+        },
+        {
+          "name": "Single Smash",
+          "damage": "50",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-44",
+      "itemType": "Pokemon Card",
+      "number": "44",
+      "name": "Combee",
+      "stage": "Basic",
+      "hp": "30",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Naoyo Kimura",
+      "text": "At night, Combee sleep in a group of about a thousand, packed closely together in a lump.",
+      "attacks": [
+        {
+          "name": "Enraged Assault",
+          "damage": "20+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If Vespiquen is on your Bench and has any damage counters on it, this attack does 20 damage plus 60 more damage and the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-45",
+      "itemType": "Pokemon Card",
+      "number": "45",
+      "name": "Doduo",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Yukiko Baba",
+      "text": "By alternately raising and lowering its two heads, it balances itself to be more stable while running.",
+      "attacks": [
+        {
+          "name": "Peck",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Double Headstrike",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. If either of them is tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-46",
+      "itemType": "Pokemon Card",
+      "number": "46",
+      "name": "Drifloon",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "It is whispered that any child who mistakes Drifloon for a balloon and holds on to it could wind up missing.",
+      "attacks": [
+        {
+          "name": "Minimize",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done to Drifloon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Pull",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, switch the Defending Pokémon with 1 of your opponent's Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Colorless",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-47",
+      "itemType": "Pokemon Card",
+      "number": "47",
+      "name": "Eevee",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Kanako Eo",
+      "text": "It has the ability to alter the composition of its body to suit its surrounding environment.",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Bite",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-48",
+      "itemType": "Pokemon Card",
+      "number": "48",
+      "name": "Eevee",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Noriko Hotta",
+      "text": "Its irregularly configured DNA is affected by its surroundings. It evolves if its environment changes.",
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "name": "Tickle",
+          "damage": "10",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-49",
+      "itemType": "Pokemon Card",
+      "number": "49",
+      "name": "Gligar",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Naoki Saito",
+      "text": "It flies straight at its target's face then clamps down on the startled victim to inject poison.",
+      "attacks": [
+        {
+          "name": "Stun Poison",
+          "damage": "20",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed and Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-50",
+      "itemType": "Pokemon Card",
+      "number": "50",
+      "name": "Grimer",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "text": "Wherever Grimer has passed, so many germs are left behind that no plants will ever grow again.",
+      "attacks": [
+        {
+          "name": "Sticky Liquid",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "During your opponent's next turn, the Defending Pokémon's Retreat Cost is Colorless more."
+        },
+        {
+          "name": "Sludge Toss",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-51",
+      "itemType": "Pokemon Card",
+      "number": "51",
+      "name": "Hitmonchan",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "Its punches slice the air. However, it seems to need a short break after fighting for three minutes.",
+      "attacks": [
+        {
+          "name": "Detect",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, prevent all effects of attack, including damage, done to Hitmonchan during your opponent's next turn."
+        },
+        {
+          "name": "Sky Uppercut",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-52",
+      "itemType": "Pokemon Card",
+      "number": "52",
+      "name": "Hitmonlee",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "If it starts kicking repeatedly, both legs will stretch even longer to strike a fleeing foe.",
+      "attacks": [
+        {
+          "name": "Kick",
+          "damage": "20",
+          "cost": [
+            "Fighting"
+          ]
+        },
+        {
+          "name": "High Jump Kick",
+          "damage": "60",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-53",
+      "itemType": "Pokemon Card",
+      "number": "53",
+      "name": "Houndour",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "kawayoo",
+      "text": "It uses different kinds of cries for communicating with others of its kind and for pursuing its prey.",
+      "attacks": [
+        {
+          "name": "Sharp Fang",
+          "damage": "30",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-54",
+      "itemType": "Pokemon Card",
+      "number": "54",
+      "name": "Houndour",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "To corner prey, they check each other's location using barks that only they can understand.",
+      "attacks": [
+        {
+          "name": "Jump On",
+          "damage": "10+",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-55",
+      "itemType": "Pokemon Card",
+      "number": "55",
+      "name": "Makuhita",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Tomokazu Komiya",
+      "text": "It toughens up by slamming into thick trees over and over. It gains a sturdy body and dauntless spirit.",
+      "attacks": [
+        {
+          "name": "Slap Down",
+          "damage": "20+",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 damage plus 10 more damage for each heads."
+        },
+        {
+          "name": "Slap Push",
+          "damage": "40",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-56",
+      "itemType": "Pokemon Card",
+      "number": "56",
+      "name": "Mawile",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Common",
+      "artist": "TOKIYA",
+      "text": "It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed.",
+      "attacks": [
+        {
+          "name": "Selfish Draw",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Look at the top card of your deck. You may put it into your hand. If not, discard it and draw a card."
+        },
+        {
+          "name": "Destructive Jaw",
+          "damage": "30",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed and discard an Energy card attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-57",
+      "itemType": "Pokemon Card",
+      "number": "57",
+      "name": "Misdreavus",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Suwama Chiaki",
+      "text": "It loves to bite and yank people's hair from behind without warning, just to see their shocked reactions.",
+      "attacks": [
+        {
+          "name": "Mumble",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Dual Draw",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Each player draws 3 cards."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Colorless",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-58",
+      "itemType": "Pokemon Card",
+      "number": "58",
+      "name": "Murkrow",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "kawayoo",
+      "text": "Feared and loathed by many, it is believed to bring misfortune to all those who see it at night.",
+      "attacks": [
+        {
+          "name": "Astonish",
+          "damage": "10",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Flip a coin. If heads, choose 1 card from your opponent's hand without looking. Look at the card you chose, then have your opponent shuffle that card into his or her deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-59",
+      "itemType": "Pokemon Card",
+      "number": "59",
+      "name": "Murkrow",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Masakazu Fukuda",
+      "text": "It is said that when chased, it lures its attacker onto dark mountain trails where the foe will get lost.",
+      "attacks": [
+        {
+          "name": "Glide",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Dark Cutter",
+          "damage": "30",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-60",
+      "itemType": "Pokemon Card",
+      "number": "60",
+      "name": "Oddish",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "Awakened by moonlight, it roams actively at night. In the day it stays quietly underground.",
+      "attacks": [
+        {
+          "name": "Ram",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Find a Friend",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, search your deck for a Grass Pokémon, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-61",
+      "itemType": "Pokemon Card",
+      "number": "61",
+      "name": "Pikachu",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.",
+      "attacks": [
+        {
+          "name": "Slam",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-62",
+      "itemType": "Pokemon Card",
+      "number": "62",
+      "name": "Pineco",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "It hangs and waits for flying insect prey to come near. It does not move about much on its own.",
+      "attacks": [
+        {
+          "name": "Rollout",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-63",
+      "itemType": "Pokemon Card",
+      "number": "63",
+      "name": "Pineco",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Kyoko Umemoto",
+      "text": "It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn't bother it.",
+      "attacks": [
+        {
+          "name": "Focus Energy",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "During your next turn, Pineco's Surprise Attack attack's base damage is 80."
+        },
+        {
+          "name": "Surprise Attack",
+          "damage": "40",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-64",
+      "itemType": "Pokemon Card",
+      "number": "64",
+      "name": "Rattata",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Sachiko Adachi",
+      "text": "Living wherever there is food available, it ceaselessly scavenges for edibles the entire day.",
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-65",
+      "itemType": "Pokemon Card",
+      "number": "65",
+      "name": "Scyther",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Masakazu Fukuda",
+      "text": "It slashes through grass with its sharp scythes, moving too fast for the human eye to track.",
+      "attacks": [
+        {
+          "name": "Cut",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Slashing Strike",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your next turn, Scyther can't use Slashing Strike."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-66",
+      "itemType": "Pokemon Card",
+      "number": "66",
+      "name": "Slowpoke",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "A sweet sap leaks from its tail's tip. Although not nutritious, the tail is pleasant to chew on.",
+      "attacks": [
+        {
+          "name": "Rambunctious Party",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Look at the top 5 cards of your deck. Choose as many Basic Pokémon as you like and put them onto your Bench. Shuffle the other cards back into your deck."
+        },
+        {
+          "name": "Rain Splash",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-67",
+      "itemType": "Pokemon Card",
+      "number": "67",
+      "name": "Slugma",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Yuka Morii",
+      "abilities": [
+        {
+          "name": "Active Volcano",
+          "text": "Once during your turn (before your attack), you may discard the top card of your deck. If that card is a Fire Energy card, attach it to Slugma. This power can't be used if Slugma is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "A common sight in volcanic areas, it slowly slithers around in a constant search for warm places.",
+      "attacks": [
+        {
+          "name": "Combustion",
+          "damage": "40",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-68",
+      "itemType": "Pokemon Card",
+      "number": "68",
+      "name": "Sneasel",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Aya Kusube",
+      "text": "Vicious in nature, it drives Pidgey from their nests and scavenges any leftovers it can find.",
+      "attacks": [
+        {
+          "name": "Fury Swipes",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "name": "Beat Up",
+          "damage": "20×",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "text": "Flip a coin for each of your Pokémon in play. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-69",
+      "itemType": "Pokemon Card",
+      "number": "69",
+      "name": "Stunky",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Naoyo Kimura",
+      "text": "The foul fluid from its rear is so revolting that it can make people feel queasy up to a mile and a quarter away.",
+      "attacks": [
+        {
+          "name": "Double Scratch",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-70",
+      "itemType": "Pokemon Card",
+      "number": "70",
+      "name": "Togepi",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "text": "A proverb claims that happiness will come to anyone who can make a sleeping Togepi stand up.",
+      "attacks": [
+        {
+          "name": "Plead",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Ask your opponent if you may draw 2 cards. If yes, draw 2 cards. If no, this attack does 20 damage to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-71",
+      "itemType": "Trainer Card",
+      "number": "71",
+      "name": "Burned Tower",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.,Once during each player's turn, that player may flip a coin. If heads, the player searches his or her discard pile for a basic Energy card, shows it to his or her opponent, and put it into his or her hand."
+    },
+    {
+      "id": "tcg-pokemon-undaunted-72",
+      "itemType": "Trainer Card",
+      "number": "72",
+      "name": "Defender",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Attach Defender to 1 of your Pokémon. Discard this card at the end of your opponent's next turn. Any damage done to the Pokémon Defender is attached to by an opponent's attack is reduced by 20 (after applying Weakness and Resistance)."
+    },
+    {
+      "id": "tcg-pokemon-undaunted-73",
+      "itemType": "Trainer Card",
+      "number": "73",
+      "name": "Energy Exchanger",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Choose an Energy card from your hand, show it to your opponent, and put it on top of your deck. Search your deck for an Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+    },
+    {
+      "id": "tcg-pokemon-undaunted-74",
+      "itemType": "Trainer Card",
+      "number": "74",
+      "name": "Flower Shop Lady",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kanako Eo",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Search your discard pile for 3 Pokémon and 3 basic Energy cards. Show them to your opponent and shuffle them into your deck."
+    },
+    {
+      "id": "tcg-pokemon-undaunted-75",
+      "itemType": "Trainer Card",
+      "number": "75",
+      "name": "Legend Box",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shizurow",
+      "text": "Reveal the top 10 cards of your deck. If you reveal both halves of a Pokémon LEGEND, put those cards onto your Bench and attach all revealed Energy cards to that Pokémon LEGEND. Shuffle the other cards back into your deck. (You can play only 1 Pokémon LEGEND in this way.)"
+    },
+    {
+      "id": "tcg-pokemon-undaunted-76",
+      "itemType": "Trainer Card",
+      "number": "76",
+      "name": "Ruins of Alph",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.,Each Pokémon in play has no Resistance."
+    },
+    {
+      "id": "tcg-pokemon-undaunted-77",
+      "itemType": "Trainer Card",
+      "number": "77",
+      "name": "Sage's Training",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Masakazu Fukuda",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Look at the top 5 cards of your deck. Choose any 2 cards you find there and put them into your hand. Discard the other cards."
+    },
+    {
+      "id": "tcg-pokemon-undaunted-78",
+      "itemType": "Trainer Card",
+      "number": "78",
+      "name": "Team Rocket's Trickery",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Takao Unno",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,Draw 2 cards. Then, your opponent discards a card from his or her hand."
+    },
+    {
+      "id": "tcg-pokemon-undaunted-79",
+      "itemType": "Energy Card",
+      "number": "79",
+      "name": "Darkness Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kent Kanetsuna",
+      "text": "If the Pokémon Darkness Energy is attached to attacks, the attack does 10 more damage to the Active Pokémon (before applying Weakness and Resistance). Ignore this effect if the Pokémon that Darkness Energy is attached to isn't Darkness. Darkness Energy provides Darkness Energy. (Doesn't count as a basic Energy card.)"
+    },
+    {
+      "id": "tcg-pokemon-undaunted-80",
+      "itemType": "Energy Card",
+      "number": "80",
+      "name": "Metal Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kent Kanetsuna",
+      "text": "Damage done by attacks to the Pokémon that Metal Energy is attached to is reduced by 10 (after applying Weakness and Resistance). Ignore this effect if the Pokémon that Metal Energy is attached to isn't Metal Metal Energy provides Metal Energy. (Doesn't count as a basic Energy card.)"
+    },
+    {
+      "id": "tcg-pokemon-undaunted-81",
+      "itemType": "Pokemon Card",
+      "number": "81",
+      "name": "Espeon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "100",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Prime",
+      "artist": "Hideaki Hakozaki",
+      "abilities": [
+        {
+          "name": "Evolution Memories",
+          "text": "Espeon can use the attacks of all Pokémon you have in play that evolve from Eevee as its own. (You still need the necessary Energy to use each attack.)",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Solar Ray",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Remove 1 damage counter from each of your Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-82",
+      "itemType": "Pokemon Card",
+      "number": "82",
+      "name": "Houndoom",
+      "stage": "Stage 1",
+      "evolvesFrom": "Houndour",
+      "hp": "110",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Prime",
+      "artist": "Hideaki Hakozaki",
+      "abilities": [
+        {
+          "name": "Fire Breath",
+          "text": "Once during your turn (before your attack), you may flip a coin. If heads, the Defending Pokémon is now Burned. This power can't be used if Houndoom is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Dark Clamp",
+          "damage": "70",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-83",
+      "itemType": "Pokemon Card",
+      "number": "83",
+      "name": "Raichu",
+      "stage": "Stage 1",
+      "evolvesFrom": "Pikachu",
+      "hp": "100",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Prime",
+      "artist": "Takashi Yamaguchi",
+      "abilities": [
+        {
+          "name": "Voltage Increase",
+          "text": "As often as you like during your turn (before your attack), you may move a Lightning Energy attached to 1 of your Pokémon to Raichu. This power can't be used if Raichu is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Mega Thunderbolt",
+          "damage": "120",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Discard all Energy attached to Raichu."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-84",
+      "itemType": "Pokemon Card",
+      "number": "84",
+      "name": "Scizor",
+      "stage": "Stage 1",
+      "evolvesFrom": "Scyther",
+      "hp": "100",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Prime",
+      "artist": "Noriko Hotta",
+      "abilities": [
+        {
+          "name": "Red Armor",
+          "text": "Prevent all damage done to Scizor by attacks from your opponent's Pokémon that have any Special Energy cards attached to them.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Metal Scissors",
+          "damage": "30+",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "text": "Does 30 damage plus 20 more damage for each Metal Energy attached to Scizor."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-85",
+      "itemType": "Pokemon Card",
+      "number": "85",
+      "name": "Slowking",
+      "stage": "Stage 1",
+      "evolvesFrom": "Slowpoke",
+      "hp": "100",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Prime",
+      "artist": "Noriko Hotta",
+      "abilities": [
+        {
+          "name": "Opponent's Choice",
+          "text": "Once during your turn (before your attack), you may reveal the top 2 cards of your deck and your opponent chooses 1 of them. Put that card into your hand and the other card on the bottom of your deck. This power can't be used if Slowking is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Super Psy Bolt",
+          "damage": "60",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-86",
+      "itemType": "Pokemon Card",
+      "number": "86",
+      "name": "Umbreon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "100",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Prime",
+      "artist": "Hideaki Hakozaki",
+      "abilities": [
+        {
+          "name": "Cloud-Covered Moon",
+          "text": "Once during your turn (before your attack), if Umbreon is your Active Pokémon, you may flip a coin. If heads, return Umbreon and all cards attached to it to your hand. This power can't be used if Umbreon is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Evoblast",
+          "damage": "50+",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 50 damage plus 10 more damage for each of your Pokémon in play that evolves from Eevee."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-87",
+      "itemType": "Pokemon Card",
+      "number": "87",
+      "name": "Kyogre & Groudon LEGEND",
+      "stage": "LEGEND",
+      "hp": "150",
+      "types": [
+        "Water",
+        "Fighting"
+      ],
+      "rarity": "LEGEND",
+      "artist": "Shinji Higuchi + Sachiko Eba",
+      "text": "Put this card from your hand onto your Bench only with the other half of Kyogre & Groudon LEGEND.,When this Pokémon has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Mega Tidal Wave",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard the top 5 cards from your opponent's deck. This attack does 30 damage times the number of Energy cards you discarded to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Massive Eruption",
+          "damage": "100×",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard the top 5 cards from your deck. This attack does 100 damage times the number of Energy cards you discarded."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        },
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-88",
+      "itemType": "Pokemon Card",
+      "number": "88",
+      "name": "Kyogre & Groudon LEGEND",
+      "stage": "LEGEND",
+      "hp": "150",
+      "types": [
+        "Water",
+        "Fighting"
+      ],
+      "rarity": "LEGEND",
+      "artist": "Shinji Higuchi + Sachiko Eba",
+      "text": "Put this card from your hand onto your Bench only with the other half of Kyogre & Groudon LEGEND.,When this Pokémon has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Mega Tidal Wave",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard the top 5 cards from your opponent's deck. This attack does 30 damage times the number of Energy cards you discarded to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Massive Eruption",
+          "damage": "100×",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard the top 5 cards from your deck. This attack does 100 damage times the number of Energy cards you discarded."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        },
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-89",
+      "itemType": "Pokemon Card",
+      "number": "89",
+      "name": "Rayquaza & Deoxys LEGEND",
+      "stage": "LEGEND",
+      "hp": "140",
+      "types": [
+        "Colorless",
+        "Psychic"
+      ],
+      "rarity": "LEGEND",
+      "artist": "Shinji Higuchi + Sachiko Eba",
+      "abilities": [
+        {
+          "name": "Space Virus",
+          "text": "If your opponent's Pokémon is Knocked Out by damage from an attack of Rayquaza & Deoxys LEGEND, take 1 more Prize card.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "Put this card from your hand onto your Bench only with the other half of Rayquaza & Deoxys LEGEND.,When this Pokémon has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Ozone Buster",
+          "damage": "150",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Discard all Fire Energy attached to Rayquaza & Deoxys LEGEND."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Colorless",
+          "value": "×2"
+        },
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-90",
+      "itemType": "Pokemon Card",
+      "number": "90",
+      "name": "Rayquaza & Deoxys LEGEND",
+      "stage": "LEGEND",
+      "hp": "140",
+      "types": [
+        "Colorless",
+        "Psychic"
+      ],
+      "rarity": "LEGEND",
+      "artist": "Shinji Higuchi + Sachiko Eba",
+      "abilities": [
+        {
+          "name": "Space Virus",
+          "text": "If your opponent's Pokémon is Knocked Out by damage from an attack of Rayquaza & Deoxys LEGEND, take 1 more Prize card.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "Put this card from your hand onto your Bench only with the other half of Rayquaza & Deoxys LEGEND.,When this Pokémon has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Ozone Buster",
+          "damage": "150",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Discard all Fire Energy attached to Rayquaza & Deoxys LEGEND."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Colorless",
+          "value": "×2"
+        },
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-undaunted-THREE",
+      "itemType": "Trainer Card",
+      "number": "THREE",
+      "name": "Alph Lithograph",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Milky Isobe",
+      "text": "Return any Stadium card in play to its player's hand!"
+    }
+  ]
+}
