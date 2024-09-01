@@ -1,0 +1,4484 @@
+{
+  "setId": "tcg-pokemon-dark-explorers",
+  "cardCount": "111",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-dark-explorers-booster-box",
+      "itemType": "Sealed Product",
+      "name": "Dark Explorers Booster Box"
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-booster-pack",
+      "itemType": "Sealed Product",
+      "name": "Dark Explorers Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-dark-explorers-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Bulbasaur",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ]
+        },
+        {
+          "name": "Razor Leaf",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Ivysaur",
+      "stage": "Stage 1",
+      "evolvesFrom": "Bulbasaur",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "sui",
+      "text": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower's coming bloom.",
+      "attacks": [
+        {
+          "name": "Sleep Powder",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Poison Powder",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-3",
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Venusaur",
+      "stage": "Stage 2",
+      "evolvesFrom": "Ivysaur",
+      "hp": "140",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Masakazu Fukuda",
+      "abilities": [
+        {
+          "name": "Floral Fragrance",
+          "text": "Once during your turn (before your attack), you may search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+          "type": "Ability"
+        }
+      ],
+      "text": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",
+      "attacks": [
+        {
+          "name": "Poison Powder",
+          "damage": "70",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-4",
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Scyther",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Naoki Saito",
+      "text": "The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.",
+      "attacks": [
+        {
+          "name": "Air Slash",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Carnivine",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Yukiko Baba",
+      "text": "It binds itself to trees on marshes. It attracts prey with its sweet-smelling drool and gulps them down.",
+      "attacks": [
+        {
+          "name": "Lure Poison",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Switch the Defending Pokémon with 1 of your opponent's Benched Pokémon. The new Defending Pokémon is now Poisoned."
+        },
+        {
+          "name": "Spit Squall",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Your opponent puts the Defending Pokémon and all cards attached to it into his or her hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-6",
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Leafeon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Ryo Ueda",
+      "text": "It basically does not fight. With cells similar to those of plants, it can perform photosynthesis.",
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "damage": "10+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        },
+        {
+          "name": "Energy Assist",
+          "damage": "40",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Attach a basic Energy card from your discard pile to 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-7",
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Dwebble",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Akira Komayama",
+      "text": "It makes a hole in a suitable rock. If that rock breaks, the Pokémon remains agitated until it locates a replacement.",
+      "attacks": [
+        {
+          "name": "Beat",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ]
+        },
+        {
+          "name": "Cut",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-8",
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "Crustle",
+      "stage": "Stage 1",
+      "evolvesFrom": "Dwebble",
+      "hp": "110",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "It possesses legs of enormous strength, enabling it to carry heavy slabs for many days, even when crossing arid land.",
+      "attacks": [
+        {
+          "name": "Cut",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Heavy Bullet",
+          "damage": "70",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-9",
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Karrablast",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "These mysterious Pokémon evolve when they receive electrical stimulation while they are in the same place as Shelmet.",
+      "attacks": [
+        {
+          "name": "Beat",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Reckless Charge",
+          "damage": "40",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This Pokémon does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Shelmet",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Shigenori Negishi",
+      "text": "When attacked, it defends itself by closing the lid of its shell. It can spit a sticky, poisonous liquid.",
+      "attacks": [
+        {
+          "name": "Body Slam",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Accelgor",
+      "stage": "Stage 1",
+      "evolvesFrom": "Shelmet",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "text": "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.",
+      "attacks": [
+        {
+          "name": "Hammer In",
+          "damage": "20",
+          "cost": [
+            "Grass"
+          ]
+        },
+        {
+          "name": "Deck and Cover",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Paralyzed and Poisoned. Shuffle this Pokémon and all cards attached to it into your deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Flareon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "90",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Suwama Chiaki",
+      "text": "Inhaled air is heated in the flame sac in its body to an intense fire over 3,000 degrees Fahrenheit.",
+      "attacks": [
+        {
+          "name": "Sand-Attack",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        },
+        {
+          "name": "Fire Slash",
+          "damage": "60+",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may discard a Fire Energy attached to this Pokémon. If you do, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Entei-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Shizurow",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Fire Fang",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Burned."
+        },
+        {
+          "name": "Grand Flame",
+          "damage": "90",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Attach a Fire Energy card from your discard pile to 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Torchic",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Masakazu Fukuda",
+      "text": "A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees F.",
+      "attacks": [
+        {
+          "name": "Reckless Charge",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "This Pokémon does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Torchic",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "text": "A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees F.",
+      "attacks": [
+        {
+          "name": "Peck",
+          "damage": "10",
+          "cost": [
+            "Fire"
+          ]
+        },
+        {
+          "name": "Live Coal",
+          "damage": "20",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-16",
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Combusken",
+      "stage": "Stage 1",
+      "evolvesFrom": "Torchic",
+      "hp": "80",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Sumiyoshi Kizuki",
+      "text": "Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes.",
+      "attacks": [
+        {
+          "name": "Double Kick",
+          "damage": "20×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        },
+        {
+          "name": "Flamethrower",
+          "damage": "70",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Blaziken",
+      "stage": "Stage 2",
+      "evolvesFrom": "Combusken",
+      "hp": "140",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "TOKIYA",
+      "text": "Flames spout from its wrists, enveloping its knuckles. Its punches scorch it foes.",
+      "attacks": [
+        {
+          "name": "Blaze Kick",
+          "damage": "40+",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 more damage. If tails, the Defending Pokémon is now Burned."
+        },
+        {
+          "name": "Flamethrower",
+          "damage": "130",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-18",
+      "itemType": "Pokemon Card",
+      "number": "18",
+      "name": "Torkoal",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Masakazu Fukuda",
+      "text": "It burns coal inside its shell for energy. It blows out black soot if it is endangered.",
+      "attacks": [
+        {
+          "name": "Flame Cloak",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, attach a Fire Energy card from your discard pile to this Pokémon."
+        },
+        {
+          "name": "Heat Blast",
+          "damage": "60",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-19",
+      "itemType": "Pokemon Card",
+      "number": "19",
+      "name": "Heatmor",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "text": "Using their very hot, flame-covered tongues, they burn through Durant's steel bodies and consume their insides.",
+      "attacks": [
+        {
+          "name": "Hot Lick",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is Durant, this attack does 50 more damage."
+        },
+        {
+          "name": "Firebreathing",
+          "damage": "50+",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-20",
+      "itemType": "Pokemon Card",
+      "number": "20",
+      "name": "Larvesta",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "match",
+      "text": "This Pokémon was believed to have been born from the sun. When it evolves, its entire body is engulfed in flames.",
+      "attacks": [
+        {
+          "name": "Ram",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Flare",
+          "damage": "40",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-21",
+      "itemType": "Pokemon Card",
+      "number": "21",
+      "name": "Larvesta",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "The base of volcanoes is where they make their homes. They shoot fire from their five horns to repel attacking enemies.",
+      "attacks": [
+        {
+          "name": "Super Singe",
+          "damage": "10",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Burned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-22",
+      "itemType": "Pokemon Card",
+      "number": "22",
+      "name": "Volcarona",
+      "stage": "Stage 1",
+      "evolvesFrom": "Larvesta",
+      "hp": "110",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Shin Nagasawa",
+      "abilities": [
+        {
+          "name": "Scorching Scales",
+          "text": "Put 4 damage counters instead of 2 on your opponent's Burned Pokémon between turns.",
+          "type": "Ability"
+        }
+      ],
+      "text": "A sea of fire engulfs the surroundings of their battles, since they use their six wings to scatter their ember scales.",
+      "attacks": [
+        {
+          "name": "Burning Wind",
+          "damage": "70",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may discard an Energy attached to this Pokémon. If you do, the Defending Pokémon is now Burned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-23",
+      "itemType": "Pokemon Card",
+      "number": "23",
+      "name": "Slowpoke",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "MAHOU",
+      "text": "Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten.",
+      "attacks": [
+        {
+          "name": "Big Yawn",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Both this Pokémon and the Defending Pokémon are now Asleep."
+        },
+        {
+          "name": "Shot in the Dark",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. If either of them is tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-24",
+      "itemType": "Pokemon Card",
+      "number": "24",
+      "name": "Slowbro",
+      "stage": "Stage 1",
+      "evolvesFrom": "Slowpoke",
+      "hp": "100",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouki Saitou",
+      "abilities": [
+        {
+          "name": "Airhead",
+          "text": "If you have 2, 4, or 6 Prize Cards left, this Pokémon can't attack.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Though usually dim witted, it seems to become inspired if the Shellder on its tail bites down.",
+      "attacks": [
+        {
+          "name": "Lazy Headbutt",
+          "damage": "80",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "This Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-25",
+      "itemType": "Pokemon Card",
+      "number": "25",
+      "name": "Vaporeon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "110",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Akira Komayama",
+      "text": "Its cell composition is similar to water molecules. As a result, it can melt away into water.",
+      "attacks": [
+        {
+          "name": "Muddy Water",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Spiral Drain",
+          "damage": "60",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Heal 20 damage from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-26",
+      "itemType": "Pokemon Card",
+      "number": "26",
+      "name": "Kyogre-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Shizurow",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Smash Turn",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "You may switch this Pokémon with 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Dual Splash",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "This attack does 50 damage to 2 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-27",
+      "itemType": "Pokemon Card",
+      "number": "27",
+      "name": "Piplup",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "A poor walker, it often falls down. However, its strong pride makes it puff up its chest without a care.",
+      "attacks": [
+        {
+          "name": "Fury Attack",
+          "damage": "10×",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-28",
+      "itemType": "Pokemon Card",
+      "number": "28",
+      "name": "Prinplup",
+      "stage": "Stage 1",
+      "evolvesFrom": "Piplup",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Suwama Chiaki",
+      "text": "Because every Prinplup considers itself to be the most important, they can never form a group.",
+      "attacks": [
+        {
+          "name": "Razor Wing",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Fury Attack",
+          "damage": "30×",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-29",
+      "itemType": "Pokemon Card",
+      "number": "29",
+      "name": "Empoleon",
+      "stage": "Stage 2",
+      "evolvesFrom": "Prinplup",
+      "hp": "140",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Naoki Saito",
+      "abilities": [
+        {
+          "name": "Diving Draw",
+          "text": "Once during your turn (before your attack), you may discard 1 card from your hand. If you do, draw 2 cards.",
+          "type": "Ability"
+        }
+      ],
+      "text": "If anyone were to hurt its pride, it would slash them with wings that can cleave through an ice floe.",
+      "attacks": [
+        {
+          "name": "Attack Command",
+          "damage": "10×",
+          "cost": [
+            "Water"
+          ],
+          "text": "Does 10 damage times the number of Pokémon in play (both yours and your opponent's)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-30",
+      "itemType": "Pokemon Card",
+      "number": "30",
+      "name": "Glaceon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Ryo Ueda",
+      "text": "By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.",
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "damage": "10+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        },
+        {
+          "name": "Reflect Energy",
+          "damage": "40",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Move an Energy from this Pokémon to 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-31",
+      "itemType": "Pokemon Card",
+      "number": "31",
+      "name": "Tympole",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "They warn other of danger by vibrating their cheeks to create a high-pitched sound.",
+      "attacks": [
+        {
+          "name": "Spiral Drain",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Heal 20 damage from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-32",
+      "itemType": "Pokemon Card",
+      "number": "32",
+      "name": "Palpitoad",
+      "stage": "Stage 1",
+      "evolvesFrom": "Tympole",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouki Saitou",
+      "text": "It lives in the water and on land. It uses its long, sticky tongue to capture prey.",
+      "attacks": [
+        {
+          "name": "Bubble Beam",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-33",
+      "itemType": "Pokemon Card",
+      "number": "33",
+      "name": "Vanillite",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "The temperature of their breath is -58° F. They create snow crystals and make snow fall in the areas surrounding them.",
+      "attacks": [
+        {
+          "name": "Double Spin",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-34",
+      "itemType": "Pokemon Card",
+      "number": "34",
+      "name": "Vanillish",
+      "stage": "Stage 1",
+      "evolvesFrom": "Vanillite",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouki Saitou",
+      "text": "Snowy mountains are this Pokémon's habitat. During an ancient ice age, they moved to southern areas.",
+      "attacks": [
+        {
+          "name": "Triple Spin",
+          "damage": "20×",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip 3 coins. This attack does 20 damage times the number of heads."
+        },
+        {
+          "name": "Frost Breath",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-35",
+      "itemType": "Pokemon Card",
+      "number": "35",
+      "name": "Ducklett",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "sui",
+      "text": "These bird Pokémon are excellent divers. They swim around in the water eating their favorite food—peat moss.",
+      "attacks": [
+        {
+          "name": "Water Pulse",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-36",
+      "itemType": "Pokemon Card",
+      "number": "36",
+      "name": "Swanna",
+      "stage": "Stage 1",
+      "evolvesFrom": "Ducklett",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Mizue",
+      "text": "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock.",
+      "attacks": [
+        {
+          "name": "Healing Dance",
+          "cost": [
+            "Water"
+          ],
+          "text": "Heal 30 damage from each of your Pokémon."
+        },
+        {
+          "name": "Incessant Peck",
+          "damage": "60+",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. This attack does 20 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-37",
+      "itemType": "Pokemon Card",
+      "number": "37",
+      "name": "Jolteon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "90",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Sumiyoshi Kizuki",
+      "text": "If agitated, it uses electricity to straighten out its fur and launch it in small bunches.",
+      "attacks": [
+        {
+          "name": "Electrigun",
+          "damage": "20+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "You may discard a Lightning Energy attached to this Pokémon. If you do, this attack does 40 more damage."
+        },
+        {
+          "name": "Pin Missile",
+          "damage": "40×",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 4 coins. This attack does 40 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-38",
+      "itemType": "Pokemon Card",
+      "number": "38",
+      "name": "Raikou-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Shizurow",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Thunder Fang",
+          "damage": "30",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Volt Bolt",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Discard all Lightning Energy attached to this Pokémon. This attack does 100 damage to 1 of your opponent's Pokémon. (Don't apply Weakness or Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-39",
+      "itemType": "Pokemon Card",
+      "number": "39",
+      "name": "Plusle",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Naoki Saito",
+      "text": "It cheers on friends with pom-poms made of sparks. It drains power from telephone poles.",
+      "attacks": [
+        {
+          "name": "Tag Draw",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Shuffle your hand into your deck. Then, draw 4 cards. If Minun is on your Bench, draw 4 more cards."
+        },
+        {
+          "name": "Positive Ion",
+          "damage": "20+",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-40",
+      "itemType": "Pokemon Card",
+      "number": "40",
+      "name": "Minun",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Naoki Saito",
+      "text": "It cheers on friends. If its friends are losing, its body lets off more and more sparks.",
+      "attacks": [
+        {
+          "name": "Negative Ion",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 30 (before applying Weakness and Resistance)."
+        },
+        {
+          "name": "Electrishower",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "This attack does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-41",
+      "itemType": "Pokemon Card",
+      "number": "41",
+      "name": "Joltik",
+      "stage": "Basic",
+      "hp": "30",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "MAHOU",
+      "text": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
+      "attacks": [
+        {
+          "name": "Ram",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Bug Bite",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-42",
+      "itemType": "Pokemon Card",
+      "number": "42",
+      "name": "Joltik",
+      "stage": "Basic",
+      "hp": "30",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Miki Tanaka",
+      "text": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
+      "attacks": [
+        {
+          "name": "Static Shock",
+          "damage": "20",
+          "cost": [
+            "Lightning"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-43",
+      "itemType": "Pokemon Card",
+      "number": "43",
+      "name": "Galvantula",
+      "stage": "Stage 1",
+      "evolvesFrom": "Joltik",
+      "hp": "80",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "Akira Komayama",
+      "text": "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it.",
+      "attacks": [
+        {
+          "name": "Quick Turn",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        },
+        {
+          "name": "Electrisilk",
+          "damage": "30+",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon has no Retreat Cost, this attack does 40 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-44",
+      "itemType": "Pokemon Card",
+      "number": "44",
+      "name": "Tynamo",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "text": "These Pokémon move in schools. They have an electricity-generating organ, so they discharge electricity if in danger.",
+      "attacks": [
+        {
+          "name": "Charge Beam",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, attach an Energy card from your discard pile to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-45",
+      "itemType": "Pokemon Card",
+      "number": "45",
+      "name": "Tynamo",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Akira Komayama",
+      "text": "These Pokémon move in schools. They have an electricity-generating organ, so they discharge electricity if in danger.",
+      "attacks": [
+        {
+          "name": "Spark",
+          "damage": "10",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-46",
+      "itemType": "Pokemon Card",
+      "number": "46",
+      "name": "Eelektrik",
+      "stage": "Stage 1",
+      "evolvesFrom": "Tynamo",
+      "hp": "90",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.",
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Shock Bolt",
+          "damage": "80",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Discard all Lightning Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-47",
+      "itemType": "Pokemon Card",
+      "number": "47",
+      "name": "Eelektross",
+      "stage": "Stage 2",
+      "evolvesFrom": "Eelektrik",
+      "hp": "140",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "kawayoo",
+      "text": "With their sucker mouths, they suck in prey. Then they use their fangs to shock the prey with electricity.",
+      "attacks": [
+        {
+          "name": "Suction Heal",
+          "damage": "40",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Heal from this Pokémon the same amount of damage you did to the Defending Pokémon."
+        },
+        {
+          "name": "Slurp Shakedown",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Switch the Defending Pokémon with 1 of your opponent's Benched Pokémon. This attack does 60 damage to the new Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-48",
+      "itemType": "Pokemon Card",
+      "number": "48",
+      "name": "Espeon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Mizue",
+      "abilities": [
+        {
+          "name": "Solar Revelation",
+          "text": "Prevent all effects of your opponent's attacks, except damage, done to each of your Pokémon that has any Energy attached to it.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Its fur is so sensitive, it can sense minute shifts in the air and predict the weather.",
+      "attacks": [
+        {
+          "name": "Psy Report",
+          "damage": "60",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent reveals his or her hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-49",
+      "itemType": "Pokemon Card",
+      "number": "49",
+      "name": "Slowking",
+      "stage": "Stage 1",
+      "evolvesFrom": "Slowpoke",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Shin Nagasawa",
+      "text": "Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists.",
+      "attacks": [
+        {
+          "name": "Psy Bolt",
+          "damage": "20",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Hand Press",
+          "damage": "50+",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If you have more cards in your hand than your opponent, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-50",
+      "itemType": "Pokemon Card",
+      "number": "50",
+      "name": "Woobat",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "Suction from its nostrils enables it to stick to cave walls during sleep. It leaves a heart-shaped mark behind.",
+      "attacks": [
+        {
+          "name": "Supersonic",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Heart Stamp",
+          "damage": "20",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-51",
+      "itemType": "Pokemon Card",
+      "number": "51",
+      "name": "Yamask",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Aya Kusube",
+      "text": "Each of them carries a mask that used to be its face when it was human. Sometimes they look at it and cry.",
+      "attacks": [
+        {
+          "name": "Astonish",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, choose a card at random from your opponent's hand. Your opponent reveals that card and shuffles it into his or her deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-52",
+      "itemType": "Pokemon Card",
+      "number": "52",
+      "name": "Cofagrigus",
+      "stage": "Stage 1",
+      "evolvesFrom": "Yamask",
+      "hp": "100",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "kawayoo",
+      "text": "It has been said that they swallow those who get too close and turn them into mummies. They like to eat gold nuggets.",
+      "attacks": [
+        {
+          "name": "Chuck",
+          "damage": "40×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard as many Pokémon Tool cards as you like from your hand. This attack does 40 damage times the number of cards you discarded."
+        },
+        {
+          "name": "Lock Up",
+          "damage": "40",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-53",
+      "itemType": "Pokemon Card",
+      "number": "53",
+      "name": "Aerodactyl",
+      "stage": "Restored",
+      "evolvesFrom": "Old Amber Aerodactyl",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Naoyo Kimura",
+      "abilities": [
+        {
+          "name": "Ancient Scream",
+          "text": "Your Pokémon's attacks do 10 more damage to the Active Pokémon (before applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "text": "A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades.",
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "damage": "40",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-54",
+      "itemType": "Pokemon Card",
+      "number": "54",
+      "name": "Groudon-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Shizurow",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Tromp",
+          "damage": "20",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Giant Claw",
+          "damage": "80+",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon already has 2 or more damage counters on it, this attack does 40 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-55",
+      "itemType": "Pokemon Card",
+      "number": "55",
+      "name": "Drilbur",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Tomokazu Komiya",
+      "text": "It makes its way swiftly through the soil by putting both claws together and rotating at high speed.",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-56",
+      "itemType": "Pokemon Card",
+      "number": "56",
+      "name": "Excadrill",
+      "stage": "Stage 1",
+      "evolvesFrom": "Drilbur",
+      "hp": "120",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "text": "More than 300 feet below the surface, they build mazelike nests. Their activity can be destructive to subway tunnels.",
+      "attacks": [
+        {
+          "name": "Tunnel Strike",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Dig Uppercut",
+          "damage": "50",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "Put a card from your discard pile into your hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-57",
+      "itemType": "Pokemon Card",
+      "number": "57",
+      "name": "Excadrill",
+      "stage": "Stage 1",
+      "evolvesFrom": "Drilbur",
+      "hp": "120",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Masakazu Fukuda",
+      "text": "It can help in tunnel construction. Its drill has evolved into steel strong enough to bore through iron plates.",
+      "attacks": [
+        {
+          "name": "Reinforced Drill",
+          "damage": "50+",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If this Pokémon has a Pokémon Tool card attached to it, this attack does 30 more damage."
+        },
+        {
+          "name": "Mach Claw",
+          "damage": "70",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-58",
+      "itemType": "Pokemon Card",
+      "number": "58",
+      "name": "Timburr",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Mizue",
+      "text": "These Pokémon appear at building sites and help out with construction. They always carry squared logs.",
+      "attacks": [
+        {
+          "name": "Low Kick",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Hammer In",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-59",
+      "itemType": "Pokemon Card",
+      "number": "59",
+      "name": "Gurdurr",
+      "stage": "Stage 1",
+      "evolvesFrom": "Timburr",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mizue",
+      "text": "They strengthen their bodies by carrying steel beams. They show off their big muscles to their friends.",
+      "attacks": [
+        {
+          "name": "Low Kick",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Steel Swing",
+          "damage": "60×",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 60 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-60",
+      "itemType": "Pokemon Card",
+      "number": "60",
+      "name": "Umbreon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "100",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "TOKIYA",
+      "text": "When exposed to the moon's aura, the rings on its body glow faintly and it gains a mysterious power.",
+      "attacks": [
+        {
+          "name": "Shadow Drain",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Heal from this Pokémon the same amount of damage you did to the Defending Pokémon."
+        },
+        {
+          "name": "Slashing Strike",
+          "damage": "80",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This Pokémon can't use Slashing Strike during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-61",
+      "itemType": "Pokemon Card",
+      "number": "61",
+      "name": "Umbreon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "100",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouki Saitou",
+      "text": "When exposed to the moon's aura, the rings on its body glow faintly and it gains a mysterious power.",
+      "attacks": [
+        {
+          "name": "Confuse Ray",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Shadow Shutdown",
+          "damage": "60",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. If both of them are heads, discard all Energy attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-62",
+      "itemType": "Pokemon Card",
+      "number": "62",
+      "name": "Sableye",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "kawayoo",
+      "text": "It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.",
+      "attacks": [
+        {
+          "name": "Confuse Ray",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Junk Hunt",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Put 2 Item cards from your discard pile into your hand."
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-63",
+      "itemType": "Pokemon Card",
+      "number": "63",
+      "name": "Darkrai-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Shizurow",
+      "abilities": [
+        {
+          "name": "Dark Cloak",
+          "text": "Each of your Pokémon that has any Darkness Energy attached to it has no Retreat Cost.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Night Spear",
+          "damage": "90",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-64",
+      "itemType": "Pokemon Card",
+      "number": "64",
+      "name": "Sandile",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Hajime Kusajima",
+      "text": "They live buried in the sands of the desert. The sun-warmed sands prevent their body temperature from dropping.",
+      "attacks": [
+        {
+          "name": "Sand Dive",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, prevent all damage done to this Pokémon by attacks during your opponent's next turn."
+        },
+        {
+          "name": "Corkscrew Punch",
+          "damage": "40",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-65",
+      "itemType": "Pokemon Card",
+      "number": "65",
+      "name": "Krokorok",
+      "stage": "Stage 1",
+      "evolvesFrom": "Sandile",
+      "hp": "90",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "text": "They live in groups of a few individuals. Protective membranes shield their eyes from sandstorms.",
+      "attacks": [
+        {
+          "name": "Mud-Slap",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Corkscrew Punch",
+          "damage": "70",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-66",
+      "itemType": "Pokemon Card",
+      "number": "66",
+      "name": "Krookodile",
+      "stage": "Stage 2",
+      "evolvesFrom": "Krokorok",
+      "hp": "150",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "text": "They never allow prey to escape. Their jaws are so powerful, they can crush the body of an automobile.",
+      "attacks": [
+        {
+          "name": "Dark Clamp",
+          "damage": "60",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "name": "Bombast",
+          "damage": "40×",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 40 damage times the number of Prize cards you have taken."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-67",
+      "itemType": "Pokemon Card",
+      "number": "67",
+      "name": "Scraggy",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "Its skin has a rubbery elasticity, so it can reduce damage by defensively pulling its skin up to its neck.",
+      "attacks": [
+        {
+          "name": "Rising Lunge",
+          "damage": "10",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-68",
+      "itemType": "Pokemon Card",
+      "number": "68",
+      "name": "Scrafty",
+      "stage": "Stage 1",
+      "evolvesFrom": "Scraggy",
+      "hp": "100",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "text": "Groups of them beat up anything that enters their territory. Each can spit acidic liquid from its mouth.",
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Crushing Blow",
+          "damage": "70",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-69",
+      "itemType": "Pokemon Card",
+      "number": "69",
+      "name": "Zorua",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Masakazu Fukuda",
+      "text": "It changes into the forms of others to surprise them. Apparently, it often transforms into a silent child.",
+      "attacks": [
+        {
+          "name": "Ascension",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Search your deck for a card that evolves from this Pokémon and put it onto this Pokémon. (This counts as evolving this Pokémon.) Shuffle your deck afterward."
+        },
+        {
+          "name": "Scratch",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-70",
+      "itemType": "Pokemon Card",
+      "number": "70",
+      "name": "Zorua",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Akira Komayama",
+      "text": "To protect themselves from danger, they hide their true identities by transforming into people and Pokémon.",
+      "attacks": [
+        {
+          "name": "Paralyzing Gaze",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Shadow Bind",
+          "damage": "20",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-71",
+      "itemType": "Pokemon Card",
+      "number": "71",
+      "name": "Zoroark",
+      "stage": "Stage 1",
+      "evolvesFrom": "Zorua",
+      "hp": "100",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "text": "Bonds between these Pokémon are very strong. It protects the safety of its pack by tricking its opponents.",
+      "attacks": [
+        {
+          "name": "Brutal Bash",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 20 damage times the number of Darkness Pokémon you have in play."
+        },
+        {
+          "name": "Dark Rush",
+          "damage": "20×",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "text": "Does 20 damage times the number of damage counters on this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-72",
+      "itemType": "Pokemon Card",
+      "number": "72",
+      "name": "Bisharp",
+      "stage": "Stage 1",
+      "evolvesFrom": "Pawniard",
+      "hp": "90",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "Masakazu Fukuda",
+      "text": "Bisharp pursues prey in the company of a large group of Pawniard. Then Bisharp finishes off the prey.",
+      "attacks": [
+        {
+          "name": "Slash",
+          "damage": "30",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Fury Cutter",
+          "damage": "30+",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. If 1 of them is heads, this attack does 10 more damage. If 2 of them are heads, this attack does 30 more damage. If all of them are heads, this attack does 60 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-73",
+      "itemType": "Pokemon Card",
+      "number": "73",
+      "name": "Vullaby",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "match",
+      "text": "Its wings are too tiny to allow it to fly. As the time approaches for it to evolve, it discards the bones it was wearing.",
+      "attacks": [
+        {
+          "name": "Whirlwind",
+          "damage": "10",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-74",
+      "itemType": "Pokemon Card",
+      "number": "74",
+      "name": "Escavalier",
+      "stage": "Stage 1",
+      "evolvesFrom": "Karrablast",
+      "hp": "90",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "artist": "Masakazu Fukuda",
+      "text": "They fly around at high speed, striking with their pointed spears. Even when in trouble, they face opponents bravely.",
+      "attacks": [
+        {
+          "name": "Joust",
+          "damage": "30",
+          "cost": [
+            "Metal"
+          ],
+          "text": "Before doing damage, discard a Pokémon Tool card attached to the Defending Pokémon."
+        },
+        {
+          "name": "Cavalry Lance",
+          "damage": "70",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, this Pokémon has no Weakness."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-75",
+      "itemType": "Pokemon Card",
+      "number": "75",
+      "name": "Klink",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "text": "Interlocking two bodies and spinning around generates the energy they need to live.",
+      "attacks": [
+        {
+          "name": "Smash Turn",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-76",
+      "itemType": "Pokemon Card",
+      "number": "76",
+      "name": "Klang",
+      "stage": "Stage 1",
+      "evolvesFrom": "Klink",
+      "hp": "80",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shin Nagasawa",
+      "text": "Spinning minigears are rotated at high speed and repeatedly fired away. It is dangerous if the gears don't return.",
+      "attacks": [
+        {
+          "name": "Charge Beam",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, attach an Energy card from your discard pile to this Pokémon."
+        },
+        {
+          "name": "Vice Grip",
+          "damage": "50",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-77",
+      "itemType": "Pokemon Card",
+      "number": "77",
+      "name": "Klinklang",
+      "stage": "Stage 2",
+      "evolvesFrom": "Klang",
+      "hp": "140",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Hajime Kusajima",
+      "text": "The gear with the red core is rotated at high speed for a rapid energy charge.",
+      "attacks": [
+        {
+          "name": "Metal Blast",
+          "damage": "20+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Does 20 more damage for each Metal Energy attached to this Pokémon."
+        },
+        {
+          "name": "Lock Gear",
+          "damage": "60",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Draw cards until you have 6 cards in your hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-78",
+      "itemType": "Pokemon Card",
+      "number": "78",
+      "name": "Pawniard",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Common",
+      "artist": "Naoki Saito",
+      "text": "They fight at Bisharp's command. They cling to their prey and inflict damage by sinking their blades into it.",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Metal Claw",
+          "damage": "40",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-79",
+      "itemType": "Pokemon Card",
+      "number": "79",
+      "name": "Bisharp",
+      "stage": "Stage 1",
+      "evolvesFrom": "Pawniard",
+      "hp": "100",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "artist": "Naoki Saito",
+      "text": "Bisharp pursues prey in the company of a large group of Pawniard. Then Bisharp finishes off the prey.",
+      "attacks": [
+        {
+          "name": "Aerial Ace",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        },
+        {
+          "name": "Metal Claw",
+          "damage": "80",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-80",
+      "itemType": "Pokemon Card",
+      "number": "80",
+      "name": "Chansey",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "A kindly Pokémon that lays highly nutritious eggs and shares them with injured Pokémon or people.",
+      "attacks": [
+        {
+          "name": "Sing",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Double-Edge",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This Pokémon does 30 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-81",
+      "itemType": "Pokemon Card",
+      "number": "81",
+      "name": "Chansey",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Mizue",
+      "text": "A kindly Pokémon that lays highly nutritious eggs and shares them with injured Pokémon or people.",
+      "attacks": [
+        {
+          "name": "Continuous Tumble",
+          "damage": "30×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-82",
+      "itemType": "Pokemon Card",
+      "number": "82",
+      "name": "Blissey",
+      "stage": "Stage 1",
+      "evolvesFrom": "Chansey",
+      "hp": "130",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kouki Saitou",
+      "abilities": [
+        {
+          "name": "Softboiled",
+          "text": "Once during your turn (before your attack), you may flip a coin. If heads, heal 30 damage from your Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone.",
+      "attacks": [
+        {
+          "name": "Double-Edge",
+          "damage": "90",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This Pokémon does 60 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-83",
+      "itemType": "Pokemon Card",
+      "number": "83",
+      "name": "Eevee",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "MAHOU",
+      "text": "Because its genetic makeup is irregular, it quickly changes its form due to a variety of causes.",
+      "attacks": [
+        {
+          "name": "Surprise Attack",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-84",
+      "itemType": "Pokemon Card",
+      "number": "84",
+      "name": "Eevee",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Sumiyoshi Kizuki",
+      "text": "Because its genetic makeup is irregular, it quickly changes its form due to a variety of causes.",
+      "attacks": [
+        {
+          "name": "Smash Kick",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Tail Whap",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-85",
+      "itemType": "Pokemon Card",
+      "number": "85",
+      "name": "Chatot",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "MAHOU",
+      "text": "Its tongue is just like a human's. As a result, it can cleverly mimic human speech.",
+      "attacks": [
+        {
+          "name": "Tone-Deaf",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Peck",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-86",
+      "itemType": "Pokemon Card",
+      "number": "86",
+      "name": "Lillipup",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Kyoko Umemoto",
+      "text": "The long hair around its face provides an amazing radar that lets it sense subtle changes in its surroundings.",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Take Down",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This Pokémon does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-87",
+      "itemType": "Pokemon Card",
+      "number": "87",
+      "name": "Herdier",
+      "stage": "Stage 1",
+      "evolvesFrom": "Lillipup",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Naoyo Kimura",
+      "text": "It has a black, cape-like fur that is very hard and decreases the amount of damage it receives.",
+      "attacks": [
+        {
+          "name": "Roar",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "name": "Tackle",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-88",
+      "itemType": "Pokemon Card",
+      "number": "88",
+      "name": "Stoutland",
+      "stage": "Stage 2",
+      "evolvesFrom": "Herdier",
+      "hp": "130",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Atsuko Nishida",
+      "text": "It rescues people stranded by blizzards in the mountains. Its shaggy fur shields it from the cold.",
+      "attacks": [
+        {
+          "name": "Special Fang",
+          "damage": "40+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If this Pokémon has a Special Energy attached to it, this attack does 40 more damage."
+        },
+        {
+          "name": "Ferocious Bellow",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 30 (before applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-89",
+      "itemType": "Pokemon Card",
+      "number": "89",
+      "name": "Haxorus",
+      "stage": "Stage 2",
+      "evolvesFrom": "Fraxure",
+      "hp": "140",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Akira Komayama",
+      "text": "Their sturdy tusks will stay sharp even if used to cut steel beams. These Pokémon are covered in hard armor.",
+      "attacks": [
+        {
+          "name": "Guillotine",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Stunning Uppercut",
+          "damage": "80",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. If both of them are heads, the Defending Pokémon is now Paralyzed. If both of them are tails, this attack does nothing."
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-90",
+      "itemType": "Pokemon Card",
+      "number": "90",
+      "name": "Tornadus-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Shizurow",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Blow Through",
+          "damage": "30+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If there is any Stadium card in play, this attack does 30 more damage."
+        },
+        {
+          "name": "Power Blast",
+          "damage": "100",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, discard an Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-91",
+      "itemType": "Trainer Card",
+      "number": "91",
+      "name": "Cheren",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kanako Eo",
+      "text": "Draw 3 cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-92",
+      "itemType": "Trainer Card",
+      "number": "92",
+      "name": "Dark Claw",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,If this card is attached to a Darkness Pokémon, each of the attacks of that Pokémon does 20 more damage to the Active Pokémon (before applying Weakness and Resistance).,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-93",
+      "itemType": "Trainer Card",
+      "number": "93",
+      "name": "Dark Patch",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Attach a basic Darkness Energy card from your discard pile to 1 of your Benched Darkness Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-94",
+      "itemType": "Trainer Card",
+      "number": "94",
+      "name": "Enhanced Hammer",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Discard a Special Energy attached to 1 of your opponent's Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-95",
+      "itemType": "Trainer Card",
+      "number": "95",
+      "name": "Hooligans Jim & Cas",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Masakazu Fukuda",
+      "text": "Flip a coin. If heads, choose 3 random cards from your opponent's hand. Your opponent reveals those cards and shuffles them into his or her deck.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-96",
+      "itemType": "Trainer Card",
+      "number": "96",
+      "name": "N",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Megumi Mizutani",
+      "text": "Each player shuffles his or her hand into his or her deck. Then, each player draws a card for each of his or her remaining Prize cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-97",
+      "itemType": "Trainer Card",
+      "number": "97",
+      "name": "Old Amber Aerodactyl",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Look at the bottom 7 cards of your deck. You may reveal an Aerodactyl you find there and put it onto your Bench. Shuffle the other cards back into your deck.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-98",
+      "itemType": "Trainer Card",
+      "number": "98",
+      "name": "Professor Juniper",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kanako Eo",
+      "text": "Discard your hand and draw 7 cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-99",
+      "itemType": "Trainer Card",
+      "number": "99",
+      "name": "Random Receiver",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Reveal cards from the top of your deck until you reveal a Supporter card. Put it into your hand. Shuffle the other cards back into your deck.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-100",
+      "itemType": "Trainer Card",
+      "number": "100",
+      "name": "Rare Candy",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card on the Basic Pokémon. (This counts as evolving that Pokémon.) You can't use this card during your first turn or on a Basic Pokémon that was put into play this turn.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-101",
+      "itemType": "Trainer Card",
+      "number": "101",
+      "name": "Twist Mountain",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Once during each player's turn, that player may flip a coin. If heads, that player may play a Restored Pokémon from their hand onto their Bench.,This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-102",
+      "itemType": "Trainer Card",
+      "number": "102",
+      "name": "Ultra Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Discard 2 cards from your hand. (If you can't discard 2 cards, you can't play this card.) Search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-103",
+      "itemType": "Pokemon Card",
+      "number": "103",
+      "name": "Entei-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Fire Fang",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Burned."
+        },
+        {
+          "name": "Grand Flame",
+          "damage": "90",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Attach a Fire Energy from your discard pile to 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-104",
+      "itemType": "Pokemon Card",
+      "number": "104",
+      "name": "Kyogre-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Smash Turn",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "You may switch this Pokémon with 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Dual Splash",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "This attack does 50 damage to 2 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-105",
+      "itemType": "Pokemon Card",
+      "number": "105",
+      "name": "Raikou-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Thunder Fang",
+          "damage": "30",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Volt Bolt",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Discard all Lightning Energy attached to this Pokémon. This attack does 100 damage to 1 of your opponent's Pokémon. (Don't apply Weakness or Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-106",
+      "itemType": "Pokemon Card",
+      "number": "106",
+      "name": "Groudon-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Tromp",
+          "damage": "20",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Giant Claw",
+          "damage": "80+",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon already has 2 or more damage counters on it, this attack does 40 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-107",
+      "itemType": "Pokemon Card",
+      "number": "107",
+      "name": "Darkrai-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Dark Cloak",
+          "text": "Each of your Pokémon that has any Darkness Energy attached to it has no Retreat Cost.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Night Spear",
+          "damage": "90",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-108",
+      "itemType": "Pokemon Card",
+      "number": "108",
+      "name": "Tornadus-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Blow Through",
+          "damage": "30+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If there is any Stadium card in play, this attack does 30 more damage."
+        },
+        {
+          "name": "Power Blast",
+          "damage": "100",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, discard an Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-109",
+      "itemType": "Pokemon Card",
+      "number": "109",
+      "name": "Gardevoir",
+      "stage": "Stage 2",
+      "evolvesFrom": "Kirlia",
+      "hp": "110",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Psychic Mirage",
+          "text": "Each basic Psychic Energy attached to your Psychic Pokémon provides PsychicPsychic Energy. You can't apply more than 1 Psychic Mirage Ability at a time.",
+          "type": "Ability"
+        }
+      ],
+      "text": "This extremely rare Pokémon is a different color than usual. It is very hard to find.",
+      "attacks": [
+        {
+          "name": "Mind Shock",
+          "damage": "60",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Weakness or Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-110",
+      "itemType": "Pokemon Card",
+      "number": "110",
+      "name": "Archeops",
+      "stage": "Stage 1",
+      "evolvesFrom": "Archen",
+      "hp": "130",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Ancient Power",
+          "text": "Each play can't play any Pokémon from his or her hand to evolve his or her Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "This extremely rare Pokémon is a different color than usual. It is very hard to find.",
+      "attacks": [
+        {
+          "name": "Rock Slide",
+          "damage": "60",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Does 10 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dark-explorers-111",
+      "itemType": "Trainer Card",
+      "number": "111",
+      "name": "Pokémon Catcher",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "5ban Graphics",
+      "text": "Switch your opponent's Active Pokémon with 1 of his or her Benched Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    }
+  ]
+}
