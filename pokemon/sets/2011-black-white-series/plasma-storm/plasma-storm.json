@@ -1,0 +1,5461 @@
+{
+  "setId": "tcg-pokemon-plasma-storm",
+  "cardCount": "138",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-plasma-storm-booster-box",
+      "itemType": "Sealed Product",
+      "name": "Plasma Storm Booster Box"
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-booster-pack",
+      "itemType": "Sealed Product",
+      "name": "Plasma Storm Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-plasma-storm-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Turtwig",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "The shell on its back is made of soil. On a very healthy Turtwig, the shell should feel moist.",
+      "attacks": [
+        {
+          "name": "Nap",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Heal 20 damage from this Pokémon."
+        },
+        {
+          "name": "Razor Leaf",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Grotle",
+      "stage": "Stage 1",
+      "evolvesFrom": "Turtwig",
+      "hp": "100",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Sumiyoshi Kizuki",
+      "text": "It knows where pure water wells up. It carries fellow Pokémon there on its back.",
+      "attacks": [
+        {
+          "name": "Knock Away",
+          "damage": "40+",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-3",
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Torterra",
+      "stage": "Stage 2",
+      "evolvesFrom": "Grotle",
+      "hp": "150",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "text": "Some Pokémon are born on a Torterra's back and spend their entire life there.",
+      "attacks": [
+        {
+          "name": "Guard Press",
+          "damage": "60",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Rumble Stomp",
+          "damage": "80+",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. This attack does 20 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-4",
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Combee",
+      "stage": "Basic",
+      "hp": "30",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Yukiko Baba",
+      "text": "This Pokémon is a set of three. When they sleep, they gather up and form a giant hive of 100 Combee.",
+      "attacks": [
+        {
+          "name": "Sting Missile",
+          "damage": "30",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Shuffle this Pokémon and all cards attached to it into your deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Vespiquen",
+      "stage": "Stage 1",
+      "evolvesFrom": "Combee",
+      "hp": "100",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Hajime Kusajima",
+      "text": "It houses its colony in cells in its body and releases various pheromones to make those grubs do its bidding.",
+      "attacks": [
+        {
+          "name": "Gather Order",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Search your deck for as many Combee as you like and put them onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "name": "Damage Beat",
+          "damage": "20×",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Does 20 damage times the number of damage counters on the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-6",
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Cherubi",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "sui",
+      "text": "The small ball is not only filled with nutrients, it is also tasty. Starly try to peck it off.",
+      "attacks": [
+        {
+          "name": "Leech Seed",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Heal 10 damage from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-7",
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Cherrim",
+      "stage": "Stage 1",
+      "evolvesFrom": "Cherubi",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Fair-Weather Heal",
+          "text": "Once during your turn (before your attack), you may heal 20 damage from 1 of your Pokémon that has any Grass Energy attached to it.",
+          "type": "Ability"
+        }
+      ],
+      "text": "If it senses strong sunlight, it opens its folded petals to absorb the sun's rays with its whole body.",
+      "attacks": [
+        {
+          "name": "Random Peck",
+          "damage": "20+",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-8",
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "Sewaddle",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "text": "Since this Pokémon makes its own clothes out of leaves, it is a popular mascot for fashion designers.",
+      "attacks": [
+        {
+          "name": "Bug Bite",
+          "damage": "20",
+          "cost": [
+            "Grass"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-9",
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Swadloon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Sewaddle",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kyoko Umemoto",
+      "text": "Preferring dark, damp places, it spends the entire day eating fallen leaves that lie around it.",
+      "attacks": [
+        {
+          "name": "Swaddle Guard",
+          "cost": [
+            "Grass"
+          ],
+          "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 40 (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Surprise Attack",
+          "damage": "40",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Leavanny",
+      "stage": "Stage 2",
+      "evolvesFrom": "Swadloon",
+      "hp": "140",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "text": "Upon finding a small Pokémon, it weaves clothing for it from leaves by using the sticky silk secreted from its mouth.",
+      "attacks": [
+        {
+          "name": "Cleave",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. If both of them are heads, discard all Energy attached to the Defending Pokémon."
+        },
+        {
+          "name": "Leaf Blade",
+          "damage": "70+",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Maractus",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shigenori Negishi",
+      "text": "When it moves rhythmically, it makes a sound similar to maracas, making the surprised Pokémon flee.",
+      "attacks": [
+        {
+          "name": "Dazzle Dance",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ],
+          "text": "The Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Ambush",
+          "damage": "20+",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Foongus",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "It lures Pokémon with its pattern that looks just like a Poké Ball then releases poison spores.",
+      "attacks": [
+        {
+          "name": "Astonish",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, choose a random card from your opponent's hand. Your opponent reveals that card and shuffles it into his or her deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Amoonguss",
+      "stage": "Stage 1",
+      "evolvesFrom": "Foongus",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "It moves the caps on both arms and does a dance to lure prey. It prefers damp places.",
+      "attacks": [
+        {
+          "name": "Astonish",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, choose a random card from your opponent's hand. Your opponent reveals that card and shuffles it into his or her deck."
+        },
+        {
+          "name": "Miracle Powder",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, choose a Special Condition. The Defending Pokémon is now affected by that Special Condition."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Moltres-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Destructive Flame",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy attached to the Defending Pokémon."
+        },
+        {
+          "name": "Power Flame",
+          "damage": "80+",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If this Pokémon has any Plasma Energy attached to it, this attack does 40 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Chimchar",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "sui",
+      "text": "It is very agile. Before going to sleep, it extinguishes the flame on its tail to prevent fires.",
+      "attacks": [
+        {
+          "name": "Flare",
+          "damage": "20",
+          "cost": [
+            "Fire"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-16",
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Monferno",
+      "stage": "Stage 1",
+      "evolvesFrom": "Chimchar",
+      "hp": "80",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Masakazu Fukuda",
+      "text": "It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance.",
+      "attacks": [
+        {
+          "name": "Loud Howl",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent Switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "name": "Fire Tail Slap",
+          "damage": "50",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Infernape",
+      "stage": "Stage 2",
+      "evolvesFrom": "Monferno",
+      "hp": "130",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "text": "It uses unique fighting moves with fire on its hand and feet. It will take on any opponent.",
+      "attacks": [
+        {
+          "name": "Torment",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Choose 1 of the Defending Pokémon's attack. That Pokémon can't use that attack during your opponent's next turn."
+        },
+        {
+          "name": "Malevolent Fire",
+          "damage": "120",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Discard all Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-18",
+      "itemType": "Pokemon Card",
+      "number": "18",
+      "name": "Victini-EX",
+      "stage": "Basic",
+      "hp": "110",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Turbo Energize",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Search your deck for 2 basic Energy cards and attach them to your Benched Pokémon in any way you like. Shuffle your deck afterward."
+        },
+        {
+          "name": "Intensifying Burn",
+          "damage": "50+",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is a Pokémon-EX, this attack does 50 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-19",
+      "itemType": "Pokemon Card",
+      "number": "19",
+      "name": "Pansear",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "text": "Very intelligent, it roasts berries before eating them. It likes to help people.",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Double Fire",
+          "damage": "40×",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 40 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-20",
+      "itemType": "Pokemon Card",
+      "number": "20",
+      "name": "Simisear",
+      "stage": "Stage 1",
+      "evolvesFrom": "Pansear",
+      "hp": "90",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Naoki Saito",
+      "text": "When it gets excited, embers rise from its head and tail and it gets hot. For some reason, it loves sweets.",
+      "attacks": [
+        {
+          "name": "Searing Flame",
+          "damage": "20",
+          "cost": [
+            "Fire"
+          ],
+          "text": "The Defending Pokémon is now Burned."
+        },
+        {
+          "name": "Flame Blast",
+          "damage": "40+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 20 more damage for each Fire Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-21",
+      "itemType": "Pokemon Card",
+      "number": "21",
+      "name": "Litwick",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "Its flame is usually out, but it starts shining when it absorbs life force from people or Pokémon.",
+      "attacks": [
+        {
+          "name": "Surprise Attack",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-22",
+      "itemType": "Pokemon Card",
+      "number": "22",
+      "name": "Lampent",
+      "stage": "Stage 1",
+      "evolvesFrom": "Litwick",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouki Saitou",
+      "abilities": [
+        {
+          "name": "Freefloating",
+          "text": "If this Pokémon has no Energy attached to it, this Pokémon has no Retreat Cost.",
+          "type": "Ability"
+        }
+      ],
+      "text": "The spirits it absorbs fuel its baleful fire. It hangs around hospitals waiting for people to pass on.",
+      "attacks": [
+        {
+          "name": "Will-O-Wisp",
+          "damage": "20",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-23",
+      "itemType": "Pokemon Card",
+      "number": "23",
+      "name": "Heatmor",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Suwama Chiaki",
+      "text": "It draws in air through its tail, transforms it into fire, and uses it like a tongue. It melts Durant and eats them.",
+      "attacks": [
+        {
+          "name": "Luring Flame",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Switch 1 of your opponent's Benched Pokémon with the Defending Pokémon. The new Defending Pokémon is now Burned."
+        },
+        {
+          "name": "Fiery Licks",
+          "damage": "50×",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "text": "Discard the top 4 cards of your deck. This attack does 50 damage times the number of Fire Energy cards discarded."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-24",
+      "itemType": "Pokemon Card",
+      "number": "24",
+      "name": "Squirtle",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Naoki Saito",
+      "text": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-25",
+      "itemType": "Pokemon Card",
+      "number": "25",
+      "name": "Articuno-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Toyste Beach",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Blizzard",
+          "damage": "60",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Frost Prison",
+          "damage": "80",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If this Pokémon has any Plasma Energy attached to it, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-26",
+      "itemType": "Pokemon Card",
+      "number": "26",
+      "name": "Swinub",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "Rooting the tip of its snout into the ground, it searches for food. Sometimes, it even digs up a hot spring.",
+      "attacks": [
+        {
+          "name": "Double Headbutt",
+          "damage": "20×",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-27",
+      "itemType": "Pokemon Card",
+      "number": "27",
+      "name": "Piloswine",
+      "stage": "Stage 1",
+      "evolvesFrom": "Swinub",
+      "hp": "100",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Suwama Chiaki",
+      "text": "With its excellent sense of smell, it's even able to find mushrooms that are buried under frozen ground.",
+      "attacks": [
+        {
+          "name": "Ice Beam",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Quintuple Headbutt",
+          "damage": "40×",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 5 coins. This attack does 40 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-28",
+      "itemType": "Pokemon Card",
+      "number": "28",
+      "name": "Mamoswine",
+      "stage": "Stage 2",
+      "evolvesFrom": "Piloswine",
+      "hp": "150",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "match",
+      "text": "When the temperature rose at the end of the ice age, most Mamoswine disappeared.",
+      "attacks": [
+        {
+          "name": "Frost Stone",
+          "damage": "50+",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage and the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Continuous Headbutt",
+          "damage": "90×",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. This attack does 90 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-29",
+      "itemType": "Pokemon Card",
+      "number": "29",
+      "name": "Lotad",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "text": "It looks like an aquatic plant and serves as a ferry to Pokémon that can't swim.",
+      "attacks": [
+        {
+          "name": "Bubble Beam",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-30",
+      "itemType": "Pokemon Card",
+      "number": "30",
+      "name": "Lombre",
+      "stage": "Stage 1",
+      "evolvesFrom": "Lotad",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Suwama Chiaki",
+      "text": "It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere.",
+      "attacks": [
+        {
+          "name": "Jump On",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        },
+        {
+          "name": "Wave Splash",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-31",
+      "itemType": "Pokemon Card",
+      "number": "31",
+      "name": "Ludicolo",
+      "stage": "Stage 2",
+      "evolvesFrom": "Lombre",
+      "hp": "130",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "match",
+      "abilities": [
+        {
+          "name": "Rain Dish",
+          "text": "At any times between turns, heal 20 damage from this Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "If it hears festive music, all its muscles fill with energy. It can't help breaking out into a dance.",
+      "attacks": [
+        {
+          "name": "Groovy Dance",
+          "damage": "70",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "You may discard an Energy attached to this Pokémon. If you do, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-32",
+      "itemType": "Pokemon Card",
+      "number": "32",
+      "name": "Carvanha",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.",
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-33",
+      "itemType": "Pokemon Card",
+      "number": "33",
+      "name": "Sharpedo",
+      "stage": "Stage 1",
+      "evolvesFrom": "Carvanha",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Rough Skin",
+          "text": "If this Pokémon is your Active Pokémon and is damaged by an opponent's attack (even if this Pokémon is Knocked Out), put 2 damage counters on the Attacking Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Its fangs rip through sheet iron. It swims at 75 mph and is known as",
+      "attacks": [
+        {
+          "name": "Hard Bite",
+          "damage": "40+",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-34",
+      "itemType": "Pokemon Card",
+      "number": "34",
+      "name": "Manaphy",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Naoki Saito",
+      "abilities": [
+        {
+          "name": "Final Wish",
+          "text": "When this Pokémon is Knocked Out by damage from an opponent's attack, search your deck for a card and put it into your hand. Shuffle your deck afterward.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It is born with a wondrous power that lets it bond with any kind of Pokémon.",
+      "attacks": [
+        {
+          "name": "Seafaring",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip 3 coins. For each heads, attach a Water Energy card from your discard pile to your Benched Pokémon in any way you like."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-35",
+      "itemType": "Pokemon Card",
+      "number": "35",
+      "name": "Vanillite",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Shin Nagasawa",
+      "text": "Theoretically, this Pokémon formed from icicles bathed in energy from the morning sun. Their breath is -58° F.",
+      "attacks": [
+        {
+          "name": "Snow Squall",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-36",
+      "itemType": "Pokemon Card",
+      "number": "36",
+      "name": "Vanillish",
+      "stage": "Stage 1",
+      "evolvesFrom": "Vanillite",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shin Nagasawa",
+      "text": "They cool down the surrounding air and create ice particles, which they use to freeze their foes.",
+      "attacks": [
+        {
+          "name": "Icy Snow",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-37",
+      "itemType": "Pokemon Card",
+      "number": "37",
+      "name": "Vanilluxe",
+      "stage": "Stage 2",
+      "evolvesFrom": "Vanillish",
+      "hp": "130",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Shin Nagasawa",
+      "text": "Swallowing large amounts of water, they make snow clouds inside their bodies and, when angry, cause violent blizzards.",
+      "attacks": [
+        {
+          "name": "Enefountain",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Attach 2 basic Energy cards from your hand to 1 of your Pokémon."
+        },
+        {
+          "name": "Blizzard",
+          "damage": "70",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-38",
+      "itemType": "Pokemon Card",
+      "number": "38",
+      "name": "Frillish",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Akira Komayama",
+      "text": "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return.",
+      "attacks": [
+        {
+          "name": "Absorb",
+          "damage": "10",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Heal 10 damage from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-39",
+      "itemType": "Pokemon Card",
+      "number": "39",
+      "name": "Jellicent",
+      "stage": "Stage 1",
+      "evolvesFrom": "Frillish",
+      "hp": "100",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Spiteful Spirit",
+          "text": "If this Pokémon is your Active Pokémon and is Knocked Out by damage from an opponent's attack, the Attacking Pokémon is now Confused and Poisoned.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Its body is mostly seawater. It's said there's a castle of ships Jellicent have sunk on the seafloor.",
+      "attacks": [
+        {
+          "name": "Aqua Bullet",
+          "damage": "40",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-40",
+      "itemType": "Pokemon Card",
+      "number": "40",
+      "name": "Cubchoo",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "MAHOU",
+      "text": "Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases.",
+      "attacks": [
+        {
+          "name": "Hail",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Icy Snow",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-41",
+      "itemType": "Pokemon Card",
+      "number": "41",
+      "name": "Beartic",
+      "stage": "Stage 1",
+      "evolvesFrom": "Cubchoo",
+      "hp": "130",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "text": "They love the cold seas of the north. They create pathways around the ocean waters by freezing their own breath.",
+      "attacks": [
+        {
+          "name": "Powerful Rage",
+          "damage": "20×",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Does 20 damage times the number of damage counters on this Pokémon."
+        },
+        {
+          "name": "Glacier Drop",
+          "damage": "90",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Discard the top card of your opponent's deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-42",
+      "itemType": "Pokemon Card",
+      "number": "42",
+      "name": "Magnemite",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Shigenori Negishi",
+      "text": "The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float.",
+      "attacks": [
+        {
+          "name": "Metal Sound",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Electro Ball",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-43",
+      "itemType": "Pokemon Card",
+      "number": "43",
+      "name": "Magnemite",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "match",
+      "text": "The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float.",
+      "attacks": [
+        {
+          "name": "Electro Ball",
+          "damage": "10",
+          "cost": [
+            "Lightning"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-44",
+      "itemType": "Pokemon Card",
+      "number": "44",
+      "name": "Magneton",
+      "stage": "Stage 1",
+      "evolvesFrom": "Magnemite",
+      "hp": "80",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "MAHOU",
+      "text": "The stronger electromagnetic waves from the three linked Magnemite are enough to dry out surrounding moisture.",
+      "attacks": [
+        {
+          "name": "Metal Sound",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Electro Ball",
+          "damage": "30",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-45",
+      "itemType": "Pokemon Card",
+      "number": "45",
+      "name": "Magneton",
+      "stage": "Stage 1",
+      "evolvesFrom": "Magnemite",
+      "hp": "80",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "match",
+      "text": "The stronger electromagnetic waves from the three linked Magnemite are enough to dry out surrounding moisture.",
+      "attacks": [
+        {
+          "name": "Knock Away",
+          "damage": "20+",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-46",
+      "itemType": "Pokemon Card",
+      "number": "46",
+      "name": "Magnezone",
+      "stage": "Stage 2",
+      "evolvesFrom": "Magneton",
+      "hp": "140",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Dual Brains",
+          "text": "During your turn, you may play 2 Supporter cards.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Sometimes the magnetism emitted by Magnezone is too strong, making them attract each other so they cannot move.",
+      "attacks": [
+        {
+          "name": "Gyro Ball",
+          "damage": "80",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon. Then, your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-47",
+      "itemType": "Pokemon Card",
+      "number": "47",
+      "name": "Magnezone",
+      "stage": "Stage 2",
+      "evolvesFrom": "Magneton",
+      "hp": "140",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "match",
+      "text": "Sometimes the magnetism emitted by Magnezone is too strong, making them attract each other so they cannot move.",
+      "attacks": [
+        {
+          "name": "Double Assist",
+          "damage": "30",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Attach 2 basic Energy cards from your discard pile to 1 of your Pokémon."
+        },
+        {
+          "name": "Tumbling Attack",
+          "damage": "70+",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-48",
+      "itemType": "Pokemon Card",
+      "number": "48",
+      "name": "Zapdos-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Agility",
+          "damage": "30",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+        },
+        {
+          "name": "Powervolt",
+          "damage": "80+",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If this Pokémon has any Plasma Energy attached to it, this attack does 40 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-49",
+      "itemType": "Pokemon Card",
+      "number": "49",
+      "name": "Rotom",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Its electric-like body can enter some kinds of machines and take control in order to make mischief.",
+      "attacks": [
+        {
+          "name": "Electribonus",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Discard a Lightning Energy card from your hand. If you do, draw 3 cards."
+        },
+        {
+          "name": "Poltergeist",
+          "damage": "20×",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Your opponent reveals his or her hand. This attack does 20 damage times the number of Trainer cards in your opponent's hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-50",
+      "itemType": "Pokemon Card",
+      "number": "50",
+      "name": "Joltik",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Tomokazu Komiya",
+      "text": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity.",
+      "attacks": [
+        {
+          "name": "Jump On",
+          "damage": "10+",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-51",
+      "itemType": "Pokemon Card",
+      "number": "51",
+      "name": "Galvantula",
+      "stage": "Stage 1",
+      "evolvesFrom": "Joltik",
+      "hp": "80",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hajime Kusajima",
+      "text": "It creates barriers from electrified silk that stun foes. This works as a weapon as well as a defense.",
+      "attacks": [
+        {
+          "name": "Discharge",
+          "damage": "30×",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Discard all Lightning Energy attached to this Pokémon. This attack does 30 damage times the number of Energy cards you discarded."
+        },
+        {
+          "name": "Signal Beam",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-52",
+      "itemType": "Pokemon Card",
+      "number": "52",
+      "name": "Zubat",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "It does not need eyes, because it emits ultrasonic waves to check its surrounding while it flies.",
+      "attacks": [
+        {
+          "name": "Spiral Drain",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Heal 10 damage from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-53",
+      "itemType": "Pokemon Card",
+      "number": "53",
+      "name": "Zubat",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Mizue",
+      "abilities": [
+        {
+          "name": "Free Flight",
+          "text": "If this Pokémon has no Energy attached to it, this Pokémon has no Retreat Cost.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It does not need eyes, because it emits ultrasonic waves to check its surrounding while it flies.",
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "damage": "20",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-54",
+      "itemType": "Pokemon Card",
+      "number": "54",
+      "name": "Golbat",
+      "stage": "Stage 1",
+      "evolvesFrom": "Zubat",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kyoko Umemoto",
+      "text": "Flitting around in the dead of night, it sinks its fangs into its prey and drains a nearly fatal amount of blood.",
+      "attacks": [
+        {
+          "name": "Spiral Drain",
+          "damage": "20",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Heal 20 damage from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-55",
+      "itemType": "Pokemon Card",
+      "number": "55",
+      "name": "Crobat",
+      "stage": "Stage 2",
+      "evolvesFrom": "Golbat",
+      "hp": "130",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Night Sight",
+          "text": "Once during your turn (before your attack), you may draw a card.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Having four wings allows it to fly more quickly and quietly so it can sneak up on prey without its noticing.",
+      "attacks": [
+        {
+          "name": "Ultra-Toxic Fang",
+          "damage": "40",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Poisoned. Put 4 damage counters instead of 1 on this Pokémon between turns."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-56",
+      "itemType": "Pokemon Card",
+      "number": "56",
+      "name": "Koffing",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "Toxic gas is held within its thin, balloon-shaped body, so it can cause massive explosions.",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ]
+        },
+        {
+          "name": "Double Spin",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-57",
+      "itemType": "Pokemon Card",
+      "number": "57",
+      "name": "Koffing",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "match",
+      "text": "Toxic gas is held within its thin, balloon-shaped body, so it can cause massive explosions.",
+      "attacks": [
+        {
+          "name": "Smokescreen",
+          "damage": "20",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-58",
+      "itemType": "Pokemon Card",
+      "number": "58",
+      "name": "Weezing",
+      "stage": "Stage 1",
+      "evolvesFrom": "Koffing",
+      "hp": "100",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Aftermath",
+          "text": "When this Pokémon is Knocked Out by damage from an opponent's attack, discard the top 3 cards of your opponent's deck.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Inhaling toxic fumes from trash and mixing them inside its body lets it spread an even fouler stench.",
+      "attacks": [
+        {
+          "name": "Smogbank",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-59",
+      "itemType": "Pokemon Card",
+      "number": "59",
+      "name": "Ralts",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Kanako Eo",
+      "text": "If its horns capture the warm feelings of people or Pokémon, its body warms up slightly.",
+      "attacks": [
+        {
+          "name": "Psy Bolt",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-60",
+      "itemType": "Pokemon Card",
+      "number": "60",
+      "name": "Kirlia",
+      "stage": "Stage 1",
+      "evolvesFrom": "Ralts",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mizue",
+      "text": "If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about.",
+      "attacks": [
+        {
+          "name": "Psy Bolt",
+          "damage": "20",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-61",
+      "itemType": "Pokemon Card",
+      "number": "61",
+      "name": "Gallade",
+      "stage": "Stage 2",
+      "evolvesFrom": "Kirlia",
+      "hp": "140",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "kawayoo",
+      "text": "When trying to protect someone, it extends its elbows as if they were swords and fights savagely.",
+      "attacks": [
+        {
+          "name": "Powerful Storm",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 20 damage times the amount of Energy attached to all of your Pokémon."
+        },
+        {
+          "name": "Swift Lunge",
+          "damage": "80",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-62",
+      "itemType": "Pokemon Card",
+      "number": "62",
+      "name": "Giratina",
+      "stage": "Basic",
+      "hp": "130",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "text": "It was banished for its violence. It silently gazed upon the old world from the Distortion World.",
+      "attacks": [
+        {
+          "name": "Hex",
+          "damage": "50+",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is affected by a Special Condition, this attack does 50 more damage."
+        },
+        {
+          "name": "Shadow Claw",
+          "damage": "90",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard a random card from your opponent's hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-63",
+      "itemType": "Pokemon Card",
+      "number": "63",
+      "name": "Trubbish",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "The combination of garbage bags and industrial waste caused the chemical reaction that created this Pokémon.",
+      "attacks": [
+        {
+          "name": "Pile Up",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, search your deck for a Pokémon Tool card, reveal it, and put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Sludge Toss",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-64",
+      "itemType": "Pokemon Card",
+      "number": "64",
+      "name": "Trubbish",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "Wanting more garbage, they follow people who litter. They always belch poison gas.",
+      "attacks": [
+        {
+          "name": "Pound",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Sludge Bomb",
+          "damage": "40",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-65",
+      "itemType": "Pokemon Card",
+      "number": "65",
+      "name": "Trubbish",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "text": "Wanting more garbage, they follow people who litter. They always belch poison gas.",
+      "attacks": [
+        {
+          "name": "Tool Drop",
+          "damage": "20×",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Does 20 damage for each Pokémon Tool card attached to Pokémon in play (both yours and your opponent's)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-66",
+      "itemType": "Pokemon Card",
+      "number": "66",
+      "name": "Garbodor",
+      "stage": "Stage 1",
+      "evolvesFrom": "Trubbish",
+      "hp": "110",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "text": "Consuming garbage makes new kinds of poison gases and liquids inside their bodies.",
+      "attacks": [
+        {
+          "name": "Biosmog",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Poisoned. Flip a coin. If heads, discard an Energy attached to that Pokémon."
+        },
+        {
+          "name": "Sludge Bomb",
+          "damage": "70",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-67",
+      "itemType": "Pokemon Card",
+      "number": "67",
+      "name": "Garbodor",
+      "stage": "Stage 1",
+      "evolvesFrom": "Trubbish",
+      "hp": "110",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "text": "Consuming garbage makes new kinds of poison gases and liquids inside their bodies.",
+      "attacks": [
+        {
+          "name": "Ensnarl",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 20 damage times the number of Colorless in the Defending Pokémon's Retreat Cost."
+        },
+        {
+          "name": "Double Ducts",
+          "damage": "80×",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 80 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-68",
+      "itemType": "Pokemon Card",
+      "number": "68",
+      "name": "Elgyem",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "Rumors of its origin are linked to a UFO crash site in the desert 50 years ago.",
+      "attacks": [
+        {
+          "name": "Psyshot",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-69",
+      "itemType": "Pokemon Card",
+      "number": "69",
+      "name": "Elgyem",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "text": "Rumors of its origin are linked to a UFO crash site in the desert 50 years ago.",
+      "attacks": [
+        {
+          "name": "Reflect",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Smash Punch",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-70",
+      "itemType": "Pokemon Card",
+      "number": "70",
+      "name": "Beheeyem",
+      "stage": "Stage 1",
+      "evolvesFrom": "Elgyem",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "text": "Apparently, it communicates by flashing its three fingers, but those patterns haven't been decoded.",
+      "attacks": [
+        {
+          "name": "Lock Up",
+          "damage": "20",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "name": "Damakinesis",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Move 6 damage counters from any of your Pokémon to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-71",
+      "itemType": "Pokemon Card",
+      "number": "71",
+      "name": "Phanpy",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Sumiyoshi Kizuki",
+      "text": "It is strong despite its compact size. It can easily pick up and carry an adult human on its back.",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10",
+          "cost": [
+            "Fighting"
+          ]
+        },
+        {
+          "name": "Rollout",
+          "damage": "50",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-72",
+      "itemType": "Pokemon Card",
+      "number": "72",
+      "name": "Donphan",
+      "stage": "Stage 1",
+      "evolvesFrom": "Phanpy",
+      "hp": "130",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shin Nagasawa",
+      "text": "It attacks by curling up, then rolling into its foe. It can blow apart a house in one hit.",
+      "attacks": [
+        {
+          "name": "Spinning Turn",
+          "damage": "40",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Wreck",
+          "damage": "80+",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If there is any Stadium card in play, this attack does 60 more damage. Discard the Stadium card."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-73",
+      "itemType": "Pokemon Card",
+      "number": "73",
+      "name": "Lunatone",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouji Tajima",
+      "abilities": [
+        {
+          "name": "Premonition",
+          "text": "Once during your turn (before your attack), you may look at the top 2 cards of your deck and put them back on top of your deck in any order.",
+          "type": "Ability"
+        }
+      ],
+      "text": "The phase of the moon apparently has some effect on its power. It's active on the night of a full moon.",
+      "attacks": [
+        {
+          "name": "Rock Throw",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-74",
+      "itemType": "Pokemon Card",
+      "number": "74",
+      "name": "Solrock",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouji Tajima",
+      "text": "Solar energy is the source of its power, so it is strong during the daytime. When it spins, its body shines.",
+      "attacks": [
+        {
+          "name": "Heat Burn",
+          "damage": "20",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Burned."
+        },
+        {
+          "name": "Explosion",
+          "damage": "90",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This Pokémon does 90 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-75",
+      "itemType": "Pokemon Card",
+      "number": "75",
+      "name": "Riolu",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "It has the peculiar power of being able to see emotions such as joy and rage in the form of waves.",
+      "attacks": [
+        {
+          "name": "Punch",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Kick",
+          "damage": "20",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-76",
+      "itemType": "Pokemon Card",
+      "number": "76",
+      "name": "Riolu",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Akira Komayama",
+      "text": "They communicate with one another using their auras made tangible by their emotions.",
+      "attacks": [
+        {
+          "name": "Kick",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Feint",
+          "damage": "40",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-77",
+      "itemType": "Pokemon Card",
+      "number": "77",
+      "name": "Lucario",
+      "stage": "Stage 1",
+      "evolvesFrom": "Riolu",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "A well-trained one can sense auras to identify and take in the feelings of creatures over half a mile away.",
+      "attacks": [
+        {
+          "name": "Kick",
+          "damage": "10",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Mach Cross",
+          "damage": "70",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-78",
+      "itemType": "Pokemon Card",
+      "number": "78",
+      "name": "Lucario",
+      "stage": "Stage 1",
+      "evolvesFrom": "Riolu",
+      "hp": "100",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Satoshi Shirai",
+      "abilities": [
+        {
+          "name": "Dual Armor",
+          "text": "If this Pokémon has any Metal Energy attached to it, this Pokémon's type is both Fighting and Metal.",
+          "type": "Ability"
+        }
+      ],
+      "text": "By reading the auras of all things, it can tell how others are feeling from over half a mile away.",
+      "attacks": [
+        {
+          "name": "Hurricane Kick",
+          "damage": "60+",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 30 more damage for each Prize card your opponent has taken."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-79",
+      "itemType": "Pokemon Card",
+      "number": "79",
+      "name": "Timburr",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "Always carrying squared logs, they help out with construction. As they grow, they carry bigger logs.",
+      "attacks": [
+        {
+          "name": "Knock Back",
+          "damage": "20",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "name": "Low Kick",
+          "damage": "40",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-80",
+      "itemType": "Pokemon Card",
+      "number": "80",
+      "name": "Gurdurr",
+      "stage": "Stage 1",
+      "evolvesFrom": "Timburr",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Masakazu Fukuda",
+      "text": "With strengthened bodies, they skillfully wield steel beams to take down buildings.",
+      "attacks": [
+        {
+          "name": "Dynamic Punch",
+          "damage": "40+",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage and the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Hammer In",
+          "damage": "80",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-81",
+      "itemType": "Pokemon Card",
+      "number": "81",
+      "name": "Conkeldurr",
+      "stage": "Stage 2",
+      "evolvesFrom": "Gurdurr",
+      "hp": "140",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Shin Nagasawa",
+      "text": "Rather than rely on force, they master moves that utilize the centrifugal force of spinning concrete.",
+      "attacks": [
+        {
+          "name": "Facade",
+          "damage": "60+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If this Pokémon is Burned or Poisoned, this attack does 60 more damage."
+        },
+        {
+          "name": "Drain Punch",
+          "damage": "80",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Heal 20 damage from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-82",
+      "itemType": "Pokemon Card",
+      "number": "82",
+      "name": "Purrloin",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "MAHOU",
+      "text": "Its cute act is a ruse. When victims let down their guard, they find their items taken. It attacks with sharp claws.",
+      "attacks": [
+        {
+          "name": "Tail Trickery",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Fury Swipes",
+          "damage": "10×",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-83",
+      "itemType": "Pokemon Card",
+      "number": "83",
+      "name": "Purrloin",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Masakazu Fukuda",
+      "text": "Their cute act is a ruse. They trick people and steal their valuables just to see the looks on their faces.",
+      "attacks": [
+        {
+          "name": "Scout",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent reveals his or her hand."
+        },
+        {
+          "name": "Fasten Claws",
+          "damage": "20+",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-84",
+      "itemType": "Pokemon Card",
+      "number": "84",
+      "name": "Liepard",
+      "stage": "Stage 1",
+      "evolvesFrom": "Purrloin",
+      "hp": "80",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "text": "Their beautiful form comes from the muscles they have developed. They run silently in the night.",
+      "attacks": [
+        {
+          "name": "Silent Claw",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent reveal his or her hand. Discard a Supporter card you find there. Use the effect of that card as the effect of this attack."
+        },
+        {
+          "name": "Fake Out",
+          "damage": "30",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-85",
+      "itemType": "Pokemon Card",
+      "number": "85",
+      "name": "Scraggy",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "Proud of its sturdy skull, it suddenly headbutts everything, but its weight makes it unstable, too.",
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "damage": "10",
+          "cost": [
+            "Darkness"
+          ]
+        },
+        {
+          "name": "Low Kick",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-86",
+      "itemType": "Pokemon Card",
+      "number": "86",
+      "name": "Scrafty",
+      "stage": "Stage 1",
+      "evolvesFrom": "Scraggy",
+      "hp": "90",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "text": "It pulls up its shed skin to protect itself while it kicks. The bigger the crest, the more respected it is.",
+      "attacks": [
+        {
+          "name": "Kick Away",
+          "damage": "30",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "name": "Reinforced Headbutt",
+          "damage": "50+",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "If this Pokémon has a Pokémon Tool card attached to it, this attack does 50 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-87",
+      "itemType": "Pokemon Card",
+      "number": "87",
+      "name": "Skarmory",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "text": "Its heavy-looking iron body is actually thin and light, so it can fly at speeds over 180 mph.",
+      "attacks": [
+        {
+          "name": "Cargo Jet",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Discard a Team Plasma card from your hand. if you do, draw 3 cards."
+        },
+        {
+          "name": "Steel Wing",
+          "damage": "40",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-88",
+      "itemType": "Pokemon Card",
+      "number": "88",
+      "name": "Klink",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Common",
+      "artist": "Akira Komayama",
+      "text": "Two bodies comprise a fixed pair. They spin around each other to generate energy.",
+      "attacks": [
+        {
+          "name": "Rigidify",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Vice Grip",
+          "damage": "20",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-89",
+      "itemType": "Pokemon Card",
+      "number": "89",
+      "name": "Klang",
+      "stage": "Stage 1",
+      "evolvesFrom": "Klink",
+      "hp": "80",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Akira Komayama",
+      "text": "A minigear and big gear comprises its body. If the minigear it launches at its foe doesn't return, it will die.",
+      "attacks": [
+        {
+          "name": "Vice Grip",
+          "damage": "20",
+          "cost": [
+            "Metal"
+          ]
+        },
+        {
+          "name": "Gear Smash",
+          "damage": "30+",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-90",
+      "itemType": "Pokemon Card",
+      "number": "90",
+      "name": "Klinklang",
+      "stage": "Stage 2",
+      "evolvesFrom": "Klang",
+      "hp": "140",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Plasma Steel",
+          "text": "Prevent all damage done to your Metal Pokémon by attacks from your opponent's Pokémon-EX.",
+          "type": "Ability"
+        }
+      ],
+      "text": "The minigear spins at high speed. Then the energy from the red core charges the minigear to make it ready to fire.",
+      "attacks": [
+        {
+          "name": "Heavy Bullet",
+          "damage": "70",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-91",
+      "itemType": "Pokemon Card",
+      "number": "91",
+      "name": "Durant",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony.",
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Hard Crunch",
+          "damage": "40+",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon already has any damage counters on it, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-92",
+      "itemType": "Pokemon Card",
+      "number": "92",
+      "name": "Durant",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony.",
+      "attacks": [
+        {
+          "name": "Call for Backup",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Metal Jail",
+          "damage": "30",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-93",
+      "itemType": "Pokemon Card",
+      "number": "93",
+      "name": "Cobalion-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Righteous Edge",
+          "damage": "30",
+          "cost": [
+            "Metal"
+          ],
+          "text": "Discard a Special Energy attached to the Defending Pokémon."
+        },
+        {
+          "name": "Steel Bullet",
+          "damage": "100",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-94",
+      "itemType": "Pokemon Card",
+      "number": "94",
+      "name": "Druddigon",
+      "stage": "Basic",
+      "hp": "110",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "text": "It runs through the narrow tunnels formed by Excadrill and Onix. It uses its sharp claws to catch prey.",
+      "attacks": [
+        {
+          "name": "Guard Press",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Dragon Claw",
+          "damage": "90",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-95",
+      "itemType": "Pokemon Card",
+      "number": "95",
+      "name": "Black Kyurem-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Shizurow",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Slash",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Black Ballista",
+          "damage": "200",
+          "cost": [
+            "Water",
+            "Water",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Discard 3 Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-96",
+      "itemType": "Pokemon Card",
+      "number": "96",
+      "name": "White Kyurem-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Shizurow",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Slash",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "White Inferno",
+          "damage": "100+",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Does 10 more damage for each damage counter on this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-97",
+      "itemType": "Pokemon Card",
+      "number": "97",
+      "name": "Clefairy",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "text": "On nights with a full moon, Clefairy gather from all over and dance. Bathing in moonlight makes them float.",
+      "attacks": [
+        {
+          "name": "Pound",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Double Slap",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-98",
+      "itemType": "Pokemon Card",
+      "number": "98",
+      "name": "Clefable",
+      "stage": "Stage 1",
+      "evolvesFrom": "Clefairy",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Moon Guidance",
+          "text": "Once during your turn (before your attack), you may flip a coin. If heads, search your deck for a card that evolves from 1 of your Pokémon and put it onto that Pokémon. (This counts as evolving that Pokémon.) Shuffle your deck afterward.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Their ears are sensitive enough to hear a pin drop from over a mile away, so they're usually found in quiet places.",
+      "attacks": [
+        {
+          "name": "Moon Impact",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-99",
+      "itemType": "Pokemon Card",
+      "number": "99",
+      "name": "Doduo",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Kyoko Umemoto",
+      "text": "The brains in its two heads appear to communicate emotions to each other with telepathic power.",
+      "attacks": [
+        {
+          "name": "Gatling Peck",
+          "damage": "10×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 5 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-100",
+      "itemType": "Pokemon Card",
+      "number": "100",
+      "name": "Dodrio",
+      "stage": "Stage 1",
+      "evolvesFrom": "Doduo",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "kawayoo",
+      "text": "When Doduo evolves into this odd breed, one of its heads splits into two. It runs at nearly 40 mph.",
+      "attacks": [
+        {
+          "name": "Raging Pecks",
+          "damage": "30×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 30 damage times the number of heads. This Pokémon is now Confused."
+        },
+        {
+          "name": "Drill Peck",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-101",
+      "itemType": "Pokemon Card",
+      "number": "101",
+      "name": "Snorlax",
+      "stage": "Basic",
+      "hp": "130",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Block",
+          "text": "As long as this Pokémon is your Active Pokémon, your opponent's Active Pokémon can't retreat.",
+          "type": "Ability"
+        }
+      ],
+      "text": "When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly.",
+      "attacks": [
+        {
+          "name": "Teampact",
+          "damage": "30×",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 30 damage times the number of Team Plasma Pokémon you have in play."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-102",
+      "itemType": "Pokemon Card",
+      "number": "102",
+      "name": "Togepi",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Kanako Eo",
+      "text": "It transforms the kindness and joy of others into happiness, which it stores in its shell.",
+      "attacks": [
+        {
+          "name": "Yawn",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-103",
+      "itemType": "Pokemon Card",
+      "number": "103",
+      "name": "Togetic",
+      "stage": "Stage 1",
+      "evolvesFrom": "Togepi",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Akira Komayama",
+      "text": "To share its happiness, it flies around the world seeking kind-hearted people.",
+      "attacks": [
+        {
+          "name": "Sweet Kiss",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent draws a card."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-104",
+      "itemType": "Pokemon Card",
+      "number": "104",
+      "name": "Togekiss",
+      "stage": "Stage 2",
+      "evolvesFrom": "Togetic",
+      "hp": "140",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Shin Nagasawa",
+      "abilities": [
+        {
+          "name": "Bright Veil",
+          "text": "As long as this Pokémon is your Active Pokémon, whenever your opponent plays an Item card from his or her hand, prevent all effects of that card done to your Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It shares many blessings with people who respect one another's rights and avoid needless strife.",
+      "attacks": [
+        {
+          "name": "Return",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw cards until you have 6 cards in your hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-105",
+      "itemType": "Pokemon Card",
+      "number": "105",
+      "name": "Whismur",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "text": "Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.",
+      "attacks": [
+        {
+          "name": "Shout",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, discard a random card from your opponent's hand."
+        },
+        {
+          "name": "Hyper Voice",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-106",
+      "itemType": "Pokemon Card",
+      "number": "106",
+      "name": "Loudred",
+      "stage": "Stage 1",
+      "evolvesFrom": "Whismur",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Aya Kusube",
+      "text": "The shock waves from its cries can tip over trucks. It stamps its feet to power up.",
+      "attacks": [
+        {
+          "name": "Supersonic",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Hyper Voice",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-107",
+      "itemType": "Pokemon Card",
+      "number": "107",
+      "name": "Exploud",
+      "stage": "Stage 2",
+      "evolvesFrom": "Loudred",
+      "hp": "140",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "match",
+      "text": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
+      "attacks": [
+        {
+          "name": "Destructive Sound",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent reveals his or her hand. Discard all Item cards you find there."
+        },
+        {
+          "name": "Round",
+          "damage": "50×",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 50 damage times the number of your Pokémon that have the Round attack."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-108",
+      "itemType": "Pokemon Card",
+      "number": "108",
+      "name": "Lugia-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Toyste Beach",
+      "abilities": [
+        {
+          "name": "Overflow",
+          "text": "If your opponent's Pokémon is Knocked Out by damage from an attack of this Pokémon, take 1 more Prize card.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Plasma Gale",
+          "damage": "120",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard a Plasma Energy attached to this Pokémon. If you can't discard a Plasma Energy, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-109",
+      "itemType": "Pokemon Card",
+      "number": "109",
+      "name": "Skitty",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Masakazu Fukuda",
+      "text": "It shows its cute side by chasing its own tail until it gets dizzy.",
+      "attacks": [
+        {
+          "name": "Triple Slap",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-110",
+      "itemType": "Pokemon Card",
+      "number": "110",
+      "name": "Patrat",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "Extremely cautious, one of them will always be on the lookout, but it won't notice a foe coming from behind.",
+      "attacks": [
+        {
+          "name": "Reckless Charge",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This Pokémon does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-111",
+      "itemType": "Pokemon Card",
+      "number": "111",
+      "name": "Patrat",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Naoki Saito",
+      "text": "Extremely cautious, there is always one keeping watch, but they don't notice enemies coming from behind.",
+      "attacks": [
+        {
+          "name": "Collect",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw a card."
+        },
+        {
+          "name": "Slam",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-112",
+      "itemType": "Pokemon Card",
+      "number": "112",
+      "name": "Watchog",
+      "stage": "Stage 1",
+      "evolvesFrom": "Patrat",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Using luminescent matter, it makes its eyes and body glow and stuns attacking opponents.",
+      "attacks": [
+        {
+          "name": "Fast Swipe",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Discard a random card from your opponent's hand."
+        },
+        {
+          "name": "Biting Fang",
+          "damage": "30+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-113",
+      "itemType": "Pokemon Card",
+      "number": "113",
+      "name": "Watchog",
+      "stage": "Stage 1",
+      "evolvesFrom": "Patrat",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "text": "Using luminescent matter, it makes its eyes and body glow and stuns attacking opponents.",
+      "attacks": [
+        {
+          "name": "Second Bite",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 10 more damage for each damage counter on the Defending Pokémon."
+        },
+        {
+          "name": "Low Kick",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-114",
+      "itemType": "Pokemon Card",
+      "number": "114",
+      "name": "Bouffalant",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "text": "They are known to charge so wildly that if a train were to enter their territory, they would send it flying.",
+      "attacks": [
+        {
+          "name": "Tool Breaker",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Discard a Pokémon Tool card attached to the Defending Pokémon."
+        },
+        {
+          "name": "Hammer In",
+          "damage": "70",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-115",
+      "itemType": "Pokemon Card",
+      "number": "115",
+      "name": "Rufflet",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "kawayoo",
+      "text": "It stands up to massive opponents, not out of courage, but out of recklessness. But that is how it gets stronger.",
+      "attacks": [
+        {
+          "name": "Incessant Peck",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. This attack does 20 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-116",
+      "itemType": "Pokemon Card",
+      "number": "116",
+      "name": "Braviary",
+      "stage": "Stage 1",
+      "evolvesFrom": "Rufflet",
+      "hp": "100",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Akira Komayama",
+      "abilities": [
+        {
+          "name": "Big Wing",
+          "text": "Once during your turn (before your attack), if this Pokémon is your Active Pokémon, you may have your opponent switch his or her Active Pokémon with 1 of his or her Benched Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "The more scars they have, the more respect these brave soldiers of the sky get from their peers.",
+      "attacks": [
+        {
+          "name": "Wild Edge",
+          "damage": "60+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may do 20 more damage. If you do, this Pokémon does 20 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-117",
+      "itemType": "Trainer Card",
+      "number": "117",
+      "name": "Bicycle",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Draw cards until you have 4 cards in your hand.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-118",
+      "itemType": "Trainer Card",
+      "number": "118",
+      "name": "Colress",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yusuke Ohmura",
+      "text": "Shuffle your hand into your deck. Then, draw a number of cards equal to the number of Benched Pokémon (both yours and your opponent's).,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-119",
+      "itemType": "Trainer Card",
+      "number": "119",
+      "name": "Colress Machine",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Search your deck for a Plasma Energy card and attach it to 1 of your Team Plasma Pokémon. Shuffle your deck afterward.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-120",
+      "itemType": "Trainer Card",
+      "number": "120",
+      "name": "Escape Rope",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Each player switches his or her Active Pokémon with 1 of his or her Benched Pokémon. (Your opponent switches first. If a player does not have a Benched Pokémon, he or she doesn't switch Pokémon.),You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-121",
+      "itemType": "Trainer Card",
+      "number": "121",
+      "name": "Ether",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Reveal the top card of your deck. If that card is a basic Energy card, attach it to 1 of your Pokémon. If it is not a basic Energy card, return it to the top of your deck.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-122",
+      "itemType": "Trainer Card",
+      "number": "122",
+      "name": "Eviolite",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,If the Pokémon this card is attached to is a Basic Pokémon, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance).,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-123",
+      "itemType": "Trainer Card",
+      "number": "123",
+      "name": "Hypnotoxic Laser",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Your opponent's Active Pokémon is now Poisoned. Flip a coin. If heads, your opponent's Active Pokémon is also Asleep.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-124",
+      "itemType": "Trainer Card",
+      "number": "124",
+      "name": "Plasma Frigate",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Each Pokémon that has any Plasma Energy attached to it (both yours and your opponent's) has no Weakness.,This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-125",
+      "itemType": "Trainer Card",
+      "number": "125",
+      "name": "Team Plasma Grunt",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yusuke Ohmura",
+      "text": "Discard a Team Plasma card from your card. (if you can't discard a Team Plasma card, you can't play this card.) Draw 4 cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-126",
+      "itemType": "Trainer Card",
+      "number": "126",
+      "name": "Virbank City Gym",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Put 2 more damage counters on Poisoned Pokémon (both yours and your opponent's) between turns.,This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-127",
+      "itemType": "Energy Card",
+      "number": "127",
+      "name": "Plasma Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "This card provides Colorless Energy."
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-128",
+      "itemType": "Trainer Card",
+      "number": "128",
+      "name": "Dowsing Machine",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare ACE",
+      "artist": "Ryo Ueda",
+      "text": "Discard 2 cards from your hand. (If you can't discard 2 cards, you can't play this card.) Put a Trainer card from your discard pile into your hand.,You may play as many Item cards as you like during your turn (before your attack).,You can't have more than 1 ACE SPEC card in your deck."
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-129",
+      "itemType": "Trainer Card",
+      "number": "129",
+      "name": "Scramble Switch",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare ACE",
+      "artist": "5ban Graphics",
+      "text": "Switch your Active Pokémon with 1 of your Benched Pokémon. Then, you may move as many Energy attached to the old Active Pokémon to the new Active Pokémon as you like.,You may play as many Item cards as you like during your turn (before your attack).,You can't have more than 1 ACE SPEC card in your deck."
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-130",
+      "itemType": "Trainer Card",
+      "number": "130",
+      "name": "Victory Piece",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare ACE",
+      "artist": "5ban Graphics",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,If this card is attached to Victini-EX, Victini-EX can use its attacks regardless of the amount or type of Energy attached to it.,You may play as many Item cards as you like during your turn (before your attack).,You can't have more than 1 ACE SPEC card in your deck."
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-131",
+      "itemType": "Pokemon Card",
+      "number": "131",
+      "name": "Victini-EX",
+      "stage": "Basic",
+      "hp": "110",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Turbo Energize",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Search your deck for 2 basic Energy cards and attach them to your Benched Pokémon in any way you like. Shuffle your deck afterward."
+        },
+        {
+          "name": "Intensifying Burn",
+          "damage": "50+",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is a Pokémon-EX, this attack does 50 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-132",
+      "itemType": "Pokemon Card",
+      "number": "132",
+      "name": "Articuno-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Toyste Beach",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Blizzard",
+          "damage": "60",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Frost Prison",
+          "damage": "80",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If this Pokémon has any Plasma Energy attached to it, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-133",
+      "itemType": "Pokemon Card",
+      "number": "133",
+      "name": "Cobalion-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Righteous Edge",
+          "damage": "30",
+          "cost": [
+            "Metal"
+          ],
+          "text": "Discard a Special Energy attached to the Defending Pokémon."
+        },
+        {
+          "name": "Steel Bullet",
+          "damage": "100",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-134",
+      "itemType": "Pokemon Card",
+      "number": "134",
+      "name": "Lugia-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Toyste Beach",
+      "abilities": [
+        {
+          "name": "Overflow",
+          "text": "If your opponent's Pokémon is Knocked Out by damage from an attack of this Pokémon, take 1 more Prize card.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Plasma Gale",
+          "damage": "120",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard a Plasma Energy attached to this Pokémon. If you can't discard a Plasma Energy, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-135",
+      "itemType": "Trainer Card",
+      "number": "135",
+      "name": "Colress",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Kanako Eo",
+      "text": "Shuffle your hand into your deck. Then, draw a number of cards equal to the number of Benched Pokémon (both yours and your opponent's).,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-136",
+      "itemType": "Pokemon Card",
+      "number": "136",
+      "name": "Charizard",
+      "stage": "Stage 2",
+      "evolvesFrom": "Charmeleon",
+      "hp": "160",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Ayaka Yoshida",
+      "text": "This extremely rare Pokémon is a different color than usual. It is very hard to find.",
+      "attacks": [
+        {
+          "name": "Split Bomb",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 40 damage to 2 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Scorching Fire",
+          "damage": "150",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard a Fire Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-137",
+      "itemType": "Pokemon Card",
+      "number": "137",
+      "name": "Blastoise",
+      "stage": "Stage 2",
+      "evolvesFrom": "Wartortle",
+      "hp": "140",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Ayaka Yoshida",
+      "abilities": [
+        {
+          "name": "Deluge",
+          "text": "As often as you like during your turn (before your attack), you may attach a Water Energy card from your hand to 1 of your Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "This extremely rare Pokémon is a different color than usual. It is very hard to find.",
+      "attacks": [
+        {
+          "name": "Hydro Pump",
+          "damage": "60+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 10 more damage for each Water Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-storm-138",
+      "itemType": "Trainer Card",
+      "number": "138",
+      "name": "Random Receiver",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "5ban Graphics",
+      "text": "Reveal cards from the top of your deck until you reveal a Supporter card. Put it into your hand. Shuffle the other cards back into your deck.,You may play as many Item cards as you like during your turn (before your attack)."
+    }
+  ]
+}
