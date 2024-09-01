@@ -1,0 +1,4855 @@
+{
+  "setId": "tcg-pokemon-plasma-freeze",
+  "cardCount": "122",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-plasma-freeze-booster-box",
+      "itemType": "Sealed Product",
+      "name": "Plasma Freeze Booster Box"
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-booster-pack",
+      "itemType": "Sealed Product",
+      "name": "Plasma Freeze Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-plasma-freeze-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Weedle",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Sumiyoshi Kizuki",
+      "text": "It eats its weight in leaves every day. It fends off attackers with the needle on its head.",
+      "attacks": [
+        {
+          "name": "Triple Stab",
+          "damage": "10×",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Kakuna",
+      "stage": "Stage 1",
+      "evolvesFrom": "Weedle",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "match",
+      "text": "While awaiting evolution, it hides from predators under leaves and in nooks of branches.",
+      "attacks": [
+        {
+          "name": "Hide",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-3",
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Beedrill",
+      "stage": "Stage 2",
+      "evolvesFrom": "Kakuna",
+      "hp": "120",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "kawayoo",
+      "text": "Its best attack involves flying around at high speed, striking with poison needles, then flying off.",
+      "attacks": [
+        {
+          "name": "Swift Sting",
+          "damage": "20+",
+          "cost": [
+            "Grass"
+          ],
+          "text": "If this Pokémon has full HP, this attack does 40 more damage, and the Defending Pokémon is now Confused and Poisoned."
+        },
+        {
+          "name": "Pierce",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-4",
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Exeggcute",
+      "stage": "Basic",
+      "hp": "30",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shigenori Negishi",
+      "abilities": [
+        {
+          "name": "Propagation",
+          "text": "Once during your turn (before your attack), if this Pokémon is in your discard pile, you may put this Pokémon into your hand.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
+      "attacks": [
+        {
+          "name": "Seed Bomb",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Exeggutor",
+      "stage": "Stage 1",
+      "evolvesFrom": "Exeggcute",
+      "hp": "100",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "match",
+      "text": "It is called \"The Walking Jungle.\" If a head grows too big, it falls off and becomes an Exeggcute.",
+      "attacks": [
+        {
+          "name": "Blockade",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent can't play any Supporter cards from his or her hand during his or her next turn."
+        },
+        {
+          "name": "Stomp",
+          "damage": "60+",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-6",
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Treecko",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Naoki Saito",
+      "text": "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.",
+      "attacks": [
+        {
+          "name": "Pound",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Reckless Charge",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "This Pokémon does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-7",
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Grovyle",
+      "stage": "Stage 1",
+      "evolvesFrom": "Treecko",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Suwama Chiaki",
+      "text": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
+      "attacks": [
+        {
+          "name": "Pound",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Cut",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-8",
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "Sceptile",
+      "stage": "Stage 2",
+      "evolvesFrom": "Grovyle",
+      "hp": "130",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "kawayoo",
+      "text": "The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat.",
+      "attacks": [
+        {
+          "name": "X-Scissor",
+          "damage": "30+",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 40 more damage."
+        },
+        {
+          "name": "Energy Bloom",
+          "damage": "80",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Heal 20 damage from each of your Pokémon that has any Energy attached to it."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-9",
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Cacnea",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "text": "By storing water in its body, this desert dweller can survive for 30 days without water.",
+      "attacks": [
+        {
+          "name": "Poison Sting",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Cacturne",
+      "stage": "Stage 1",
+      "evolvesFrom": "Cacnea",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Suwama Chiaki",
+      "text": "It becomes active at night, seeking prey that is exhausted from the day's desert heat.",
+      "attacks": [
+        {
+          "name": "Rapid-Fire Needles",
+          "damage": "60",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Does 30 damage to 1 of your Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Payback",
+          "damage": "30+",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "If your opponent has only 1 Prize card left, this attack does 60 more damage and discard an Energy attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Leafeon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "100",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "text": "With cells similar to those of plants, it performs photosynthesis inside its body and creates pure air.",
+      "attacks": [
+        {
+          "name": "Energy Crush",
+          "damage": "20×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Does 20 damage times the amount of Energy attached to all of your opponent's Pokémon."
+        },
+        {
+          "name": "Leaf Blade",
+          "damage": "60+",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Flareon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "100",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Inhaled air is carried to its flame sac, heated, and exhaled as fire that reaches over 3,000 degrees F.",
+      "attacks": [
+        {
+          "name": "Vengeance",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 10 more damage for each Pokémon in your discard pile."
+        },
+        {
+          "name": "Heat Tackle",
+          "damage": "90",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This Pokémon does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Heatran-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Heat Boiler",
+          "damage": "60+",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If this Pokémon is affected by a Special Condition, this attack does 60 more damage."
+        },
+        {
+          "name": "Dynamite Press",
+          "damage": "80+",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If this Pokémon has any Plasma Energy attached to it, this attack does 10 more damage for each damage counter on the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Litwick",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Naoyo Kimura",
+      "text": "Its flame is usually out, but it starts shining when it absorbs life force from people or Pokémon.",
+      "attacks": [
+        {
+          "name": "Singe",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Burned."
+        },
+        {
+          "name": "Live Coal",
+          "damage": "20",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Lampent",
+      "stage": "Stage 1",
+      "evolvesFrom": "Litwick",
+      "hp": "80",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "The spirits it absorbs fuel its baleful fire. It hangs around hospitals waiting for people to pass on.",
+      "attacks": [
+        {
+          "name": "Live Coal",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Searing Flame",
+          "damage": "40",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Burned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-16",
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Chandelure",
+      "stage": "Stage 2",
+      "evolvesFrom": "Lampent",
+      "hp": "130",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Flare Navigate",
+          "text": "Once during your turn (before your attack), you may search your deck for a Fire Energy card and attach it to 1 of your Pokémon. If you do, put 1 damage counter on that Pokémon. Shuffle your deck afterward.",
+          "type": "Ability"
+        }
+      ],
+      "text": "The spirits burned up in its ominous flame lose their way and wander this world forever.",
+      "attacks": [
+        {
+          "name": "Absorb Life",
+          "damage": "70",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Heal 30 damage from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Reshiram",
+      "stage": "Basic",
+      "hp": "130",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Shin Nagasawa",
+      "text": "This legendary Pokémon can scorch the world with fire. It helps those who want to build a world of truth.",
+      "attacks": [
+        {
+          "name": "Purifying Flame",
+          "damage": "50",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Remove all Special Conditions from this Pokémon."
+        },
+        {
+          "name": "Fusion Flare",
+          "damage": "80+",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If Zekrom is on your Bench, this attack does 40 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-18",
+      "itemType": "Pokemon Card",
+      "number": "18",
+      "name": "Horsea",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "text": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
+      "attacks": [
+        {
+          "name": "Fin Smack",
+          "damage": "10×",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-19",
+      "itemType": "Pokemon Card",
+      "number": "19",
+      "name": "Seadra",
+      "stage": "Stage 1",
+      "evolvesFrom": "Horsea",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kyoko Umemoto",
+      "text": "Its spines provide protection. Its fins and bones are prized as traditional-medicine ingredients.",
+      "attacks": [
+        {
+          "name": "Smokescreen",
+          "damage": "20",
+          "cost": [
+            "Water"
+          ],
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-20",
+      "itemType": "Pokemon Card",
+      "number": "20",
+      "name": "Vaporeon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "110",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Its cell composition is similar to water molecules. As a result, it can't be seen when it melts away into water.",
+      "attacks": [
+        {
+          "name": "Refreshing Rain",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Heal 30 damage from each of your Pokémon."
+        },
+        {
+          "name": "Gold Breaker",
+          "damage": "30+",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is a Pokémon-EX, this attack does 50 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-21",
+      "itemType": "Pokemon Card",
+      "number": "21",
+      "name": "Wooper",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "sui",
+      "text": "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.",
+      "attacks": [
+        {
+          "name": "Slam",
+          "damage": "20×",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-22",
+      "itemType": "Pokemon Card",
+      "number": "22",
+      "name": "Quagsire",
+      "stage": "Stage 1",
+      "evolvesFrom": "Wooper",
+      "hp": "100",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Atsuko Nishida",
+      "abilities": [
+        {
+          "name": "Laid-Back",
+          "text": "Any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "text": "It has an easygoing nature. It doesn't care if it bumps its head on boats and boulders while swimming.",
+      "attacks": [
+        {
+          "name": "Mud Gun",
+          "damage": "60+",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If this Pokémon has any Fighting Energy attached to it, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-23",
+      "itemType": "Pokemon Card",
+      "number": "23",
+      "name": "Glaceon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Freeze Zone",
+          "text": "The Retreat Cost of each of your Team Plasma Pokémon in play is ColorlessColorless less.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It lowers its body heat to freeze its fur. The hairs then become like needles it can fire.",
+      "attacks": [
+        {
+          "name": "Icy Wind",
+          "damage": "60",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-24",
+      "itemType": "Pokemon Card",
+      "number": "24",
+      "name": "Tympole",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "MAHOU",
+      "text": "By vibrating its cheeks, it emits sound waves imperceptible to humans and warns others of danger.",
+      "attacks": [
+        {
+          "name": "Surprise Attack",
+          "damage": "20",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-25",
+      "itemType": "Pokemon Card",
+      "number": "25",
+      "name": "Palpitoad",
+      "stage": "Stage 1",
+      "evolvesFrom": "Tympole",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Masakazu Fukuda",
+      "text": "It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents.",
+      "attacks": [
+        {
+          "name": "Vibration",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Suspicious Soundwave",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-26",
+      "itemType": "Pokemon Card",
+      "number": "26",
+      "name": "Seismitoad",
+      "stage": "Stage 2",
+      "evolvesFrom": "Palpitoad",
+      "hp": "140",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "text": "By putting power into its bumps, it creates vibrations and increases the power of its punches.",
+      "attacks": [
+        {
+          "name": "Seismic Punch",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 30 damage to each Benched Pokémon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Splashing Turn",
+          "damage": "80",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-27",
+      "itemType": "Pokemon Card",
+      "number": "27",
+      "name": "Vanillite",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Akira Komayama",
+      "text": "Theoretically, this Pokémon formed from icicles bathed in energy from the morning sun. Their breath is -58° F.",
+      "attacks": [
+        {
+          "name": "Jump On",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-28",
+      "itemType": "Pokemon Card",
+      "number": "28",
+      "name": "Vanillish",
+      "stage": "Stage 1",
+      "evolvesFrom": "Vanillite",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kyoko Umemoto",
+      "text": "They cool down the surrounding air and create ice particles, which they use to freeze their foes.",
+      "attacks": [
+        {
+          "name": "Surefire Spin",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. If both of them are heads, this attack does 40 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-29",
+      "itemType": "Pokemon Card",
+      "number": "29",
+      "name": "Vanilluxe",
+      "stage": "Stage 2",
+      "evolvesFrom": "Vanillish",
+      "hp": "130",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "text": "Swallowing large amounts of water, they make snow clouds inside their bodies and, when angry, cause violent blizzards.",
+      "attacks": [
+        {
+          "name": "ChillMAX",
+          "damage": "60×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin for each Energy attached to this Pokémon. This attack does 60 damage for each heads."
+        },
+        {
+          "name": "Cold Breath",
+          "damage": "40",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-30",
+      "itemType": "Pokemon Card",
+      "number": "30",
+      "name": "Cryogonal",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "They are composed of ice crystals. They capture prey with chains of ice, freezing the prey at -148° F.",
+      "attacks": [
+        {
+          "name": "Call Sign",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a Water Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Cryofreeze",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ],
+          "text": "Discard an Energy attached to this Pokémon. The Defending Pokémon can't attack during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-31",
+      "itemType": "Pokemon Card",
+      "number": "31",
+      "name": "Kyurem",
+      "stage": "Basic",
+      "hp": "130",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "text": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals.",
+      "attacks": [
+        {
+          "name": "Frost Spear",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Blizzard Burn",
+          "damage": "120",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "This Pokémon can't attack during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-32",
+      "itemType": "Pokemon Card",
+      "number": "32",
+      "name": "Voltorb",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Sumiyoshi Kizuki",
+      "text": "It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on touch.",
+      "attacks": [
+        {
+          "name": "Rollout",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-33",
+      "itemType": "Pokemon Card",
+      "number": "33",
+      "name": "Electrode",
+      "stage": "Stage 1",
+      "evolvesFrom": "Voltorb",
+      "hp": "90",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "HiRON",
+      "abilities": [
+        {
+          "name": "Magnetic Draw",
+          "text": "Once during your turn (before your attack), you may draw cards until you have 4 cards in your hand.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It is known to drift on winds if it is bloated to bursting with stored electricity.",
+      "attacks": [
+        {
+          "name": "Electro Ball",
+          "damage": "60",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-34",
+      "itemType": "Pokemon Card",
+      "number": "34",
+      "name": "Jolteon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "90",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "By storing electricity in its body, it can shoot its bristlelike fur like a barrage of missiles.",
+      "attacks": [
+        {
+          "name": "Pin Missile",
+          "damage": "20×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip 4 coins. This attack does 20 damage times the number of heads."
+        },
+        {
+          "name": "Electri-Defuse",
+          "damage": "40",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is a Pokémon-EX, that Pokémon can't attack during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-35",
+      "itemType": "Pokemon Card",
+      "number": "35",
+      "name": "Chinchou",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
+      "attacks": [
+        {
+          "name": "Static Shock",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-36",
+      "itemType": "Pokemon Card",
+      "number": "36",
+      "name": "Lanturn",
+      "stage": "Stage 1",
+      "evolvesFrom": "Chinchou",
+      "hp": "90",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mizue",
+      "text": "Lanturn's light can shine up from great depths. It is nicknamed \"The Deep-Sea Star.\"",
+      "attacks": [
+        {
+          "name": "Special Tackle",
+          "damage": "30+",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "If this Pokémon has any Special Energy attached to it, this attack does 30 more damage."
+        },
+        {
+          "name": "Extreme Current",
+          "damage": "90",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-37",
+      "itemType": "Pokemon Card",
+      "number": "37",
+      "name": "Pachirisu",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Akira Komayama",
+      "text": "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.",
+      "attacks": [
+        {
+          "name": "Minor Errand-Running",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for 2 basic Energy cards, reveal them, and put them into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Electric Tail",
+          "damage": "10",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-38",
+      "itemType": "Pokemon Card",
+      "number": "38",
+      "name": "Thundurus-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Raiden Knuckle",
+          "damage": "30",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Attach an Energy card from your discard pile to 1 of your Benched Team Plasma Pokémon."
+        },
+        {
+          "name": "Thunderous Noise",
+          "damage": "90",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If this Pokémon has any Plasma Energy attached to it, discard an Energy attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-39",
+      "itemType": "Pokemon Card",
+      "number": "39",
+      "name": "Zekrom",
+      "stage": "Basic",
+      "hp": "130",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "text": "This legendary Pokémon can scorch the world with lightning. It assists those who want to build an ideal world.",
+      "attacks": [
+        {
+          "name": "Mach Claw",
+          "damage": "50",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Resistance."
+        },
+        {
+          "name": "Fusion Bolt",
+          "damage": "80+",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If Reshiram is on your Bench, this attack does 40 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-40",
+      "itemType": "Pokemon Card",
+      "number": "40",
+      "name": "Nidoran ♀",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Aya Kusube",
+      "text": "While it does not prefer to fight, even one drop of the poison it secretes from its barbs can be fatal.",
+      "attacks": [
+        {
+          "name": "Poison Sting",
+          "damage": "20",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-41",
+      "itemType": "Pokemon Card",
+      "number": "41",
+      "name": "Nidorina",
+      "stage": "Stage 1",
+      "evolvesFrom": "Nidoran ♀",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Atsuko Nishida",
+      "text": "When it senses danger, it raises all the barbs on its body. These barbs grow slower than Nidorino's.",
+      "attacks": [
+        {
+          "name": "Poison Sting",
+          "damage": "20",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Poisoned."
+        },
+        {
+          "name": "Double Kick",
+          "damage": "40×",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 40 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-42",
+      "itemType": "Pokemon Card",
+      "number": "42",
+      "name": "Nidoqueen",
+      "stage": "Stage 2",
+      "evolvesFrom": "Nidorina",
+      "hp": "130",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Mizue",
+      "text": "Its entire body is armored with hard scales. It will protect the young in its burrow with its life.",
+      "attacks": [
+        {
+          "name": "Poison Horn",
+          "damage": "50",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Double Stomp",
+          "damage": "60+",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 30 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-43",
+      "itemType": "Pokemon Card",
+      "number": "43",
+      "name": "Nidoran ♂",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Masakazu Fukuda",
+      "text": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.",
+      "attacks": [
+        {
+          "name": "Hit Back",
+          "damage": "30",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "If this Pokémon has no damage counters on it, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-44",
+      "itemType": "Pokemon Card",
+      "number": "44",
+      "name": "Nidorino",
+      "stage": "Stage 1",
+      "evolvesFrom": "Nidoran ♂",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shigenori Negishi",
+      "text": "It has a violent disposition and stabs foes with its horn, which oozes poison upon impact.",
+      "attacks": [
+        {
+          "name": "Double Kick",
+          "damage": "30×",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+        },
+        {
+          "name": "Horn Attack",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-45",
+      "itemType": "Pokemon Card",
+      "number": "45",
+      "name": "Grimer",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Hajime Kusajima",
+      "text": "Born from sludge, these Pokémon now gather in polluted places and increase the bacteria in their bodies.",
+      "attacks": [
+        {
+          "name": "Lure Poison",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with the Defending Pokémon. The new Defending Pokémon is now Poisoned."
+        },
+        {
+          "name": "Sludge Toss",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-46",
+      "itemType": "Pokemon Card",
+      "number": "46",
+      "name": "Muk",
+      "stage": "Stage 1",
+      "evolvesFrom": "Grimer",
+      "hp": "100",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "text": "It's so stinky! Muk's body contains toxic elements, and any plant will wilt when it passes by.",
+      "attacks": [
+        {
+          "name": "Poison Suction",
+          "damage": "60",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is Poisoned, heal 60 damage from this Pokémon."
+        },
+        {
+          "name": "Sludge Crash",
+          "damage": "80",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. For each heads, discard an Energy attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-47",
+      "itemType": "Pokemon Card",
+      "number": "47",
+      "name": "Mr. Mime",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Hiroki Asanuma",
+      "abilities": [
+        {
+          "name": "Bench Barrier",
+          "text": "Prevent all damage done to your Benched Pokémon by attacks.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It shapes an invisible wall in midair by minutely vibrating its fingertips to stop molecules in the air.",
+      "attacks": [
+        {
+          "name": "Psy Bolt",
+          "damage": "20",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-48",
+      "itemType": "Pokemon Card",
+      "number": "48",
+      "name": "Espeon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Its fur is so sensitive, it can feel minute shifts in the air and predict the weather…and its foes' thoughts.",
+      "attacks": [
+        {
+          "name": "Psy Alert",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw cards until you have 6 cards in your hand."
+        },
+        {
+          "name": "Shadow Ball",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "This attack does 40 damage to 1 of your opponent's Pokémon. Also apply Weakness and Resistance for Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-49",
+      "itemType": "Pokemon Card",
+      "number": "49",
+      "name": "Sableye",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "text": "It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Shadow Cage",
+          "damage": "20",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-50",
+      "itemType": "Pokemon Card",
+      "number": "50",
+      "name": "Beldum",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Shigenori Negishi",
+      "text": "Its cells are all magnetic, and it communicates with others by using magnetic pulses.",
+      "attacks": [
+        {
+          "name": "Calculate",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Look at the top 4 cards of your deck and put them back on top of your deck in any order."
+        },
+        {
+          "name": "Psypunch",
+          "damage": "20",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-51",
+      "itemType": "Pokemon Card",
+      "number": "51",
+      "name": "Metang",
+      "stage": "Stage 1",
+      "evolvesFrom": "Beldum",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouki Saitou",
+      "text": "It is formed by two Beldum joining together. Its two brains are linked, amplifying its psychic power.",
+      "attacks": [
+        {
+          "name": "Psy Bolt",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Psypunch",
+          "damage": "50",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-52",
+      "itemType": "Pokemon Card",
+      "number": "52",
+      "name": "Metagross",
+      "stage": "Stage 2",
+      "evolvesFrom": "Metang",
+      "hp": "140",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Plasma Search",
+          "text": "Once during your turn (before your attack), you may search your deck for a Team Plasma card, reveal it, and put it in your hand. Shuffle your deck afterward. You may not use an Ability with the same name during your turn.",
+          "type": "Ability"
+        }
+      ],
+      "text": "With four linked brains, it's more intelligent than a supercomputer, and it uses calculations to analyze foes.",
+      "attacks": [
+        {
+          "name": "Mind Bend",
+          "damage": "60",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-53",
+      "itemType": "Pokemon Card",
+      "number": "53",
+      "name": "Deoxys-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "abilities": [
+        {
+          "name": "Power Connect",
+          "text": "Your Team Plasma Pokémon's attacks (excluding Deoxys-EX) do 10 more damage to the Active Pokémon (before applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Helix Force",
+          "damage": "30+",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "If this Pokémon has any Plasma Energy attached to it, this attack does 30 more damage for each Energy attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-54",
+      "itemType": "Pokemon Card",
+      "number": "54",
+      "name": "Yamask",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Masakazu Fukuda",
+      "text": "These Pokémon arose from the spirits of people interred in graves. Each retains memories of its former life.",
+      "attacks": [
+        {
+          "name": "Transfer Pain",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Move 1 damage counter from any of your Pokémon to any of your opponent's Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-55",
+      "itemType": "Pokemon Card",
+      "number": "55",
+      "name": "Yamask",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "These Pokémon arose from the spirits of people interred in graves. Each retains memories of its former life.",
+      "attacks": [
+        {
+          "name": "Will-O-Wisp",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Ram",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-56",
+      "itemType": "Pokemon Card",
+      "number": "56",
+      "name": "Cofagrigus",
+      "stage": "Stage 1",
+      "evolvesFrom": "Yamask",
+      "hp": "100",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Six Feet Under",
+          "text": "Once during your turn (before your attack) you may Knock Out this Pokémon. If you do, put 3 damage counters on your opponent's Pokémon in any way you like.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Grave robbers who mistake them for real coffins and get too close end up trapped inside their bodies.",
+      "attacks": [
+        {
+          "name": "Slap of Misfortune",
+          "damage": "70",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Whenever your opponent flips a coin during his or her next turn, treat it as tails."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-57",
+      "itemType": "Pokemon Card",
+      "number": "57",
+      "name": "Cofagrigus",
+      "stage": "Stage 1",
+      "evolvesFrom": "Yamask",
+      "hp": "100",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "text": "Grave robbers who mistake them for real coffins and get too close end up trapped inside their bodies.",
+      "attacks": [
+        {
+          "name": "Elongating Arms",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This attack does 30 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Crazy Slap",
+          "damage": "40×",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 4 coins. This attack does 40 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-58",
+      "itemType": "Pokemon Card",
+      "number": "58",
+      "name": "Nidoking",
+      "stage": "Stage 2",
+      "evolvesFrom": "Nidorino",
+      "hp": "140",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Shin Nagasawa",
+      "text": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
+      "attacks": [
+        {
+          "name": "Lovestrike",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 40 more damage for each Nidoqueen on your Bench."
+        },
+        {
+          "name": "Horn Drill",
+          "damage": "90",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-59",
+      "itemType": "Pokemon Card",
+      "number": "59",
+      "name": "Mankey",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "It lives in treetop colonies. If one becomes enraged, the whole colony rampages for no reason.",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "20",
+          "cost": [
+            "Fighting"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-60",
+      "itemType": "Pokemon Card",
+      "number": "60",
+      "name": "Primeape",
+      "stage": "Stage 1",
+      "evolvesFrom": "Mankey",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "It grows angry if you see its eyes and gets angrier if you run. If you beat it, it gets even madder.",
+      "attacks": [
+        {
+          "name": "Fury Swipes",
+          "damage": "30×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 30 damage times the number of heads."
+        },
+        {
+          "name": "Karate Chop",
+          "damage": "80-",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "Does 80 damage minus 10 damage for each damage counter on this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-61",
+      "itemType": "Pokemon Card",
+      "number": "61",
+      "name": "Onix",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Opening its large mouth, it ingests massive amounts of soil and creates long tunnels.",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Swing Around",
+          "damage": "60×",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 60 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-62",
+      "itemType": "Pokemon Card",
+      "number": "62",
+      "name": "Makuhita",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest.",
+      "attacks": [
+        {
+          "name": "Continuous Slap",
+          "damage": "20×",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. This attack does 20 damage times the number of heads."
+        },
+        {
+          "name": "Hammer In",
+          "damage": "60",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-63",
+      "itemType": "Pokemon Card",
+      "number": "63",
+      "name": "Hariyama",
+      "stage": "Stage 1",
+      "evolvesFrom": "Makuhita",
+      "hp": "120",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "text": "It loves to match power with big-bodied Pokémon. It can knock a truck flying with its arm thrusts.",
+      "attacks": [
+        {
+          "name": "Fake Out",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Pivot Throw",
+          "damage": "90",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is increased by 20 (after applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-64",
+      "itemType": "Pokemon Card",
+      "number": "64",
+      "name": "Umbreon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "100",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Dark Shade",
+          "text": "Each of your Team Plasma Pokémon in play gets +20 HP.",
+          "type": "Ability"
+        }
+      ],
+      "text": "When exposed to the moon's aura, the rings on its body glow faintly and it's filled with a mysterious power.",
+      "attacks": [
+        {
+          "name": "Darkness Fang",
+          "damage": "70",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-65",
+      "itemType": "Pokemon Card",
+      "number": "65",
+      "name": "Sneasel",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Sumiyoshi Kizuki",
+      "text": "A smart and sneaky Pokémon, it makes its opponents flinch by suddenly showing the claws hidden in its paws.",
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "damage": "20+",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-66",
+      "itemType": "Pokemon Card",
+      "number": "66",
+      "name": "Weavile",
+      "stage": "Stage 1",
+      "evolvesFrom": "Sneasel",
+      "hp": "90",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "text": "They communicate by clawing signs in boulders and work together to surround enemies.",
+      "attacks": [
+        {
+          "name": "Hail",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This attack does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Vilify",
+          "damage": "30×",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Discard as many Pokémon as you like from your hand. This attack does 30 damage times the number of Pokémon you discarded."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-67",
+      "itemType": "Pokemon Card",
+      "number": "67",
+      "name": "Absol",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "text": "It appears from deep in the mountains to warn people about upcoming disasters it has sensed with its horn.",
+      "attacks": [
+        {
+          "name": "Mind Jack",
+          "damage": "20+",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Does 20 more damage for each of your opponent's Benched Pokémon."
+        },
+        {
+          "name": "Fearsome Shadow",
+          "damage": "60",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent reveals his or her hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-68",
+      "itemType": "Pokemon Card",
+      "number": "68",
+      "name": "Sandile",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "sui",
+      "text": "They live hidden under hot desert sands in order to keep their body temperature from dropping.",
+      "attacks": [
+        {
+          "name": "Gentle Slap",
+          "damage": "10+",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-69",
+      "itemType": "Pokemon Card",
+      "number": "69",
+      "name": "Krokorok",
+      "stage": "Stage 1",
+      "evolvesFrom": "Sandile",
+      "hp": "90",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Midori Harada",
+      "text": "Protected by thin membranes, their eyes can see even in the dead of night. They live in groups of a few individuals.",
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": "20",
+          "cost": [
+            "Darkness"
+          ]
+        },
+        {
+          "name": "Corkscrew Punch",
+          "damage": "50",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-70",
+      "itemType": "Pokemon Card",
+      "number": "70",
+      "name": "Krookodile",
+      "stage": "Stage 2",
+      "evolvesFrom": "Krokorok",
+      "hp": "140",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "text": "Very violent Pokémon, they try to clamp down on anything that moves in front of their eyes.",
+      "attacks": [
+        {
+          "name": "Piston Headbutt",
+          "damage": "30",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Move an Energy attached to the Defending Pokémon to 1 of your opponent's Benched Pokémon."
+        },
+        {
+          "name": "Hammer In",
+          "damage": "80",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-71",
+      "itemType": "Pokemon Card",
+      "number": "71",
+      "name": "Pawniard",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey.",
+      "attacks": [
+        {
+          "name": "Slash",
+          "damage": "10",
+          "cost": [
+            "Darkness"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-72",
+      "itemType": "Pokemon Card",
+      "number": "72",
+      "name": "Pawniard",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey.",
+      "attacks": [
+        {
+          "name": "Cut",
+          "damage": "30",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-73",
+      "itemType": "Pokemon Card",
+      "number": "73",
+      "name": "Bisharp",
+      "stage": "Stage 1",
+      "evolvesFrom": "Pawniard",
+      "hp": "100",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "text": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.",
+      "attacks": [
+        {
+          "name": "Slash",
+          "damage": "40",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Dragon Slayer",
+          "damage": "80+",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is a Dragon Pokémon, this attack does 40 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-74",
+      "itemType": "Pokemon Card",
+      "number": "74",
+      "name": "Bisharp",
+      "stage": "Stage 1",
+      "evolvesFrom": "Pawniard",
+      "hp": "90",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.",
+      "attacks": [
+        {
+          "name": "Cut Down",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy attached to the Defending Pokémon."
+        },
+        {
+          "name": "Slicing Blade",
+          "damage": "70",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-75",
+      "itemType": "Pokemon Card",
+      "number": "75",
+      "name": "Deino",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "text": "Lacking sight, it's unaware of its surroundings, so it bumps into things and eats anything that moves.",
+      "attacks": [
+        {
+          "name": "Push Down",
+          "damage": "20",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "name": "Bite",
+          "damage": "30",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-76",
+      "itemType": "Pokemon Card",
+      "number": "76",
+      "name": "Deino",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Naoki Saito",
+      "text": "Lacking sight, it's unaware of its surroundings, so it bumps into things and eats anything that moves.",
+      "attacks": [
+        {
+          "name": "Slam",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-77",
+      "itemType": "Pokemon Card",
+      "number": "77",
+      "name": "Zweilous",
+      "stage": "Stage 1",
+      "evolvesFrom": "Deino",
+      "hp": "90",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "match",
+      "text": "The two heads do not get along. Whichever head eats more than the other gets to be the leader.",
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": "30",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Body Slam",
+          "damage": "30",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-78",
+      "itemType": "Pokemon Card",
+      "number": "78",
+      "name": "Hydreigon",
+      "stage": "Stage 2",
+      "evolvesFrom": "Zweilous",
+      "hp": "150",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "text": "It responds to movement by attacking. This scary, three-headed Pokémon devours everything in its path!",
+      "attacks": [
+        {
+          "name": "Tractorbeam",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Switch 1 of your opponent's Benched Pokémon with the Defending Pokémon. This attack does 40 damage to the new Defending Pokémon."
+        },
+        {
+          "name": "Obsidian Fang",
+          "damage": "80",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Before doing damage, discard all Pokémon Tool cards attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-79",
+      "itemType": "Pokemon Card",
+      "number": "79",
+      "name": "Steelix",
+      "stage": "Stage 1",
+      "evolvesFrom": "Onix",
+      "hp": "150",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "text": "The iron it ingested with the soil it swallowed transformed its body and made it harder than diamonds.",
+      "attacks": [
+        {
+          "name": "Metal Defender",
+          "damage": "50",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, this Pokémon has no Weakness."
+        },
+        {
+          "name": "Heavy Impact",
+          "damage": "100",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-80",
+      "itemType": "Pokemon Card",
+      "number": "80",
+      "name": "Mawile",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "text": "Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.",
+      "attacks": [
+        {
+          "name": "Astonish",
+          "cost": [
+            "Metal"
+          ],
+          "text": "Flip a coin. If heads, choose a random card from your opponent's hand. Your opponent reveals that card and shuffles it into his or her deck."
+        },
+        {
+          "name": "Big Ol' Bite",
+          "damage": "30",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Heal 30 damage from this Pokémon. The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-81",
+      "itemType": "Pokemon Card",
+      "number": "81",
+      "name": "Dratini",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "text": "It is called the \"Mirage Pokémon\" because so few have seen it. Its shed skin has been found.",
+      "attacks": [
+        {
+          "name": "Shed Skin",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Heal 20 damage from this Pokémon."
+        },
+        {
+          "name": "Tail Smack",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-82",
+      "itemType": "Pokemon Card",
+      "number": "82",
+      "name": "Dragonair",
+      "stage": "Stage 1",
+      "evolvesFrom": "Dratini",
+      "hp": "70",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Uncommon",
+      "artist": "TOKIYA",
+      "text": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
+      "attacks": [
+        {
+          "name": "Wrap",
+          "damage": "20",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Tail Smack",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-83",
+      "itemType": "Pokemon Card",
+      "number": "83",
+      "name": "Dragonite",
+      "stage": "Stage 2",
+      "evolvesFrom": "Dragonair",
+      "hp": "150",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Akira Komayama",
+      "text": "It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.",
+      "attacks": [
+        {
+          "name": "Deafen",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent can't play any Item cards from his or her hand during his or her next turn."
+        },
+        {
+          "name": "Healwing",
+          "damage": "90",
+          "cost": [
+            "Grass",
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Heal 30 damage from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-84",
+      "itemType": "Pokemon Card",
+      "number": "84",
+      "name": "Kingdra",
+      "stage": "Stage 2",
+      "evolvesFrom": "Seadra",
+      "hp": "140",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Naoyo Kimura",
+      "text": "It lives in caves on the seafloor and creates giant whirlpools every time it moves.",
+      "attacks": [
+        {
+          "name": "Dragon Vortex",
+          "damage": "20×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Does 20 damage times the number of Water Energy cards and Lightning Energy cards in your discard pile. Then, shuffle all of those cards back into your deck."
+        },
+        {
+          "name": "Tri Bullet",
+          "cost": [
+            "Water"
+          ],
+          "text": "This attack does 30 damage to 3 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-85",
+      "itemType": "Pokemon Card",
+      "number": "85",
+      "name": "Latias-EX",
+      "stage": "Basic",
+      "hp": "160",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Bright Down",
+          "text": "Prevent all effects of attacks, including damage, done to this Pokémon by your opponent's Pokémon with Abilities.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Barrier Break",
+          "damage": "70",
+          "cost": [
+            "Fire",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-86",
+      "itemType": "Pokemon Card",
+      "number": "86",
+      "name": "Latios-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ryo Ueda",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Mach Flight",
+          "damage": "40",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "name": "Luster Purge",
+          "damage": "150",
+          "cost": [
+            "Water",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Discard all Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-87",
+      "itemType": "Pokemon Card",
+      "number": "87",
+      "name": "Rattata",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Masakazu Fukuda",
+      "text": "It searches for food all day. It gnaws on hard objects to wear down its fangs, which grow constantly during its lifetime.",
+      "attacks": [
+        {
+          "name": "Lunge",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-88",
+      "itemType": "Pokemon Card",
+      "number": "88",
+      "name": "Raticate",
+      "stage": "Stage 1",
+      "evolvesFrom": "Rattata",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "text": "With its long fangs, this surprisingly violent Pokémon can gnaw away even thick concrete with ease.",
+      "attacks": [
+        {
+          "name": "Transfer Junk",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Put a Team Plasma Pokémon, a Team Plasma Trainer card, and a Team Plasma Energy card from your discard pile into your hand."
+        },
+        {
+          "name": "Bite",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-89",
+      "itemType": "Pokemon Card",
+      "number": "89",
+      "name": "Eevee",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Naoki Saito",
+      "text": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
+      "attacks": [
+        {
+          "name": "Growl",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 (before applying Weakness and Resistance)."
+        },
+        {
+          "name": "Quick Attack",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-90",
+      "itemType": "Pokemon Card",
+      "number": "90",
+      "name": "Eevee",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Toyste Beach",
+      "text": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
+      "attacks": [
+        {
+          "name": "Signs of Evolution",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for 3 Pokémon of different types that evolve from Eevee. Reveal them and put them into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Bite",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-91",
+      "itemType": "Pokemon Card",
+      "number": "91",
+      "name": "Hoothoot",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "match",
+      "text": "It marks time precisely. Some countries consider it to be a wise friend, versed in the world's ways.",
+      "attacks": [
+        {
+          "name": "Dual Draw",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Each player draws 2 cards."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-92",
+      "itemType": "Pokemon Card",
+      "number": "92",
+      "name": "Noctowl",
+      "stage": "Stage 1",
+      "evolvesFrom": "Hoothoot",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.",
+      "attacks": [
+        {
+          "name": "Powerful Vision",
+          "damage": "10×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 10 damage times the number of cards in your opponent's hand."
+        },
+        {
+          "name": "Fly",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-93",
+      "itemType": "Pokemon Card",
+      "number": "93",
+      "name": "Miltank",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "MAHOU",
+      "text": "It is said that kids who drink Miltank's milk grow up to become hearty, healthy adults.",
+      "attacks": [
+        {
+          "name": "Max Milk",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Heal all damage from 1 of your Pokémon. Then, discard all Energy attached to this Pokémon."
+        },
+        {
+          "name": "Tackle",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-94",
+      "itemType": "Pokemon Card",
+      "number": "94",
+      "name": "Kecleon",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Toyste Beach",
+      "abilities": [
+        {
+          "name": "Color Change",
+          "text": "As long as this Pokémon is your Active Pokémon, this Pokémon is the same type as the your opponent's Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It can freely change its body's color. The zigzag pattern on its belly doesn't change, however.",
+      "attacks": [
+        {
+          "name": "Imittack",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Choose 1 of the Defending Pokémon's attacks. If this Pokémon has the necessary Energy to use that attack, use it as this attack."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-95",
+      "itemType": "Pokemon Card",
+      "number": "95",
+      "name": "Starly",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "Because they are weak individually, they form groups. However, they bicker if the group grows too big.",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-96",
+      "itemType": "Pokemon Card",
+      "number": "96",
+      "name": "Staravia",
+      "stage": "Stage 1",
+      "evolvesFrom": "Starly",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "sui",
+      "text": "Recognizing their own weakness, they always live in a group. When alone, a Staravia cries noisily.",
+      "attacks": [
+        {
+          "name": "Take Down",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this Pokémon does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-97",
+      "itemType": "Pokemon Card",
+      "number": "97",
+      "name": "Staraptor",
+      "stage": "Stage 2",
+      "evolvesFrom": "Staravia",
+      "hp": "130",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Hajime Kusajima",
+      "text": "It never stops attacking even if it is injured. It fusses over the shape of its comb.",
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Strong Breeze",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent shuffles the Defending Pokémon and all cards attached to it into his or her deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-98",
+      "itemType": "Pokemon Card",
+      "number": "98",
+      "name": "Tornadus-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Windfall",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Shuffle your hand into your deck. Then, draw 6 cards."
+        },
+        {
+          "name": "Jet Blast",
+          "damage": "60+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 30 more damage for each Plasma Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-99",
+      "itemType": "Trainer Card",
+      "number": "99",
+      "name": "Float Stone",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,The Pokémon this card is attached to has no Retreat Cost.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-100",
+      "itemType": "Trainer Card",
+      "number": "100",
+      "name": "Frozen City",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Whenever any player attaches an Energy from his or her hand to 1 of his or her Pokémon (excluding Team Plasma Pokémon) put 2 damage counters on that Pokémon.,This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-101",
+      "itemType": "Trainer Card",
+      "number": "101",
+      "name": "Ghetsis",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Yusuke Ohmura",
+      "text": "Your opponent reveals his or her hand and shuffles all Item cards found there into his or her deck. Then, draw a number of cards equal to the number of Item cards your opponent shuffled into his or her deck.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-102",
+      "itemType": "Trainer Card",
+      "number": "102",
+      "name": "Shadow Triad",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yusuke Ohmura",
+      "text": "Put a Team Plasma card from your discard pile into your hand.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-103",
+      "itemType": "Trainer Card",
+      "number": "103",
+      "name": "Superior Energy Retrieval",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Discard 2 cards from your hand. (If you can't discard 2 cards, you can't play this card.) Put 4 basic Energy cards from your discard pile into your hand. (You can't choose a card you discarded with the effect of this card.),You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-104",
+      "itemType": "Trainer Card",
+      "number": "104",
+      "name": "Team Plasma Badge",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,The Pokémon this card is attached to is a Team Plasma Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-105",
+      "itemType": "Trainer Card",
+      "number": "105",
+      "name": "Team Plasma Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Search your deck for a Team Plasma Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-106",
+      "itemType": "Energy Card",
+      "number": "106",
+      "name": "Plasma Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "This card provides Colorless Energy."
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-107",
+      "itemType": "Trainer Card",
+      "number": "107",
+      "name": "Life Dew",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare ACE",
+      "artist": "5ban Graphics",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,If the Pokémon this card is attached to is Knocked Out, your opponent takes 1 fewer Prize card.,You may play as many Item cards as you like during your turn (before your attack).,You can't have more than 1 ACE SPEC card in your deck."
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-108",
+      "itemType": "Trainer Card",
+      "number": "108",
+      "name": "Rock Guard",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare ACE",
+      "artist": "5ban Graphics",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,If the Pokémon this card is attached to is your Active Pokémon and is damaged by an opponent's attack (even if that Pokémon is Knocked Out), put 6 damage counters on the Attacking Pokémon.,You may play as many Item cards as you like during your turn (before your attack).,You can't have more than 1 ACE SPEC card in your deck."
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-109",
+      "itemType": "Pokemon Card",
+      "number": "109",
+      "name": "Heatran-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Heat Boiler",
+          "damage": "60+",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If this Pokémon is affected by a Special Condition, this attack does 60 more damage."
+        },
+        {
+          "name": "Dynamite Press",
+          "damage": "80+",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If this Pokémon has any Plasma Energy attached to it, this attack does 10 more damage for each damage counter on the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-110",
+      "itemType": "Pokemon Card",
+      "number": "110",
+      "name": "Thundurus-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Raiden Knuckle",
+          "damage": "30",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Attach an Energy card from your discard pile to 1 of your Benched Team Plasma Pokémon."
+        },
+        {
+          "name": "Thunderous Noise",
+          "damage": "90",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If this Pokémon has any Plasma Energy attached to it, discard an Energy attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-111",
+      "itemType": "Pokemon Card",
+      "number": "111",
+      "name": "Deoxys-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Power Connect",
+          "text": "Your Team Plasma Pokémon's attacks (excluding Deoxys-EX) do 10 more damage to the Active Pokémon (before applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Helix Force",
+          "damage": "30+",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "If this Pokémon has any Plasma Energy attached to it, this attack does 30 more damage for each Energy attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-112",
+      "itemType": "Pokemon Card",
+      "number": "112",
+      "name": "Latias-EX",
+      "stage": "Basic",
+      "hp": "160",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Bright Down",
+          "text": "Prevent all effects of attacks, including damage, done to this Pokémon by your opponent's Pokémon with Abilities.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Barrier Break",
+          "damage": "70",
+          "cost": [
+            "Fire",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-113",
+      "itemType": "Pokemon Card",
+      "number": "113",
+      "name": "Latios-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Mach Flight",
+          "damage": "40",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "name": "Luster Purge",
+          "damage": "150",
+          "cost": [
+            "Water",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Discard all Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-114",
+      "itemType": "Pokemon Card",
+      "number": "114",
+      "name": "Tornadus-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Windfall",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Shuffle your hand into your deck. Then, draw 6 cards."
+        },
+        {
+          "name": "Jet Blast",
+          "damage": "60+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 30 more damage for each Plasma Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-115",
+      "itemType": "Trainer Card",
+      "number": "115",
+      "name": "Ghetsis",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Kanako Eo",
+      "text": "Your opponent reveals his or her hand and shuffles all Item cards found there into his or her deck. Then, draw a number of cards equal to the number of Item cards your opponent shuffled into his or her deck.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-116",
+      "itemType": "Trainer Card",
+      "number": "116",
+      "name": "Professor Juniper",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Kanako Eo",
+      "text": "Discard your hand and draw 7 cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-117",
+      "itemType": "Pokemon Card",
+      "number": "117",
+      "name": "Empoleon",
+      "stage": "Stage 2",
+      "evolvesFrom": "Prinplup",
+      "hp": "140",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Ayaka Yoshida",
+      "abilities": [
+        {
+          "name": "Diving Draw",
+          "text": "Once during your turn (before your attack), you may discard 1 card from your hand. Then, draw 2 cards.",
+          "type": "Ability"
+        }
+      ],
+      "text": "This extremely rare Pokémon is a different color than usual. It is very hard to find.",
+      "attacks": [
+        {
+          "name": "Attack Command",
+          "damage": "10×",
+          "cost": [
+            "Water"
+          ],
+          "text": "Does 10 damage times the number of Pokémon in play (both yours and your opponent's)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-118",
+      "itemType": "Pokemon Card",
+      "number": "118",
+      "name": "Sigilyph",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Ayaka Yoshida",
+      "abilities": [
+        {
+          "name": "Safeguard",
+          "text": "Prevent all effects of attacks, including damage, done to this Pokémon by Pokémon-EX.",
+          "type": "Ability"
+        }
+      ],
+      "text": "This extremely rare Pokémon is a different color than usual. It is very hard to find.",
+      "attacks": [
+        {
+          "name": "Psychic",
+          "damage": "50+",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 10 more damage for each Energy attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-119",
+      "itemType": "Pokemon Card",
+      "number": "119",
+      "name": "Garbodor",
+      "stage": "Stage 1",
+      "evolvesFrom": "Trubbish",
+      "hp": "100",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Ayaka Yoshida",
+      "abilities": [
+        {
+          "name": "Garbotoxin",
+          "text": "If this Pokémon has a Pokémon Tool card attached to it, each Pokémon in play, in each player's hand, and in each player's discard pile has no Abilities (except for Garbotoxin).",
+          "type": "Ability"
+        }
+      ],
+      "text": "This extremely rare Pokémon is a different color than usual. It is very hard to find.",
+      "attacks": [
+        {
+          "name": "Sludge Toss",
+          "damage": "60",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-120",
+      "itemType": "Pokemon Card",
+      "number": "120",
+      "name": "Garchomp",
+      "stage": "Stage 2",
+      "evolvesFrom": "Gabite",
+      "hp": "140",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Ayaka Yoshida",
+      "text": "This extremely rare Pokémon is a different color than usual. It is very hard to find.",
+      "attacks": [
+        {
+          "name": "Mach Cut",
+          "damage": "60",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Discard a Special Energy attached to the Defending Pokémon."
+        },
+        {
+          "name": "Dragonblade",
+          "damage": "100",
+          "cost": [
+            "Water",
+            "Fighting"
+          ],
+          "text": "Discard the top 2 cards of your deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-121",
+      "itemType": "Trainer Card",
+      "number": "121",
+      "name": "Max Potion",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "5ban Graphics",
+      "text": "Heal all damage from 1 of your Pokémon. Then, discard all Energy attached to that Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-plasma-freeze-122",
+      "itemType": "Trainer Card",
+      "number": "122",
+      "name": "Ultra Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "5ban Graphics",
+      "text": "Discard 2 cards from your hand. (If you can't discard 2 cards, you can't play this card.) Search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.,You may play as many Item cards as you like during your turn (before your attack)."
+    }
+  ]
+}
