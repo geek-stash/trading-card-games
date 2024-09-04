@@ -1,0 +1,4710 @@
+{
+  "setId": "tcg-pokemon-phantom-forces",
+  "cardCount": "124",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-phantom-forces-booster-box",
+      "itemType": "Sealed Product",
+      "name": "Phantom Forces Booster Box"
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-booster-pack",
+      "itemType": "Sealed Product",
+      "name": "Phantom Forces Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-phantom-forces-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Venonat",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Sumiyoshi Kizuki",
+      "text": "Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.",
+      "attacks": [
+        {
+          "name": "Stun Spore",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Venomoth",
+      "stage": "Stage 1",
+      "evolvesFrom": "Venonat",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "text": "The scales it scatters will paralyze anyone who touches them, making that person unable to stand.",
+      "attacks": [
+        {
+          "name": "Dizzying Wind",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Whenever your opponent plays a Trainer card from his or her hand during his or her next turn, your opponent flips a coin. If tails, that card has no effect. (Your opponent still discards that card.)"
+        },
+        {
+          "name": "Noxious Scales",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Confused and Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-3",
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Yanma",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Shin Nagasawa",
+      "text": "Its eyes can see 360 degrees without moving its head. It won't miss prey—even those behind it.",
+      "attacks": [
+        {
+          "name": "Air Slash",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-4",
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Yanmega",
+      "stage": "Stage 1",
+      "evolvesFrom": "Yanma",
+      "hp": "110",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "text": "It prefers to battle by biting apart foes' heads instantly while flying by at high speed.",
+      "attacks": [
+        {
+          "name": "Windfall",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Shuffle your hand into your deck. Then, draw 6 cards."
+        },
+        {
+          "name": "Surprise Strike",
+          "damage": "50+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If this Pokémon was on the Bench and became your Active Pokémon this turn, this attack does 50 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Sewaddle",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "kawayoo",
+      "text": "This Pokémon makes clothes for itself. It chews up leaves and sews them with sticky thread extruded from its mouth.",
+      "attacks": [
+        {
+          "name": "Nap",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Heal 20 damage from this Pokémon."
+        },
+        {
+          "name": "Bug Bite",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-6",
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Swadloon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Sewaddle",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Tomokazu Komiya",
+      "text": "Forests where Swadloon live have superb foliage because the nutrients they make from fallen leaves nourish the plant life.",
+      "attacks": [
+        {
+          "name": "Protect",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+        },
+        {
+          "name": "Corkscrew Punch",
+          "damage": "40",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-7",
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Leavanny",
+      "stage": "Stage 2",
+      "evolvesFrom": "Swadloon",
+      "hp": "130",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Atsuko Nishida",
+      "text": "Upon finding a small Pokémon, it weaves clothing for it from leaves by using the sticky silk secreted from its mouth.",
+      "attacks": [
+        {
+          "name": "Coordinate",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Choose up to 2 of your Benched Pokémon that have no Pokémon Tools attached to them. For each of those Pokémon, search your deck for a Pokémon Tool card, and attach it to that Pokémon. Shuffle your deck afterward."
+        },
+        {
+          "name": "Leaf Storm",
+          "damage": "70",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Heal 20 damage from each of your Grass Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-8",
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "Karrablast",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Sanosuke Sakuma",
+      "text": "These mysterious Pokémon evolve when they receive electrical stimulation while they are in the same place as Shelmet.",
+      "attacks": [
+        {
+          "name": "Peck",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Headbutt",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-9",
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Fletchinder",
+      "stage": "Stage 1",
+      "evolvesFrom": "Fletchling",
+      "hp": "80",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Suwama Chiaki",
+      "text": "From its beak, it expels embers that set the tall grass on fire. Then it pounces on the bewildered prey that pop out of the grass.",
+      "attacks": [
+        {
+          "name": "Peck",
+          "damage": "20",
+          "cost": [
+            "Fire"
+          ]
+        },
+        {
+          "name": "Combustion",
+          "damage": "60",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Talonflame",
+      "stage": "Stage 2",
+      "evolvesFrom": "Fletchinder",
+      "hp": "130",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "text": "In the fever of an exciting battle, it showers embers from the gaps between its feathers and takes to the air.",
+      "attacks": [
+        {
+          "name": "Acrobatics",
+          "damage": "30+",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Flip 2 coins. This attack does 30 more damage for each heads."
+        },
+        {
+          "name": "Jet Shoot",
+          "damage": "120",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is increased by 40 (after applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Litleo",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "text": "The stronger the opponent it faces, the more heat surges from its mane and the more power flows through its body.",
+      "attacks": [
+        {
+          "name": "Roar",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "name": "Live Coal",
+          "damage": "20",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Pyroar",
+      "stage": "Stage 1",
+      "evolvesFrom": "Litleo",
+      "hp": "110",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Naoki Saito",
+      "abilities": [
+        {
+          "name": "Flare Command",
+          "text": "Once during your turn (before your attack), you may discard a Fire Energy attached to this Pokémon. If you do, switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "The male with the largest mane of fire is the leader of the pride.",
+      "attacks": [
+        {
+          "name": "Inferno Onrush",
+          "damage": "110",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "This Pokémon does 30 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Krabby",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "kirisAki",
+      "text": "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
+      "attacks": [
+        {
+          "name": "Vice Grip",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ]
+        },
+        {
+          "name": "Crabhammer",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Kingler",
+      "stage": "Stage 1",
+      "evolvesFrom": "Krabby",
+      "hp": "100",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "match",
+      "text": "The large and hard pincer has 10,000-horsepower strength. However, being so big, it is unwieldy to move.",
+      "attacks": [
+        {
+          "name": "Guard Claw",
+          "damage": "20",
+          "cost": [
+            "Water"
+          ],
+          "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Crabhammer",
+          "damage": "100",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Water"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Totodile",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "It is small but rough and tough. It won't hesitate to take a bite out of anything that moves.",
+      "attacks": [
+        {
+          "name": "Fury Strikes",
+          "damage": "10×",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-16",
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Croconaw",
+      "stage": "Stage 1",
+      "evolvesFrom": "Totodile",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Sumiyoshi Kizuki",
+      "text": "If it loses a fang, a new one grows back in its place. There are always 48 fangs lining its mouth.",
+      "attacks": [
+        {
+          "name": "Wave Splash",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Crunch",
+          "damage": "40",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Feraligatr",
+      "stage": "Stage 2",
+      "evolvesFrom": "Croconaw",
+      "hp": "150",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Shin Nagasawa",
+      "text": "It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.",
+      "attacks": [
+        {
+          "name": "Hyper Whirlpool",
+          "damage": "60",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. For each heads, discard an Energy attached to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Second Strike",
+          "damage": "80+",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 80 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-18",
+      "itemType": "Pokemon Card",
+      "number": "18",
+      "name": "Finneon",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Shigenori Negishi",
+      "text": "The line running down its side can store sunlight. It shines vividly at night.",
+      "attacks": [
+        {
+          "name": "Pound",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-19",
+      "itemType": "Pokemon Card",
+      "number": "19",
+      "name": "Lumineon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Finneon",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "sui",
+      "text": "It lives on the deep-sea floor. It attracts prey by flashing the patterns on its four tail fins.",
+      "attacks": [
+        {
+          "name": "Neon Sign",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 2 Pokémon, reveal them, and put them into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Water Pulse",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-20",
+      "itemType": "Pokemon Card",
+      "number": "20",
+      "name": "Frillish",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Kyoko Umemoto",
+      "text": "They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.",
+      "attacks": [
+        {
+          "name": "Confuse Ray",
+          "cost": [
+            "Water"
+          ],
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-21",
+      "itemType": "Pokemon Card",
+      "number": "21",
+      "name": "Jellicent",
+      "stage": "Stage 1",
+      "evolvesFrom": "Frillish",
+      "hp": "100",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Masakazu Fukuda",
+      "text": "Its body is mostly seawater. It's said there's a castle of ships Jellicent have sunk on the seafloor.",
+      "attacks": [
+        {
+          "name": "Meddling",
+          "cost": [
+            "Water"
+          ],
+          "text": "Attach 3 Energy cards from your opponent's discard pile to his or her Pokémon in any way you like."
+        },
+        {
+          "name": "Ensnaring Spray",
+          "damage": "50+",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 10 more damage for each Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-22",
+      "itemType": "Pokemon Card",
+      "number": "22",
+      "name": "Alomomola",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "Floating in the open sea is how they live. When they find a wounded Pokémon, they embrace it and bring it to shore.",
+      "attacks": [
+        {
+          "name": "Super Deep Dive",
+          "cost": [
+            "Water"
+          ],
+          "text": "Heal 30 damage from this Pokémon. Switch this Pokémon with 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Surf",
+          "damage": "80",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-23",
+      "itemType": "Pokemon Card",
+      "number": "23",
+      "name": "Manectric-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Overrun",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Assault Laser",
+          "damage": "60+",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon has a Pokémon Tool card attached to it, this attack does 60 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-24",
+      "itemType": "Pokemon Card",
+      "number": "24",
+      "name": "M Manectric-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Manectric-EX",
+      "hp": "210",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Turbo Bolt",
+          "damage": "110",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Attach 2 basic Energy cards from your discard pile to 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-24a",
+      "itemType": "Pokemon Card",
+      "number": "24a",
+      "name": "M Manectric-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Manectric-EX",
+      "hp": "210",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Turbo Bolt",
+          "damage": "110",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Attach 2 basic Energy cards from your discard pile to 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-25",
+      "itemType": "Pokemon Card",
+      "number": "25",
+      "name": "Pachirisu",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "Mizue",
+      "text": "It makes fur balls that crackle with static electricity. It stores them with berries in tree holes.",
+      "attacks": [
+        {
+          "name": "Trick Sticker",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon's Weakness is now Lightning until the end of your next turn. (The amount of Weakness doesn't change.)"
+        },
+        {
+          "name": "Pachi",
+          "damage": "20+",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-26",
+      "itemType": "Pokemon Card",
+      "number": "26",
+      "name": "Joltik",
+      "stage": "Basic",
+      "hp": "30",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "TOKIYA",
+      "text": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity.",
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "damage": "10",
+          "cost": [
+            "Lightning"
+          ]
+        },
+        {
+          "name": "Night March",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage times the number of Pokémon in your discard pile that have the Night March attack."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-27",
+      "itemType": "Pokemon Card",
+      "number": "27",
+      "name": "Galvantula",
+      "stage": "Stage 1",
+      "evolvesFrom": "Joltik",
+      "hp": "80",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "Masakazu Fukuda",
+      "text": "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it.",
+      "attacks": [
+        {
+          "name": "Cobweb Trip",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Switch 1 of your opponent's Benched Pokémon with your opponent's Active Pokémon. The new Active Pokémon is now Confused."
+        },
+        {
+          "name": "Electroweb",
+          "damage": "60",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-28",
+      "itemType": "Pokemon Card",
+      "number": "28",
+      "name": "Helioptile",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "HiRON",
+      "text": "They make their home in deserts. They can generate their energy from basking in the sun, so eating food is not a requirement.",
+      "attacks": [
+        {
+          "name": "Tail Rap",
+          "damage": "10+",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-29",
+      "itemType": "Pokemon Card",
+      "number": "29",
+      "name": "Helioptile",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "text": "They make their home in deserts. They can generate their energy from basking in the sun, so eating food is not a requirement.",
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "damage": "10+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 more damage."
+        },
+        {
+          "name": "Static Shock",
+          "damage": "30",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-30",
+      "itemType": "Pokemon Card",
+      "number": "30",
+      "name": "Heliolisk",
+      "stage": "Stage 1",
+      "evolvesFrom": "Helioptile",
+      "hp": "90",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kouki Saitou",
+      "text": "They flare their frills and generate energy. A single Heliolisk can generate sufficient electricity to power a skyscraper.",
+      "attacks": [
+        {
+          "name": "Pound",
+          "damage": "30",
+          "cost": [
+            "Lightning"
+          ]
+        },
+        {
+          "name": "Parabolic Spark",
+          "damage": "30×",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Discard as many Lightning Energy attached to your Pokémon as you like. This attack does 30 damage times the number of Energy cards you discarded."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-31",
+      "itemType": "Pokemon Card",
+      "number": "31",
+      "name": "Zubat",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "match",
+      "text": "Even though it has no eyes, it can sense obstacles using ultrasonic waves it emits from it mouth.",
+      "attacks": [
+        {
+          "name": "Skill Dive",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This attack does 10 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-32",
+      "itemType": "Pokemon Card",
+      "number": "32",
+      "name": "Golbat",
+      "stage": "Stage 1",
+      "evolvesFrom": "Zubat",
+      "hp": "70",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kanako Eo",
+      "abilities": [
+        {
+          "name": "Sneaky Bite",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon, you may put 2 damage counters on 1 of your opponent's Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Once it bites, it will not stop draining energy from the victim even if it gets too heavy to fly.",
+      "attacks": [
+        {
+          "name": "Swoop Across",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This attack does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-33",
+      "itemType": "Pokemon Card",
+      "number": "33",
+      "name": "Crobat",
+      "stage": "Stage 2",
+      "evolvesFrom": "Golbat",
+      "hp": "130",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Satoshi Shirai",
+      "abilities": [
+        {
+          "name": "Surprise Bite",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon, you may put 3 damage counters on 1 of your opponent's Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It flies so silently through the dark on its four wings that it may not be noticed even when nearby.",
+      "attacks": [
+        {
+          "name": "Skill Dive",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This attack does 30 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-34",
+      "itemType": "Pokemon Card",
+      "number": "34",
+      "name": "Gengar-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Night Attack",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Put 3 damage counters on 1 of your opponent's Pokémon."
+        },
+        {
+          "name": "Dark Corridor",
+          "damage": "60",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Poisoned. Switch this Pokémon with 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-35",
+      "itemType": "Pokemon Card",
+      "number": "35",
+      "name": "M Gengar-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Gengar-EX",
+      "hp": "220",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Phantom Gate",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon's attacks and use it as this attack."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-36",
+      "itemType": "Pokemon Card",
+      "number": "36",
+      "name": "Wobbuffet",
+      "stage": "Basic",
+      "hp": "110",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "sui",
+      "abilities": [
+        {
+          "name": "Bide Barricade",
+          "text": "If this Pokémon is your Active Pokémon, each Pokémon in play, in each player's hand, and in each player's discard pile has no Abilities (except for Psychic Pokémon).",
+          "type": "Ability"
+        }
+      ],
+      "text": "It hates light and shock. If attacked, it inflates its body to build up its counterstrike.",
+      "attacks": [
+        {
+          "name": "Psychic Assault",
+          "damage": "10+",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "This attack does 10 more damage for each damage counter on your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-37",
+      "itemType": "Pokemon Card",
+      "number": "37",
+      "name": "Gulpin",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Hajime Kusajima",
+      "text": "It has a small heart and brain. Its stomach compromises most of its body, with enzymes to dissolve anything.",
+      "attacks": [
+        {
+          "name": "Poison Gas",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned."
+        },
+        {
+          "name": "Sludge Bomb",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-38",
+      "itemType": "Pokemon Card",
+      "number": "38",
+      "name": "Swalot",
+      "stage": "Stage 1",
+      "evolvesFrom": "Gulpin",
+      "hp": "110",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Tomokazu Komiya",
+      "text": "It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.",
+      "attacks": [
+        {
+          "name": "Poison Gas",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        },
+        {
+          "name": "Swallow Up",
+          "damage": "50+",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If, before doing damage, your opponent's Active Pokémon has fewer remaining HP than this Pokémon, this attack does 50 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-39",
+      "itemType": "Pokemon Card",
+      "number": "39",
+      "name": "Munna",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "MAHOU",
+      "text": "This Pokémon appears before people and Pokémon who are having nightmares and eats those dreams.",
+      "attacks": [
+        {
+          "name": "See Through",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Your opponent reveals his or her hand."
+        },
+        {
+          "name": "Double Headbutt",
+          "damage": "20×",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-40",
+      "itemType": "Pokemon Card",
+      "number": "40",
+      "name": "Musharna",
+      "stage": "Stage 1",
+      "evolvesFrom": "Munna",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Suwama Chiaki",
+      "text": "The mist emanating from their foreheads is packed with the dreams of people and Pokémon.",
+      "attacks": [
+        {
+          "name": "Dream of Memories",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Shuffle 3 cards from your discard pile into your deck."
+        },
+        {
+          "name": "Dream Dance",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Both Active Pokémon are now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-41",
+      "itemType": "Pokemon Card",
+      "number": "41",
+      "name": "Litwick",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "text": "While shining a light and pretending to be a guide, it leeches off the life force of any who follow it.",
+      "attacks": [
+        {
+          "name": "Trip Over",
+          "damage": "10+",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-42",
+      "itemType": "Pokemon Card",
+      "number": "42",
+      "name": "Lampent",
+      "stage": "Stage 1",
+      "evolvesFrom": "Litwick",
+      "hp": "70",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "kawayoo",
+      "text": "The spirits it absorbs fuel its baleful fire. It hangs around hospitals waiting for people to pass on.",
+      "attacks": [
+        {
+          "name": "Cursed Drop",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Put 3 damage counters on your opponent's Pokémon in any way you like."
+        },
+        {
+          "name": "Night March",
+          "damage": "20×",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage times the number of Pokémon in your discard pile that have the Night March attack."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-43",
+      "itemType": "Pokemon Card",
+      "number": "43",
+      "name": "Chandelure",
+      "stage": "Stage 2",
+      "evolvesFrom": "Lampent",
+      "hp": "130",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "PLANETA",
+      "abilities": [
+        {
+          "name": "Fainting Spell",
+          "text": "If this Pokémon is Knocked Out by damage from an opponent's attack, flip a coin. If heads, the Attacking Pokémon is Knocked Out.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Being consumed in Chandelure's flame burns up the spirit, leaving the body behind.",
+      "attacks": [
+        {
+          "name": "Cursed Drop",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Put 6 damage counters on your opponent's Pokémon in any way you like."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-44",
+      "itemType": "Pokemon Card",
+      "number": "44",
+      "name": "Pumpkaboo",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "HiRON",
+      "text": "The pumpkin body is inhabited by a spirit trapped in this world. As the sun sets, it becomes restless and active.",
+      "attacks": [
+        {
+          "name": "Ram",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ]
+        },
+        {
+          "name": "Night March",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage times the number of Pokémon in your discard pile that have the Night March attack."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-45",
+      "itemType": "Pokemon Card",
+      "number": "45",
+      "name": "Gourgeist",
+      "stage": "Stage 1",
+      "evolvesFrom": "Pumpkaboo",
+      "hp": "100",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kanako Eo",
+      "abilities": [
+        {
+          "name": "Gourgantic",
+          "text": "If this Pokémon has any Grass Energy attached to it, its maximum HP is 200.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Singing in eerie voices, they wander town streets on the night of the new moon. Anyone who hears their song is cursed.",
+      "attacks": [
+        {
+          "name": "Horror Note",
+          "damage": "10×",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 10 damage times the number of cards in your hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-46",
+      "itemType": "Pokemon Card",
+      "number": "46",
+      "name": "Gligar",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Sanosuke Sakuma",
+      "text": "It usually clings to cliffs. When it spots its prey, it spreads its wings and glides down to attack.",
+      "attacks": [
+        {
+          "name": "Rock Cannon",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-47",
+      "itemType": "Pokemon Card",
+      "number": "47",
+      "name": "Gliscor",
+      "stage": "Stage 1",
+      "evolvesFrom": "Gligar",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Naoyo Kimura",
+      "text": "It observes prey while hanging inverted from branches. When the chance presents itself, it swoops!",
+      "attacks": [
+        {
+          "name": "Submission Hold",
+          "damage": "20",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Your opponent can't attach Energy from his or her hand to the Defending Pokémon during his or her next turn."
+        },
+        {
+          "name": "Poison Jab",
+          "damage": "60",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-48",
+      "itemType": "Pokemon Card",
+      "number": "48",
+      "name": "Roggenrola",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "text": "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-49",
+      "itemType": "Pokemon Card",
+      "number": "49",
+      "name": "Boldore",
+      "stage": "Stage 1",
+      "evolvesFrom": "Roggenrola",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Midori Harada",
+      "text": "Because its energy was too great to be contained, the energy leaked and formed orange crystals.",
+      "attacks": [
+        {
+          "name": "Core Heal",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Discard a Fighting Energy attached to this Pokémon and heal 50 damage from it."
+        },
+        {
+          "name": "Power Gem",
+          "damage": "60",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-50",
+      "itemType": "Pokemon Card",
+      "number": "50",
+      "name": "Gigalith",
+      "stage": "Stage 2",
+      "evolvesFrom": "Boldore",
+      "hp": "140",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Akira Komayama",
+      "abilities": [
+        {
+          "name": "High Density Armor",
+          "text": "If this Pokémon has full HP, any damage done to this Pokémon by an opponent's attack is reduced by 50 (after applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "text": "The solar rays it absorbs are processed in its energy core and fired as a ball of light.",
+      "attacks": [
+        {
+          "name": "Overdrive Smash",
+          "damage": "60+",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "During your next turn, this Pokémon's Overdrive Smash attack does 40 more damage (before applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-51",
+      "itemType": "Pokemon Card",
+      "number": "51",
+      "name": "Murkrow",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "It hides any shiny object it finds in a secret location. Murkrow and Meowth loot one another's stashes.",
+      "attacks": [
+        {
+          "name": "Ambush",
+          "damage": "10+",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 more damage."
+        },
+        {
+          "name": "Wing Attack",
+          "damage": "30",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-52",
+      "itemType": "Pokemon Card",
+      "number": "52",
+      "name": "Honchkrow",
+      "stage": "Stage 1",
+      "evolvesFrom": "Murkrow",
+      "hp": "100",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "Hajime Kusajima",
+      "text": "If one utters a deep cry, many Murkrow gather quickly. For this, it is called \"Summoner of Night.\"",
+      "attacks": [
+        {
+          "name": "Hypnoblast",
+          "damage": "20",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        },
+        {
+          "name": "Nightmare Mambo",
+          "damage": "60+",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon is Asleep, this attack does 60 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-53",
+      "itemType": "Pokemon Card",
+      "number": "53",
+      "name": "Poochyena",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "text": "A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.",
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Lunge",
+          "damage": "30",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-54",
+      "itemType": "Pokemon Card",
+      "number": "54",
+      "name": "Mightyena",
+      "stage": "Stage 1",
+      "evolvesFrom": "Poochyena",
+      "hp": "90",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "Sanosuke Sakuma",
+      "text": "It will always obey the commands of a skilled Trainer. Its behavior arises from its living in packs in ancient times.",
+      "attacks": [
+        {
+          "name": "Crunch",
+          "damage": "30",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Darkness Fang",
+          "damage": "80",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-55",
+      "itemType": "Pokemon Card",
+      "number": "55",
+      "name": "Spiritomb",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "PLANETA",
+      "text": "A Pokémon that was formed by 108 spirits. It is bound to a fissure in an odd keystone.",
+      "attacks": [
+        {
+          "name": "B Cancel",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent can't play any Pokémon from his or her hand to evolve the Defending Pokémon during his or her next turn."
+        },
+        {
+          "name": "Confuse Ray",
+          "damage": "30",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-56",
+      "itemType": "Pokemon Card",
+      "number": "56",
+      "name": "Purrloin",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "Its cute act is a ruse. When victims let down their guard, they find their items taken. It attacks with sharp claws.",
+      "attacks": [
+        {
+          "name": "Fake Out",
+          "damage": "10",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-57",
+      "itemType": "Pokemon Card",
+      "number": "57",
+      "name": "Liepard",
+      "stage": "Stage 1",
+      "evolvesFrom": "Purrloin",
+      "hp": "90",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "TOKIYA",
+      "text": "Their beautiful form comes from the muscles they have developed. They run silently in the night.",
+      "attacks": [
+        {
+          "name": "Gentle Bite",
+          "damage": "10",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 60 (before applying Weakness and Resistance)."
+        },
+        {
+          "name": "Mach Claw",
+          "damage": "40",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "text": "This attack's damage isn't affected by Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-58",
+      "itemType": "Pokemon Card",
+      "number": "58",
+      "name": "Malamar-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "abilities": [
+        {
+          "name": "Hyper Hypnosis",
+          "text": "When you attach an Energy from your hand to this Pokémon, you may use this Ability. Your opponent's Active Pokémon is now Asleep.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "MAXamar",
+          "damage": "60×",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Flip a coin for each Energy attached to this Pokémon. This attack does 60 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-59",
+      "itemType": "Pokemon Card",
+      "number": "59",
+      "name": "Skarmory",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Common",
+      "artist": "Sanosuke Sakuma",
+      "text": "After nesting in bramble bushes, the wings of its chicks grow hard from scratches by thorns.",
+      "attacks": [
+        {
+          "name": "Slash",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Iron Wing",
+          "damage": "90",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "text": "Discard a Metal Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-60",
+      "itemType": "Pokemon Card",
+      "number": "60",
+      "name": "Bronzor",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Common",
+      "artist": "Akira Komayama",
+      "text": "Ancient people believed that the pattern on Bronzor's back contained a mysterious power.",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10",
+          "cost": [
+            "Metal"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-61",
+      "itemType": "Pokemon Card",
+      "number": "61",
+      "name": "Bronzong",
+      "stage": "Stage 1",
+      "evolvesFrom": "Bronzor",
+      "hp": "90",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "artist": "match",
+      "abilities": [
+        {
+          "name": "Metal Links",
+          "text": "Once during your turn (before your attack), you may attach a Metal Energy card from your discard pile to 1 of your Benched Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "In ages past, this Pokémon was revered as a bringer of rain. It was found buried in the ground.",
+      "attacks": [
+        {
+          "name": "Hammer In",
+          "damage": "60",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-62",
+      "itemType": "Pokemon Card",
+      "number": "62",
+      "name": "Dialga-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ayaka Yoshida",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Chrono Wind",
+          "damage": "60",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is a Pokémon-EX, it can't attack during your opponent's next turn."
+        },
+        {
+          "name": "Full Metal Impact",
+          "damage": "150",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard 2 Metal Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-63",
+      "itemType": "Pokemon Card",
+      "number": "63",
+      "name": "Heatran",
+      "stage": "Basic",
+      "hp": "130",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Midori Harada",
+      "text": "It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls.",
+      "attacks": [
+        {
+          "name": "Steel Drop",
+          "damage": "40+",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If there is any Stadium card in play, this attack does 40 more damage."
+        },
+        {
+          "name": "Steam Blast",
+          "damage": "130",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-64",
+      "itemType": "Pokemon Card",
+      "number": "64",
+      "name": "Escavalier",
+      "stage": "Stage 1",
+      "evolvesFrom": "Karrablast",
+      "hp": "100",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "text": "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.",
+      "attacks": [
+        {
+          "name": "Poke Through",
+          "damage": "20",
+          "cost": [
+            "Metal"
+          ],
+          "text": "Discard a random card from your opponent's hand."
+        },
+        {
+          "name": "Spiral Rush",
+          "damage": "60+",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. This attack does 30 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-65",
+      "itemType": "Pokemon Card",
+      "number": "65",
+      "name": "Aegislash-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ayaka Yoshida",
+      "abilities": [
+        {
+          "name": "Mighty Shield",
+          "text": "Prevent all damage done to this Pokémon by attacks from each of your opponent's Pokémon that has any Special Energy attached to it.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Slash Blast",
+          "damage": "40",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 20 more damage for each Metal Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-65a",
+      "itemType": "Pokemon Card",
+      "number": "65a",
+      "name": "Aegislash-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Mighty Shield",
+          "text": "Prevent all damage done to this Pokémon by attacks from each of your opponent's Pokémon that has Special Energy attached to it.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Slash Blast",
+          "damage": "40+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 20 more damage for each Metal Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-66",
+      "itemType": "Pokemon Card",
+      "number": "66",
+      "name": "Klefki",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shin Nagasawa",
+      "text": "These key collectors threaten any attackers by fiercely jingling their keys at them.",
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Metal"
+          ],
+          "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "name": "Dull Light",
+          "damage": "20",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-67",
+      "itemType": "Pokemon Card",
+      "number": "67",
+      "name": "Florges-EX",
+      "stage": "Basic",
+      "hp": "160",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Lead",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "Search your deck for a Supporter card, reveal it, and put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Bright Garden",
+          "damage": "20×",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage times the number of Grass Pokémon and Fairy Pokémon you have in play."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-68",
+      "itemType": "Pokemon Card",
+      "number": "68",
+      "name": "Swirlix",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Common",
+      "artist": "Satoshi Shirai",
+      "text": "To entangle its opponents in battle, it extrudes white threads as sweet and as sticky as cotton candy.",
+      "attacks": [
+        {
+          "name": "Lick Away",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "Remove all Special Conditions from this Pokémon."
+        },
+        {
+          "name": "Tackle",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-69",
+      "itemType": "Pokemon Card",
+      "number": "69",
+      "name": "Slurpuff",
+      "stage": "Stage 1",
+      "evolvesFrom": "Swirlix",
+      "hp": "90",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "sui",
+      "abilities": [
+        {
+          "name": "Tasting",
+          "text": "Once during your turn (before your attack), you may draw a card. If this Pokémon is your Active Pokémon, draw 1 more card.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It can distinguish the faintest of scents. It puts its sensitive sense of smell to use by helping pastry chefs in their work.",
+      "attacks": [
+        {
+          "name": "Light Pulse",
+          "damage": "60",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Prevent all effects of your opponent's attacks, except damage, done to this Pokémon during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-70",
+      "itemType": "Pokemon Card",
+      "number": "70",
+      "name": "Dedenne",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "text": "Its whiskers serve as antennas. By sending and receiving electrical waves, it can communicate with others over vast distances.",
+      "attacks": [
+        {
+          "name": "Nuzzle",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Spiral Drain",
+          "damage": "60",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Heal 20 damage from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-71",
+      "itemType": "Pokemon Card",
+      "number": "71",
+      "name": "Diancie",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "text": "A sudden transformation of Carbink, its pink, glimmering body is said to be the loveliest sight in the whole world.",
+      "attacks": [
+        {
+          "name": "Sparkle",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        },
+        {
+          "name": "Diamond Storm",
+          "damage": "60",
+          "cost": [
+            "Fairy",
+            "Fairy",
+            "Colorless"
+          ],
+          "text": "Heal 30 damage from each of your Fairy Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-72",
+      "itemType": "Pokemon Card",
+      "number": "72",
+      "name": "Deino",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Common",
+      "artist": "Shigenori Negishi",
+      "text": "They cannot see, so they tackle and bite to learn about their surroundings. Their bodies are covered in wounds.",
+      "attacks": [
+        {
+          "name": "Gnaw Off",
+          "damage": "20+",
+          "cost": [
+            "Psychic",
+            "Darkness"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-73",
+      "itemType": "Pokemon Card",
+      "number": "73",
+      "name": "Zweilous",
+      "stage": "Stage 1",
+      "evolvesFrom": "Deino",
+      "hp": "90",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "The two heads do not get along. Whichever head eats more than the other gets to be the leader.",
+      "attacks": [
+        {
+          "name": "Slam",
+          "damage": "30×",
+          "cost": [
+            "Psychic",
+            "Darkness"
+          ],
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-74",
+      "itemType": "Pokemon Card",
+      "number": "74",
+      "name": "Hydreigon",
+      "stage": "Stage 2",
+      "evolvesFrom": "Zweilous",
+      "hp": "140",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Dark Impulse",
+          "text": "Once during your turn (before your attack), you may attach a Darkness Energy card from your discard pile to your Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Their heads on their arms do not have brains. They use all three heads to consume and destroy everything.",
+      "attacks": [
+        {
+          "name": "Crazy Headbutt",
+          "damage": "130",
+          "cost": [
+            "Psychic",
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-75",
+      "itemType": "Pokemon Card",
+      "number": "75",
+      "name": "Goomy",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Common",
+      "artist": "Sanosuke Sakuma",
+      "text": "The weakest Dragon-type Pokémon, it lives in damp, shady places, so its body doesn't dry out.",
+      "attacks": [
+        {
+          "name": "Gooey",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Heal 10 damage from this Pokémon"
+        },
+        {
+          "name": "Tackle",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Fairy"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-76",
+      "itemType": "Pokemon Card",
+      "number": "76",
+      "name": "Sliggoo",
+      "stage": "Stage 1",
+      "evolvesFrom": "Goomy",
+      "hp": "80",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "It drives away opponents by excreting a sticky liquid that can dissolve anything. Its eyes devolved, so it can't see anything.",
+      "attacks": [
+        {
+          "name": "Gooey",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Heal 30 damage from this Pokémon."
+        },
+        {
+          "name": "Gentle Slap",
+          "damage": "40",
+          "cost": [
+            "Water",
+            "Fairy",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-77",
+      "itemType": "Pokemon Card",
+      "number": "77",
+      "name": "Goodra",
+      "stage": "Stage 2",
+      "evolvesFrom": "Sliggoo",
+      "hp": "140",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Slip Trip",
+          "text": "Each player can't attach any Pokémon Tool cards from his or her hand to any of his or her Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "This very friendly Dragon-type Pokémon will hug its beloved Trainer, leaving that Trainer covered in sticky slime.",
+      "attacks": [
+        {
+          "name": "Dragon Pulse",
+          "damage": "130",
+          "cost": [
+            "Water",
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard the top card of your deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-78",
+      "itemType": "Pokemon Card",
+      "number": "78",
+      "name": "Spearow",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Mizue",
+      "text": "Very protective of its territory, it flaps its short wings busily to dart around at high speed.",
+      "attacks": [
+        {
+          "name": "Whirlwind",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-79",
+      "itemType": "Pokemon Card",
+      "number": "79",
+      "name": "Fearow",
+      "stage": "Stage 1",
+      "evolvesFrom": "Spearow",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shin Nagasawa",
+      "text": "With its huge and magnificent wings, it can keep aloft without ever having to land or rest.",
+      "attacks": [
+        {
+          "name": "Fly",
+          "damage": "40",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+        },
+        {
+          "name": "Drill Peck",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-80",
+      "itemType": "Pokemon Card",
+      "number": "80",
+      "name": "Chansey",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Naoyo Kimura",
+      "text": "It is said to deliver happiness. Being compassionate, it shares its egg with injured people.",
+      "attacks": [
+        {
+          "name": "Nap",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Heal 30 damage from this Pokémon."
+        },
+        {
+          "name": "Lucky Punch",
+          "damage": "100",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If you don't have exactly 7 cards in your hand, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-81",
+      "itemType": "Pokemon Card",
+      "number": "81",
+      "name": "Blissey",
+      "stage": "Stage 1",
+      "evolvesFrom": "Chansey",
+      "hp": "130",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "kirisAki",
+      "text": "The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone.",
+      "attacks": [
+        {
+          "name": "Tender Vengeance",
+          "damage": "10×",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage times the number of damage counters on each of your Benched Pokémon."
+        },
+        {
+          "name": "Charge Dash",
+          "damage": "60+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may do 20 more damage. If you do, this Pokémon does 20 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-82",
+      "itemType": "Pokemon Card",
+      "number": "82",
+      "name": "Girafarig",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "text": "While it sleeps, the head of its tail keeps watch. The tail doesn't need to sleep.",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Psybite",
+          "damage": "50+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If this Pokémon has any Psychic Energy attached to it, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-83",
+      "itemType": "Pokemon Card",
+      "number": "83",
+      "name": "Whismur",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Akira Komayama",
+      "text": "It usually murmurs but starts crying loudly if it senses danger. It stops when its ear covers are shut.",
+      "attacks": [
+        {
+          "name": "Screaming Fit",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Both Active Pokémon are now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-84",
+      "itemType": "Pokemon Card",
+      "number": "84",
+      "name": "Loudred",
+      "stage": "Stage 1",
+      "evolvesFrom": "Whismur",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "MAHOU",
+      "text": "It shouts loudly by inhaling air, and then using its well-developed stomach muscles to exhale.",
+      "attacks": [
+        {
+          "name": "Pound",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Energy Press",
+          "damage": "30+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-85",
+      "itemType": "Pokemon Card",
+      "number": "85",
+      "name": "Exploud",
+      "stage": "Stage 2",
+      "evolvesFrom": "Loudred",
+      "hp": "140",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "text": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
+      "attacks": [
+        {
+          "name": "Boomburst",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Hyper Voice",
+          "damage": "90",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-86",
+      "itemType": "Pokemon Card",
+      "number": "86",
+      "name": "Regigigas",
+      "stage": "Basic",
+      "hp": "130",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "kawayoo",
+      "text": "It is said to have made Pokémon that look like itself from a special ice mountain, rocks, and magma.",
+      "attacks": [
+        {
+          "name": "Daunt",
+          "damage": "80",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 40 (before applying Weakness and Resistance)."
+        },
+        {
+          "name": "Heavy Impact",
+          "damage": "100",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-87",
+      "itemType": "Pokemon Card",
+      "number": "87",
+      "name": "Bunnelby",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "They use their large ears to dig burrows. They will dig the whole night through.",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Mud Shot",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-88",
+      "itemType": "Pokemon Card",
+      "number": "88",
+      "name": "Diggersby",
+      "stage": "Stage 1",
+      "evolvesFrom": "Bunnelby",
+      "hp": "100",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "match",
+      "text": "With their powerful ears, they can heft boulders of a ton or more with ease. They can be a big help at construction sites.",
+      "attacks": [
+        {
+          "name": "Smithereen Smash",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Earthquake",
+          "damage": "80",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-89",
+      "itemType": "Pokemon Card",
+      "number": "89",
+      "name": "Fletchling",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Kyoko Umemoto",
+      "text": "These friendly Pokémon send signals to one another with beautiful chirps and tail-feather movements.",
+      "attacks": [
+        {
+          "name": "Peck",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Quick Attack",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-90",
+      "itemType": "Pokemon Card",
+      "number": "90",
+      "name": "Furfrou",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Naoki Saito",
+      "text": "Trimming its fluffy fur not only makes it more elegant but also increases the swiftness of its movements.",
+      "attacks": [
+        {
+          "name": "Tight Jaw",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Sharp Fang",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-91",
+      "itemType": "Trainer Card",
+      "number": "91",
+      "name": "AZ",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "Put 1 Pokémon into your hand. (Discard all cards attached to that Pokémon.),You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-92",
+      "itemType": "Trainer Card",
+      "number": "92",
+      "name": "Battle Compressor Team Flare Gear",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Search your deck for up to 3 cards and discard them. Shuffle your deck afterward.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-93",
+      "itemType": "Trainer Card",
+      "number": "93",
+      "name": "Dimension Valley",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Each Psychic Pokémon's attacks (both yours and your opponent's) cost Colorless less.,This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-94",
+      "itemType": "Trainer Card",
+      "number": "94",
+      "name": "Enhanced Hammer",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Discard a Special Energy attached to 1 of your opponent's Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-95",
+      "itemType": "Trainer Card",
+      "number": "95",
+      "name": "Gengar Spirit Link",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,Your turn does not end if the Pokémon this card is attached to becomes M Gengar-EX.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-96",
+      "itemType": "Trainer Card",
+      "number": "96",
+      "name": "Hand Scope",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Your opponent reveals his or her hand.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-97",
+      "itemType": "Trainer Card",
+      "number": "97",
+      "name": "Head Ringer Team Flare Hyper Gear",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "text": "Attach this Pokemon Tool to 1 of your opponent's Pokemon-EX that doesn't already have a Pokemon Tool attached to it.,The attacks of the Pokémon this card is attached to cost Colorless more.,When this card is removed from a Pokémon for any reason, put this card in its owner's discard pile.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-98",
+      "itemType": "Trainer Card",
+      "number": "98",
+      "name": "Jamming Net Team Flare Hyper Gear",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "text": "Attach this Pokemon Tool to 1 of your opponent's Pokemon-EX that doesn't already have a Pokemon Tool attached to it.,The attacks of the Pokémon this card is attached to do 20 less damage to all Defending Pokémon (before applying Weakness and Resistance). (Don't apply Weakness and Resistance for Benched Pokémon.),When this card is removed from a Pokémon for any reason, put this card in its owner's discard pile.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-99",
+      "itemType": "Trainer Card",
+      "number": "99",
+      "name": "Lysandre's Trump Card",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hitoshi Ariga",
+      "text": "Each player shuffles all cards in his or her discard pile into his or her deck (except for Lysandre's Trump Card).,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-100",
+      "itemType": "Trainer Card",
+      "number": "100",
+      "name": "Manectric Spirit Link",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,Your turn does not end if the Pokémon this card is attached to becomes M Manectric-EX.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-101",
+      "itemType": "Trainer Card",
+      "number": "101",
+      "name": "Professor Sycamore",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yusuke Ohmura",
+      "text": "Discard your hand and draw 7 cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-102",
+      "itemType": "Trainer Card",
+      "number": "102",
+      "name": "Robo Substitute Team Flare Gear",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Play this card as if it were a 30 HP Colorless Basic Pokémon. At any time during your turn (before your attack), you may discard this card from play.,This card can't retreat. If this card is Knocked Out, your opponent can't take any Prize Cards for it.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-103",
+      "itemType": "Trainer Card",
+      "number": "103",
+      "name": "Roller Skates",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Flip a coin. If heads, draw 3 cards.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-104",
+      "itemType": "Trainer Card",
+      "number": "104",
+      "name": "Shauna",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "Shuffle your hand into your deck. Then, draw 5 cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-105",
+      "itemType": "Trainer Card",
+      "number": "105",
+      "name": "Steel Shelter",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Each Metal Pokémon (both yours and your opponent's) can't be affected by any Special Conditions. (Remove any Special Conditions affecting those Pokémon.),This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-106",
+      "itemType": "Trainer Card",
+      "number": "106",
+      "name": "Target Whistle Team Flare Gear",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Put a Basic Pokémon from your opponent's discard pile onto his or her Bench.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-107",
+      "itemType": "Trainer Card",
+      "number": "107",
+      "name": "Tierno",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "Draw 3 cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-108",
+      "itemType": "Trainer Card",
+      "number": "108",
+      "name": "Trick Coin",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,Once during your turn, after you flip any coins for an attack of the Pokémon this card is attached to, you may ignore all effects of those coin flips and begin flipping those coins again. (You may only use effects that let you flip coins again, including effects from other cards, once during your turn.),You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-109",
+      "itemType": "Trainer Card",
+      "number": "109",
+      "name": "VS Seeker",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Put a Supporter card from your discard pile into your hand.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-110",
+      "itemType": "Trainer Card",
+      "number": "110",
+      "name": "Xerosic",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yusuke Ohmura",
+      "text": "Choose a Pokémon Tool or Special Energy card attached to a Pokémon in play (yours or your opponent's) and discard it.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-111",
+      "itemType": "Energy Card",
+      "number": "111",
+      "name": "Double Colorless Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Double Colorless Energy provides ColorlessColorless Energy."
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-112",
+      "itemType": "Energy Card",
+      "number": "112",
+      "name": "Mystery Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "This card can only be attached to Psychic Pokémon. This card provides Psychic Energy only while this card is attached to a Psychic Pokémon.,The Retreat Cost of the Pokémon this card is attached to is ColorlessColorless less.,(If this card is attached to anything other than a Psychic Pokémon, discard this card.)"
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-113",
+      "itemType": "Pokemon Card",
+      "number": "113",
+      "name": "Manectric-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Overrun",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Assault Laser",
+          "damage": "60+",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon has a Pokémon Tool card attached to it, this attack does 60 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-114",
+      "itemType": "Pokemon Card",
+      "number": "114",
+      "name": "Gengar-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Night Attack",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Put 3 damage counters on 1 of your opponent's Pokémon."
+        },
+        {
+          "name": "Dark Corridor",
+          "damage": "60",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Poisoned. Switch this Pokémon with 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-115",
+      "itemType": "Pokemon Card",
+      "number": "115",
+      "name": "Malamar-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Hyper Hypnosis",
+          "text": "When you attach an Energy from your hand to this Pokémon, you may use this Ability. Your opponent's Active Pokémon is now Asleep.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "MAXamar",
+          "damage": "60×",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Flip a coin for each Energy attached to this Pokémon. This attack does 60 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-116",
+      "itemType": "Pokemon Card",
+      "number": "116",
+      "name": "Florges-EX",
+      "stage": "Basic",
+      "hp": "160",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Lead",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "Search your deck for a Supporter card, reveal it, and put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Bright Garden",
+          "damage": "20×",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage times the number of Grass Pokémon and Fairy Pokémon you have in play."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-117",
+      "itemType": "Trainer Card",
+      "number": "117",
+      "name": "AZ",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Naoki Saito",
+      "text": "Put 1 Pokémon into your hand. (Discard all cards attached to that Pokémon.),You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-118",
+      "itemType": "Trainer Card",
+      "number": "118",
+      "name": "Lysandre's Trump Card",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Hitoshi Ariga",
+      "text": "Each player shuffles all cards in his or her discard pile into his or her deck (except for Lysandre's Trump Card).,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-119",
+      "itemType": "Trainer Card",
+      "number": "119",
+      "name": "Xerosic",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Masakazu Fukuda",
+      "text": "Choose a Pokémon Tool or Special Energy card attached to a Pokémon in play (yours or your opponent's) and discard it.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-120",
+      "itemType": "Pokemon Card",
+      "number": "120",
+      "name": "M Manectric-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Manectric-EX",
+      "hp": "210",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Turbo Bolt",
+          "damage": "110",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Attach 2 basic Energy cards from your discard pile to 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-121",
+      "itemType": "Pokemon Card",
+      "number": "121",
+      "name": "M Gengar-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Gengar-EX",
+      "hp": "220",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Phantom Gate",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon's attacks and use it as this attack."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-phantom-forces-122",
+      "itemType": "Pokemon Card",
+      "number": "122",
+      "name": "Dialga-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Chrono Wind",
+          "damage": "60",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is a Pokémon-EX, it can't attack during your opponent's next turn."
+        },
+        {
+          "name": "Full Metal Impact",
+          "damage": "150",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard 2 Metal Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    }
+  ]
+}
