@@ -1,0 +1,4490 @@
+{
+  "setId": "tcg-pokemon-fates-collide",
+  "cardCount": "129",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-fates-collide-booster-box",
+      "itemType": "Sealed Product",
+      "name": "Fates Collide Booster Box"
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-booster-pack",
+      "itemType": "Sealed Product",
+      "name": "Fates Collide Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-fates-collide-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Shuckle",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "sui",
+      "text": "It stores Berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
+      "attacks": [
+        {
+          "name": "Hide a Berry",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw 2 cards. Then, put a card from your hand on the bottom of your deck."
+        },
+        {
+          "name": "Wrap",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Burmy",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "If its cloak is broken in battle, it quickly remakes the cloak with materials nearby.",
+      "attacks": [
+        {
+          "name": "Hang Down",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-3",
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Wormadam",
+      "stage": "Stage 1",
+      "evolvesFrom": "Burmy",
+      "hp": "120",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "kawayoo",
+      "text": "When Burmy evolved, its cloak became a part of this Pokémon's body. The cloak is never shed.",
+      "attacks": [
+        {
+          "name": "Solar Ray",
+          "damage": "20",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Heal 20 damage from each of your Pokémon."
+        },
+        {
+          "name": "Leaf Cutter",
+          "damage": "60+",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-4",
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Mothim",
+      "stage": "Stage 1",
+      "evolvesFrom": "Burmy",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "MAHOU",
+      "abilities": [
+        {
+          "name": "Wormadam First",
+          "text": "As often as you like during your turn (before your attack), you may move 1 damage counter from 1 of your Wormadam to another of your Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It flutters around at night and steals honey from the Combee hive.",
+      "attacks": [
+        {
+          "name": "Gust",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Snivy",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "text": "They photosynthesize by bathing their tails in sunlight. When they are not feeling well, their tails droop.",
+      "attacks": [
+        {
+          "name": "Blot",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Heal 10 damage from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-6",
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Servine",
+      "stage": "Stage 1",
+      "evolvesFrom": "Snivy",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Sumiyoshi Kizuki",
+      "abilities": [
+        {
+          "name": "Serpentine Strangle",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon, you may flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "type": "Ability"
+        }
+      ],
+      "text": "When it gets dirty, its leaves can't be used in photosynthesis, so it always keeps itself clean.",
+      "attacks": [
+        {
+          "name": "Vine Whip",
+          "damage": "20",
+          "cost": [
+            "Grass"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-7",
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Serperior",
+      "stage": "Stage 2",
+      "evolvesFrom": "Servine",
+      "hp": "140",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "You Iribi",
+      "text": "It can stop its opponents' movements with just a glare. It takes in solar energy and boosts it internally.",
+      "attacks": [
+        {
+          "name": "Coil",
+          "damage": "40",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "During your next turn, this Pokémon's attacks do 60 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance)."
+        },
+        {
+          "name": "Slashing Strike",
+          "damage": "80",
+          "cost": [
+            "Grass"
+          ],
+          "text": "This Pokémon can't use Slashing Strike during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-8",
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "Deerling",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Kanako Eo",
+      "text": "The turning of the seasons changes the color and scent of this Pokémon's fur. People use it to mark the seasons.",
+      "attacks": [
+        {
+          "name": "Find a Friend",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-9",
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Moltres",
+      "stage": "Basic",
+      "hp": "120",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "artist": "OOYAMA",
+      "text": "One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring.",
+      "attacks": [
+        {
+          "name": "Combustion",
+          "damage": "20",
+          "cost": [
+            "Fire"
+          ]
+        },
+        {
+          "name": "Flying Flare",
+          "damage": "80+",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may do 40 more damage. If you do, this Pokémon does 20 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Fennekin",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Akira Komayama",
+      "text": "As it walks, it munches on a twig in place of a snack. It intimidates opponents by puffing hot air out of its ears.",
+      "attacks": [
+        {
+          "name": "Will-O-Wisp",
+          "damage": "10",
+          "cost": [
+            "Fire"
+          ]
+        },
+        {
+          "name": "Tail Whip",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Fennekin",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "kirisAki",
+      "text": "As it walks, it munches on a twig in place of a snack. It intimidates opponents by puffing hot air out of its ears.",
+      "attacks": [
+        {
+          "name": "Invite Out",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Braixen",
+      "stage": "Stage 1",
+      "evolvesFrom": "Fennekin",
+      "hp": "80",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "kirisAki",
+      "text": "When the twig is plucked from its tail, friction sets the twig alight. The flame is used to send signals to its allies.",
+      "attacks": [
+        {
+          "name": "Destructive Flame",
+          "damage": "20",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Crackling Ribbon",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Delphox",
+      "stage": "Stage 2",
+      "evolvesFrom": "Braixen",
+      "hp": "140",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kagemaru Himeno",
+      "text": "Using psychic power, it generates a fiery vortex of 5,400 degree Fahrenheit, incinerating foes swept into this whirl of flame.",
+      "attacks": [
+        {
+          "name": "Flickering Flames",
+          "damage": "40",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        },
+        {
+          "name": "Psystorm",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage times the amount of Energy attached to all Pokémon in play."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Delphox BREAK",
+      "stage": "BREAK",
+      "evolvesFrom": "Delphox",
+      "hp": "180",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare BREAK",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Flare Witch",
+          "text": "Once during your turn (before your attack), you may search your deck for a Fire Energy card and attach it to 1 of your Pokémon. Shuffle your deck afterward.",
+          "type": "Ability"
+        }
+      ],
+      "text": "BREAK Evolution Rule: Delphox BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution."
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Seel",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Hasuno",
+      "text": "Covered with light blue fur, its hide is thick and tough. It is active in bitter cold of -40 degrees Fahrenheit.",
+      "attacks": [
+        {
+          "name": "Icy Snow",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-16",
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Dewgong",
+      "stage": "Stage 1",
+      "evolvesFrom": "Seel",
+      "hp": "120",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Naoyo Kimura",
+      "text": "Its streamlined body has little drag in water. The colder the temperature, the friskier it gets.",
+      "attacks": [
+        {
+          "name": "Freezing Breath",
+          "damage": "20",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed. If tails, your opponent's Active Pokémon is now Asleep."
+        },
+        {
+          "name": "Aurora Beam",
+          "damage": "100",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Omanyte",
+      "stage": "Restored",
+      "evolvesFrom": "Helix Fossil Omanyte",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shigenori Negishi",
+      "text": "Revived from an ancient fossil, this Pokémon uses air stored in its shell to sink and rise in water.",
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "damage": "30",
+          "cost": [
+            "Water"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-18",
+      "itemType": "Pokemon Card",
+      "number": "18",
+      "name": "Omastar",
+      "stage": "Stage 1",
+      "evolvesFrom": "Omanyte",
+      "hp": "120",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Hasuno",
+      "abilities": [
+        {
+          "name": "Restoring Beam",
+          "text": "Once during your turn (before your attack), you may search your deck for a Restored Pokémon and put it onto your Bench. Shuffle your deck afterward.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Once wrapped around its prey, it never lets go. It eats the prey by tearing at it with sharp fangs.",
+      "attacks": [
+        {
+          "name": "Spinning Attack",
+          "damage": "60",
+          "cost": [
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-19",
+      "itemType": "Pokemon Card",
+      "number": "19",
+      "name": "Omastar BREAK",
+      "stage": "BREAK",
+      "evolvesFrom": "Omastar",
+      "hp": "140",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare BREAK",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Dangerous Tentacle",
+          "text": "Once during your turn (before your attack), you may switch 1 of your opponent's Benched Pokémon-EX with his or her Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "BREAK Evolution Rule: Omastar BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution."
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-20",
+      "itemType": "Pokemon Card",
+      "number": "20",
+      "name": "Glaceon-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ayaka Yoshida",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Second Bite",
+          "damage": "20+",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "This attack does 10 more damage for each damage counter on your opponent's Active Pokémon."
+        },
+        {
+          "name": "Crystal Ray",
+          "damage": "70",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Evolution Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-21",
+      "itemType": "Pokemon Card",
+      "number": "21",
+      "name": "White Kyurem",
+      "stage": "Basic",
+      "hp": "130",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "kawayoo",
+      "text": "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.",
+      "attacks": [
+        {
+          "name": "Burning Icicles",
+          "damage": "40",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "If this Pokémon has any Fire Energy attached to it, this attack does 20 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Blizzard Burn",
+          "damage": "130",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "This Pokémon can't attack during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-22",
+      "itemType": "Pokemon Card",
+      "number": "22",
+      "name": "Binacle",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Tomokazu Komiya",
+      "text": "They stretch and then contract, yanking their rocks along with them in bold hops. They eat seaweed that washes up on the shoreline.",
+      "attacks": [
+        {
+          "name": "Swing Around",
+          "damage": "10+",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-23",
+      "itemType": "Pokemon Card",
+      "number": "23",
+      "name": "Barbaracle",
+      "stage": "Stage 1",
+      "evolvesFrom": "Binacle",
+      "hp": "100",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Shin Nagasawa",
+      "abilities": [
+        {
+          "name": "Hand Block",
+          "text": "If you have a Stadium card in play, your opponent can't attach any Special Energy cards from his or her hand to his or her Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Barbaracle's legs and hands have minds of their own, and they will move independently. But they usually follow the head's orders.",
+      "attacks": [
+        {
+          "name": "Claw Slash",
+          "damage": "70",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-24",
+      "itemType": "Pokemon Card",
+      "number": "24",
+      "name": "Rotom",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "Tomokazu Komiya",
+      "text": "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.",
+      "attacks": [
+        {
+          "name": "Energy Extract",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Search your deck for a basic Energy card and attach it to this Pokémon. Shuffle your deck afterward."
+        },
+        {
+          "name": "Plasmagic",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Move 2 damage counters from each of your Pokémon to your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-25",
+      "itemType": "Pokemon Card",
+      "number": "25",
+      "name": "Alakazam-EX",
+      "stage": "Basic",
+      "hp": "160",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "PLANETA",
+      "abilities": [
+        {
+          "name": "Kinesis",
+          "text": "When you play M Alakazam-EX from your hand to evolve this Pokémon, before it evolves, you may put 2 damage counters on your opponent's Active Pokémon and 3 damage counters on 1 of your opponent's Benched Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Suppression",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Put 3 damage counters on each of your opponent's Pokémon that has any Energy attached to it."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-26",
+      "itemType": "Pokemon Card",
+      "number": "26",
+      "name": "M Alakazam-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Alakazam-EX",
+      "hp": "210",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Zen Force",
+          "damage": "10+",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "This attack does 30 more damage for each damage counter on your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-27",
+      "itemType": "Pokemon Card",
+      "number": "27",
+      "name": "Koffing",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "sui",
+      "text": "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.",
+      "attacks": [
+        {
+          "name": "Division",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Search your deck for up to 2 Koffing and put them onto your Bench. Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-28",
+      "itemType": "Pokemon Card",
+      "number": "28",
+      "name": "Weezing",
+      "stage": "Stage 1",
+      "evolvesFrom": "Koffing",
+      "hp": "110",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shin Nagasawa",
+      "text": "Very rarely, a sudden mutation can result in two small Koffing twins becoming conjoined as a Weezing.",
+      "attacks": [
+        {
+          "name": "Balloon Bomb",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. For each heads, discard 2 cards from the top of your opponent's deck."
+        },
+        {
+          "name": "Thick Liquid",
+          "damage": "80",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Both Active Pokémon are now Confused and Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-29",
+      "itemType": "Pokemon Card",
+      "number": "29",
+      "name": "Mew",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Memories of Dawn",
+          "text": "This Pokémon can use the attacks of any of your Basic Pokémon in play. (You still need the necessary Energy to use each attack.)",
+          "type": "Ability"
+        }
+      ],
+      "text": "Its DNA is said to contain the genetic codes of all Pokémon, so it can use all kinds of techniques.",
+      "attacks": [
+        {
+          "name": "Encounter",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-30",
+      "itemType": "Pokemon Card",
+      "number": "30",
+      "name": "Spoink",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "TOKIYA",
+      "text": "It bounces around on its tail to keep its heart pumping. It carries a pearl from Clamperl on its head.",
+      "attacks": [
+        {
+          "name": "Rocket Jump",
+          "damage": "30",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-31",
+      "itemType": "Pokemon Card",
+      "number": "31",
+      "name": "Grumpig",
+      "stage": "Stage 1",
+      "evolvesFrom": "Spoink",
+      "hp": "100",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Sanosuke Sakuma",
+      "text": "It uses black pearls to amplify its psychic power. It does an odd dance to gain control over foes.",
+      "attacks": [
+        {
+          "name": "Head Walking",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Put a Basic Pokémon from your opponent's discard pile onto his or her Bench. Then, put 3 damage counters on that Pokémon."
+        },
+        {
+          "name": "Knock Back",
+          "damage": "50",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-32",
+      "itemType": "Pokemon Card",
+      "number": "32",
+      "name": "Gothita",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "They intently observe both Trainers and Pokémon. Apparently, they are looking at something only Gothita can see.",
+      "attacks": [
+        {
+          "name": "Psybeam",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-33",
+      "itemType": "Pokemon Card",
+      "number": "33",
+      "name": "Solosis",
+      "stage": "Basic",
+      "hp": "30",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "match",
+      "text": "They drive away attackers by unleashing psychic power. They can use telepathy to talk with others.",
+      "attacks": [
+        {
+          "name": "Mini Link",
+          "damage": "10+",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "If Solosis is on your Bench, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-34",
+      "itemType": "Pokemon Card",
+      "number": "34",
+      "name": "Duosion",
+      "stage": "Stage 1",
+      "evolvesFrom": "Solosis",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Sumiyoshi Kizuki",
+      "text": "When their two divided brains think the same thoughts, their psychic power is maximized.",
+      "attacks": [
+        {
+          "name": "Double Link",
+          "damage": "10+",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "If Solosis is on your Bench, this attack does 30 more damage. If Duosion is on your Bench, this attack does 60 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-35",
+      "itemType": "Pokemon Card",
+      "number": "35",
+      "name": "Reuniclus",
+      "stage": "Stage 2",
+      "evolvesFrom": "Duosion",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Yukiko Baba",
+      "text": "When Reuniclus shake hands, a network forms between their brains, increasing their psychic power.",
+      "attacks": [
+        {
+          "name": "Link Fusion",
+          "damage": "10+",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "If Solosis is on your Bench, this attack does 30 more damage. If Duosion is on your Bench, this attack does 60 more damage. If Reuniclus is on your Bench, this attack does 90 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-36",
+      "itemType": "Pokemon Card",
+      "number": "36",
+      "name": "Diglett",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "TOKIYA",
+      "text": "Its skin is very thin. If it is exposed to light, its blood heats up, causing it to grow weak.",
+      "attacks": [
+        {
+          "name": "Ram",
+          "damage": "10",
+          "cost": [
+            "Fighting"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-37",
+      "itemType": "Pokemon Card",
+      "number": "37",
+      "name": "Marowak",
+      "stage": "Stage 1",
+      "evolvesFrom": "Cubone",
+      "hp": "100",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Shin Nagasawa",
+      "abilities": [
+        {
+          "name": "Bodyguard",
+          "text": "Prevent all effects of attacks done to you or your hand by your opponent's Pokémon. Remove any existing effects.",
+          "type": "Ability"
+        }
+      ],
+      "text": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.",
+      "attacks": [
+        {
+          "name": "Bonemerang",
+          "damage": "60×",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 60 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-38",
+      "itemType": "Pokemon Card",
+      "number": "38",
+      "name": "Kabuto",
+      "stage": "Restored",
+      "evolvesFrom": "Dome Fossil Kabuto",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "MAHOU",
+      "text": "This Pokémon was regenerated from the fossil of an ancient creature. It protects itself with a hard shell.",
+      "attacks": [
+        {
+          "name": "Mud Shot",
+          "damage": "30",
+          "cost": [
+            "Fighting"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-39",
+      "itemType": "Pokemon Card",
+      "number": "39",
+      "name": "Kabutops",
+      "stage": "Stage 1",
+      "evolvesFrom": "Kabuto",
+      "hp": "150",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Kyoko Umemoto",
+      "text": "A slim and fast swimmer. It slices its prey with its sharp sickles and drinks the body fluids.",
+      "attacks": [
+        {
+          "name": "Cling",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon."
+        },
+        {
+          "name": "X-Scissor",
+          "damage": "80+",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 60 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-40",
+      "itemType": "Pokemon Card",
+      "number": "40",
+      "name": "Larvitar",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Suwama Chiaki",
+      "text": "Born deep underground, it comes aboveground and becomes a pupa once it has finished eating the surrounding soil.",
+      "attacks": [
+        {
+          "name": "Reckless Charge",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This Pokémon does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-41",
+      "itemType": "Pokemon Card",
+      "number": "41",
+      "name": "Larvitar",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Masakazu Fukuda",
+      "text": "Born deep underground, it comes aboveground and becomes a pupa once it has finished eating the surrounding soil.",
+      "attacks": [
+        {
+          "name": "Mountain Munch",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Discard the top card of your opponent's deck."
+        },
+        {
+          "name": "Corkscrew Punch",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-42",
+      "itemType": "Pokemon Card",
+      "number": "42",
+      "name": "Pupitar",
+      "stage": "Stage 1",
+      "evolvesFrom": "Larvitar",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "match",
+      "text": "Its shell is as hard as sheet rock, and it is also very strong. Its thrashing can topple a mountain.",
+      "attacks": [
+        {
+          "name": "Thrash",
+          "damage": "20+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage. If tails, this Pokémon does 20 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-43",
+      "itemType": "Pokemon Card",
+      "number": "43",
+      "name": "Regirock-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "PLANETA",
+      "abilities": [
+        {
+          "name": "Regi Power",
+          "text": "The attacks of your Fighting Pokémon (excluding Regirock-EX) do 10 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Bedrock Press",
+          "damage": "100",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-43a",
+      "itemType": "Pokemon Card",
+      "number": "43a",
+      "name": "Regirock-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "PLANETA",
+      "abilities": [
+        {
+          "name": "Regi Power",
+          "text": "The attacks of your Fighting Pokémon (excluding Regirock-EX) do 10 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Bedrock Press",
+          "damage": "100",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-44",
+      "itemType": "Pokemon Card",
+      "number": "44",
+      "name": "Wormadam",
+      "stage": "Stage 1",
+      "evolvesFrom": "Burmy",
+      "hp": "110",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hajime Kusajima",
+      "text": "When Burmy evolved, its cloak became a part of this Pokémon's body. The cloak is never shed.",
+      "attacks": [
+        {
+          "name": "Sand Spray",
+          "damage": "30",
+          "cost": [
+            "Fighting"
+          ]
+        },
+        {
+          "name": "Twin Bursts",
+          "damage": "60+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If Mothim is on your Bench, this attack does 60 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-45",
+      "itemType": "Pokemon Card",
+      "number": "45",
+      "name": "Riolu",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "You Iribi",
+      "text": "The aura that emanates from its body intensifies to alert others if it is afraid or sad.",
+      "attacks": [
+        {
+          "name": "Double Smash",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-46",
+      "itemType": "Pokemon Card",
+      "number": "46",
+      "name": "Riolu",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "match",
+      "text": "The aura that emanates from its body intensifies to alert others if it is afraid or sad.",
+      "attacks": [
+        {
+          "name": "Smash Punch",
+          "damage": "30",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-47",
+      "itemType": "Pokemon Card",
+      "number": "47",
+      "name": "Lucario",
+      "stage": "Stage 1",
+      "evolvesFrom": "Riolu",
+      "hp": "110",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Shin Nagasawa",
+      "text": "By reading the auras of all things, it can tell how others are feeling from over half a mile away.",
+      "attacks": [
+        {
+          "name": "Beatdown",
+          "damage": "40",
+          "cost": [
+            "Fighting"
+          ]
+        },
+        {
+          "name": "Magnum Kick",
+          "damage": "70",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-48",
+      "itemType": "Pokemon Card",
+      "number": "48",
+      "name": "Hawlucha",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouki Saitou",
+      "text": "With its wings, it controls its position in the air. It likes to attack from above, a maneuver that is difficult to defend against.",
+      "attacks": [
+        {
+          "name": "Backflip",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw a card."
+        },
+        {
+          "name": "Wicked Jab",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-49",
+      "itemType": "Pokemon Card",
+      "number": "49",
+      "name": "Carbink",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Yuka Morii",
+      "abilities": [
+        {
+          "name": "Energy Keeper",
+          "text": "Basic Energy attached to your Basic Pokémon can't be discarded by effects of your opponent's attacks, Abilities, or Trainer cards.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It has slept underground for hundreds of millions of years since its birth. It's occasionally found during the excavation of caves.",
+      "attacks": [
+        {
+          "name": "Stone Edge",
+          "damage": "60+",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-50",
+      "itemType": "Pokemon Card",
+      "number": "50",
+      "name": "Carbink",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "kawayoo",
+      "abilities": [
+        {
+          "name": "Safeguard",
+          "text": "Prevent all effects of attacks, including damage, done to this Pokémon by your opponent's Pokémon-EX.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It has slept underground for hundreds of millions of years since its birth. It's occasionally found during the excavation of caves.",
+      "attacks": [
+        {
+          "name": "Power Gem",
+          "damage": "40",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-51",
+      "itemType": "Pokemon Card",
+      "number": "51",
+      "name": "Carbink BREAK",
+      "stage": "BREAK",
+      "evolvesFrom": "Carbink",
+      "hp": "110",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare BREAK",
+      "artist": "5ban Graphics",
+      "text": "BREAK Evolution Rule: Carbink BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution.",
+      "attacks": [
+        {
+          "name": "Diamond Gift",
+          "damage": "20",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Attach 2 Energy cards from your discard pile to 1 of your Fighting Pokémon."
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-52",
+      "itemType": "Pokemon Card",
+      "number": "52",
+      "name": "Zygarde",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "It's hypothesized that it's monitoring those who destroy the ecosystem from deep in the cave where it lives.",
+      "attacks": [
+        {
+          "name": "Lookout",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon."
+        },
+        {
+          "name": "Aura Break",
+          "damage": "70",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is a Darkness or Fairy Pokémon, it can't attack during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-53",
+      "itemType": "Pokemon Card",
+      "number": "53",
+      "name": "Zygarde",
+      "stage": "Basic",
+      "hp": "120",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "text": "It's hypothesized that it's monitoring those who destroy the ecosystem from deep in the cave where it lives.",
+      "attacks": [
+        {
+          "name": "Rumble",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "name": "Geostrike",
+          "damage": "120",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "This attack does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-54",
+      "itemType": "Pokemon Card",
+      "number": "54",
+      "name": "Zygarde-EX",
+      "stage": "Basic",
+      "hp": "190",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Land's Pulse",
+          "damage": "20+",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "If there is any Stadium card in play, this attack does 20 more damage."
+        },
+        {
+          "name": "Cell Storm",
+          "damage": "60",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Heal 30 damage from this Pokémon."
+        },
+        {
+          "name": "Land's Wrath",
+          "damage": "100",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-54a",
+      "itemType": "Pokemon Card",
+      "number": "54a",
+      "name": "Zygarde-EX",
+      "stage": "Basic",
+      "hp": "190",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Land's Pulse",
+          "damage": "20+",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "If there is any Stadium card in play, this attack does 20 more damage."
+        },
+        {
+          "name": "Cell Storm",
+          "damage": "60",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Heal 30 damage from this Pokémon."
+        },
+        {
+          "name": "Land's Wrath",
+          "damage": "100",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-55",
+      "itemType": "Pokemon Card",
+      "number": "55",
+      "name": "Umbreon-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ayaka Yoshida",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Veil of Darkness",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Discard as many cards as you like from your hand. Then, draw that many cards."
+        },
+        {
+          "name": "Endgame",
+          "damage": "70",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent's Mega Evolution Pokémon is Knocked Out by damage from this attack, take 2 more Prize cards."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-56",
+      "itemType": "Pokemon Card",
+      "number": "56",
+      "name": "Tyranitar",
+      "stage": "Stage 2",
+      "evolvesFrom": "Pupitar",
+      "hp": "160",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Satoshi Shirai",
+      "abilities": [
+        {
+          "name": "Raging Roar",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon, you may attach 1 Darkness Energy from your discard pile to this Pokémon for each Prize card your opponent has taken.",
+          "type": "Ability"
+        }
+      ],
+      "text": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
+      "attacks": [
+        {
+          "name": "Dark Mountain",
+          "damage": "150+",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Darkness",
+            "Darkness",
+            "Darkness"
+          ],
+          "text": "Discard the top 2 cards of your deck. This attack does 50 more damage for each Supporter card discarded in this way."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-57",
+      "itemType": "Pokemon Card",
+      "number": "57",
+      "name": "Vullaby",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "text": "Their wings are too tiny to allow them to fly. They guard their posteriors with bones that were gathered by Mandibuzz.",
+      "attacks": [
+        {
+          "name": "Leer",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Cutting Wind",
+          "damage": "40",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-58",
+      "itemType": "Pokemon Card",
+      "number": "58",
+      "name": "Mandibuzz",
+      "stage": "Stage 1",
+      "evolvesFrom": "Vullaby",
+      "hp": "110",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "Masakazu Fukuda",
+      "text": "Watching from the sky, they swoop to strike weakened Pokémon on the ground. They decorate themselves with bones.",
+      "attacks": [
+        {
+          "name": "Bone Drop",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This attack does 60 damage to 1 of your opponent's Pokémon that has an Ability. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Cutting Wind",
+          "damage": "80",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-59",
+      "itemType": "Pokemon Card",
+      "number": "59",
+      "name": "Wormadam",
+      "stage": "Stage 1",
+      "evolvesFrom": "Burmy",
+      "hp": "100",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kyoko Umemoto",
+      "text": "When Burmy evolved, its cloak became a part of this Pokémon's body. The cloak is never shed.",
+      "attacks": [
+        {
+          "name": "Strike Back",
+          "damage": "20×",
+          "cost": [
+            "Metal"
+          ],
+          "text": "This attack does 20 damage times the number of damage counters on this Pokémon."
+        },
+        {
+          "name": "Iron Head",
+          "damage": "60+",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. This attack does 20 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-60",
+      "itemType": "Pokemon Card",
+      "number": "60",
+      "name": "Bronzor",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Common",
+      "artist": "Hajime Kusajima",
+      "text": "Implements shaped like it were discovered in ancient tombs. It is unknown if they are related.",
+      "attacks": [
+        {
+          "name": "Iron Defense",
+          "cost": [
+            "Metal"
+          ],
+          "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+        },
+        {
+          "name": "Hammer In",
+          "damage": "20",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-61",
+      "itemType": "Pokemon Card",
+      "number": "61",
+      "name": "Bronzong",
+      "stage": "Stage 1",
+      "evolvesFrom": "Bronzor",
+      "hp": "100",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "artist": "Naoki Saito",
+      "abilities": [
+        {
+          "name": "Metal Fortress",
+          "text": "Prevent all effects of your opponent's attacks, including damage, done to your Benched Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Ancient people believed that petitioning Bronzong for rain was the way to make crops grow.",
+      "attacks": [
+        {
+          "name": "Guard Press",
+          "damage": "60",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-62",
+      "itemType": "Pokemon Card",
+      "number": "62",
+      "name": "Bronzong BREAK",
+      "stage": "BREAK",
+      "evolvesFrom": "Bronzong",
+      "hp": "130",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare BREAK",
+      "artist": "5ban Graphics",
+      "text": "BREAK Evolution Rule: Bronzong BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution.",
+      "attacks": [
+        {
+          "name": "Metal Rain",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "text": "Discard as many Metal Energy attached to this Pokémon as you like. For each Energy card discarded in this way, choose 1 of your opponent's Pokémon and do 30 damage to it. Don't apply Weakness and Resistance. (You may choose the same Pokémon more than once.)"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-63",
+      "itemType": "Pokemon Card",
+      "number": "63",
+      "name": "Lucario",
+      "stage": "Stage 1",
+      "evolvesFrom": "Riolu",
+      "hp": "110",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Hitoshi Ariga",
+      "text": "By reading the auras of all things, it can tell how others are feeling from over half a mile away.",
+      "attacks": [
+        {
+          "name": "Vacuum Wave",
+          "damage": "50",
+          "cost": [
+            "Metal"
+          ],
+          "text": "This attack's damage isn't affected by Weakness or Resistance."
+        },
+        {
+          "name": "Fight Alone",
+          "damage": "30+",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "text": "If you have fewer Pokémon in play than your opponent, this attack does 60 more damage for each Pokémon fewer you have in play."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-64",
+      "itemType": "Pokemon Card",
+      "number": "64",
+      "name": "Genesect-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "abilities": [
+        {
+          "name": "Drive Change",
+          "text": "Once during your turn (before your attack), you may put a Pokémon Tool card attached to this Pokémon into your hand.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Rapid Blaster",
+          "damage": "100+",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Metal"
+          ],
+          "text": "Discard as many Metal Energy attached to this Pokémon as you like. This attack does 20 more damage for each Energy card discarded in this way."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-65",
+      "itemType": "Pokemon Card",
+      "number": "65",
+      "name": "Jigglypuff",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "text": "If it inflates to sing a lullaby, it can perform longer and cause sure drowsiness in its audience.",
+      "attacks": [
+        {
+          "name": "Pound",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Rollout",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-66",
+      "itemType": "Pokemon Card",
+      "number": "66",
+      "name": "Wigglytuff",
+      "stage": "Stage 1",
+      "evolvesFrom": "Jigglypuff",
+      "hp": "100",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mizue",
+      "text": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",
+      "attacks": [
+        {
+          "name": "Expand",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 30 (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Double Slap",
+          "damage": "60×",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 60 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-67",
+      "itemType": "Pokemon Card",
+      "number": "67",
+      "name": "Mr. Mime",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare",
+      "artist": "Sumiyoshi Kizuki",
+      "text": "It is adept at conning people. It is said to be able to create walls out of thin air by miming.",
+      "attacks": [
+        {
+          "name": "Mimic",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "Shuffle your hand into your deck. Then, draw a number of cards equal to the number of cards in your opponent's hand."
+        },
+        {
+          "name": "Juggling",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 4 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-68",
+      "itemType": "Pokemon Card",
+      "number": "68",
+      "name": "Snubbull",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Common",
+      "artist": "Aya Kusube",
+      "text": "Small Pokémon flee from its scary face. It is, however, considered by women to be cute.",
+      "attacks": [
+        {
+          "name": "Ruckus",
+          "damage": "50",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-69",
+      "itemType": "Pokemon Card",
+      "number": "69",
+      "name": "M Altaria-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Altaria-EX",
+      "hp": "220",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Mist Purge",
+          "damage": "100+",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If this Pokémon has any Special Energy attached to it, this attack does 30 more damage and heal 30 damage from each of your Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-70",
+      "itemType": "Pokemon Card",
+      "number": "70",
+      "name": "Cottonee",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Common",
+      "artist": "MAHOU",
+      "text": "Perhaps because they feel more at ease in a group, they stick to others they find. They end up looking like a cloud.",
+      "attacks": [
+        {
+          "name": "Fairy Wind",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-71",
+      "itemType": "Pokemon Card",
+      "number": "71",
+      "name": "Whimsicott",
+      "stage": "Stage 1",
+      "evolvesFrom": "Cottonee",
+      "hp": "90",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "sui",
+      "text": "Like the wind, it can slip through any gap, no matter how small. It leaves balls of white fluff behind.",
+      "attacks": [
+        {
+          "name": "Light Steps",
+          "damage": "40",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "Move an Energy from this Pokémon to 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-72",
+      "itemType": "Pokemon Card",
+      "number": "72",
+      "name": "Diancie-EX",
+      "stage": "Basic",
+      "hp": "150",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "abilities": [
+        {
+          "name": "Sparkle Veil",
+          "text": "As long as this Pokémon is your Active Pokémon, any damage done to your Pokémon by an opponent's attack is reduced by 30 (after applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Wonder Stage",
+          "damage": "60+",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If there is any Stadium card in play, this attack does 50 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-73",
+      "itemType": "Pokemon Card",
+      "number": "73",
+      "name": "Kingdra-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "hatachu",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Big Storm",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Discard any Stadium card in play."
+        },
+        {
+          "name": "Dragon Trail",
+          "damage": "60+",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 30 more damage for each basic Lightning Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-74",
+      "itemType": "Pokemon Card",
+      "number": "74",
+      "name": "Meowth",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Shigenori Negishi",
+      "text": "Adores round objects. It wanders the streets on a nightly basis to look for dropped loose change.",
+      "attacks": [
+        {
+          "name": "Turmoil Strike",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 50 damage to 1 of your opponent's Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-75",
+      "itemType": "Pokemon Card",
+      "number": "75",
+      "name": "Kangaskhan",
+      "stage": "Basic",
+      "hp": "120",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Masakazu Fukuda",
+      "text": "If it is safe, the young gets out of the belly pouch to play. The adult keeps a close eye on the youngster.",
+      "attacks": [
+        {
+          "name": "Tiny Punch",
+          "damage": "40",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Mega Punch",
+          "damage": "100",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-76",
+      "itemType": "Pokemon Card",
+      "number": "76",
+      "name": "Aerodactyl",
+      "stage": "Restored",
+      "evolvesFrom": "Old Amber Aerodactyl",
+      "hp": "120",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "kawayoo",
+      "text": "This vicious Pokémon is said to have flown in ancient skies while shrieking high-pitched cries.",
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Jet Draft",
+          "damage": "120",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard a Special Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-77",
+      "itemType": "Pokemon Card",
+      "number": "77",
+      "name": "Snorlax",
+      "stage": "Basic",
+      "hp": "140",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Tomokazu Komiya",
+      "text": "Its stomach can digest any kind of food, even if it happens to be moldy or rotten.",
+      "attacks": [
+        {
+          "name": "Toss and Turn",
+          "damage": "30+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack can be used even if this Pokémon is Asleep. If it is, this attack does 90 more damage."
+        },
+        {
+          "name": "Swallow",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-78",
+      "itemType": "Pokemon Card",
+      "number": "78",
+      "name": "Lugia",
+      "stage": "Basic",
+      "hp": "120",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "TOKIYA",
+      "abilities": [
+        {
+          "name": "Pressure",
+          "text": "As long as this Pokémon is your Active Pokémon, any damage done by attacks from your opponent's Active Pokémon is reduced by 20 (before applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "text": "It is said to be the guardian of the seas. It is rumored to have been seen on the night of a storm.",
+      "attacks": [
+        {
+          "name": "Intensifying Burn",
+          "damage": "60+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon is a Pokémon-EX, this attack does 60 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-79",
+      "itemType": "Pokemon Card",
+      "number": "79",
+      "name": "Lugia BREAK",
+      "stage": "BREAK",
+      "evolvesFrom": "Lugia",
+      "hp": "150",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare BREAK",
+      "artist": "5ban Graphics",
+      "text": "BREAK Evolution Rule: Lugia BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution.",
+      "attacks": [
+        {
+          "name": "Flash of Destruction",
+          "damage": "150",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard 2 Energy attached to this Pokémon."
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-80",
+      "itemType": "Pokemon Card",
+      "number": "80",
+      "name": "Whismur",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "If it senses danger, it scares the foe by crying out with the volume of a jet-plane engine.",
+      "attacks": [
+        {
+          "name": "Pound",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Round",
+          "damage": "10×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 10 damage times the number of your Pokémon that have the Round attack."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-81",
+      "itemType": "Pokemon Card",
+      "number": "81",
+      "name": "Loudred",
+      "stage": "Stage 1",
+      "evolvesFrom": "Whismur",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "TOKIYA",
+      "text": "The shock waves from its cries can tip over trucks. It stamps its feet to power up.",
+      "attacks": [
+        {
+          "name": "Smash Kick",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Stomp",
+          "damage": "40+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 40 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-82",
+      "itemType": "Pokemon Card",
+      "number": "82",
+      "name": "Exploud",
+      "stage": "Stage 2",
+      "evolvesFrom": "Loudred",
+      "hp": "140",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Masakazu Fukuda",
+      "text": "Its roar in battle shakes the ground like a tremor–or like an earthquake has struck.",
+      "attacks": [
+        {
+          "name": "Ambush",
+          "damage": "80+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 40 more damage."
+        },
+        {
+          "name": "Cacophony",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "At the end of your opponent's next turn, discard the Defending Pokémon and all cards attached to it."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-83",
+      "itemType": "Pokemon Card",
+      "number": "83",
+      "name": "Altaria-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Powerful Gain",
+          "damage": "30+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If this Pokémon was healed during this turn, this attack does 60 more damage and heal 30 damage from this Pokémon."
+        },
+        {
+          "name": "Shining Wind",
+          "damage": "80",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, this Pokémon has no Weakness."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-84",
+      "itemType": "Pokemon Card",
+      "number": "84",
+      "name": "Audino-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ayaka Yoshida",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Drain Slap",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Heal 20 damage from this Pokémon."
+        },
+        {
+          "name": "Do the Wave",
+          "damage": "60+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 10 more damage for each of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-85",
+      "itemType": "Pokemon Card",
+      "number": "85",
+      "name": "M Audino-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Audino-EX",
+      "hp": "220",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Magical Symphony",
+          "damage": "110",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If you played a Supporter card from your hand during this turn, this attack does 50 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-86",
+      "itemType": "Pokemon Card",
+      "number": "86",
+      "name": "Minccino",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "kirisAki",
+      "text": "These Pokémon prefer a tidy habitat. They are always sweeping and dusting, using their tails as brooms.",
+      "attacks": [
+        {
+          "name": "Cleaning Up",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Discard a Pokémon Tool card attached to 1 of your opponent's Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-87",
+      "itemType": "Pokemon Card",
+      "number": "87",
+      "name": "Minccino",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Mizue",
+      "text": "These Pokémon prefer a tidy habitat. They are always sweeping and dusting, using their tails as brooms.",
+      "attacks": [
+        {
+          "name": "Tail Smack",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-88",
+      "itemType": "Pokemon Card",
+      "number": "88",
+      "name": "Cinccino",
+      "stage": "Stage 1",
+      "evolvesFrom": "Minccino",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "MAHOU",
+      "text": "Cinccino's body is coated in a special oil that helps it deflect attacks, such as punches.",
+      "attacks": [
+        {
+          "name": "Covet",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent reveals his or her hand. Choose a card you find there and put it on the bottom of your opponent's deck."
+        },
+        {
+          "name": "Last Resort",
+          "damage": "60",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-89",
+      "itemType": "Pokemon Card",
+      "number": "89",
+      "name": "Cinccino",
+      "stage": "Stage 1",
+      "evolvesFrom": "Minccino",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouki Saitou",
+      "text": "Cinccino's body is coated in a special oil that helps it deflect attacks, such as punches.",
+      "attacks": [
+        {
+          "name": "Sweeping Cure",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Heal 90 damage from 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Knock Away",
+          "damage": "30+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-90",
+      "itemType": "Trainer Card",
+      "number": "90",
+      "name": "Alakazam Spirit Link",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,Your turn does not end if the Pokémon this card is attached to becomes M Alakazam-EX.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-91",
+      "itemType": "Trainer Card",
+      "number": "91",
+      "name": "Altaria Spirit Link",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,Your turn does not end if the Pokémon this card is attached to becomes M Altaria-EX.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-92",
+      "itemType": "Trainer Card",
+      "number": "92",
+      "name": "Audino Spirit Link",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,Your turn does not end if the Pokémon this card is attached to becomes M Audino-EX.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-93",
+      "itemType": "Trainer Card",
+      "number": "93",
+      "name": "Bent Spoon",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,Prevent all effects of your opponent's attacks, except damage, done to the Pokémon this card is attached to. (Existing effects are not removed.),You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-94",
+      "itemType": "Trainer Card",
+      "number": "94",
+      "name": "Chaos Tower",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Choose which way this card faces before you play it. This ↓ player's Pokémon can't be Confused or Poisoned. (If those Pokémon are already Confused or Poisoned, remove those Special Conditions.),Choose which way this card faces before you play it. This ↓ player's Pokémon can't be Asleep or Paralyzed. (If those Pokémon are already Asleep or Paralyzed, remove those Special Conditions.),This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-95",
+      "itemType": "Trainer Card",
+      "number": "95",
+      "name": "Devolution Spray",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Devolve 1 of your evolved Pokémon and put the highest Stage Evolution card on it into your hand. (That Pokémon can't evolve this turn.),You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-96",
+      "itemType": "Trainer Card",
+      "number": "96",
+      "name": "Dome Fossil Kabuto",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Look at the bottom 7 cards of your deck. You may reveal a Kabuto you find there and put it onto your Bench. Shuffle the other cards back into your deck.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-97",
+      "itemType": "Trainer Card",
+      "number": "97",
+      "name": "Energy Pouch",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,If the Pokémon this card is attached to is Knocked Out by damage from an opponent's attack, put all basic Energy attached to that Pokémon into your hand.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-98",
+      "itemType": "Trainer Card",
+      "number": "98",
+      "name": "Energy Reset",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Put as many Energy attached to your Pokémon as you like into your hand.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-99",
+      "itemType": "Trainer Card",
+      "number": "99",
+      "name": "Fairy Drop",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Heal 50 damage from 1 of your Pokémon that has any Fairy Energy attached to it.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-100",
+      "itemType": "Trainer Card",
+      "number": "100",
+      "name": "Fairy Garden",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Each Pokémon that has any Fairy Energy attached to it (both yours and your opponent's) has no Retreat Cost.,This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-101",
+      "itemType": "Trainer Card",
+      "number": "101",
+      "name": "Fossil Excavation Kit",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Put 2 in any combination of Helix Fossil Omanyte, Dome Fossil Kabuto, or Old Amber Aerodactyl cards from your discard pile into your hand.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-102",
+      "itemType": "Trainer Card",
+      "number": "102",
+      "name": "Helix Fossil Omanyte",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Look at the bottom 7 cards of your deck. You may reveal an Omanyte you find there and put it onto your Bench. Shuffle the other cards back into your deck.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-103",
+      "itemType": "Trainer Card",
+      "number": "103",
+      "name": "Lass's Special",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yusuke Ohmura",
+      "text": "Draw a card for each of your opponent's Benched Basic Pokémon.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-104",
+      "itemType": "Trainer Card",
+      "number": "104",
+      "name": "Mega Catcher",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Switch 1 of your opponent's Benched Mega Evolution Pokémon with his or her Active Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-105",
+      "itemType": "Trainer Card",
+      "number": "105",
+      "name": "N",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Megumi Mizutani",
+      "text": "Each player shuffles his or her hand into his or her deck. Then, each player draws a card for each of his or her remaining Prize cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-105a",
+      "itemType": "Trainer Card",
+      "number": "105a",
+      "name": "N",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Megumi Mizutani",
+      "text": "Each player shuffles his or her hand into his or her deck. Then, each player draws a card for each of his or her remaining Prize cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-106",
+      "itemType": "Trainer Card",
+      "number": "106",
+      "name": "Old Amber Aerodactyl",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Look at the bottom 7 cards of your deck. You may reveal an Aerodactyl you find there and put it onto your Bench. Shuffle the other cards back into your deck.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-107",
+      "itemType": "Trainer Card",
+      "number": "107",
+      "name": "Pokémon Fan Club",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yusuke Ohmura",
+      "text": "Search your deck for up to 2 Basic Pokémon, reveal them, and put them into your hand. Shuffle your deck afterward.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-108",
+      "itemType": "Trainer Card",
+      "number": "108",
+      "name": "Power Memory",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,The Zygarde-EX this card is attached to can also use the attack on this card. (You still need the necessary Energy to use this attack.),You may play as many Item cards as you like during your turn (before your attack).",
+      "attacks": [
+        {
+          "name": "All Cells Burn",
+          "damage": "200",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Discard 3 Energy attached to this Pokémon."
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-109",
+      "itemType": "Trainer Card",
+      "number": "109",
+      "name": "Random Receiver",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Reveal cards from the top of your deck until you reveal a Supporter card. Put it into your hand. Shuffle the other cards back into your deck.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-110",
+      "itemType": "Trainer Card",
+      "number": "110",
+      "name": "Scorched Earth",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Once during each player's turn, that player may discard a Fire or Fighting Energy card from his or her hand. If that player does so, he or she draws 2 cards.,This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-111",
+      "itemType": "Trainer Card",
+      "number": "111",
+      "name": "Shauna",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "Shuffle your hand into your deck. Then, draw 5 cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-111a",
+      "itemType": "Trainer Card",
+      "number": "111a",
+      "name": "Shauna",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ken Sugimori",
+      "text": "Shuffle your hand into your deck. Then, draw 5 cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-112",
+      "itemType": "Trainer Card",
+      "number": "112",
+      "name": "Team Rocket's Handiwork",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hitoshi Ariga",
+      "text": "Flip 2 coins. For each heads, discard 2 cards from the top of your opponent's deck.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-113",
+      "itemType": "Trainer Card",
+      "number": "113",
+      "name": "Ultra Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Discard 2 cards from your hand. (If you can't discard 2 cards, you can't play this card.) Search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-114",
+      "itemType": "Energy Card",
+      "number": "114",
+      "name": "Double Colorless Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Double Colorless Energy provides ColorlessColorless Energy."
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-115",
+      "itemType": "Energy Card",
+      "number": "115",
+      "name": "Strong Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "This card can only be attached to Fighting Pokémon. This card provides Fighting Energy only while this card is attached to a Fighting Pokémon.,The attacks of the Fighting Pokémon this card is attached to do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).,(If this card is attached to anything other than a Fighting Pokémon, discard this card.)"
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-116",
+      "itemType": "Pokemon Card",
+      "number": "116",
+      "name": "Glaceon-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Second Bite",
+          "damage": "20+",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "This attack does 10 more damage for each damage counter on your opponent's Active Pokémon."
+        },
+        {
+          "name": "Crystal Ray",
+          "damage": "70",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Evolution Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-117",
+      "itemType": "Pokemon Card",
+      "number": "117",
+      "name": "Alakazam-EX",
+      "stage": "Basic",
+      "hp": "160",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Kinesis",
+          "text": "When you play M Alakazam-EX from your hand to evolve this Pokémon, before it evolves, you may put 2 damage counters on your opponent's Active Pokémon and 3 damage counters on 1 of your opponent's Benched Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Suppression",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Put 3 damage counters on each of your opponent's Pokémon that has any Energy attached to it."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-118",
+      "itemType": "Pokemon Card",
+      "number": "118",
+      "name": "M Alakazam-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Alakazam-EX",
+      "hp": "210",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Zen Force",
+          "damage": "10+",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "This attack does 30 more damage for each damage counter on your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-119",
+      "itemType": "Pokemon Card",
+      "number": "119",
+      "name": "Umbreon-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Veil of Darkness",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Discard as many cards as you like from your hand. Then, draw that many cards."
+        },
+        {
+          "name": "Endgame",
+          "damage": "70",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent's Mega Evolution Pokémon is Knocked Out by damage from this attack, take 2 more Prize cards."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-120",
+      "itemType": "Pokemon Card",
+      "number": "120",
+      "name": "Genesect-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Drive Change",
+          "text": "Once during your turn (before your attack), you may put a Pokémon Tool card attached to this Pokémon into your hand.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Rapid Blaster",
+          "damage": "100+",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Metal"
+          ],
+          "text": "Discard as many Metal Energy attached to this Pokémon as you like. This attack does 20 more damage for each Metal Energy you discarded."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-121",
+      "itemType": "Pokemon Card",
+      "number": "121",
+      "name": "M Altaria-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Altaria-EX",
+      "hp": "220",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Mist Purge",
+          "damage": "100+",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If this Pokémon has any Special Energy attached to it, this attack does 30 more damage and heal 30 damage from each of your Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-122",
+      "itemType": "Pokemon Card",
+      "number": "122",
+      "name": "Kingdra-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Big Storm",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Discard any Stadium card in play."
+        },
+        {
+          "name": "Dragon Trail",
+          "damage": "60+",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 30 more damage for each basic Lightning Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-123",
+      "itemType": "Pokemon Card",
+      "number": "123",
+      "name": "Altaria-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Powerful Gain",
+          "damage": "30+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If this Pokémon was healed during this turn, this attack does 60 more damage and heal 30 damage from this Pokémon."
+        },
+        {
+          "name": "Shining Wind",
+          "damage": "80",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, this Pokémon has no Weakness."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-124",
+      "itemType": "Trainer Card",
+      "number": "124",
+      "name": "Team Rocket's Handiwork",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Hitoshi Ariga",
+      "text": "Flip 2 coins. For each heads, discard 2 cards from the top of your opponent's deck.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-fates-collide-125",
+      "itemType": "Pokemon Card",
+      "number": "125",
+      "name": "Alakazam-EX",
+      "stage": "Basic",
+      "hp": "160",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Kinesis",
+          "text": "When you play M Alakazam-EX from your hand to evolve this Pokémon, before it evolves, you may put 2 damage counters on your opponent's Active Pokémon and 3 damage counters on 1 of your opponent's Benched Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Suppression",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Put 3 damage counters on each of your opponent's Pokémon that has any Energy attached to it."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    }
+  ]
+}
