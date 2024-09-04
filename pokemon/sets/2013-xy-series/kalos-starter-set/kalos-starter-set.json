@@ -1,0 +1,1388 @@
+{
+  "setId": "tcg-pokemon-kalos-starter-set",
+  "cardCount": "39",
+  "sealedProducts": [],
+  "cards": [
+    {
+      "id": "tcg-pokemon-kalos-starter-set-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Weedle",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Grass"
+      ],
+      "artist": "Akira Komayama",
+      "text": "Often found in forests and grasslands. It has a sharp, toxic barb of around two inches on top of its head.",
+      "attacks": [
+        {
+          "name": "String Shot",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Pansage",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "artist": "Masakazu Fukuda",
+      "text": "It shares the leaf on its head with weary-looking Pokémon. These leaves are known to relieve stress.",
+      "attacks": [
+        {
+          "name": "Collect",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw a card."
+        },
+        {
+          "name": "Fury Swipes",
+          "damage": "10×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-3",
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Chespin",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "artist": "5ban Graphics",
+      "text": "The quills on its head are usually soft. When it flexes them, the points become so hard and sharp that they can pierce rock.",
+      "attacks": [
+        {
+          "name": "Vine Whip",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ]
+        },
+        {
+          "name": "Seed Bomb",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-4",
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Quilladin",
+      "stage": "Stage 1",
+      "evolvesFrom": "Chespin",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "artist": "5ban Graphics",
+      "text": "It relies on its sturdy shell to deflect predators' attacks. It counterattacks with its sharp quills.",
+      "attacks": [
+        {
+          "name": "Leech Seed",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Heal 10 damage from this Pokémon."
+        },
+        {
+          "name": "Needle Arm",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Chesnaught",
+      "stage": "Stage 2",
+      "evolvesFrom": "Quilladin",
+      "hp": "150",
+      "types": [
+        "Grass"
+      ],
+      "artist": "5ban Graphics",
+      "text": "Its Tackle is forceful enough to flip a 50-ton tank. It shields its allies from danger with its own body.",
+      "attacks": [
+        {
+          "name": "Needle Arm",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Tumbling Attack",
+          "damage": "80+",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 40 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-6",
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Slugma",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fire"
+      ],
+      "artist": "Mitsuhiro Arita",
+      "text": "A common sight in volcanic areas, it slowly slithers around in a constant search for warm places.",
+      "attacks": [
+        {
+          "name": "Combustion",
+          "damage": "20",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-7",
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Pansear",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "artist": "Naoyo Kimura",
+      "text": "Very intelligent, it roasts berries before eating them. It likes to help people.",
+      "attacks": [
+        {
+          "name": "Collect",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw a card."
+        },
+        {
+          "name": "Fury Swipes",
+          "damage": "10×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-8",
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "Fennekin",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fire"
+      ],
+      "artist": "5ban Graphics",
+      "text": "Eating a twig fills it with energy, and its roomy ears give vent to air hotter than 390 degrees Fahrenheit.",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "10",
+          "cost": [
+            "Fire"
+          ]
+        },
+        {
+          "name": "Live Coal",
+          "damage": "20",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-9",
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Braixen",
+      "stage": "Stage 1",
+      "evolvesFrom": "Fennekin",
+      "hp": "80",
+      "types": [
+        "Fire"
+      ],
+      "artist": "5ban Graphics",
+      "text": "It has a twig stuck in its tail. With friction from its tail fur, it sets the twig on fire and launches into battle.",
+      "attacks": [
+        {
+          "name": "Firebreathing",
+          "damage": "20+",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        },
+        {
+          "name": "Flame Tail",
+          "damage": "60",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Delphox",
+      "stage": "Stage 2",
+      "evolvesFrom": "Braixen",
+      "hp": "140",
+      "types": [
+        "Fire"
+      ],
+      "artist": "5ban Graphics",
+      "text": "It gazes into the flame at the tip of its branch to achieve a focused state, which allows it to see into the future.",
+      "attacks": [
+        {
+          "name": "Will-O-Wisp",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Fire Blast",
+          "damage": "120",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Panpour",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "artist": "Shin Nagasawa",
+      "text": "The water stored inside the tuft on its head is full of nutrients. It waters plants with it using its tail.",
+      "attacks": [
+        {
+          "name": "Collect",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw a card."
+        },
+        {
+          "name": "Fury Swipes",
+          "damage": "10×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Froakie",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "artist": "5ban Graphics",
+      "text": "It secretes flexible bubbles from its chest and back. The bubbles reduce the damage it would otherwise take when attacked.",
+      "attacks": [
+        {
+          "name": "Pound",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ]
+        },
+        {
+          "name": "Water Drip",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Frogadier",
+      "stage": "Stage 1",
+      "evolvesFrom": "Froakie",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "artist": "5ban Graphics",
+      "text": "It can throw bubble-covered pebbles with precise control, hitting empty cans up to a hundred feet away.",
+      "attacks": [
+        {
+          "name": "Water Drip",
+          "damage": "20",
+          "cost": [
+            "Water"
+          ]
+        },
+        {
+          "name": "Aqua Wave",
+          "damage": "40+",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Greninja",
+      "stage": "Stage 2",
+      "evolvesFrom": "Frogadier",
+      "hp": "140",
+      "types": [
+        "Water"
+      ],
+      "artist": "5ban Graphics",
+      "text": "It creates throwing stars out of compressed water. When it spins them and throws them at high speed, these stars can split metal in two.",
+      "attacks": [
+        {
+          "name": "Mat Block",
+          "damage": "40",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Aqua Edge",
+          "damage": "80",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Clauncher",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "artist": "5ban Graphics",
+      "text": "They knock down flying prey by firing compressed water from their massive claws like shooting a pistol.",
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-16",
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Poochyena",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "artist": "Mizue",
+      "text": "A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.",
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": "20",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Mightyena",
+      "stage": "Stage 1",
+      "evolvesFrom": "Poochyena",
+      "hp": "90",
+      "types": [
+        "Darkness"
+      ],
+      "artist": "Mitsuhiro Arita",
+      "text": "It will always obey the commands of a skilled Trainer. Its behavior arises from its living in packs in ancient times.",
+      "attacks": [
+        {
+          "name": "Hard Bite",
+          "damage": "40+",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-18",
+      "itemType": "Pokemon Card",
+      "number": "18",
+      "name": "Inkay",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "artist": "5ban Graphics",
+      "text": "Opponents who stare at the flashing of the light-emitting spots on its body become dazed and lose their will to fight.",
+      "attacks": [
+        {
+          "name": "Peck",
+          "damage": "10",
+          "cost": [
+            "Darkness"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-19",
+      "itemType": "Pokemon Card",
+      "number": "19",
+      "name": "Pawniard",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Metal"
+      ],
+      "artist": "Kouki Saitou",
+      "text": "Blades comprise this Pokémon's entire body. If battling dulls the blades, it sharpens them on stones by the river.",
+      "attacks": [
+        {
+          "name": "Pierce",
+          "damage": "10",
+          "cost": [
+            "Metal"
+          ]
+        },
+        {
+          "name": "Cut",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-20",
+      "itemType": "Pokemon Card",
+      "number": "20",
+      "name": "Bisharp",
+      "stage": "Stage 1",
+      "evolvesFrom": "Pawniard",
+      "hp": "90",
+      "types": [
+        "Metal"
+      ],
+      "artist": "Kagemaru Himeno",
+      "text": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.",
+      "attacks": [
+        {
+          "name": "Wicked Jab",
+          "damage": "20",
+          "cost": [
+            "Metal"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Metal Claw",
+          "damage": "70",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-21",
+      "itemType": "Pokemon Card",
+      "number": "21",
+      "name": "Honedge",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Metal"
+      ],
+      "artist": "5ban Graphics",
+      "text": "Apparently this Pokémon is born when a departed spirit inhabits a sword. It attaches itself to people and drinks their life force.",
+      "attacks": [
+        {
+          "name": "Continuous Slash",
+          "damage": "30×",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-22",
+      "itemType": "Pokemon Card",
+      "number": "22",
+      "name": "Snubbull",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fairy"
+      ],
+      "artist": "Naoki Saito",
+      "text": "It has an active, playful nature. Many women like to frolic with it because of its affectionate ways.",
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "damage": "20",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-23",
+      "itemType": "Pokemon Card",
+      "number": "23",
+      "name": "Granbull",
+      "stage": "Stage 1",
+      "evolvesFrom": "Snubbull",
+      "hp": "100",
+      "types": [
+        "Fairy"
+      ],
+      "artist": "Masakazu Fukuda",
+      "text": "It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.",
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "damage": "30",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Double Stomp",
+          "damage": "50+",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-24",
+      "itemType": "Pokemon Card",
+      "number": "24",
+      "name": "Swirlix",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fairy"
+      ],
+      "artist": "5ban Graphics",
+      "text": "To entangle its opponents in battle, it extrudes white threads as sweet and sticky as cotton candy.",
+      "attacks": [
+        {
+          "name": "Draining Kiss",
+          "damage": "10",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "Heal 10 damage from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-25",
+      "itemType": "Pokemon Card",
+      "number": "25",
+      "name": "Farfetch'd",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "artist": "Kagemaru Himeno",
+      "text": "The plant stalk it holds is its weapon. The stalk is used like a sword to cut all sorts of things.",
+      "attacks": [
+        {
+          "name": "Slash",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-26",
+      "itemType": "Pokemon Card",
+      "number": "26",
+      "name": "Snorlax",
+      "stage": "Basic",
+      "hp": "120",
+      "types": [
+        "Colorless"
+      ],
+      "artist": "Naoki Saito",
+      "text": "It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.",
+      "attacks": [
+        {
+          "name": "Rock Smash",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        },
+        {
+          "name": "Strength",
+          "damage": "70",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-27",
+      "itemType": "Pokemon Card",
+      "number": "27",
+      "name": "Miltank",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Colorless"
+      ],
+      "artist": "Akira Komayama",
+      "text": "If it is around babies, it milk it produces contains much more nutrition than usual.",
+      "attacks": [
+        {
+          "name": "Sitdown Splash",
+          "damage": "50+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-28",
+      "itemType": "Pokemon Card",
+      "number": "28",
+      "name": "Skitty",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "artist": "Shin Nagasawa",
+      "text": "It can't stop itself from chasing moving things, and it runs in a circle, chasing its own tail.",
+      "attacks": [
+        {
+          "name": "Jump On",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-29",
+      "itemType": "Pokemon Card",
+      "number": "29",
+      "name": "Bidoof",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "artist": "Kouki Saitou",
+      "text": "With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",
+      "attacks": [
+        {
+          "name": "Rollout",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-30",
+      "itemType": "Pokemon Card",
+      "number": "30",
+      "name": "Bunnelby",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "artist": "5ban Graphics",
+      "text": "They use their large ears to dig burrows. They will dig the whole night through.",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-31",
+      "itemType": "Pokemon Card",
+      "number": "31",
+      "name": "Fletchling",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "artist": "5ban Graphics",
+      "text": "These friendly Pokémon send signals to one another with beautiful chirps and tail-feather movements.",
+      "attacks": [
+        {
+          "name": "Razor Wind",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-32",
+      "itemType": "Pokemon Card",
+      "number": "32",
+      "name": "Furfrou",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "artist": "5ban Graphics",
+      "text": "Trimming its fluffy fur not only makes it more elegant but also increases the swiftness of its movements.",
+      "attacks": [
+        {
+          "name": "Tight Jaw",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Sharp Fang",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-33",
+      "itemType": "Pokemon Card",
+      "number": "33",
+      "name": "Furfrou",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "artist": "5ban Graphics",
+      "text": "Trimming its fluffy fur not only makes it more elegant but also increases the swiftness of its movements.",
+      "attacks": [
+        {
+          "name": "Tight Jaw",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Sharp Fang",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-34",
+      "itemType": "Trainer Card",
+      "number": "34",
+      "name": "Crushing Hammer",
+      "types": [
+        "Trainer"
+      ],
+      "artist": "5ban Graphics",
+      "text": "Flip a coin. If heads, discard an Energy attached to 1 of your opponent's Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-35",
+      "itemType": "Trainer Card",
+      "number": "35",
+      "name": "Poké Ball",
+      "types": [
+        "Trainer"
+      ],
+      "artist": "5ban Graphics",
+      "text": "Flip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-36",
+      "itemType": "Trainer Card",
+      "number": "36",
+      "name": "Pokémon Catcher",
+      "types": [
+        "Trainer"
+      ],
+      "artist": "5ban Graphics",
+      "text": "Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-37",
+      "itemType": "Trainer Card",
+      "number": "37",
+      "name": "Potion",
+      "types": [
+        "Trainer"
+      ],
+      "artist": "5ban Graphics",
+      "text": "Heal 30 damage from 1 of your Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-38",
+      "itemType": "Trainer Card",
+      "number": "38",
+      "name": "Switch",
+      "types": [
+        "Trainer"
+      ],
+      "artist": "5ban Graphics",
+      "text": "Switch your Active Pokémon with 1 of your Benched Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-kalos-starter-set-39",
+      "itemType": "Trainer Card",
+      "number": "39",
+      "name": "Tierno",
+      "types": [
+        "Trainer"
+      ],
+      "artist": "Ken Sugimori",
+      "text": "Draw 3 cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    }
+  ]
+}
