@@ -1,0 +1,4567 @@
+{
+  "setId": "tcg-pokemon-breakpoint",
+  "cardCount": "126",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-breakpoint-booster-box",
+      "itemType": "Sealed Product",
+      "name": "BREAKpoint Booster Box"
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-booster-pack",
+      "itemType": "Sealed Product",
+      "name": "BREAKpoint Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-breakpoint-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Chikorita",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Akira Komayama",
+      "text": "It uses the leaf on its head to determine the temperature and humidity. It loves to sunbathe.",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Blot",
+          "damage": "10",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Heal 10 damage from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Bayleef",
+      "stage": "Stage 1",
+      "evolvesFrom": "Chikorita",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mizue",
+      "text": "The buds that ring its neck give off a spicy aroma that perks people up.",
+      "attacks": [
+        {
+          "name": "Body Slam",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Vine Whip",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-3",
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Meganium",
+      "stage": "Stage 2",
+      "evolvesFrom": "Bayleef",
+      "hp": "150",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "kawayoo",
+      "abilities": [
+        {
+          "name": "Overgrow",
+          "text": "If this Pokémon's remaining HP is 50 or less, its attacks do 70 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "text": "Meganium's breath has the power to revive dead grass and plants. It can make them healthy again.",
+      "attacks": [
+        {
+          "name": "Green Force",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-4",
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Seedot",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Kanako Eo",
+      "text": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
+      "attacks": [
+        {
+          "name": "Ram",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Kricketot",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Sumiyoshi Kizuki",
+      "text": "When its antennae hit each other, it sounds like the music of a xylophone.",
+      "attacks": [
+        {
+          "name": "Bug Hunch",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Search your deck for up to 3 Grass Pokémon, reveal them, and put them into your hand. Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-6",
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Kricketune",
+      "stage": "Stage 1",
+      "evolvesFrom": "Kricketot",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Suwama Chiaki",
+      "text": "It signals its emotions with its melodies. Scientists are studying these melodic patterns.",
+      "attacks": [
+        {
+          "name": "Screech",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "During your next turn, any damage done to the Defending Pokémon by attacks is increased by 60 (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Slash",
+          "damage": "40",
+          "cost": [
+            "Grass"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-7",
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Petilil",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Naoyo Kimura",
+      "text": "Since they prefer moist, nutrient-rich soil, the areas where Petilil live are known to be good for growing plants.",
+      "attacks": [
+        {
+          "name": "Aromatherapy",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Heal 10 damage from each of your Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-8",
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "Lilligant",
+      "stage": "Stage 1",
+      "evolvesFrom": "Petilil",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Shin Nagasawa",
+      "text": "Even veteran Trainers face a challenge in getting its beautiful flower to bloom. This Pokémon is popular with celebrities.",
+      "attacks": [
+        {
+          "name": "Boo-Hoo",
+          "damage": "20",
+          "cost": [
+            "Grass"
+          ],
+          "text": "If your opponent attaches an Energy card from his or her hand to the Defending Pokémon during his or her next turn, that Pokémon will be Asleep."
+        },
+        {
+          "name": "Leaf Slice",
+          "damage": "30×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-9",
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Durant",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouki Saitou",
+      "text": "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.",
+      "attacks": [
+        {
+          "name": "Mountain Munch",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Discard the top card of your opponent's deck."
+        },
+        {
+          "name": "Scrape Down",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "If this Pokémon has any damage counters on it, discard the top 4 cards of your opponent's deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Growlithe",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "match",
+      "text": "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Arcanine",
+      "stage": "Stage 1",
+      "evolvesFrom": "Growlithe",
+      "hp": "110",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "match",
+      "text": "Its magnificent bark conveys a sense of majesty. Anyone hearing it can't help but grovel before it.",
+      "attacks": [
+        {
+          "name": "Flop",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Flamethrower",
+          "damage": "90",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Numel",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "MAHOU",
+      "text": "The magma in its body reaches 2,200 degrees Fahrenheit. Its hump gets smaller when it uses Fire-type moves.",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Combustion",
+          "damage": "40",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Camerupt",
+      "stage": "Stage 1",
+      "evolvesFrom": "Numel",
+      "hp": "130",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "artist": "Shigenori Negishi",
+      "text": "If angered, the humps on its back erupt in a shower of molten lava. It lives in the craters of volcanoes.",
+      "attacks": [
+        {
+          "name": "Ram",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Eruption",
+          "damage": "80+",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Each player discards the top card of his or her deck. This attack does 60 more damage for each Energy card discarded in this way."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Emboar-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Spiral Punch",
+          "damage": "20+",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. This attack does 20 more damage for each heads."
+        },
+        {
+          "name": "Strong Flare",
+          "damage": "150",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard 2 Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Heatmor",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "match",
+      "text": "It draws in air through its tail, transforms it into fire, and uses it like a tongue. It melts Durant and eats them.",
+      "attacks": [
+        {
+          "name": "Reinforced Flame",
+          "damage": "20+",
+          "cost": [
+            "Fire"
+          ],
+          "text": "If this Pokémon has a Pokémon Tool card attached to it, this attack does 20 more damage."
+        },
+        {
+          "name": "Heat Blast",
+          "damage": "70",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-16",
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Psyduck",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "It has mystical powers but doesn't recall that it has used them. That is why it always looks puzzled.",
+      "attacks": [
+        {
+          "name": "Stampede",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Golduck",
+      "stage": "Stage 1",
+      "evolvesFrom": "Psyduck",
+      "hp": "100",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "text": "The forelegs are webbed, helping to make it an adept swimmer. It can be seen swimming elegantly in lakes, etc.",
+      "attacks": [
+        {
+          "name": "Derail",
+          "damage": "20",
+          "cost": [
+            "Water"
+          ],
+          "text": "Discard a Special Energy attached to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Hydro Splash",
+          "damage": "70",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-18",
+      "itemType": "Pokemon Card",
+      "number": "18",
+      "name": "Golduck BREAK",
+      "stage": "BREAK",
+      "evolvesFrom": "Golduck",
+      "hp": "140",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare BREAK",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Hyper Transfer",
+          "text": "As often as you like during your turn (before your attack), you may move a basic Energy from 1 of your Pokémon to another of your Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "BREAK Evolution Rule: Golduck BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution."
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-19",
+      "itemType": "Pokemon Card",
+      "number": "19",
+      "name": "Slowpoke",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Akira Komayama",
+      "text": "It lazes vacantly near water. If something bites its tail, it won't even notice for a whole day.",
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Tail Lure",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-20",
+      "itemType": "Pokemon Card",
+      "number": "20",
+      "name": "Slowbro",
+      "stage": "Stage 1",
+      "evolvesFrom": "Slowpoke",
+      "hp": "100",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "kirisAki",
+      "text": "When a Slowpoke went hunting in the sea, its tail was bitten by a Shellder. That made it evolve into Slowbro.",
+      "attacks": [
+        {
+          "name": "Careless Head",
+          "damage": "10+",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, this attack does 50 more damage."
+        },
+        {
+          "name": "Walk-Off Homer",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If you use this attack when you have only 1 Prize card left, you win this game."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-21",
+      "itemType": "Pokemon Card",
+      "number": "21",
+      "name": "Slowking",
+      "stage": "Stage 1",
+      "evolvesFrom": "Slowpoke",
+      "hp": "100",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Aya Kusube",
+      "abilities": [
+        {
+          "name": "Royal Flash",
+          "text": "Once during your turn (before your attack), you may flip a coin. If heads, move an Energy from your opponent's Active Pokémon to 1 of his or her Benched Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "When its head was bitten, toxins entered Slowpoke's head and unlocked an extraordinary power.",
+      "attacks": [
+        {
+          "name": "Psych Up",
+          "damage": "40",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "During your next turn, this Pokémon's Psych Up attack does 40 more damage (before applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-22",
+      "itemType": "Pokemon Card",
+      "number": "22",
+      "name": "Shellder",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Mizue",
+      "text": "Clamping on to an opponent reveals its vulnerable parts, so it uses this move only as a last resort.",
+      "attacks": [
+        {
+          "name": "Razor Shell",
+          "damage": "10+",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-23",
+      "itemType": "Pokemon Card",
+      "number": "23",
+      "name": "Shellder",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "Clamping on to an opponent reveals its vulnerable parts, so it uses this move only as a last resort.",
+      "attacks": [
+        {
+          "name": "Clamp",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-24",
+      "itemType": "Pokemon Card",
+      "number": "24",
+      "name": "Cloyster",
+      "stage": "Stage 1",
+      "evolvesFrom": "Shellder",
+      "hp": "100",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Saya Tsuruta",
+      "text": "Its shell is extremely hard. It cannot be shattered, even with a bomb. The shell opens only when it is attacking.",
+      "attacks": [
+        {
+          "name": "Sudden Grip",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ],
+          "text": "If this Pokémon evolved from Shellder during this turn, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Surf",
+          "damage": "70",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-25",
+      "itemType": "Pokemon Card",
+      "number": "25",
+      "name": "Staryu",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Hiroki Asanuma",
+      "text": "It appears in large numbers by seashores. At night, its central core flashes with a red light.",
+      "attacks": [
+        {
+          "name": "Smack",
+          "damage": "20",
+          "cost": [
+            "Water"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-26",
+      "itemType": "Pokemon Card",
+      "number": "26",
+      "name": "Gyarados-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Stormy Seas",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. For each heads, search your deck for a Water Energy card and attach it to this Pokémon. Shuffle your deck afterward."
+        },
+        {
+          "name": "Splash Burn",
+          "damage": "130",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-27",
+      "itemType": "Pokemon Card",
+      "number": "27",
+      "name": "M Gyarados-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Gyarados-EX",
+      "hp": "240",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Blast Geyser",
+          "damage": "120+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may do 20 more damage for each Water Energy attached to this Pokémon. If you do, discard the top 2 cards of your deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-28",
+      "itemType": "Pokemon Card",
+      "number": "28",
+      "name": "Lapras",
+      "stage": "Basic",
+      "hp": "120",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "kirisAki",
+      "text": "Its high intelligence enables it to understand human speech. It likes to ferry people on its back.",
+      "attacks": [
+        {
+          "name": "Errand-Running",
+          "cost": [
+            "Water"
+          ],
+          "text": "Search your deck for a Trainer card, reveal it, and put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Water Splash",
+          "damage": "80+",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-29",
+      "itemType": "Pokemon Card",
+      "number": "29",
+      "name": "Corsola",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Kanako Eo",
+      "text": "They prefer unpolluted southern seas. Their coral branches lose their color and deteriorate in dirty water.",
+      "attacks": [
+        {
+          "name": "Spike Cannon",
+          "damage": "30×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+        },
+        {
+          "name": "Power Gem",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-30",
+      "itemType": "Pokemon Card",
+      "number": "30",
+      "name": "Suicune",
+      "stage": "Basic",
+      "hp": "120",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Wind Charm",
+          "text": "As long as this Pokémon is your Active Pokémon, prevent all effects of your opponent's attacks, except damage, done to each of your Pokémon. (Existing effects are not removed.)",
+          "type": "Ability"
+        }
+      ],
+      "text": "Said to be the embodiment of north winds, it can instantly purify filthy, murky water.",
+      "attacks": [
+        {
+          "name": "Aurora Beam",
+          "damage": "110",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-31",
+      "itemType": "Pokemon Card",
+      "number": "31",
+      "name": "Palkia-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Aqua Turbo",
+          "damage": "40",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "Search your deck for 2 Water Energy cards and attach them to 1 of your Benched Pokémon. Shuffle your deck afterward."
+        },
+        {
+          "name": "Pearl Hurricane",
+          "damage": "120",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-32",
+      "itemType": "Pokemon Card",
+      "number": "32",
+      "name": "Manaphy-EX",
+      "stage": "Basic",
+      "hp": "120",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "abilities": [
+        {
+          "name": "Aqua Tube",
+          "text": "Each of your Pokémon that has any Water Energy attached to it has no Retreat Cost.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Mineral Pump",
+          "damage": "60",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "Heal 30 damage from each of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-33",
+      "itemType": "Pokemon Card",
+      "number": "33",
+      "name": "Tympole",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Miki Tanaka",
+      "text": "By vibrating its cheeks, it emits sound waves imperceptible to humans. It uses the rhythm of these sounds to talk.",
+      "attacks": [
+        {
+          "name": "Get Loud",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ]
+        },
+        {
+          "name": "Round",
+          "damage": "10×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 10 damage times the number of your Pokémon in play that have the Round attack."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-34",
+      "itemType": "Pokemon Card",
+      "number": "34",
+      "name": "Palpitoad",
+      "stage": "Stage 1",
+      "evolvesFrom": "Tympole",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ayaka Yoshida",
+      "text": "It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents.",
+      "attacks": [
+        {
+          "name": "Frog Hop",
+          "damage": "20+",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        },
+        {
+          "name": "Mud Shot",
+          "damage": "60",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-35",
+      "itemType": "Pokemon Card",
+      "number": "35",
+      "name": "Seismitoad",
+      "stage": "Stage 2",
+      "evolvesFrom": "Palpitoad",
+      "hp": "150",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Kanako Eo",
+      "text": "They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents.",
+      "attacks": [
+        {
+          "name": "Siphon Off",
+          "cost": [
+            "Water"
+          ],
+          "text": "Attach 3 Energy cards from your discard pile to this Pokémon."
+        },
+        {
+          "name": "Shaky Fall",
+          "damage": "90",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "text": "Your opponent's Active Pokémon is now Confused. That Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-36",
+      "itemType": "Pokemon Card",
+      "number": "36",
+      "name": "Ducklett",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "text": "They are better at swimming than flying, and they happily eat their favorite food, peat moss, as they dive underwater.",
+      "attacks": [
+        {
+          "name": "Lunge",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-37",
+      "itemType": "Pokemon Card",
+      "number": "37",
+      "name": "Swanna",
+      "stage": "Stage 1",
+      "evolvesFrom": "Ducklett",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "sui",
+      "text": "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock.",
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Brave Bird",
+          "damage": "80",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This Pokémon does 20 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-38",
+      "itemType": "Pokemon Card",
+      "number": "38",
+      "name": "Froakie",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Sanosuke Sakuma",
+      "text": "It protects its skin by covering its body in delicate bubbles. Beneath its happy-go-lucky air, it keeps a watchful eye on its surroundings.",
+      "attacks": [
+        {
+          "name": "Bubble",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-39",
+      "itemType": "Pokemon Card",
+      "number": "39",
+      "name": "Frogadier",
+      "stage": "Stage 1",
+      "evolvesFrom": "Froakie",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shin Nagasawa",
+      "text": "Its swiftness is unparalleled. It can scale a tower of more than 2,000 feet in a minute's time.",
+      "attacks": [
+        {
+          "name": "Water Duplicates",
+          "cost": [
+            "Water"
+          ],
+          "text": "Search your deck for up to 3 Frogadier and put them onto your Bench. Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-40",
+      "itemType": "Pokemon Card",
+      "number": "40",
+      "name": "Greninja",
+      "stage": "Stage 2",
+      "evolvesFrom": "Frogadier",
+      "hp": "130",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Naoki Saito",
+      "text": "It appears and vanishes with a ninja's grace. It toys with its enemies using swift movements, while slicing them with throwing stars of sharpest water.",
+      "attacks": [
+        {
+          "name": "Shadow Stitching",
+          "damage": "40",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Until the end of your opponent's next turn, each Pokémon your opponent has in play, in his or her hand, and in his or her discard pile has no Abilities. (This includes cards that come into play on that turn.)"
+        },
+        {
+          "name": "Moonlight Slash",
+          "damage": "60+",
+          "cost": [
+            "Water"
+          ],
+          "text": "You may return a Water Energy from this Pokémon to your hand. If you do, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-41",
+      "itemType": "Pokemon Card",
+      "number": "41",
+      "name": "Greninja BREAK",
+      "stage": "BREAK",
+      "evolvesFrom": "Greninja",
+      "hp": "170",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare BREAK",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Giant Water Shuriken",
+          "text": "Once during your turn (before your attack), if this Pokémon is your Active Pokémon, you may discard a Water Energy card from your hand. If you do, put 6 damage counters on 1 of your opponent's Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "BREAK Evolution Rule: Greninja BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution."
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-42",
+      "itemType": "Pokemon Card",
+      "number": "42",
+      "name": "Electabuzz",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Shin Nagasawa",
+      "text": "It loves to feed on strong electricity. It occasionally appears around large power plants and so on.",
+      "attacks": [
+        {
+          "name": "Knuckle Punch",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-43",
+      "itemType": "Pokemon Card",
+      "number": "43",
+      "name": "Electivire",
+      "stage": "Stage 1",
+      "evolvesFrom": "Electabuzz",
+      "hp": "110",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shin Nagasawa",
+      "text": "It pushes the tips of its two tails against the foe, then lets loose with over 20,000 volts of power.",
+      "attacks": [
+        {
+          "name": "Knuckle Punch",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Electroslug",
+          "damage": "90",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-44",
+      "itemType": "Pokemon Card",
+      "number": "44",
+      "name": "Shinx",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Saya Tsuruta",
+      "text": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
+      "attacks": [
+        {
+          "name": "Roar",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "name": "Flop",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-45",
+      "itemType": "Pokemon Card",
+      "number": "45",
+      "name": "Luxio",
+      "stage": "Stage 1",
+      "evolvesFrom": "Shinx",
+      "hp": "80",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Sanosuke Sakuma",
+      "text": "Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.",
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Thunder Fang",
+          "damage": "30",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-46",
+      "itemType": "Pokemon Card",
+      "number": "46",
+      "name": "Luxray",
+      "stage": "Stage 2",
+      "evolvesFrom": "Luxio",
+      "hp": "140",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "Masakazu Fukuda",
+      "text": "Luxray's ability to see through objects comes in handy when it's scouting for danger.",
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Snarl",
+          "damage": "100",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 (after applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-47",
+      "itemType": "Pokemon Card",
+      "number": "47",
+      "name": "Luxray BREAK",
+      "stage": "BREAK",
+      "evolvesFrom": "Luxray",
+      "hp": "170",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare BREAK",
+      "artist": "5ban Graphics",
+      "text": "BREAK Evolution Rule: Luxray BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution.",
+      "attacks": [
+        {
+          "name": "Wild Fury",
+          "damage": "130+",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. This attack does 40 more damage for each heads."
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-48",
+      "itemType": "Pokemon Card",
+      "number": "48",
+      "name": "Blitzle",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Aya Kusube",
+      "text": "Its mane shines when it discharges electricity. They use the frequency and rhythm of these flashes to communicate.",
+      "attacks": [
+        {
+          "name": "Reckless Charge",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This Pokémon does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-49",
+      "itemType": "Pokemon Card",
+      "number": "49",
+      "name": "Zebstrika",
+      "stage": "Stage 1",
+      "evolvesFrom": "Blitzle",
+      "hp": "100",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "Hajime Kusajima",
+      "abilities": [
+        {
+          "name": "Zap Zone",
+          "text": "Damage from the attacks of your Lightning Pokémon isn't affected by any effects on your opponent's Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "They have lightning-like movements. When Zebstrika run at full speed, the sound of thunder reverberates.",
+      "attacks": [
+        {
+          "name": "Crashing Bolt",
+          "damage": "50+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon has Fighting Resistance, this attack does 60 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-50",
+      "itemType": "Pokemon Card",
+      "number": "50",
+      "name": "Drowzee",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Shigenori Negishi",
+      "text": "If you think that you had a good dream but you can't remember it, a Drowzee has probably eaten it.",
+      "attacks": [
+        {
+          "name": "Mumble",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ]
+        },
+        {
+          "name": "Focused Wish",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-51",
+      "itemType": "Pokemon Card",
+      "number": "51",
+      "name": "Hypno",
+      "stage": "Stage 1",
+      "evolvesFrom": "Drowzee",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Tomokazu Komiya",
+      "abilities": [
+        {
+          "name": "Goodnight, Babies",
+          "text": "Once during your turn (before your attack), you may leave both Active Pokémon Asleep.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.",
+      "attacks": [
+        {
+          "name": "Zen Headbutt",
+          "damage": "50",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-52",
+      "itemType": "Pokemon Card",
+      "number": "52",
+      "name": "Espeon-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ayaka Yoshida",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Miraculous Shine",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Devolve each of your opponent's evolved Pokémon and put the highest Stage Evolution card on it into your opponent's hand."
+        },
+        {
+          "name": "Psyshock",
+          "damage": "70",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-53",
+      "itemType": "Pokemon Card",
+      "number": "53",
+      "name": "Skorupi",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Kyoko Umemoto",
+      "text": "It burrows under the sand to lie in wait for prey. Its tail claws can inject its prey with a savage poison.",
+      "attacks": [
+        {
+          "name": "Pin Missile",
+          "damage": "10×",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Flip 4 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-54",
+      "itemType": "Pokemon Card",
+      "number": "54",
+      "name": "Drapion",
+      "stage": "Stage 1",
+      "evolvesFrom": "Skorupi",
+      "hp": "130",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "text": "It has the power in its clawed arms to make scrap of a car. The tips of its claws release poison.",
+      "attacks": [
+        {
+          "name": "Poison Claws",
+          "damage": "70",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        },
+        {
+          "name": "Heavy Impact",
+          "damage": "130",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-55",
+      "itemType": "Pokemon Card",
+      "number": "55",
+      "name": "Sigilyph",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Masakazu Fukuda",
+      "text": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders.",
+      "attacks": [
+        {
+          "name": "Reflective Shield",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, if this Pokémon is damaged by an attack (even if this Pokémon is Knocked Out), put 5 damage counters on the Attacking Pokémon."
+        },
+        {
+          "name": "Psy Report",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Your opponent reveals his or her hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-56",
+      "itemType": "Pokemon Card",
+      "number": "56",
+      "name": "Trubbish",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "OOYAMA",
+      "text": "Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places.",
+      "attacks": [
+        {
+          "name": "Acid Spray",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-57",
+      "itemType": "Pokemon Card",
+      "number": "57",
+      "name": "Garbodor",
+      "stage": "Stage 1",
+      "evolvesFrom": "Trubbish",
+      "hp": "100",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kouki Saitou",
+      "abilities": [
+        {
+          "name": "Garbotoxin",
+          "text": "If this Pokémon has a Pokémon Tool card attached to it, each Pokémon in play, in each player's hand, and in each player's discard pile has no Abilities (except for Garbotoxin).",
+          "type": "Ability"
+        }
+      ],
+      "text": "Consuming garbage makes new kinds of poison gases and liquids inside their bodies.",
+      "attacks": [
+        {
+          "name": "Offensive Bomb",
+          "damage": "60",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Confused and Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-58",
+      "itemType": "Pokemon Card",
+      "number": "58",
+      "name": "Espurr",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "It has enough psychic energy to blast everything within 300 feet of itself, but it has no control over its power.",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-59",
+      "itemType": "Pokemon Card",
+      "number": "59",
+      "name": "Meowstic",
+      "stage": "Stage 1",
+      "evolvesFrom": "Espurr",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "text": "The eyeball patterns on the interior of its ears emit psychic energy. It keeps the patterns tightly covered because that power is too immense.",
+      "attacks": [
+        {
+          "name": "Energy Present",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Attach up to 2 Energy cards from your hand to 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Psyshot",
+          "damage": "40",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-60",
+      "itemType": "Pokemon Card",
+      "number": "60",
+      "name": "Honedge",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "kawayoo",
+      "text": "If anyone dares to grab its hilt, it wraps a blue cloth around that person's arm and drains that person's life energy completely.",
+      "attacks": [
+        {
+          "name": "Stab",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Put 1 damage counter on your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-61",
+      "itemType": "Pokemon Card",
+      "number": "61",
+      "name": "Doublade",
+      "stage": "Stage 1",
+      "evolvesFrom": "Honedge",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hajime Kusajima",
+      "text": "The complex attack patterns of its two swords are unstoppable, even for an opponent greatly accomplished at swordplay.",
+      "attacks": [
+        {
+          "name": "Stab Deeply",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Put 3 damage counters on your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-62",
+      "itemType": "Pokemon Card",
+      "number": "62",
+      "name": "Aegislash",
+      "stage": "Stage 2",
+      "evolvesFrom": "Doublade",
+      "hp": "140",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Hitoshi Ariga",
+      "text": "Apparently, it can detect innate qualities of leadership. According to legend, whoever it recognizes is destined to become king.",
+      "attacks": [
+        {
+          "name": "Painful Sword",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Double the number of damage counters on each of your opponent's Pokémon."
+        },
+        {
+          "name": "Megaton Slash",
+          "damage": "100",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 10 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-63",
+      "itemType": "Pokemon Card",
+      "number": "63",
+      "name": "Skrelp",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Yukiko Baba",
+      "text": "It looks just like rotten kelp. It hides from foes while storing up power for its evolution.",
+      "attacks": [
+        {
+          "name": "Hide",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-64",
+      "itemType": "Pokemon Card",
+      "number": "64",
+      "name": "Phantump",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Sumiyoshi Kizuki",
+      "text": "According to old tales, these Pokémon are stumps possessed by the spirits of children who died while lost in the forest.",
+      "attacks": [
+        {
+          "name": "Ascension",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a card that evolves from this Pokémon and put it onto this Pokémon. (This counts as evolving this Pokémon.) Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-65",
+      "itemType": "Pokemon Card",
+      "number": "65",
+      "name": "Trevenant",
+      "stage": "Stage 1",
+      "evolvesFrom": "Phantump",
+      "hp": "110",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Midori Harada",
+      "abilities": [
+        {
+          "name": "Nervous Seed",
+          "text": "As long as this Pokémon is your Active Pokémon, your opponent's Basic Pokémon's attacks cost Colorless more.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Using its roots as a nervous system, it controls the trees in the forest. It's kind to the Pokémon that reside in its body.",
+      "attacks": [
+        {
+          "name": "Energy Press",
+          "damage": "70+",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 10 more damage for each Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-66",
+      "itemType": "Pokemon Card",
+      "number": "66",
+      "name": "Trevenant BREAK",
+      "stage": "BREAK",
+      "evolvesFrom": "Trevenant",
+      "hp": "160",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare BREAK",
+      "artist": "5ban Graphics",
+      "text": "BREAK Evolution Rule: Trevenant BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution.",
+      "attacks": [
+        {
+          "name": "Silent Fear",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Put 3 damage counters on each of your opponent's Pokémon."
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-67",
+      "itemType": "Pokemon Card",
+      "number": "67",
+      "name": "Sudowoodo",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hitoshi Ariga",
+      "text": "It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining.",
+      "attacks": [
+        {
+          "name": "Watch and Learn",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "If your opponent's Pokémon used an attack during his or her last turn, use it as this attack."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-68",
+      "itemType": "Pokemon Card",
+      "number": "68",
+      "name": "Gible",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Naoyo Kimura",
+      "text": "It nests in small, horizontal holes in cave walls. It pounces to catch prey that stray too close.",
+      "attacks": [
+        {
+          "name": "Never Enough",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Discard a card from your hand. If you do, draw 2 cards."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-69",
+      "itemType": "Pokemon Card",
+      "number": "69",
+      "name": "Gabite",
+      "stage": "Stage 1",
+      "evolvesFrom": "Gible",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Midori Harada",
+      "text": "As it digs to expand its nest, it habitually digs up gems that it then hoards in its nest.",
+      "attacks": [
+        {
+          "name": "Sand Tomb",
+          "damage": "20",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-70",
+      "itemType": "Pokemon Card",
+      "number": "70",
+      "name": "Garchomp",
+      "stage": "Stage 2",
+      "evolvesFrom": "Gabite",
+      "hp": "130",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "TOKIYA",
+      "text": "It flies at speeds equals to a jet fighter plane. It never allows its prey to escape.",
+      "attacks": [
+        {
+          "name": "Turbo Assault",
+          "damage": "60",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Attach an Energy card from your discard pile to 1 of your Pokémon."
+        },
+        {
+          "name": "Bite Off",
+          "damage": "80+",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "If your opponent's Active Pokémon is a Pokémon-EX, this attack does 80 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-71",
+      "itemType": "Pokemon Card",
+      "number": "71",
+      "name": "Pancham",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "MAHOU",
+      "text": "It does its level best to glare and pull a scary face, but it can't help grinning if anyone pats its head.",
+      "attacks": [
+        {
+          "name": "Light Punch",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Confront",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-72",
+      "itemType": "Pokemon Card",
+      "number": "72",
+      "name": "Nuzleaf",
+      "stage": "Stage 1",
+      "evolvesFrom": "Seedot",
+      "hp": "80",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yuka Morii",
+      "text": "It lives deep in forests. With the leaf on its head, it makes a flute whose song makes listeners uneasy.",
+      "attacks": [
+        {
+          "name": "Corkscrew Punch",
+          "damage": "20",
+          "cost": [
+            "Darkness"
+          ]
+        },
+        {
+          "name": "Razor Wind",
+          "damage": "40",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-73",
+      "itemType": "Pokemon Card",
+      "number": "73",
+      "name": "Shiftry",
+      "stage": "Stage 2",
+      "evolvesFrom": "Nuzleaf",
+      "hp": "140",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "TOKIYA",
+      "text": "By flapping its leafy fan, it can whip up gusts of 100 feet per second that can level houses.",
+      "attacks": [
+        {
+          "name": "Roll Up",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. If any of them are heads, your opponent reveals his or her hand. Then, for each heads, discard a card from your opponent's hand."
+        },
+        {
+          "name": "Otherworldly Return",
+          "damage": "60",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Put a Trainer card from your discard pile into your hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-74",
+      "itemType": "Pokemon Card",
+      "number": "74",
+      "name": "Darkrai-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Dark Pulse",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 20 more damage for each Darkness Energy attached to all of your Pokémon."
+        },
+        {
+          "name": "Dark Head",
+          "damage": "80+",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon is Asleep, this attack does 80 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-75",
+      "itemType": "Pokemon Card",
+      "number": "75",
+      "name": "Pangoro",
+      "stage": "Stage 1",
+      "evolvesFrom": "Pancham",
+      "hp": "120",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "Naoki Saito",
+      "text": "It charges ahead and bashes its opponents like a berserker, uncaring about any hits it might take. Its arms are mighty enough to snap a telephone pole.",
+      "attacks": [
+        {
+          "name": "Parting Shot",
+          "damage": "10",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon. During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 60 (before applying Weakness and Resistance)."
+        },
+        {
+          "name": "Buster Swing",
+          "damage": "90",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Darkness"
+          ],
+          "text": "This attack's damage isn't affected by Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-76",
+      "itemType": "Pokemon Card",
+      "number": "76",
+      "name": "Scizor-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Steel Wing",
+          "damage": "20",
+          "cost": [
+            "Metal"
+          ],
+          "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Gale Thrust",
+          "damage": "50+",
+          "cost": [
+            "Metal",
+            "Metal"
+          ],
+          "text": "If this Pokémon was on the Bench and became your Active Pokémon this turn, this attack does 60 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-77",
+      "itemType": "Pokemon Card",
+      "number": "77",
+      "name": "M Scizor-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Scizor-EX",
+      "hp": "220",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Iron Crusher",
+          "damage": "120",
+          "cost": [
+            "Metal",
+            "Metal"
+          ],
+          "text": "You may discard a Special Energy attached to your opponent's Active Pokémon or a Stadium card in play."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-78",
+      "itemType": "Pokemon Card",
+      "number": "78",
+      "name": "Mawile",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouki Saitou",
+      "text": "Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.",
+      "attacks": [
+        {
+          "name": "Tight Jaw",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Cavernous Chomp",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-79",
+      "itemType": "Pokemon Card",
+      "number": "79",
+      "name": "Ferroseed",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Common",
+      "artist": "Satoshi Shirai",
+      "text": "It absorbs the iron it finds in the rock while clinging to the ceiling. It shoots spikes when in danger.",
+      "attacks": [
+        {
+          "name": "Harden",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, if this Pokémon would be damaged by an attack, prevent that attack's damage done to this Pokémon if that damage is 60 or less."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-80",
+      "itemType": "Pokemon Card",
+      "number": "80",
+      "name": "Ferrothorn",
+      "stage": "Stage 1",
+      "evolvesFrom": "Ferroseed",
+      "hp": "100",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "text": "They attach themselves to cave ceilings, firing steel spikes at targets passing beneath them.",
+      "attacks": [
+        {
+          "name": "Metal Claw",
+          "damage": "40",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Spike Lash",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 10 damage to each of your opponent's Pokémon for each Colorless in that Pokémon's Retreat Cost. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-81",
+      "itemType": "Pokemon Card",
+      "number": "81",
+      "name": "Clefairy",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Common",
+      "artist": "Tomokazu Komiya",
+      "text": "The moonlight that it stores in the wings on its back apparently gives it the ability to float in midair.",
+      "attacks": [
+        {
+          "name": "Sing",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        },
+        {
+          "name": "Double Slap",
+          "damage": "10×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-82",
+      "itemType": "Pokemon Card",
+      "number": "82",
+      "name": "Clefable",
+      "stage": "Stage 1",
+      "evolvesFrom": "Clefairy",
+      "hp": "100",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare",
+      "artist": "Sanosuke Sakuma",
+      "text": "A timid fairy Pokémon that is rarely seen, it will run and hide the moment it senses people.",
+      "attacks": [
+        {
+          "name": "Moon Barrier",
+          "damage": "30",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "During your opponent's next turn, prevent all effects of attacks, including damage, done to this Pokémon by Dragon Pokémon."
+        },
+        {
+          "name": "Tumbling Attack",
+          "damage": "50+",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-83",
+      "itemType": "Pokemon Card",
+      "number": "83",
+      "name": "Togekiss-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Mighty Wind",
+          "damage": "20",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "You may attach an Energy card from your hand to 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Hurricane Wing",
+          "damage": "50×",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 4 coins. This attack does 50 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-84",
+      "itemType": "Pokemon Card",
+      "number": "84",
+      "name": "Spritzee",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Common",
+      "artist": "kirisAki",
+      "text": "In the past, rather than using perfume, royal ladies carried a Spritzee that would waft a fragrance they liked.",
+      "attacks": [
+        {
+          "name": "Beat",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-85",
+      "itemType": "Pokemon Card",
+      "number": "85",
+      "name": "Aromatisse",
+      "stage": "Stage 1",
+      "evolvesFrom": "Spritzee",
+      "hp": "90",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "kirisAki",
+      "text": "Its scent is so overpowering that, unless a Trainer happens to really enjoy the smell, he or she will have a hard time walking alongside it.",
+      "attacks": [
+        {
+          "name": "Dizzying Cologne",
+          "damage": "20+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon is a Pokémon-EX, this attack does 40 more damage."
+        },
+        {
+          "name": "Fairy Wind",
+          "damage": "40",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-86",
+      "itemType": "Pokemon Card",
+      "number": "86",
+      "name": "Dragalge",
+      "stage": "Stage 1",
+      "evolvesFrom": "Skrelp",
+      "hp": "110",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Shin Nagasawa",
+      "text": "Tales are told of ships that wander into seas where Dragalge live, never to return.",
+      "attacks": [
+        {
+          "name": "Severe Poison",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Your opponent's Active Pokémon is now Poisoned. Put 4 damage counters instead of 1 on that Pokémon between turns."
+        },
+        {
+          "name": "Dragon Pulse",
+          "damage": "60",
+          "cost": [
+            "Water",
+            "Psychic"
+          ],
+          "text": "Discard the top card of your deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-87",
+      "itemType": "Pokemon Card",
+      "number": "87",
+      "name": "Rattata",
+      "stage": "Basic",
+      "hp": "30",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "match",
+      "text": "Its fangs are long and very sharp. They grow continuously, so it gnaws on hard things to whittle them down.",
+      "attacks": [
+        {
+          "name": "Dangerous Suspicion",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw a card. Switch this Pokémon with 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-88",
+      "itemType": "Pokemon Card",
+      "number": "88",
+      "name": "Raticate",
+      "stage": "Stage 1",
+      "evolvesFrom": "Rattata",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Antibodies",
+          "text": "This Pokémon can't be affected by any Special Conditions. (Remove any Special Conditions affecting this Pokémon.)",
+          "type": "Ability"
+        }
+      ],
+      "text": "The webs on its hind legs enable it to cross rivers. It searches wide areas for food.",
+      "attacks": [
+        {
+          "name": "Dirty Shock",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Poisoned. Discard all Pokémon Tool cards attached to that Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-89",
+      "itemType": "Pokemon Card",
+      "number": "89",
+      "name": "Raticate BREAK",
+      "stage": "BREAK",
+      "evolvesFrom": "Raticate",
+      "hp": "110",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare BREAK",
+      "artist": "5ban Graphics",
+      "text": "BREAK Evolution Rule: Raticate BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution.",
+      "attacks": [
+        {
+          "name": "Super Fang",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Put damage counters on your opponent's Active Pokémon until its remaining HP is 10."
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-90",
+      "itemType": "Pokemon Card",
+      "number": "90",
+      "name": "Dunsparce",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Akira Komayama",
+      "text": "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.",
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "name": "Ram",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-91",
+      "itemType": "Pokemon Card",
+      "number": "91",
+      "name": "Stantler",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "sui",
+      "text": "The curved antlers subtly change the flow of air to create a strange space where reality is distorted.",
+      "attacks": [
+        {
+          "name": "Mystifying Horns",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Confused."
+        },
+        {
+          "name": "Big Charge",
+          "damage": "30+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If you have any Mega Evolution Pokémon on your Bench, this attack does 50 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-92",
+      "itemType": "Pokemon Card",
+      "number": "92",
+      "name": "Ho-Oh-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "abilities": [
+        {
+          "name": "Purifying Fire",
+          "text": "Once during your turn (before your attack), if this Pokémon has any basic Fire Energy attached to it, you may heal 50 damage from it.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Elemental Feather",
+          "damage": "130",
+          "cost": [
+            "Grass",
+            "Water",
+            "Lightning"
+          ],
+          "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-93",
+      "itemType": "Pokemon Card",
+      "number": "93",
+      "name": "Glameow",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Saya Tsuruta",
+      "text": "When it's happy, Glameow demonstrates beautiful movements of its tail, like a dancing ribbon.",
+      "attacks": [
+        {
+          "name": "Act Cute",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent puts a card from his or her hand on the bottom of his or her deck."
+        },
+        {
+          "name": "Scratch",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-94",
+      "itemType": "Pokemon Card",
+      "number": "94",
+      "name": "Purugly",
+      "stage": "Stage 1",
+      "evolvesFrom": "Glameow",
+      "hp": "100",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "To make itself appear intimidatingly beefy, it tightly cinches its waist with its twin tails.",
+      "attacks": [
+        {
+          "name": "Slash",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Nyan Press",
+          "damage": "40+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 40 more damage. If tails, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-95",
+      "itemType": "Pokemon Card",
+      "number": "95",
+      "name": "Furfrou",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Masakazu Fukuda",
+      "text": "Historically, in the Kalos region, these Pokémon were the designated guardians of the king.",
+      "attacks": [
+        {
+          "name": "Collect",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw a card."
+        },
+        {
+          "name": "Tight Jaw",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-96",
+      "itemType": "Trainer Card",
+      "number": "96",
+      "name": "All-Night Party",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hitoshi Ariga",
+      "text": "Once during each player's turn, if that player's Active Pokémon is Asleep, he or she may remove that Special Condition and heal 30 damage from that Pokémon.,This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-97",
+      "itemType": "Trainer Card",
+      "number": "97",
+      "name": "Bursting Balloon",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,If this card is attached to 1 of your Pokémon, discard it at the end of your opponent's turn.,If the Pokémon this card is attached to is your Active Pokémon and is damaged by an opponent's attack (even if that Pokémon is Knocked Out), put 6 damage counters on the Attacking Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-98",
+      "itemType": "Trainer Card",
+      "number": "98",
+      "name": "Delinquent",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yusuke Ohmura",
+      "text": "Discard any Stadium card in play. If you do, your opponent discards 3 cards from his or her hand.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-98a",
+      "itemType": "Trainer Card",
+      "number": "98a",
+      "name": "Delinquent",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Megumi Mizutani",
+      "text": "Discard any Stadium card in play. If you do, your opponent discards 3 cards from his or her hand.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-98b",
+      "itemType": "Trainer Card",
+      "number": "98b",
+      "name": "Delinquent",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Sanosuke Sakuma",
+      "text": "Discard any Stadium card in play. If you do, your opponent discards 3 cards from his or her hand.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-99",
+      "itemType": "Trainer Card",
+      "number": "99",
+      "name": "Fighting Fury Belt",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,The Basic Pokémon this card is attached to gets +40 HP and its attacks do 10 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-100",
+      "itemType": "Trainer Card",
+      "number": "100",
+      "name": "Great Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-101",
+      "itemType": "Trainer Card",
+      "number": "101",
+      "name": "Gyarados Spirit Link",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,Your turn does not end if the Pokémon this card is attached to becomes M Gyarados-EX.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-102",
+      "itemType": "Trainer Card",
+      "number": "102",
+      "name": "Max Elixir",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Look at the top 6 cards of your deck and attach a basic Energy card you find there to a Basic Pokémon on your Bench. Shuffle the other cards back into your deck.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-103",
+      "itemType": "Trainer Card",
+      "number": "103",
+      "name": "Max Potion",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Heal all damage from 1 of your Pokémon. If you do, discard all Energy attached to that Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-104",
+      "itemType": "Trainer Card",
+      "number": "104",
+      "name": "Misty's Determination",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "Discard a card from your hand. If you do, look at the top 8 cards of your deck and put 1 of them into your hand. Shuffle the other cards back into your deck.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-105",
+      "itemType": "Trainer Card",
+      "number": "105",
+      "name": "Pokémon Catcher",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-106",
+      "itemType": "Trainer Card",
+      "number": "106",
+      "name": "Potion",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Heal 30 damage from 1 of your Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-107",
+      "itemType": "Trainer Card",
+      "number": "107",
+      "name": "Professor Sycamore",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yusuke Ohmura",
+      "text": "Discard your hand and draw 7 cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-107a",
+      "itemType": "Trainer Card",
+      "number": "107a",
+      "name": "Professor Sycamore",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Naoki Saito",
+      "text": "Discard your hand and draw 7 cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-108",
+      "itemType": "Trainer Card",
+      "number": "108",
+      "name": "Psychic's Third Eye",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yusuke Ohmura",
+      "text": "Your opponent reveals his or her hand.,Discard as many cards as you like from your hand. Then, draw that many cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-109",
+      "itemType": "Trainer Card",
+      "number": "109",
+      "name": "Puzzle of Time",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "You may play 2 Puzzle of Time cards at once. • If you played 1 card, look at the top 3 cards of your deck and put them back in any order. • If you played 2 cards, put 2 cards from your discard pile into your hand.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-110",
+      "itemType": "Trainer Card",
+      "number": "110",
+      "name": "Reverse Valley",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Choose which way this card faces before you play it. Any damage done to this ↓ player's Metal Pokémon by an opponent's attack is reduced by 10 (after applying Weakness and Resistance).,Choose which way this card faces before you play it. The attacks of this ↓ player's Darkness Pokémon do 10 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).,This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-111",
+      "itemType": "Trainer Card",
+      "number": "111",
+      "name": "Scizor Spirit Link",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,Your turn does not end if the Pokémon this card is attached to becomes M Scizor-EX.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-112",
+      "itemType": "Trainer Card",
+      "number": "112",
+      "name": "Tierno",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "Draw 3 cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-113",
+      "itemType": "Energy Card",
+      "number": "113",
+      "name": "Splash Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "This card can only be attached to Water Pokémon. This card provides Water Energy only while this card is attached to a Water Pokémon.,If the Water Pokémon this card is attached to is Knocked Out by damage from an opponent's attack, put that Pokémon into your hand. (Discard all cards attached to it.),(If this card is attached to anything other than a Water Pokémon, discard this card.)"
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-114",
+      "itemType": "Pokemon Card",
+      "number": "114",
+      "name": "Gyarados-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Stormy Seas",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. For each heads, search your deck for a Water Energy card and attach it to this Pokémon. Shuffle your deck afterward."
+        },
+        {
+          "name": "Splash Burn",
+          "damage": "130",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-115",
+      "itemType": "Pokemon Card",
+      "number": "115",
+      "name": "M Gyarados-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Gyarados-EX",
+      "hp": "240",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Blast Geyser",
+          "damage": "120+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may do 20 more damage for each Water Energy attached to this Pokémon. If you do, discard the top 2 cards of your deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-116",
+      "itemType": "Pokemon Card",
+      "number": "116",
+      "name": "Manaphy-EX",
+      "stage": "Basic",
+      "hp": "120",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Aqua Tube",
+          "text": "Each of your Pokémon that has any Water Energy attached to it has no Retreat Cost.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Mineral Pump",
+          "damage": "60",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "Heal 30 damage from each of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-117",
+      "itemType": "Pokemon Card",
+      "number": "117",
+      "name": "Espeon-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Miraculous Shine",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Devolve each of your opponent's evolved Pokémon and put the highest Stage Evolution card on it into your opponent's hand."
+        },
+        {
+          "name": "Psyshock",
+          "damage": "70",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-118",
+      "itemType": "Pokemon Card",
+      "number": "118",
+      "name": "Darkrai-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Dark Pulse",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 20 more damage for each Darkness Energy attached to all of your Pokémon."
+        },
+        {
+          "name": "Dark Head",
+          "damage": "80+",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon is Asleep, this attack does 80 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-119",
+      "itemType": "Pokemon Card",
+      "number": "119",
+      "name": "Scizor-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Steel Wing",
+          "damage": "20",
+          "cost": [
+            "Metal"
+          ],
+          "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Gale Thrust",
+          "damage": "50+",
+          "cost": [
+            "Metal",
+            "Metal"
+          ],
+          "text": "If this Pokémon was on the Bench and became your Active Pokémon this turn, this attack does 60 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-120",
+      "itemType": "Pokemon Card",
+      "number": "120",
+      "name": "M Scizor-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Scizor-EX",
+      "hp": "220",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Iron Crusher",
+          "damage": "120",
+          "cost": [
+            "Metal",
+            "Metal"
+          ],
+          "text": "You may discard a Special Energy attached to your opponent's Active Pokémon or a Stadium card in play."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-121",
+      "itemType": "Pokemon Card",
+      "number": "121",
+      "name": "Ho-Oh-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Purifying Fire",
+          "text": "Once during your turn (before your attack), if this Pokémon has any basic Fire Energy attached to it, you may heal 50 damage from it.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Elemental Feather",
+          "damage": "130",
+          "cost": [
+            "Grass",
+            "Water",
+            "Lightning"
+          ],
+          "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-122",
+      "itemType": "Trainer Card",
+      "number": "122",
+      "name": "Skyla",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Megumi Mizutani",
+      "text": "Search your deck for a Trainer card, reveal it, and put it into your hand. Shuffle your deck afterward.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-breakpoint-123",
+      "itemType": "Pokemon Card",
+      "number": "123",
+      "name": "Gyarados-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Mitsuhiro Arita",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Stormy Seas",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. For each heads, search your deck for a Water Energy card and attach it to this Pokémon. Shuffle your deck afterward."
+        },
+        {
+          "name": "Splash Burn",
+          "damage": "130",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    }
+  ]
+}
