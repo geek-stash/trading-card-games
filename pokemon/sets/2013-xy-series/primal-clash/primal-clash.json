@@ -1,0 +1,6092 @@
+{
+  "setId": "tcg-pokemon-primal-clash",
+  "cardCount": "164",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-primal-clash-booster-box",
+      "itemType": "Sealed Product",
+      "name": "Primal Clash Booster Box"
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-booster-pack",
+      "itemType": "Sealed Product",
+      "name": "Primal Clash Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-primal-clash-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Weedle",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "text": "Its poison stinger is very powerful. Its bright-colored body is intended to warn off its enemies.",
+      "attacks": [
+        {
+          "name": "Multiply",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Search your deck for Weedle and put it onto your Bench. Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Kakuna",
+      "stage": "Stage 1",
+      "evolvesFrom": "Weedle",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "While awaiting evolution, it hides from predators under leaves and in nooks of branches.",
+      "attacks": [
+        {
+          "name": "Bug Bite",
+          "damage": "20",
+          "cost": [
+            "Grass"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-3",
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Beedrill",
+      "stage": "Stage 2",
+      "evolvesFrom": "Kakuna",
+      "hp": "120",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "text": "May appear in a swarm. Flies at violent speeds, all the while stabbing with the toxic stinger on its rear.",
+      "attacks": [
+        {
+          "name": "Allergic Shock",
+          "cost": [
+            "Grass"
+          ],
+          "text": "During your next turn, if the Defending Pokémon is damaged by an attack, it is Knocked Out."
+        },
+        {
+          "name": "Twineedle",
+          "damage": "50×",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": "Flip 2 coins. This attack does 50 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-4",
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Tangela",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "match",
+      "text": "It tangles any moving thing with its vines. Their subtle shaking is ticklish if you get ensnared.",
+      "attacks": [
+        {
+          "name": "Absorb",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Heal 20 damage from this Pokémon."
+        },
+        {
+          "name": "Vine Whip",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Tangrowth",
+      "stage": "Stage 1",
+      "evolvesFrom": "Tangela",
+      "hp": "130",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "MAHOU",
+      "text": "Its vines grow so profusely that, in the warm season, you can't even see its eyes.",
+      "attacks": [
+        {
+          "name": "Mega Drain",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Heal 20 damage from this Pokémon."
+        },
+        {
+          "name": "Grass Knot",
+          "damage": "80+",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 10 more damage for each Colorless in your opponent's Active Pokémon's Retreat Cost."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-6",
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Treecko",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Akira Komayama",
+      "text": "Small hooks on the bottom of its feet catch on walls and ceilings. That is how it can hang from above.",
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "damage": "10+",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-7",
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Grovyle",
+      "stage": "Stage 1",
+      "evolvesFrom": "Treecko",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "match",
+      "text": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
+      "attacks": [
+        {
+          "name": "Pound",
+          "damage": "20",
+          "cost": [
+            "Grass"
+          ]
+        },
+        {
+          "name": "Agility",
+          "damage": "40",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-8",
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "Sceptile",
+      "stage": "Stage 2",
+      "evolvesFrom": "Grovyle",
+      "hp": "130",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Hajime Kusajima",
+      "abilities": [
+        {
+          "name": "Nurture and Heal",
+          "text": "Once during your turn (before your attack), you may attach a Grass Energy card from your hand to 1 of your Pokémon. If you do, heal 30 damage from that Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It agilely leaps about the jungle and uses the sharp leaves on its arms to strike its prey.",
+      "attacks": [
+        {
+          "name": "Jungle Edge",
+          "damage": "70",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-9",
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Sceptile",
+      "stage": "Stage 2",
+      "evolvesFrom": "Grovyle",
+      "hp": "140",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "hatachu",
+      "text": "It agilely leaps about the jungle and uses the sharp leaves on its arms to strike its prey.",
+      "attacks": [
+        {
+          "name": "Leaf Blade",
+          "damage": "30+",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        },
+        {
+          "name": "Power Poison",
+          "damage": "120",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Discard 1 Energy attached to this Pokémon. Your opponent's Active Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Lotad",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Kanako Eo",
+      "text": "It searches about for clean water. If it does not drink water for too long, the leaf on its head wilts.",
+      "attacks": [
+        {
+          "name": "Beat",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Lombre",
+      "stage": "Stage 1",
+      "evolvesFrom": "Lotad",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Naoyo Kimura",
+      "text": "It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere.",
+      "attacks": [
+        {
+          "name": "Hook",
+          "damage": "20",
+          "cost": [
+            "Grass"
+          ]
+        },
+        {
+          "name": "Beat",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Ludicolo",
+      "stage": "Stage 2",
+      "evolvesFrom": "Lombre",
+      "hp": "130",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mizue",
+      "abilities": [
+        {
+          "name": "Captivating Rhythm",
+          "text": "Once during your turn (before your attack), you may flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "The rhythm of bright, festive music activates Ludicolo's cells, making it more powerful.",
+      "attacks": [
+        {
+          "name": "Solar Ray",
+          "damage": "80",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Heal 20 damage from each of your Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Surskit",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Sumiyoshi Kizuki",
+      "text": "It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head.",
+      "attacks": [
+        {
+          "name": "Stampede",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Masquerain",
+      "stage": "Stage 1",
+      "evolvesFrom": "Surskit",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kanako Eo",
+      "text": "It flaps its four wings to hover and fly freely in any direction–to and fro and sideways.",
+      "attacks": [
+        {
+          "name": "Spiral Gyration",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Your opponent's Active Pokémon is now Confused. Switch this Pokémon with 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Air Slash",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Shroomish",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Mizue",
+      "text": "It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.",
+      "attacks": [
+        {
+          "name": "Spore",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-16",
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Breloom",
+      "stage": "Stage 1",
+      "evolvesFrom": "Shroomish",
+      "hp": "100",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Suwama Chiaki",
+      "text": "It scatters poisonous spores and throws powerful punches while its foe is hampered by inhaled spores.",
+      "attacks": [
+        {
+          "name": "Dynamic Punch",
+          "damage": "40+",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage and your opponent's Active Pokémon is now Confused."
+        },
+        {
+          "name": "Mega Kick",
+          "damage": "80",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Volbeat",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Tomokazu Komiya",
+      "text": "It lives around clean ponds. At night, its rear lights up. It converses with others by flashing its light.",
+      "attacks": [
+        {
+          "name": "Acrobatics",
+          "damage": "10+",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip 2 coins. This attack does 20 more damage for each heads."
+        },
+        {
+          "name": "Pester",
+          "damage": "30+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon is affected by a Special Condition, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-18",
+      "itemType": "Pokemon Card",
+      "number": "18",
+      "name": "Illumise",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Tomokazu Komiya",
+      "text": "With its sweet aroma, it guides Volbeat to draw signs with light in the night sky.",
+      "attacks": [
+        {
+          "name": "Helping Hand",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Search your deck for a basic Energy card and attach it to 1 of your Benched Pokémon. Shuffle your deck afterward."
+        },
+        {
+          "name": "Twirling Sign",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-19",
+      "itemType": "Pokemon Card",
+      "number": "19",
+      "name": "Trevenant-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Dark Forest",
+          "damage": "20",
+          "cost": [
+            "Grass"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "name": "Wood Blast",
+          "damage": "50+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 20 more damage for each Grass Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-20",
+      "itemType": "Pokemon Card",
+      "number": "20",
+      "name": "Vulpix",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "kirisAki",
+      "text": "While young, it has six gorgeous tails. When it grows, several new tails are sprouted.",
+      "attacks": [
+        {
+          "name": "Roar",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "name": "Gnaw",
+          "damage": "10",
+          "cost": [
+            "Fire"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-21",
+      "itemType": "Pokemon Card",
+      "number": "21",
+      "name": "Ninetales",
+      "stage": "Stage 1",
+      "evolvesFrom": "Vulpix",
+      "hp": "90",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "artist": "Kanako Eo",
+      "abilities": [
+        {
+          "name": "Barrier Shrine",
+          "text": "Each player can't play any Stadium cards from his or her hand.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000-year curse.",
+      "attacks": [
+        {
+          "name": "Flickering Flames",
+          "damage": "70",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-22",
+      "itemType": "Pokemon Card",
+      "number": "22",
+      "name": "Slugma",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Miki Tanaka",
+      "text": "Its body is made of magma. If it doesn't keep moving, its body will cool and harden.",
+      "attacks": [
+        {
+          "name": "Grass Fire",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Discard a Grass Energy attached to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Ram",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-23",
+      "itemType": "Pokemon Card",
+      "number": "23",
+      "name": "Magcargo",
+      "stage": "Stage 1",
+      "evolvesFrom": "Slugma",
+      "hp": "120",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shigenori Negishi",
+      "text": "Its body is as hot as lava and is always billowing. Flames will occasionally burst from its shell.",
+      "attacks": [
+        {
+          "name": "Flame Burst",
+          "damage": "20",
+          "cost": [
+            "Fire"
+          ],
+          "text": "This attack does 20 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Flamethrower",
+          "damage": "90",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-24",
+      "itemType": "Pokemon Card",
+      "number": "24",
+      "name": "Magcargo",
+      "stage": "Stage 1",
+      "evolvesFrom": "Slugma",
+      "hp": "110",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "text": "Its body is as hot as lava and is always billowing. Flames will occasionally burst from its shell.",
+      "attacks": [
+        {
+          "name": "Ram",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Indomitable Blaze",
+          "damage": "60+",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon is a Pokémon-EX, this attack does 60 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-25",
+      "itemType": "Pokemon Card",
+      "number": "25",
+      "name": "Torchic",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "sui",
+      "text": "A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees Fahrenheit.",
+      "attacks": [
+        {
+          "name": "Ember",
+          "damage": "20",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Flip a coin. If tails, discard a Fire Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-26",
+      "itemType": "Pokemon Card",
+      "number": "26",
+      "name": "Torchic",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees Fahrenheit.",
+      "attacks": [
+        {
+          "name": "Flare Bonus",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Discard a Fire Energy card from your hand. If you do, draw 2 cards."
+        },
+        {
+          "name": "Claw",
+          "damage": "20",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-27",
+      "itemType": "Pokemon Card",
+      "number": "27",
+      "name": "Combusken",
+      "stage": "Stage 1",
+      "evolvesFrom": "Torchic",
+      "hp": "80",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "kawayoo",
+      "text": "During a battle, the hot flame in its body increases. Its kicks have outstanding destructive power.",
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "damage": "20+",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        },
+        {
+          "name": "Spiral Kick",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-28",
+      "itemType": "Pokemon Card",
+      "number": "28",
+      "name": "Blaziken",
+      "stage": "Stage 2",
+      "evolvesFrom": "Combusken",
+      "hp": "140",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "text": "When facing a tough foe, it looses flames from its wrists. Its powerful legs let it jump clear over buildings.",
+      "attacks": [
+        {
+          "name": "Spreading Flames",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Attach 3 Fire Energy cards from your discard pile to your Pokémon in any way you like."
+        },
+        {
+          "name": "Heat Blow",
+          "damage": "100",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-29",
+      "itemType": "Pokemon Card",
+      "number": "29",
+      "name": "Camerupt-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Tumbling Attack",
+          "damage": "30+",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        },
+        {
+          "name": "Explosive Jet",
+          "damage": "50×",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard as many Fire Energy attached to your Pokémon as you like. This attack does 50 damage times the number of Energy cards you discarded."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-30",
+      "itemType": "Pokemon Card",
+      "number": "30",
+      "name": "Horsea",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "kirisAki",
+      "text": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
+      "attacks": [
+        {
+          "name": "Bubble",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-31",
+      "itemType": "Pokemon Card",
+      "number": "31",
+      "name": "Seadra",
+      "stage": "Stage 1",
+      "evolvesFrom": "Horsea",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Sanosuke Sakuma",
+      "text": "It is capable of swimming backwards by rapidly flapping its winglike pectoral fins and stout tail.",
+      "attacks": [
+        {
+          "name": "Knockout Needle",
+          "damage": "10+",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip 2 coins. If both of them are heads, this attack does 40 more damage."
+        },
+        {
+          "name": "Water Gun",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-32",
+      "itemType": "Pokemon Card",
+      "number": "32",
+      "name": "Staryu",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Tomokazu Komiya",
+      "text": "It appears in large numbers by seashores. At night, its central core flashes with a red light.",
+      "attacks": [
+        {
+          "name": "Lunge",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-33",
+      "itemType": "Pokemon Card",
+      "number": "33",
+      "name": "Mudkip",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Aya Kusube",
+      "text": "To alert it, the fin on its head senses the flow of water. It has the strength to heft boulders.",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ]
+        },
+        {
+          "name": "Mud-Slap",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-34",
+      "itemType": "Pokemon Card",
+      "number": "34",
+      "name": "Marshtomp",
+      "stage": "Stage 1",
+      "evolvesFrom": "Mudkip",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "sui",
+      "text": "Living on muddy ground that provides poor footing has made its legs sturdy.",
+      "attacks": [
+        {
+          "name": "Mud-Slap",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Endeavor",
+          "damage": "40+",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-35",
+      "itemType": "Pokemon Card",
+      "number": "35",
+      "name": "Swampert",
+      "stage": "Stage 2",
+      "evolvesFrom": "Marshtomp",
+      "hp": "150",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Shigenori Negishi",
+      "text": "It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.",
+      "attacks": [
+        {
+          "name": "Water Arrow",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 60 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Waterfall",
+          "damage": "120",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-36",
+      "itemType": "Pokemon Card",
+      "number": "36",
+      "name": "Swampert",
+      "stage": "Stage 2",
+      "evolvesFrom": "Marshtomp",
+      "hp": "140",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Shin Nagasawa",
+      "abilities": [
+        {
+          "name": "Diving Search",
+          "text": "Once during your turn (before your attack), you may search your deck for a card. Shuffle your deck, then put that card on top of it.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.",
+      "attacks": [
+        {
+          "name": "Hydro Pump",
+          "damage": "40+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 30 more damage for each Water Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-37",
+      "itemType": "Pokemon Card",
+      "number": "37",
+      "name": "Ludicolo",
+      "stage": "Stage 2",
+      "evolvesFrom": "Lombre",
+      "hp": "130",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "kawayoo",
+      "text": "The rhythm of bright, festive music activates Ludicolo's cells, making it more powerful.",
+      "attacks": [
+        {
+          "name": "Astonish",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Choose a random card from your opponent's hand. Your opponent reveals that card and shuffles it into his or her deck."
+        },
+        {
+          "name": "Splash Dance",
+          "damage": "60",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your next turn, this Pokémon's Splash Dance attack does 60 more damage (before applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-38",
+      "itemType": "Pokemon Card",
+      "number": "38",
+      "name": "Wailord-EX",
+      "stage": "Basic",
+      "hp": "250",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "abilities": [
+        {
+          "name": "Water Veil",
+          "text": "Whenever you attach an Energy card from your hand to this Pokémon, remove all Special Conditions from it.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "High Breaching",
+          "damage": "120",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "text": "This Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-39",
+      "itemType": "Pokemon Card",
+      "number": "39",
+      "name": "Barboach",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Kyoko Umemoto",
+      "text": "Its whiskers make a superb radar. They are used to locate prey, even in the murkiest of water.",
+      "attacks": [
+        {
+          "name": "Rain Splash",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-40",
+      "itemType": "Pokemon Card",
+      "number": "40",
+      "name": "Whiscash",
+      "stage": "Stage 1",
+      "evolvesFrom": "Barboach",
+      "hp": "100",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Naoyo Kimura",
+      "text": "It makes its nest at the bottom of swamps. It will eat anything—if it is alive, Whiscash will eat it.",
+      "attacks": [
+        {
+          "name": "Amnesia",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Active Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+        },
+        {
+          "name": "Rising Lunge",
+          "damage": "60+",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-41",
+      "itemType": "Pokemon Card",
+      "number": "41",
+      "name": "Whiscash",
+      "stage": "Stage 1",
+      "evolvesFrom": "Barboach",
+      "hp": "110",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "PLANETA",
+      "text": "It makes its nest at the bottom of swamps. It will eat anything—if it is alive, Whiscash will eat it.",
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "damage": "40",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Earthquake",
+          "damage": "120",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-42",
+      "itemType": "Pokemon Card",
+      "number": "42",
+      "name": "Corphish",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Shin Nagasawa",
+      "text": "Its hardy vitality enables it to adapt to any environment. Its pincers will never release prey.",
+      "attacks": [
+        {
+          "name": "Vice Grip",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Knock Off",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard a random card from your opponent's hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-43",
+      "itemType": "Pokemon Card",
+      "number": "43",
+      "name": "Feebas",
+      "stage": "Basic",
+      "hp": "30",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Suwama Chiaki",
+      "text": "It is the shabbiest Pokémon of all. It forms in schools and lives at the bottom of rivers.",
+      "attacks": [
+        {
+          "name": "Float On",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip a coin. If tails, this Pokémon does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-44",
+      "itemType": "Pokemon Card",
+      "number": "44",
+      "name": "Milotic",
+      "stage": "Stage 1",
+      "evolvesFrom": "Feebas",
+      "hp": "110",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Sanosuke Sakuma",
+      "abilities": [
+        {
+          "name": "Sparkling Ripples",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon, you may put a card from your discard pile into your hand.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It is the world's most beautiful Pokémon. There are many works of art featuring Milotic.",
+      "attacks": [
+        {
+          "name": "Aqua Swirl",
+          "damage": "60",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may have your opponent switch his or her Active Pokémon with 1 of his or her Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-45",
+      "itemType": "Pokemon Card",
+      "number": "45",
+      "name": "Spheal",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "TOKIYA",
+      "text": "Its body is covered in fluffy fur. The fur keeps it from feeling cold while it is rolling on ice.",
+      "attacks": [
+        {
+          "name": "Ball Roll",
+          "damage": "30×",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-46",
+      "itemType": "Pokemon Card",
+      "number": "46",
+      "name": "Spheal",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "They can't swim well yet, and they move much faster by rolling. When they're happy, they clap fins.",
+      "attacks": [
+        {
+          "name": "Ice Ball",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Water"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-47",
+      "itemType": "Pokemon Card",
+      "number": "47",
+      "name": "Sealeo",
+      "stage": "Stage 1",
+      "evolvesFrom": "Spheal",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Masakazu Fukuda",
+      "text": "Be it Spheal or a Poké Ball, it will spin any round object on its nose with the greatest of ease.",
+      "attacks": [
+        {
+          "name": "Freezing Headbutt",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Aurora Beam",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-48",
+      "itemType": "Pokemon Card",
+      "number": "48",
+      "name": "Walrein",
+      "stage": "Stage 2",
+      "evolvesFrom": "Sealeo",
+      "hp": "150",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Satoshi Shirai",
+      "text": "It shatters drift ice with its strong tusks. Its thick layer of blubber repels enemy attacks.",
+      "attacks": [
+        {
+          "name": "Knock Over",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "You may discard any Stadium card in play."
+        },
+        {
+          "name": "Frozen Splash",
+          "damage": "70+",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon is a Fighting Pokémon, this attack does 70 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-49",
+      "itemType": "Pokemon Card",
+      "number": "49",
+      "name": "Clamperl",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "It is protected by a sturdy shell. Once in a lifetime, it makes a magnificent pearl.",
+      "attacks": [
+        {
+          "name": "Shell Protection",
+          "cost": [
+            "Water"
+          ],
+          "text": "During your opponent's next turn, if this Pokémon would be damaged by an attack, prevent that attack's damage done to this Pokémon if that damage is 50 or less."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-50",
+      "itemType": "Pokemon Card",
+      "number": "50",
+      "name": "Huntail",
+      "stage": "Stage 1",
+      "evolvesFrom": "Clamperl",
+      "hp": "100",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Masakazu Fukuda",
+      "text": "It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey.",
+      "attacks": [
+        {
+          "name": "Powerful Storm",
+          "damage": "20×",
+          "cost": [
+            "Water"
+          ],
+          "text": "This attack does 20 damage times the amount of Energy attached to all of your Pokémon."
+        },
+        {
+          "name": "Crunch",
+          "damage": "70",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-51",
+      "itemType": "Pokemon Card",
+      "number": "51",
+      "name": "Gorebyss",
+      "stage": "Stage 1",
+      "evolvesFrom": "Clamperl",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Miki Tanaka",
+      "text": "Its swimming form is exquisitely elegant. With its thin mouth, it feeds on seaweed that grows between rocks.",
+      "attacks": [
+        {
+          "name": "Captivate",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon."
+        },
+        {
+          "name": "Psychic",
+          "damage": "30+",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "This attack does 10 more damage for each Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-52",
+      "itemType": "Pokemon Card",
+      "number": "52",
+      "name": "Gorebyss",
+      "stage": "Stage 1",
+      "evolvesFrom": "Clamperl",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "text": "Its swimming form is exquisitely elegant. With its thin mouth, it feeds on seaweed that grows between rocks.",
+      "attacks": [
+        {
+          "name": "Psy Bolt",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-53",
+      "itemType": "Pokemon Card",
+      "number": "53",
+      "name": "Kyogre",
+      "stage": "Basic",
+      "hp": "130",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "text": "A mythical Pokémon said to have swelled the seas with rain and tidal waves. It battled with Groudon.",
+      "attacks": [
+        {
+          "name": "Spring Tides",
+          "damage": "30×",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. This attack does 30 damage times the number of heads."
+        },
+        {
+          "name": "Ocean Cyclone",
+          "damage": "80",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "This attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-54",
+      "itemType": "Pokemon Card",
+      "number": "54",
+      "name": "Kyogre-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ryota Murayama",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Water Pulse",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        },
+        {
+          "name": "Giant Whirlpool",
+          "damage": "140",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Return 2 Water Energy attached to this Pokémon to your hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-55",
+      "itemType": "Pokemon Card",
+      "number": "55",
+      "name": "Primal Kyogre-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Kyogre-EX",
+      "hp": "240",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "5ban Graphics",
+      "text": "Primal Reversion rule: When 1 of your Pokémon becomes Primal Kyogre-EX, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Tidal Storm",
+          "damage": "150",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Move 2 Energy from this Pokémon to 1 of your Benched Pokémon. This attack does 30 damage to each of your opponent's Benched Pokémon-EX. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-56",
+      "itemType": "Pokemon Card",
+      "number": "56",
+      "name": "Manaphy",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "sui",
+      "text": "It starts its life with a wondrous power that permits it to bond with any kind of Pokémon.",
+      "attacks": [
+        {
+          "name": "Deep Sea Swirl",
+          "cost": [
+            "Water"
+          ],
+          "text": "Shuffle your hand into your deck. Then, draw 6 cards."
+        },
+        {
+          "name": "Life Saver",
+          "cost": [
+            "Water"
+          ],
+          "text": "Put 2 Water Pokémon from your discard pile into your hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-57",
+      "itemType": "Pokemon Card",
+      "number": "57",
+      "name": "Chinchou",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
+      "attacks": [
+        {
+          "name": "Wave Splash",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-58",
+      "itemType": "Pokemon Card",
+      "number": "58",
+      "name": "Lanturn",
+      "stage": "Stage 1",
+      "evolvesFrom": "Chinchou",
+      "hp": "100",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "MAHOU",
+      "text": "It blinds prey with an intense burst of light. With the prey incapacitated, the Pokémon swallows it in a single gulp.",
+      "attacks": [
+        {
+          "name": "Dive",
+          "damage": "40",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+        },
+        {
+          "name": "Take Down",
+          "damage": "80",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This Pokémon does 20 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-59",
+      "itemType": "Pokemon Card",
+      "number": "59",
+      "name": "Electrike",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Sumiyoshi Kizuki",
+      "text": "It stores static electricity in its fur for discharging. It gives off sparks if a storm approaches.",
+      "attacks": [
+        {
+          "name": "Charge",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a Lightning Energy card and attach it to this Pokémon. Shuffle your deck afterward."
+        },
+        {
+          "name": "Bite",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-60",
+      "itemType": "Pokemon Card",
+      "number": "60",
+      "name": "Electrike",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Sanosuke Sakuma",
+      "text": "It stores static electricity in its fur for discharging. It gives off sparks if a storm approaches.",
+      "attacks": [
+        {
+          "name": "Thunder Fang",
+          "damage": "10",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-61",
+      "itemType": "Pokemon Card",
+      "number": "61",
+      "name": "Manectric",
+      "stage": "Stage 1",
+      "evolvesFrom": "Electrike",
+      "hp": "100",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Naoki Saito",
+      "text": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
+      "attacks": [
+        {
+          "name": "Lightning Turn",
+          "damage": "30",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Electric Shock",
+          "damage": "70",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Discard all Lightning Energy attached to this Pokémon. Your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-62",
+      "itemType": "Pokemon Card",
+      "number": "62",
+      "name": "Tynamo",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "text": "One alone can emit only a trickle of electricity, so a group of them gathers to unleash a powerful electric shock.",
+      "attacks": [
+        {
+          "name": "Water Splash",
+          "damage": "10+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-63",
+      "itemType": "Pokemon Card",
+      "number": "63",
+      "name": "Eelektrik",
+      "stage": "Stage 1",
+      "evolvesFrom": "Tynamo",
+      "hp": "90",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "match",
+      "text": "These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.",
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Buzz Flip",
+          "damage": "30×",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip 4 coins. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-64",
+      "itemType": "Pokemon Card",
+      "number": "64",
+      "name": "Eelektrik",
+      "stage": "Stage 1",
+      "evolvesFrom": "Tynamo",
+      "hp": "90",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "Naoki Saito",
+      "text": "These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.",
+      "attacks": [
+        {
+          "name": "Thrash",
+          "damage": "50+",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage. If tails, this Pokémon does 20 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-65",
+      "itemType": "Pokemon Card",
+      "number": "65",
+      "name": "Eelektross",
+      "stage": "Stage 2",
+      "evolvesFrom": "Eelektrik",
+      "hp": "140",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Energy Connect",
+          "text": "As often as you like during your turn (before your attack), you may move a basic Energy attached to 1 of your Benched Pokémon to your Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.",
+      "attacks": [
+        {
+          "name": "Electricannon",
+          "damage": "80+",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may discard all Lightning Energy attached to this Pokémon. If you do, this attack does 50 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-66",
+      "itemType": "Pokemon Card",
+      "number": "66",
+      "name": "Nidoran ♀",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Mizue",
+      "text": "Small and very docile, it protects itself with its small, poisonous horn when attacked.",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Bite",
+          "damage": "20",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-67",
+      "itemType": "Pokemon Card",
+      "number": "67",
+      "name": "Nidorina",
+      "stage": "Stage 1",
+      "evolvesFrom": "Nidoran ♀",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Aya Kusube",
+      "text": "When feeding its young, it first chews the food into a paste, then spits it out for the offspring.",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Strength",
+          "damage": "60",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-68",
+      "itemType": "Pokemon Card",
+      "number": "68",
+      "name": "Nidoqueen",
+      "stage": "Stage 2",
+      "evolvesFrom": "Nidorina",
+      "hp": "140",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Masakazu Fukuda",
+      "text": "The body is covered by stiff, needle-like scales. If it becomes excited, the needles bristle outwards.",
+      "attacks": [
+        {
+          "name": "Double Kick",
+          "damage": "40×",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 40 damage times the number of heads."
+        },
+        {
+          "name": "Poison Fang",
+          "damage": "60",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Poisoned. Put 2 damage counters instead of 1 on that Pokémon between turns."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-69",
+      "itemType": "Pokemon Card",
+      "number": "69",
+      "name": "Nidoqueen",
+      "stage": "Stage 2",
+      "evolvesFrom": "Nidorina",
+      "hp": "140",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "PLANETA",
+      "text": "The body is covered by stiff, needle-like scales. If it becomes excited, the needles bristle outwards.",
+      "attacks": [
+        {
+          "name": "Poison Jab",
+          "damage": "30",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        },
+        {
+          "name": "Dynamite Punch",
+          "damage": "70",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "This Pokémon does 20 damage to itself. Don't apply Weakness to this damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-70",
+      "itemType": "Pokemon Card",
+      "number": "70",
+      "name": "Tentacool",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Yukiko Baba",
+      "text": "Drifts in shallow seas. Anglers who hook them by accident are often punished by their stingers.",
+      "attacks": [
+        {
+          "name": "Lost in the Waves",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Return this Pokémon and all cards attached to it to your hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-71",
+      "itemType": "Pokemon Card",
+      "number": "71",
+      "name": "Tentacool",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mizue",
+      "text": "Drifts in shallow seas. Anglers who hook them by accident are often punished by their stingers.",
+      "attacks": [
+        {
+          "name": "Psyshot",
+          "damage": "20",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-72",
+      "itemType": "Pokemon Card",
+      "number": "72",
+      "name": "Tentacruel",
+      "stage": "Stage 1",
+      "evolvesFrom": "Tentacool",
+      "hp": "100",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "match",
+      "text": "It has 80 tentacles that move about freely. They can sting, causing poisoning and sharp, stabbing pain.",
+      "attacks": [
+        {
+          "name": "Dancing Tentacles",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Confused and Poisoned."
+        },
+        {
+          "name": "Stick and Absorb",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Heal 30 damage from this Pokémon. The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-73",
+      "itemType": "Pokemon Card",
+      "number": "73",
+      "name": "Starmie",
+      "stage": "Stage 1",
+      "evolvesFrom": "Staryu",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "HiRON",
+      "text": "At the center of its body is a red core, which sends mysterious radio signals into the night sky.",
+      "attacks": [
+        {
+          "name": "Synchro Star",
+          "damage": "10+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If this Pokémon and your opponent's Active Pokémon have the same amount of Energy attached to them, this attack does 60 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-74",
+      "itemType": "Pokemon Card",
+      "number": "74",
+      "name": "Rhyhorn",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "text": "It is inept at turning because of its four short legs. It can only charge and run in one direction.",
+      "attacks": [
+        {
+          "name": "Take Down",
+          "damage": "40",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "This Pokémon does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-75",
+      "itemType": "Pokemon Card",
+      "number": "75",
+      "name": "Rhydon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Rhyhorn",
+      "hp": "100",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shin Nagasawa",
+      "text": "It begins walking on its hind legs after evolution. It can punch holes through boulders with its horn.",
+      "attacks": [
+        {
+          "name": "Take Down",
+          "damage": "50",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This Pokémon does 10 damage to itself."
+        },
+        {
+          "name": "Horn Drill",
+          "damage": "70",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-76",
+      "itemType": "Pokemon Card",
+      "number": "76",
+      "name": "Rhyperior",
+      "stage": "Stage 2",
+      "evolvesFrom": "Rhydon",
+      "hp": "150",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "text": "It puts rocks in holes in its palms and uses its muscles to shoot them. Geodude are shot at rare times.",
+      "attacks": [
+        {
+          "name": "Rock Shower",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 20 damage times the number of heads to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Stone Edge",
+          "damage": "80+",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 40 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-77",
+      "itemType": "Pokemon Card",
+      "number": "77",
+      "name": "Rhyperior",
+      "stage": "Stage 2",
+      "evolvesFrom": "Rhydon",
+      "hp": "160",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "TOKIYA",
+      "abilities": [
+        {
+          "name": "Rock Wall",
+          "text": "Any damage done to your Pokémon by an opponent's attack is reduced by 10 (after applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "text": "It puts rocks in holes in its palms and uses its muscles to shoot them. Geodude are shot at rare times.",
+      "attacks": [
+        {
+          "name": "Hammer Arm",
+          "damage": "100",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard the top card of your opponent's deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-78",
+      "itemType": "Pokemon Card",
+      "number": "78",
+      "name": "Nosepass",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Satoshi Shirai",
+      "text": "Its magnetic nose consistently faces north. Travelers check Nosepass to get their bearings.",
+      "attacks": [
+        {
+          "name": "Stiffen",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 40 (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Ram",
+          "damage": "40",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-79",
+      "itemType": "Pokemon Card",
+      "number": "79",
+      "name": "Meditite",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "sui",
+      "text": "It eats just one berry a day. By enduring hunger, its spirit is tempered and made sharper.",
+      "attacks": [
+        {
+          "name": "Smack",
+          "damage": "20",
+          "cost": [
+            "Fighting"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-80",
+      "itemType": "Pokemon Card",
+      "number": "80",
+      "name": "Medicham",
+      "stage": "Stage 1",
+      "evolvesFrom": "Meditite",
+      "hp": "100",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Akira Komayama",
+      "text": "Through yoga training, it gained the psychic power to predict its foe's next move.",
+      "attacks": [
+        {
+          "name": "Pure Power",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Put 4 damage counters on your opponent's Pokémon in any way you like."
+        },
+        {
+          "name": "Windmill Kick",
+          "damage": "60",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-81",
+      "itemType": "Pokemon Card",
+      "number": "81",
+      "name": "Medicham",
+      "stage": "Stage 1",
+      "evolvesFrom": "Meditite",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "text": "Through yoga training, it gained the psychic power to predict its foe's next move.",
+      "attacks": [
+        {
+          "name": "Calm Mind",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Heal 30 damage from this Pokémon."
+        },
+        {
+          "name": "Yoga Kick",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "This attack's damage isn't affected by Weakness or Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-82",
+      "itemType": "Pokemon Card",
+      "number": "82",
+      "name": "Trapinch",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Suwama Chiaki",
+      "text": "It makes an inescapable conical pit and lies in wait at the bottom for prey to come tumbling down.",
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Mud-Slap",
+          "damage": "20",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-83",
+      "itemType": "Pokemon Card",
+      "number": "83",
+      "name": "Solrock",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "text": "It absorbs solar energy during the day. Always expressionless, it can sense what its foe is thinking.",
+      "attacks": [
+        {
+          "name": "Solar Generator",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 2 Special Energy cards, reveal them, and put them into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Knock Away",
+          "damage": "20+",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-84",
+      "itemType": "Pokemon Card",
+      "number": "84",
+      "name": "Groudon",
+      "stage": "Basic",
+      "hp": "130",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "text": "This legendary Pokémon is said to represent the land. It went to sleep after dueling Kyogre.",
+      "attacks": [
+        {
+          "name": "Rock Smash",
+          "damage": "20+",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        },
+        {
+          "name": "Break Ground",
+          "damage": "100",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "This attack does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-85",
+      "itemType": "Pokemon Card",
+      "number": "85",
+      "name": "Groudon-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ryota Murayama",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Rip Claw",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Massive Rend",
+          "damage": "130",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-86",
+      "itemType": "Pokemon Card",
+      "number": "86",
+      "name": "Primal Groudon-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Groudon-EX",
+      "hp": "240",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "5ban Graphics",
+      "text": "Primal Reversion rule: When 1 of your Pokémon becomes Primal Groudon-EX, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Gaia Volcano",
+          "damage": "100+",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "If there is any Stadium card in play, this attack does 100 more damage. Discard that Stadium card."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-87",
+      "itemType": "Pokemon Card",
+      "number": "87",
+      "name": "Hippopotas",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Yuka Morii",
+      "text": "It enshrouds itself with sand to protect itself from germs. It does not enjoy getting wet.",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Rolling Tackle",
+          "damage": "50",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-88",
+      "itemType": "Pokemon Card",
+      "number": "88",
+      "name": "Hippowdon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Hippopotas",
+      "hp": "130",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Naoyo Kimura",
+      "text": "It blasts internally stored sand from ports on its body to create a towering twister for attack.",
+      "attacks": [
+        {
+          "name": "Resistance Desert",
+          "damage": "60",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, prevent all effects of attacks, including damage, done to this Pokémon by Pokémon-EX."
+        },
+        {
+          "name": "Double-Edge",
+          "damage": "100",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This Pokémon does 20 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-89",
+      "itemType": "Pokemon Card",
+      "number": "89",
+      "name": "Drilbur",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "By spinning its body, it can dig straight through the ground at a speed of 30 mph.",
+      "attacks": [
+        {
+          "name": "Fury Swipes",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-90",
+      "itemType": "Pokemon Card",
+      "number": "90",
+      "name": "Diggersby",
+      "stage": "Stage 1",
+      "evolvesFrom": "Bunnelby",
+      "hp": "110",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Kyoko Umemoto",
+      "text": "As powerful as an excavator, its ears can reduce dense bedrock to rubble. When it's finished digging, it lounges lazily.",
+      "attacks": [
+        {
+          "name": "Ear Dig",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Flip a coin until you get tails. For each heads, discard the top card of your opponent's deck."
+        },
+        {
+          "name": "Hammer In",
+          "damage": "70",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-91",
+      "itemType": "Pokemon Card",
+      "number": "91",
+      "name": "Sharpedo-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Hunt",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon. This attack does 30 damage to the new Active Pokémon."
+        },
+        {
+          "name": "Jagged Fang",
+          "damage": "100",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Discard an Energy attached to this Pokémon. Then, discard an Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-92",
+      "itemType": "Pokemon Card",
+      "number": "92",
+      "name": "Crawdaunt",
+      "stage": "Stage 1",
+      "evolvesFrom": "Corphish",
+      "hp": "90",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Hajime Kusajima",
+      "abilities": [
+        {
+          "name": "Unruly Claw",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon, you may discard an Energy attached to your opponent's Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Loving to battle, this Pokémon pinches all Pokémon that enter its territory with its pincers and throws them out.",
+      "attacks": [
+        {
+          "name": "Crabhammer",
+          "damage": "60",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-93",
+      "itemType": "Pokemon Card",
+      "number": "93",
+      "name": "Aggron-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Steel Headbutt",
+          "damage": "50+",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        },
+        {
+          "name": "Raging Hammer",
+          "damage": "60+",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 10 more damage for each damage counter on this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-94",
+      "itemType": "Pokemon Card",
+      "number": "94",
+      "name": "M Aggron-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Aggron-EX",
+      "hp": "240",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Megaton Slam",
+          "damage": "120+",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may flip a coin. If heads, this attack does 120 more damage. If tails, this attack does 20 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-95",
+      "itemType": "Pokemon Card",
+      "number": "95",
+      "name": "Probopass",
+      "stage": "Stage 1",
+      "evolvesFrom": "Nosepass",
+      "hp": "110",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "artist": "TOKIYA",
+      "text": "It freely controls three small units called Mini-Noses using magnetic force.",
+      "attacks": [
+        {
+          "name": "Triple Smash",
+          "damage": "30×",
+          "cost": [
+            "Metal"
+          ],
+          "text": "Flip 3 coins. This attack does 30 damage times the number of heads."
+        },
+        {
+          "name": "Reinforced Nose",
+          "damage": "50+",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "text": "If this Pokémon has a Pokémon Tool card attached to it, this attack does 50 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-96",
+      "itemType": "Pokemon Card",
+      "number": "96",
+      "name": "Excadrill",
+      "stage": "Stage 1",
+      "evolvesFrom": "Drilbur",
+      "hp": "100",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "artist": "Shin Nagasawa",
+      "text": "More than 300 feet below the surface, they build mazelike nests. Their activity can be destructive to subway tunnels.",
+      "attacks": [
+        {
+          "name": "Drill Run",
+          "damage": "20",
+          "cost": [
+            "Metal"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Straight Claw",
+          "damage": "60+",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may discard an Energy attached to this Pokémon. If you do, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-97",
+      "itemType": "Pokemon Card",
+      "number": "97",
+      "name": "Excadrill",
+      "stage": "Stage 1",
+      "evolvesFrom": "Drilbur",
+      "hp": "110",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "PLANETA",
+      "text": "More than 300 feet below the surface, they build mazelike nests. Their activity can be destructive to subway tunnels.",
+      "attacks": [
+        {
+          "name": "Dredge",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for 2 Energy cards and attach them to this Pokémon. Shuffle your deck afterward."
+        },
+        {
+          "name": "Mach Claw",
+          "damage": "50",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-98",
+      "itemType": "Pokemon Card",
+      "number": "98",
+      "name": "Honedge",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "text": "If anyone dares to grab its hilt, it wraps a blue cloth around that person's arm and drains that person's life energy completely.",
+      "attacks": [
+        {
+          "name": "Metal Sound",
+          "cost": [
+            "Metal"
+          ],
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-99",
+      "itemType": "Pokemon Card",
+      "number": "99",
+      "name": "Doublade",
+      "stage": "Stage 1",
+      "evolvesFrom": "Honedge",
+      "hp": "80",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kanako Eo",
+      "text": "The complex attack patterns of its two swords are unstoppable, even for an opponent greatly accomplished at swordplay.",
+      "attacks": [
+        {
+          "name": "False Swipe",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, put damage counters on your opponent's Active Pokémon until its remaining HP is 10."
+        },
+        {
+          "name": "Slash",
+          "damage": "60",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-100",
+      "itemType": "Pokemon Card",
+      "number": "100",
+      "name": "Aegislash",
+      "stage": "Stage 2",
+      "evolvesFrom": "Doublade",
+      "hp": "140",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kouki Saitou",
+      "abilities": [
+        {
+          "name": "Miracle Guard",
+          "text": "Each of your Pokémon has no Weakness.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Apparently, it can detect the innate qualities of leadership. According to legend, whoever it recognizes is destined to become king.",
+      "attacks": [
+        {
+          "name": "Protect Charge",
+          "damage": "80",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-101",
+      "itemType": "Pokemon Card",
+      "number": "101",
+      "name": "Mr. Mime",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "TOKIYA",
+      "text": "It is adept at conning people. It is said to be able to create walls out of thin air by miming.",
+      "attacks": [
+        {
+          "name": "Trick",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Move a Pokémon Tool card attached to 1 of either player's Pokémon to another of that player's Pokémon that doesn't already have a Pokémon Tool attached to it. If there is no Pokémon to move the Pokémon Tool card to, this attack does nothing."
+        },
+        {
+          "name": "Lock Up",
+          "damage": "30",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-102",
+      "itemType": "Pokemon Card",
+      "number": "102",
+      "name": "Marill",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Common",
+      "artist": "Shigenori Negishi",
+      "text": "The tip of its tail is filled with oil that is lighter than water, so it acts as a float.",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Rollout",
+          "damage": "20",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-103",
+      "itemType": "Pokemon Card",
+      "number": "103",
+      "name": "Azumarill",
+      "stage": "Stage 1",
+      "evolvesFrom": "Marill",
+      "hp": "90",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare",
+      "artist": "MAHOU",
+      "text": "The bubble-like pattern on its stomach helps it camouflage itself when it's in the water.",
+      "attacks": [
+        {
+          "name": "Bubble Beam",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Superpower",
+          "damage": "60+",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may do 30 more damage. If you do, this Pokémon does 30 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-104",
+      "itemType": "Pokemon Card",
+      "number": "104",
+      "name": "Azumarill",
+      "stage": "Stage 1",
+      "evolvesFrom": "Marill",
+      "hp": "100",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "text": "The bubble-like pattern on its stomach helps it camouflage itself when it's in the water.",
+      "attacks": [
+        {
+          "name": "Tail Rap",
+          "damage": "30×",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+        },
+        {
+          "name": "Dwindling Wave",
+          "damage": "100-",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 100 damage minus 10 damage for each damage counter on this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-105",
+      "itemType": "Pokemon Card",
+      "number": "105",
+      "name": "Gardevoir-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Life Leap",
+          "damage": "20",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Shining Wind",
+          "damage": "100",
+          "cost": [
+            "Fairy",
+            "Fairy",
+            "Fairy"
+          ],
+          "text": "During your opponent's next turn, this Pokémon has no Weakness."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-106",
+      "itemType": "Pokemon Card",
+      "number": "106",
+      "name": "M Gardevoir-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Gardevoir-EX",
+      "hp": "210",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Brilliant Arrow",
+          "damage": "30×",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 30 damage times the amount of Fairy Energy attached to all of your Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-107",
+      "itemType": "Pokemon Card",
+      "number": "107",
+      "name": "Kingdra",
+      "stage": "Stage 2",
+      "evolvesFrom": "Seadra",
+      "hp": "130",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare",
+      "artist": "Suwama Chiaki",
+      "text": "It stores energy by sleeping at underwater depths at which no other life forms can survive.",
+      "attacks": [
+        {
+          "name": "Shred",
+          "damage": "30",
+          "cost": [
+            "Water"
+          ],
+          "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+        },
+        {
+          "name": "Twister",
+          "damage": "70",
+          "cost": [
+            "Water",
+            "Lightning"
+          ],
+          "text": "Flip 2 coins. For each heads, discard an Energy attached to your opponent's Active Pokémon. If both of them are tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-108",
+      "itemType": "Pokemon Card",
+      "number": "108",
+      "name": "Kingdra",
+      "stage": "Stage 2",
+      "evolvesFrom": "Seadra",
+      "hp": "130",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "hatachu",
+      "text": "It stores energy by sleeping at underwater depths at which no other life-forms can survive.",
+      "attacks": [
+        {
+          "name": "Gather Strength",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 4 basic Energy cards, reveal them, and put them into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Dragon Blast",
+          "damage": "150",
+          "cost": [
+            "Water",
+            "Water",
+            "Lightning"
+          ],
+          "text": "Discard a Water Energy and a Lightning Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-109",
+      "itemType": "Pokemon Card",
+      "number": "109",
+      "name": "Vibrava",
+      "stage": "Stage 1",
+      "evolvesFrom": "Trapinch",
+      "hp": "80",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yukiko Baba",
+      "text": "It generates ultrasonic waves by violently flapping its wings. After making its prey faint, it melts the prey with acid.",
+      "attacks": [
+        {
+          "name": "Sand Attack",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        },
+        {
+          "name": "Super Vibration",
+          "damage": "60",
+          "cost": [
+            "Grass",
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-110",
+      "itemType": "Pokemon Card",
+      "number": "110",
+      "name": "Flygon",
+      "stage": "Stage 2",
+      "evolvesFrom": "Vibrava",
+      "hp": "140",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "kirisAki",
+      "abilities": [
+        {
+          "name": "Sand Flap",
+          "text": "Once during your turn (before your attack), you may choose either player. That player shuffles his or her hand into his or her deck and draws 4 cards.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Known as \"The Desert Spirit,\" this Pokémon hides in the sandstorms it causes by beating its wings.",
+      "attacks": [
+        {
+          "name": "Sand Tomb",
+          "damage": "80",
+          "cost": [
+            "Grass",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-111",
+      "itemType": "Pokemon Card",
+      "number": "111",
+      "name": "Zigzagoon",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Sumiyoshi Kizuki",
+      "text": "A Pokémon with abundant curiosity. It shows an interest in everything, so it always zigzags.",
+      "attacks": [
+        {
+          "name": "Sand Attack",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        },
+        {
+          "name": "Headbutt",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-112",
+      "itemType": "Pokemon Card",
+      "number": "112",
+      "name": "Linoone",
+      "stage": "Stage 1",
+      "evolvesFrom": "Zigzagoon",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "match",
+      "text": "It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails.",
+      "attacks": [
+        {
+          "name": "Fury Swipes",
+          "damage": "30×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 30 damage times the number of heads."
+        },
+        {
+          "name": "Dash Attack",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-113",
+      "itemType": "Pokemon Card",
+      "number": "113",
+      "name": "Skitty",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Yuka Morii",
+      "text": "It shows its cute side by chasing its own tail until it gets dizzy.",
+      "attacks": [
+        {
+          "name": "Charm",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 (before applying Weakness and Resistance)."
+        },
+        {
+          "name": "Tail Smack",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-114",
+      "itemType": "Pokemon Card",
+      "number": "114",
+      "name": "Delcatty",
+      "stage": "Stage 1",
+      "evolvesFrom": "Skitty",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Atsuko Nishida",
+      "text": "It is highly popular among female Trainers for its sublime fur. It does not keep a nest.",
+      "attacks": [
+        {
+          "name": "Replace",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Move as many Energy attached to your Pokémon to your other Pokémon in any way you like."
+        },
+        {
+          "name": "Play Rough",
+          "damage": "30+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-115",
+      "itemType": "Pokemon Card",
+      "number": "115",
+      "name": "Spinda",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "The chances of two Spinda having identical spot patterns is less than one in four billion.",
+      "attacks": [
+        {
+          "name": "Staggering Steps",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Confused. If tails, this Pokémon is now Confused."
+        },
+        {
+          "name": "Uproar",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This attack does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-116",
+      "itemType": "Pokemon Card",
+      "number": "116",
+      "name": "Bidoof",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Akira Komayama",
+      "text": "It constantly gnaws on logs and rocks to whittle down its front teeth. It nests alongside water.",
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Scrunch",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, prevent all damage done to this Pokémon by attacks during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-117",
+      "itemType": "Pokemon Card",
+      "number": "117",
+      "name": "Bidoof",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "PLANETA",
+      "text": "It constantly gnaws on logs and rocks to whittle down its front teeth. It nests alongside water.",
+      "attacks": [
+        {
+          "name": "Drench",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If this Pokémon has any Water Energy attached to it, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-118",
+      "itemType": "Pokemon Card",
+      "number": "118",
+      "name": "Bibarel",
+      "stage": "Stage 1",
+      "evolvesFrom": "Bidoof",
+      "hp": "120",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "kirisAki",
+      "text": "It makes its nest by damming streams with bark and mud. It is known as an industrious worker.",
+      "attacks": [
+        {
+          "name": "Yawn",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        },
+        {
+          "name": "Continuous Headbutt",
+          "damage": "80×",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. This attack does 80 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-119",
+      "itemType": "Pokemon Card",
+      "number": "119",
+      "name": "Bouffalant",
+      "stage": "Basic",
+      "hp": "110",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hiroki Asanuma",
+      "abilities": [
+        {
+          "name": "Sap Sipper",
+          "text": "This Pokémon's attacks do 40 more damage to your opponent's Grass Pokémon (before applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "text": "Their fluffy fur absorbs damage, even if they strike foes with a fierce headbutt.",
+      "attacks": [
+        {
+          "name": "Derail",
+          "damage": "80",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard a Special Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-120",
+      "itemType": "Pokemon Card",
+      "number": "120",
+      "name": "Bunnelby",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "MAHOU",
+      "text": "It has ears like shovels. Digging holes strengthens its ears so much that they can sever thick roots effortlessly.",
+      "attacks": [
+        {
+          "name": "Trip Over",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-121",
+      "itemType": "Pokemon Card",
+      "number": "121",
+      "name": "Bunnelby",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hitoshi Ariga",
+      "text": "It has ears like shovels. Digging holes strengthens its ears so much that they can sever thick roots effortlessly.",
+      "attacks": [
+        {
+          "name": "Burrow",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Discard the top card of your opponent's deck."
+        },
+        {
+          "name": "Rototiller",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Shuffle a card from your discard pile into your deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-122",
+      "itemType": "Trainer Card",
+      "number": "122",
+      "name": "Acro Bike",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Look at the top 2 cards of your deck and put 1 of them into your hand. Discard the other card.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-123",
+      "itemType": "Trainer Card",
+      "number": "123",
+      "name": "Aggron Spirit Link",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,Your turn does not end if the Pokémon this card is attached to becomes M Aggron-EX.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-124",
+      "itemType": "Trainer Card",
+      "number": "124",
+      "name": "Archie's Ace in the Hole",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yusuke Ohmura",
+      "text": "You can play this card only when it is the last card in your hand.,Put a Water Pokémon from your discard pile onto your Bench. Then, draw 5 cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-125",
+      "itemType": "Trainer Card",
+      "number": "125",
+      "name": "Dive Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Search your deck for a Water Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-126",
+      "itemType": "Trainer Card",
+      "number": "126",
+      "name": "Energy Retrieval",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Put 2 basic Energy cards from your discard pile into your hand.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-127",
+      "itemType": "Trainer Card",
+      "number": "127",
+      "name": "Escape Rope",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Each player switches his or her Active Pokémon with 1 of his or her Benched Pokémon. (Your opponent switches first. If a player does not have a Benched Pokémon, he or she doesn't switch Pokémon.),You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-128",
+      "itemType": "Trainer Card",
+      "number": "128",
+      "name": "Exp. Share",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,When your Active Pokémon is Knocked Out by damage from an opponent's attack, you may move 1 basic Energy card that was attached to that Pokémon to the Pokémon this card is attached to.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-129",
+      "itemType": "Trainer Card",
+      "number": "129",
+      "name": "Fresh Water Set",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Heal 20 damage from each of your Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-130",
+      "itemType": "Trainer Card",
+      "number": "130",
+      "name": "Gardevoir Spirit Link",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,Your turn does not end if the Pokémon this card is attached to becomes M Gardevoir-EX.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-131",
+      "itemType": "Trainer Card",
+      "number": "131",
+      "name": "Groudon Spirit Link",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,Your turn does not end if the Pokémon this card is attached to becomes Primal Groudon-EX.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-132",
+      "itemType": "Trainer Card",
+      "number": "132",
+      "name": "Kyogre Spirit Link",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,Your turn does not end if the Pokémon this card is attached to becomes Primal Kyogre-EX.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-133",
+      "itemType": "Trainer Card",
+      "number": "133",
+      "name": "Maxie's Hidden Ball Trick",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "You can play this card only when it is the last card in your hand.,Put a Fighting Pokémon from your discard pile onto your Bench. Then, draw 5 cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-134",
+      "itemType": "Trainer Card",
+      "number": "134",
+      "name": "Professor Birch's Observations",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yusuke Ohmura",
+      "text": "Shuffle your hand into your deck and flip a coin. If heads, draw 7 cards. If tails, draw 4 cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-135",
+      "itemType": "Trainer Card",
+      "number": "135",
+      "name": "Rare Candy",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card on the Basic Pokémon. (This counts as evolving that Pokémon.) You can't use this card during your first turn or on a Basic Pokémon that was put into play this turn.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-136",
+      "itemType": "Trainer Card",
+      "number": "136",
+      "name": "Repeat Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Search your deck for a Pokémon with the same name as 1 of your Pokémon in play, reveal it, and put it into your hand. Shuffle your deck afterward.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-137",
+      "itemType": "Trainer Card",
+      "number": "137",
+      "name": "Rough Seas",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Once during each player's turn, that player may heal 30 damage from each of his or her Water Pokémon and Lightning Pokémon.,This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-138",
+      "itemType": "Trainer Card",
+      "number": "138",
+      "name": "Scorched Earth",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Once during each player's turn, that player may discard a Fire or Fighting Energy card from his or her hand. If that player does so, he or she draws 2 cards.,This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-139",
+      "itemType": "Trainer Card",
+      "number": "139",
+      "name": "Shrine of Memories",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Each player's evolved Pokémon can use any attack from its previous Evolutions. (That player still needs the necessary Energy to use each attack.),This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-140",
+      "itemType": "Trainer Card",
+      "number": "140",
+      "name": "Silent Lab",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Each Basic Pokémon in play, in each player's hand, and in each player's discard pile has no Abilities.,This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-141",
+      "itemType": "Trainer Card",
+      "number": "141",
+      "name": "Teammates",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Megumi Mizutani",
+      "text": "You can play this card only if 1 of your Pokémon was Knocked Out during your opponent's last turn.,Search your deck for up to 2 cards and put them into your hand. Shuffle your deck afterward.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-142",
+      "itemType": "Trainer Card",
+      "number": "142",
+      "name": "Weakness Policy",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ayaka Yoshida",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,The Pokémon this card is attached to has no Weakness.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-143",
+      "itemType": "Energy Card",
+      "number": "143",
+      "name": "Shield Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "This card can only be attached to Metal Pokémon. This card provides Metal Energy only while this card is attached to a Metal Pokémon.,The attacks of your opponent's Pokémon do 10 less damage to the Metal Pokémon this card is attached to (before applying Weakness and Resistance).,(If this card is attached to anything other than a Metal Pokémon, discard this card.)"
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-144",
+      "itemType": "Energy Card",
+      "number": "144",
+      "name": "Wonder Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "This card can only be attached to Fairy Pokémon. This card provides Fairy Energy only while this card is attached to a Fairy Pokémon.,Prevent all effects of your opponent's attacks, except damage, done to the Fairy Pokémon that this card is attached to. (Existing effects are not removed.),(If this card is attached to anything other than a Fairy Pokémon, discard this card.)"
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-145",
+      "itemType": "Pokemon Card",
+      "number": "145",
+      "name": "Trevenant-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Dark Forest",
+          "damage": "20",
+          "cost": [
+            "Grass"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "name": "Wood Blast",
+          "damage": "50+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 20 more damage for each Grass Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-146",
+      "itemType": "Pokemon Card",
+      "number": "146",
+      "name": "Camerupt-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Tumbling Attack",
+          "damage": "30+",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        },
+        {
+          "name": "Explosive Jet",
+          "damage": "50×",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard as many Fire Energy attached to your Pokémon as you like. This attack does 50 damage times the number of Energy cards you discarded."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-147",
+      "itemType": "Pokemon Card",
+      "number": "147",
+      "name": "Wailord-EX",
+      "stage": "Basic",
+      "hp": "250",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Water Veil",
+          "text": "Whenever you attach an Energy card from your hand to this Pokémon, remove all Special Conditions from it.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "High Breaching",
+          "damage": "120",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "text": "This Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-148",
+      "itemType": "Pokemon Card",
+      "number": "148",
+      "name": "Kyogre-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Water Pulse",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        },
+        {
+          "name": "Giant Whirlpool",
+          "damage": "140",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Return 2 Water Energy attached to this Pokémon to your hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-149",
+      "itemType": "Pokemon Card",
+      "number": "149",
+      "name": "Primal Kyogre-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Kyogre-EX",
+      "hp": "240",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Primal Reversion rule: When 1 of your Pokémon becomes Primal Kyogre-EX, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Tidal Storm",
+          "damage": "150",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Move 2 Energy from this Pokémon to 1 of your Benched Pokémon. This attack does 30 damage to each of your opponent's Benched Pokémon-EX. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-150",
+      "itemType": "Pokemon Card",
+      "number": "150",
+      "name": "Groudon-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Rip Claw",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Massive Rend",
+          "damage": "130",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-151",
+      "itemType": "Pokemon Card",
+      "number": "151",
+      "name": "Primal Groudon-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Groudon-EX",
+      "hp": "240",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Primal Reversion rule: When 1 of your Pokémon becomes Primal Groudon-EX, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Gaia Volcano",
+          "damage": "100+",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "If there is any Stadium card in play, this attack does 100 more damage. Discard that Stadium card."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-152",
+      "itemType": "Pokemon Card",
+      "number": "152",
+      "name": "Sharpedo-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Hunt",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon. This attack does 30 damage to the new Active Pokémon."
+        },
+        {
+          "name": "Jagged Fang",
+          "damage": "100",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Discard an Energy attached to this Pokémon. Then, discard an Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-153",
+      "itemType": "Pokemon Card",
+      "number": "153",
+      "name": "Aggron-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Steel Headbutt",
+          "damage": "50+",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        },
+        {
+          "name": "Raging Hammer",
+          "damage": "60+",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 10 more damage for each damage counter on this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-154",
+      "itemType": "Pokemon Card",
+      "number": "154",
+      "name": "M Aggron-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Aggron-EX",
+      "hp": "240",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Megaton Slam",
+          "damage": "120+",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may flip a coin. If heads, this attack does 120 more damage. If tails, this attack does 20 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-155",
+      "itemType": "Pokemon Card",
+      "number": "155",
+      "name": "Gardevoir-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Life Leap",
+          "damage": "20",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Shining Wind",
+          "damage": "100",
+          "cost": [
+            "Fairy",
+            "Fairy",
+            "Fairy"
+          ],
+          "text": "During your opponent's next turn, this Pokémon has no Weakness."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-156",
+      "itemType": "Pokemon Card",
+      "number": "156",
+      "name": "M Gardevoir-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Gardevoir-EX",
+      "hp": "210",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Brilliant Arrow",
+          "damage": "30×",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 30 damage times the amount of Fairy Energy attached to all of your Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-157",
+      "itemType": "Trainer Card",
+      "number": "157",
+      "name": "Archie's Ace in the Hole",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Hitoshi Ariga",
+      "text": "You can play this card only when it is the last card in your hand.,Put a Water Pokémon from your discard pile onto your Bench. Then, draw 5 cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-158",
+      "itemType": "Trainer Card",
+      "number": "158",
+      "name": "Maxie's Hidden Ball Trick",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Hitoshi Ariga",
+      "text": "You can play this card only when it is the last card in your hand.,Put a Fighting Pokémon from your discard pile onto your Bench. Then, draw 5 cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-159",
+      "itemType": "Trainer Card",
+      "number": "159",
+      "name": "Professor Birch's Observations",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Hitoshi Ariga",
+      "text": "Shuffle your hand into your deck and flip a coin. If heads, draw 7 cards. If tails, draw 4 cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-160",
+      "itemType": "Trainer Card",
+      "number": "160",
+      "name": "Teammates",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Hitoshi Ariga",
+      "text": "You can play this card only if 1 of your Pokémon was Knocked Out during your opponent's last turn.,Search your deck for up to 2 cards and put them into your hand. Shuffle your deck afterward.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-161",
+      "itemType": "Trainer Card",
+      "number": "161",
+      "name": "Dive Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Toyste Beach",
+      "text": "Search your deck for a Water Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-162",
+      "itemType": "Trainer Card",
+      "number": "162",
+      "name": "Enhanced Hammer",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Ryo Ueda",
+      "text": "Discard a Special Energy attached to 1 of your opponent's Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-163",
+      "itemType": "Trainer Card",
+      "number": "163",
+      "name": "Switch",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "5ban Graphics",
+      "text": "Switch your Active Pokémon with 1 of your Benched Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-primal-clash-164",
+      "itemType": "Trainer Card",
+      "number": "164",
+      "name": "Weakness Policy",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Ayaka Yoshida",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,The Pokémon this card is attached to has no Weakness.,You may play as many Item cards as you like during your turn (before your attack)."
+    }
+  ]
+}
