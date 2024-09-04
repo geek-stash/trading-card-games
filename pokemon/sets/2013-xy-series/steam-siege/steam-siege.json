@@ -1,0 +1,4628 @@
+{
+  "setId": "tcg-pokemon-steam-siege",
+  "cardCount": "116",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-steam-siege-booster-box",
+      "itemType": "Sealed Product",
+      "name": "Steam Siege Booster Box"
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-booster-pack",
+      "itemType": "Sealed Product",
+      "name": "Steam Siege Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-steam-siege-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Tangela",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "OOYAMA",
+      "text": "It tangles any moving thing with its vines. Their subtle shaking is ticklish if you get ensnared.",
+      "attacks": [
+        {
+          "name": "Slam",
+          "damage": "30×",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+        },
+        {
+          "name": "Mega Drain",
+          "damage": "40",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Heal 20 damage from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Tangrowth",
+      "stage": "Stage 1",
+      "evolvesFrom": "Tangela",
+      "hp": "130",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "kirisAki",
+      "text": "Its vines grow so profusely that, in the warm season, you can't even see its eyes.",
+      "attacks": [
+        {
+          "name": "Leaf Storm",
+          "damage": "80",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Heal 40 damage from each of your Grass Pokémon."
+        },
+        {
+          "name": "Flog",
+          "damage": "110+",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-3",
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Hoppip",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Mina Nakai",
+      "text": "It drifts on winds. It is said that when Hoppip gather in fields and mountains, spring is on the way.",
+      "attacks": [
+        {
+          "name": "Splash",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-4",
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Skiploom",
+      "stage": "Stage 1",
+      "evolvesFrom": "Hoppip",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Eri Yamaki",
+      "text": "It spreads its petals to absorb sunlight. It also floats in the air to get closer to the sun.",
+      "attacks": [
+        {
+          "name": "Splash",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Jumpluff",
+      "stage": "Stage 2",
+      "evolvesFrom": "Skiploom",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Suwama Chiaki",
+      "text": "Even in the fiercest wind, it can control its fluff to make its way to any place in the world it wants.",
+      "attacks": [
+        {
+          "name": "Fluffy Transport",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon."
+        },
+        {
+          "name": "Solar Step",
+          "damage": "20×",
+          "cost": [
+            "Grass"
+          ],
+          "text": "This attack does 20 damage times the number of your remaining Prize cards."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-6",
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Yanma",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "match",
+      "text": "If it flaps its wings really fast, it can generate shock waves that will shatter windows in the area.",
+      "attacks": [
+        {
+          "name": "Scout",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent reveals his or her hand."
+        },
+        {
+          "name": "Speed Dive",
+          "damage": "40",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-7",
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Yanmega",
+      "stage": "Stage 1",
+      "evolvesFrom": "Yanma",
+      "hp": "110",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Midori Harada",
+      "abilities": [
+        {
+          "name": "Sonic Vision",
+          "text": "If you have exactly 4 cards in your hand, ignore all Energy in the attack cost of each of this Pokémon's attacks.",
+          "type": "Ability"
+        }
+      ],
+      "text": "This six-legged Pokémon is easily capable of transporting an adult in flight. The wings on its tail help it stay balanced.",
+      "attacks": [
+        {
+          "name": "Assault Boom",
+          "damage": "50+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon has a Pokémon Tool card attached to it, this attack does 70 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-8",
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "Yanmega BREAK",
+      "stage": "BREAK",
+      "evolvesFrom": "Yanmega",
+      "hp": "140",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare BREAK",
+      "artist": "5ban Graphics",
+      "text": "BREAK Evolution Rule: Yanmega BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution.",
+      "attacks": [
+        {
+          "name": "Barrier Break",
+          "damage": "100",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on your opponent's Active Pokémon."
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-9",
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Seedot",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "sui",
+      "text": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
+      "attacks": [
+        {
+          "name": "Bide",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, if this Pokémon would be Knocked Out by damage from an attack during your opponent's next turn, it is not Knocked Out and its remaining HP becomes 10 instead."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Nuzleaf",
+      "stage": "Stage 1",
+      "evolvesFrom": "Seedot",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ayaka Yoshida",
+      "text": "It lives deep in forests. With the leaf on its head, it makes a flute whose song makes listeners uneasy.",
+      "attacks": [
+        {
+          "name": "Harden",
+          "cost": [
+            "Grass"
+          ],
+          "text": "During your opponent's next turn, if this Pokémon would be damaged by an attack, prevent that attack's damage done to this Pokémon if that damage is 60 or less."
+        },
+        {
+          "name": "Razor Leaf",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Shiftry",
+      "stage": "Stage 2",
+      "evolvesFrom": "Nuzleaf",
+      "hp": "140",
+      "types": [
+        "Grass",
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kagemaru Himeno",
+      "text": "By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.",
+      "attacks": [
+        {
+          "name": "Wicked Wind",
+          "damage": "40",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Until the end of your opponent's next turn, each Stadium or Pokémon Tool card in play has no effect. (This includes cards that come into play on that turn.)"
+        },
+        {
+          "name": "Extrasensory",
+          "damage": "60+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If you have the same number of cards in your hand as your opponent, this attack does 60 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Foongus",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Yuka Morii",
+      "abilities": [
+        {
+          "name": "Play Ball",
+          "text": "When you play this Pokémon from your hand onto your Bench, you may put 3 Poké Ball cards from your discard pile into your hand.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It lures Pokémon with its pattern that looks just like a Poké Ball then releases poison spores.",
+      "attacks": [
+        {
+          "name": "Ram",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Amoonguss",
+      "stage": "Stage 1",
+      "evolvesFrom": "Foongus",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "text": "It lures prey close by dancing and waving its arm caps, which resemble Poké Balls, in a swaying motion.",
+      "attacks": [
+        {
+          "name": "Crazy Spore",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Confused and Poisoned."
+        },
+        {
+          "name": "Strange Reaction",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon is Confused, it is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Larvesta",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Tomokazu Komiya",
+      "text": "The base of volcanoes is where they make their homes. They shoot fire from their five horns to repel attacking enemies.",
+      "attacks": [
+        {
+          "name": "Bug Bite",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Volcarona",
+      "stage": "Stage 1",
+      "evolvesFrom": "Larvesta",
+      "hp": "110",
+      "types": [
+        "Fire",
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "text": "When volcanic ash darkened the atmosphere, it is said that Volcarona's fire provided a replacement for the sun.",
+      "attacks": [
+        {
+          "name": "Shimmering Scales",
+          "damage": "20",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Confused. If tails, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Power Hurricane",
+          "damage": "120",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard all Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-16",
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Ponyta",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Sumiyoshi Kizuki",
+      "text": "Its legs grow strong while it chases after its parent. It runs in fields and mountains all day.",
+      "attacks": [
+        {
+          "name": "Returning Flames",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Put 2 Fire Energy cards from your discard pile into your hand."
+        },
+        {
+          "name": "Live Coal",
+          "damage": "10",
+          "cost": [
+            "Fire"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Rapidash",
+      "stage": "Stage 1",
+      "evolvesFrom": "Ponyta",
+      "hp": "90",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yukiko Baba",
+      "text": "It gallops at nearly 150 mph. With its mane blazing ferociously, it races as if it were an arrow.",
+      "attacks": [
+        {
+          "name": "Rear Kick",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Fire Blast",
+          "damage": "70",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "text": "Discard a Fire Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-18",
+      "itemType": "Pokemon Card",
+      "number": "18",
+      "name": "Chimchar",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Shibuzoh.",
+      "text": "The gas made in its belly burns from its rear end. The fire burns weakly when it feels sick.",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Ember",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, discard a Fire Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-19",
+      "itemType": "Pokemon Card",
+      "number": "19",
+      "name": "Monferno",
+      "stage": "Stage 1",
+      "evolvesFrom": "Chimchar",
+      "hp": "80",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mizue",
+      "text": "It uses ceilings and walls to launch aerial attacks. Its fiery tail is but one weapon.",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Flare",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-20",
+      "itemType": "Pokemon Card",
+      "number": "20",
+      "name": "Infernape",
+      "stage": "Stage 2",
+      "evolvesFrom": "Monferno",
+      "hp": "130",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Naoki Saito",
+      "text": "It tosses its enemies around with agility. It uses all its limbs to fight in its own unique style.",
+      "attacks": [
+        {
+          "name": "Flare Blitz",
+          "damage": "120",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "text": "Discard all Fire Energy attached to this Pokémon."
+        },
+        {
+          "name": "Flare Up",
+          "damage": "200",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "text": "If you have fewer than 10 Fire Energy cards in your discard pile, this attack does nothing. Shuffle 10 Fire Energy cards from your discard pile into your deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-21",
+      "itemType": "Pokemon Card",
+      "number": "21",
+      "name": "Talonflame BREAK",
+      "stage": "BREAK",
+      "evolvesFrom": "Talonflame",
+      "hp": "170",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare BREAK",
+      "artist": "5ban Graphics",
+      "text": "BREAK Evolution Rule: Talonflame BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution.",
+      "attacks": [
+        {
+          "name": "Flare Blitz",
+          "damage": "150",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "text": "Discard all Fire Energy attached to this Pokémon."
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-22",
+      "itemType": "Pokemon Card",
+      "number": "22",
+      "name": "Litleo",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Kyoko Umemoto",
+      "text": "They set off on their own from their pride and live by themselves to become stronger. These hot-blooded Pokémon are quick to fight.",
+      "attacks": [
+        {
+          "name": "Lunge",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-23",
+      "itemType": "Pokemon Card",
+      "number": "23",
+      "name": "Pyroar",
+      "stage": "Stage 1",
+      "evolvesFrom": "Litleo",
+      "hp": "120",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "artist": "Yumi",
+      "text": "With fiery breath of more than 10,000 degrees Fahrenheit, they viciously threaten any challenger. The females protect the pride's cubs.",
+      "attacks": [
+        {
+          "name": "Flame Charge",
+          "damage": "60",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Search your deck for a Fire Energy card and attach it to this Pokémon. Shuffle your deck afterward."
+        },
+        {
+          "name": "Incinerate",
+          "damage": "90",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Before doing damage, discard all Pokémon Tool cards attached to your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-24",
+      "itemType": "Pokemon Card",
+      "number": "24",
+      "name": "Pyroar BREAK",
+      "stage": "BREAK",
+      "evolvesFrom": "Pyroar",
+      "hp": "160",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare BREAK",
+      "artist": "5ban Graphics",
+      "text": "BREAK Evolution Rule: Pyroar BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution.",
+      "attacks": [
+        {
+          "name": "Kaiser Tackle",
+          "damage": "180",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "This Pokémon does 50 damage to itself."
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-25",
+      "itemType": "Pokemon Card",
+      "number": "25",
+      "name": "Volcanion",
+      "stage": "Basic",
+      "hp": "130",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "text": "It expels its internal steam from the arms on its back. It has enough power to blow away a mountain.",
+      "attacks": [
+        {
+          "name": "Power Heater",
+          "damage": "20",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Choose 2 of your Benched Pokémon. Attach a Fire Energy card from your discard pile to each of those Pokémon."
+        },
+        {
+          "name": "Steam Artillery",
+          "damage": "100",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-26",
+      "itemType": "Pokemon Card",
+      "number": "26",
+      "name": "Volcanion-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Fire",
+        "Water"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Steam Up",
+          "text": "Once during your turn (before your attack), you may discard a Fire Energy card from your hand. If you do, during this turn, your Basic Fire Pokémon's attacks do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Volcanic Heat",
+          "damage": "130",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-27",
+      "itemType": "Pokemon Card",
+      "number": "27",
+      "name": "Mantine",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "DemizuPosuka",
+      "text": "While elegantly swimming in the sea, it ignores Remoraid that cling to its fins seeking food scraps.",
+      "attacks": [
+        {
+          "name": "Healing Wave",
+          "cost": [
+            "Water"
+          ],
+          "text": "Discard as many cards as you like from your hand. Heal 10 damage from this Pokémon for each card you discarded in this way."
+        },
+        {
+          "name": "Dwindling Wave",
+          "damage": "90-",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "text": "This attack does 90 damage minus 10 damage for each damage counter on this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-28",
+      "itemType": "Pokemon Card",
+      "number": "28",
+      "name": "Shellos",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Sanosuke Sakuma",
+      "text": "Its shape and coloration vary, depending on its habitat.",
+      "attacks": [
+        {
+          "name": "Rain Splash",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-29",
+      "itemType": "Pokemon Card",
+      "number": "29",
+      "name": "Gastrodon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Shellos",
+      "hp": "110",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Aya Kusube",
+      "text": "It apparently had a huge shell for protection in ancient times. It lives in shallow tidal pools.",
+      "attacks": [
+        {
+          "name": "Sticky Shot",
+          "damage": "20",
+          "cost": [
+            "Water"
+          ],
+          "text": "During your opponent's next turn, the Defending Pokémon's attacks cost Colorless more, and its Retreat Cost is Colorless more."
+        },
+        {
+          "name": "Water Pulse",
+          "damage": "60",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-30",
+      "itemType": "Pokemon Card",
+      "number": "30",
+      "name": "Oshawott",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "sui",
+      "text": "It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing.",
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-31",
+      "itemType": "Pokemon Card",
+      "number": "31",
+      "name": "Dewott",
+      "stage": "Stage 1",
+      "evolvesFrom": "Oshawott",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shin Nagasawa",
+      "text": "As a result of strict training, each Dewott learns different forms for using the scalchops.",
+      "attacks": [
+        {
+          "name": "Razor Shell",
+          "damage": "30+",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-32",
+      "itemType": "Pokemon Card",
+      "number": "32",
+      "name": "Samurott",
+      "stage": "Stage 2",
+      "evolvesFrom": "Dewott",
+      "hp": "140",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Naoyo Kimura",
+      "text": "One swing of the sword incorporated in its armor can fell an opponent. A simple glare from one of them quiets everybody.",
+      "attacks": [
+        {
+          "name": "Ultimate Blade",
+          "damage": "40",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "If the damage from this attack reduces your opponent's Active Pokémon's HP to 60 or less, that Pokémon is Knocked Out."
+        },
+        {
+          "name": "Pike",
+          "damage": "90",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-33",
+      "itemType": "Pokemon Card",
+      "number": "33",
+      "name": "Clauncher",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Kanako Eo",
+      "text": "Through controlled expulsions of internal gas, it can expel water like a pistol shot. At close distances, it can shatter rock.",
+      "attacks": [
+        {
+          "name": "Double Pincers",
+          "damage": "10×",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-34",
+      "itemType": "Pokemon Card",
+      "number": "34",
+      "name": "Clawitzer",
+      "stage": "Stage 1",
+      "evolvesFrom": "Clauncher",
+      "hp": "100",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Mega Boost",
+          "text": "Once during your turn (before your attack), you may attach a Special Energy card from your hand to 1 of your Mega Evolution Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "By expelling water from the nozzle in the back of its claw, it can move at a speed of 60 knots.",
+      "attacks": [
+        {
+          "name": "Crabhammer",
+          "damage": "60",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-35",
+      "itemType": "Pokemon Card",
+      "number": "35",
+      "name": "Clawitzer BREAK",
+      "stage": "BREAK",
+      "evolvesFrom": "Clawitzer",
+      "hp": "130",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare BREAK",
+      "artist": "5ban Graphics",
+      "text": "BREAK Evolution Rule: Clawitzer BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution.",
+      "attacks": [
+        {
+          "name": "Lock-On",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn. During your next turn, any damage done to that Pokémon by attacks is increased by 120 (after applying Weakness and Resistance)."
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-36",
+      "itemType": "Pokemon Card",
+      "number": "36",
+      "name": "Bergmite",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "text": "Using air of -150 degrees Fahrenheit, they freeze opponents solid. They live in herds above the snow line on mountains.",
+      "attacks": [
+        {
+          "name": "Ice Block",
+          "cost": [
+            "Water"
+          ],
+          "text": "Heal 30 damage from this Pokémon."
+        },
+        {
+          "name": "Icy Snow",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-37",
+      "itemType": "Pokemon Card",
+      "number": "37",
+      "name": "Avalugg",
+      "stage": "Stage 1",
+      "evolvesFrom": "Bergmite",
+      "hp": "120",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Saya Tsuruta",
+      "text": "The way several Bergmite huddle on its back make it look like an aircraft carrier made of ice.",
+      "attacks": [
+        {
+          "name": "Crunch",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Melting Floe",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "text": "Discard the top 3 cards of your deck. For each Water Energy card you discarded in this way, discard the top 3 cards of your opponent's deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-38",
+      "itemType": "Pokemon Card",
+      "number": "38",
+      "name": "Mareep",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Eri Yamaki",
+      "text": "It stores lots of air in its soft fur, allowing it to stay cool in summer and warm in winter.",
+      "attacks": [
+        {
+          "name": "Thunder Wave",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Tackle",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-39",
+      "itemType": "Pokemon Card",
+      "number": "39",
+      "name": "Flaaffy",
+      "stage": "Stage 1",
+      "evolvesFrom": "Mareep",
+      "hp": "90",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "MAHOU",
+      "text": "If its coat becomes fully charged with electricity, its tail lights up. It fires hair that zaps on impact.",
+      "attacks": [
+        {
+          "name": "Ram",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Thunder Shock",
+          "damage": "50",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-40",
+      "itemType": "Pokemon Card",
+      "number": "40",
+      "name": "Ampharos",
+      "stage": "Stage 2",
+      "evolvesFrom": "Flaaffy",
+      "hp": "140",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kanako Eo",
+      "abilities": [
+        {
+          "name": "Shocking Light",
+          "text": "Once during your turn (before your attack), you may put 3 damage counters on 1 of your opponent's Pokémon-EX.",
+          "type": "Ability"
+        }
+      ],
+      "text": "The tail's tip shines brightly and can be seen from far away. It acts as a beacon for lost people.",
+      "attacks": [
+        {
+          "name": "Gigavolt",
+          "damage": "80+",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 40 more damage. If tails, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-41",
+      "itemType": "Pokemon Card",
+      "number": "41",
+      "name": "Joltik",
+      "stage": "Basic",
+      "hp": "30",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Ayaka Yoshida",
+      "text": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
+      "attacks": [
+        {
+          "name": "Attach",
+          "damage": "10",
+          "cost": [
+            "Lightning"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-42",
+      "itemType": "Pokemon Card",
+      "number": "42",
+      "name": "Galvantula",
+      "stage": "Stage 1",
+      "evolvesFrom": "Joltik",
+      "hp": "90",
+      "types": [
+        "Lightning",
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "match",
+      "text": "When attacked, they create an electric barrier by spitting out many electrically charged threads.",
+      "attacks": [
+        {
+          "name": "Double Thread",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This attack does 30 damage to 2 of your opponent's Pokémon. Also apply Weakness and Resistance for Benched Pokémon."
+        },
+        {
+          "name": "Electroweb",
+          "damage": "30",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-43",
+      "itemType": "Pokemon Card",
+      "number": "43",
+      "name": "Nidoran ♂",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Hasuno",
+      "text": "Its large ears are flapped like wings when it is listening to distant sounds. It extends toxic barbs when angered.",
+      "attacks": [
+        {
+          "name": "Come Along",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for Nidoran ♀ and put it onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "name": "Peck",
+          "damage": "20",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-44",
+      "itemType": "Pokemon Card",
+      "number": "44",
+      "name": "Nidorino",
+      "stage": "Stage 1",
+      "evolvesFrom": "Nidoran ♂",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "TOKIYA",
+      "text": "An aggressive Pokémon that is quick to attack. The horn on its head secretes a powerful venom.",
+      "attacks": [
+        {
+          "name": "Peck",
+          "damage": "20",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Nido Press",
+          "damage": "40+",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "If Nidorina is on your Bench, this attack does 40 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-45",
+      "itemType": "Pokemon Card",
+      "number": "45",
+      "name": "Nidoking",
+      "stage": "Stage 2",
+      "evolvesFrom": "Nidorino",
+      "hp": "150",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Mina Nakai",
+      "abilities": [
+        {
+          "name": "King's Palace",
+          "text": "Your Nidoqueen's attacks do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "text": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
+      "attacks": [
+        {
+          "name": "Power Lariat",
+          "damage": "60+",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "This attack does 30 more damage for each Evolution Pokémon on your Bench."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-46",
+      "itemType": "Pokemon Card",
+      "number": "46",
+      "name": "Drifloon",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "kodama",
+      "text": "These Pokémon are called the \"Signpost for Wandering Spirits.\" Children holding them sometimes vanish.",
+      "attacks": [
+        {
+          "name": "Transfer Pain",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Move 1 damage counter from 1 of your Pokémon to 1 of your opponent's Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-47",
+      "itemType": "Pokemon Card",
+      "number": "47",
+      "name": "Drifblim",
+      "stage": "Stage 1",
+      "evolvesFrom": "Drifloon",
+      "hp": "100",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Miki Tanaka",
+      "text": "It's drowsy in daytime, but flies off in the evening in big groups. No one knows where they go.",
+      "attacks": [
+        {
+          "name": "Eerie Wave",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Confused."
+        },
+        {
+          "name": "Burst Curse",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Discard 2 Energy attached to this Pokémon. Put 8 damage counters on your opponent's Pokémon in any way you like."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-48",
+      "itemType": "Pokemon Card",
+      "number": "48",
+      "name": "Litwick",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "text": "Litwick shines a light that absorbs the life energy of people and Pokémon, which becomes the fuel that it burns.",
+      "attacks": [
+        {
+          "name": "Slightly Simmer",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 2 cards and discard them. Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-49",
+      "itemType": "Pokemon Card",
+      "number": "49",
+      "name": "Lampent",
+      "stage": "Stage 1",
+      "evolvesFrom": "Litwick",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "miki kudo",
+      "text": "It arrives near the moment of death and steals spirit from the body.",
+      "attacks": [
+        {
+          "name": "Mirror Mirror",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Each player either draws or discards cards until that player has 4 cards in his or her hand. (Your opponent does this first.)"
+        },
+        {
+          "name": "Flickering Flames",
+          "damage": "20",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-50",
+      "itemType": "Pokemon Card",
+      "number": "50",
+      "name": "Chandelure",
+      "stage": "Stage 2",
+      "evolvesFrom": "Lampent",
+      "hp": "130",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Tomokazu Komiya",
+      "abilities": [
+        {
+          "name": "Sinister Selection",
+          "text": "Once during your turn (before your attack), you may look at the top 2 cards of your deck and put 1 of them into your hand. Discard the other card.",
+          "type": "Ability"
+        }
+      ],
+      "text": "The spirits burned up in its ominous flame lose their way and wander this world forever.",
+      "attacks": [
+        {
+          "name": "Past Friends",
+          "damage": "10+",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "This attack does 10 more damage for each Supporter card in your discard pile."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-51",
+      "itemType": "Pokemon Card",
+      "number": "51",
+      "name": "Hoopa",
+      "stage": "Basic",
+      "hp": "130",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Yoshinobu Saito",
+      "text": "It is said to be able to seize anything it desires with its six rings and six huge arms. With its power sealed, it is transformed into a much smaller form.",
+      "attacks": [
+        {
+          "name": "Hyperspace Punch",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage to 2 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Portal Strike",
+          "damage": "130",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "This Pokémon can't use Portal Strike during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-52",
+      "itemType": "Pokemon Card",
+      "number": "52",
+      "name": "Mankey",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Hitoshi Ariga",
+      "text": "It lives in treetop colonies. If one becomes enraged, the whole colony rampages for no reason.",
+      "attacks": [
+        {
+          "name": "Focus Energy",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "During your next turn, this Pokémon's Flop attack's base damage is 50."
+        },
+        {
+          "name": "Flop",
+          "damage": "10",
+          "cost": [
+            "Fighting"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-53",
+      "itemType": "Pokemon Card",
+      "number": "53",
+      "name": "Primeape",
+      "stage": "Stage 1",
+      "evolvesFrom": "Mankey",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Masakazu Fukuda",
+      "text": "It is always outrageously furious. If it gives chase, it will tenaciously track the target no matter how far.",
+      "attacks": [
+        {
+          "name": "Swagger",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Spirited Throw",
+          "damage": "30+",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "If, before doing damage, your opponent's Active Pokémon has more remaining HP than this Pokémon, this attack does 60 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-54",
+      "itemType": "Pokemon Card",
+      "number": "54",
+      "name": "Nosepass",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "You Iribi",
+      "text": "Its magnetic nose consistently faces north. Travelers check Nosepass to get their bearings.",
+      "attacks": [
+        {
+          "name": "Thunder Wave",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Rolling Tackle",
+          "damage": "40",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-55",
+      "itemType": "Pokemon Card",
+      "number": "55",
+      "name": "Probopass",
+      "stage": "Stage 1",
+      "evolvesFrom": "Nosepass",
+      "hp": "120",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "MAHOU",
+      "text": "It freely controls three small units called Mini-Noses using magnetic force.",
+      "attacks": [
+        {
+          "name": "Bounce Back",
+          "damage": "40",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "name": "Rock Tomb",
+          "damage": "80",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-56",
+      "itemType": "Pokemon Card",
+      "number": "56",
+      "name": "Anorith",
+      "stage": "Restored",
+      "evolvesFrom": "Claw Fossil Anorith",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shigenori Negishi",
+      "abilities": [
+        {
+          "name": "Restored Barrier",
+          "text": "Each of your Restored Pokémon has no Weakness.",
+          "type": "Ability"
+        }
+      ],
+      "text": "A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.",
+      "attacks": [
+        {
+          "name": "X-Scissor",
+          "damage": "20+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-57",
+      "itemType": "Pokemon Card",
+      "number": "57",
+      "name": "Armaldo",
+      "stage": "Stage 1",
+      "evolvesFrom": "Anorith",
+      "hp": "150",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Satoshi Shirai",
+      "text": "Protected by a hard shell, its body is very sturdy. It skewers prey with its claws to feed.",
+      "attacks": [
+        {
+          "name": "Rushing Water",
+          "damage": "40",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Move an Energy from your opponent's Active Pokémon to 1 of his or her Benched Pokémon."
+        },
+        {
+          "name": "Guard Claw",
+          "damage": "100",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 30 (after applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-58",
+      "itemType": "Pokemon Card",
+      "number": "58",
+      "name": "Croagunk",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Masakazu Fukuda",
+      "text": "Inflating its poison sacs, it fills the area with an odd sound and hits flinching opponents with a poison jab.",
+      "attacks": [
+        {
+          "name": "Poison Up",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is Poisoned, put 3 more damage counters on that Pokémon between turns. This effect can be applied more than once."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-59",
+      "itemType": "Pokemon Card",
+      "number": "59",
+      "name": "Toxicroak",
+      "stage": "Stage 1",
+      "evolvesFrom": "Croagunk",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Hajime Kusajima",
+      "abilities": [
+        {
+          "name": "Poison Enzyme",
+          "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Poisoned Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal.",
+      "attacks": [
+        {
+          "name": "Poison Jab",
+          "damage": "50",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-60",
+      "itemType": "Pokemon Card",
+      "number": "60",
+      "name": "Sneasel",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Hajime Kusajima",
+      "text": "Its paws conceal sharp claws. If attacked, it suddenly extends the claws and startles its enemy.",
+      "attacks": [
+        {
+          "name": "Nyan Roll",
+          "damage": "10",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-61",
+      "itemType": "Pokemon Card",
+      "number": "61",
+      "name": "Weavile",
+      "stage": "Stage 1",
+      "evolvesFrom": "Sneasel",
+      "hp": "90",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "kawayoo",
+      "abilities": [
+        {
+          "name": "Tear Away",
+          "text": "As often as you like during your turn (before your attack), you may put a Pokémon Tool card attached to 1 of your Pokémon into your hand.",
+          "type": "Ability"
+        }
+      ],
+      "text": "They live in cold regions, forming groups of four or five that hunt prey with impressive coordination.",
+      "attacks": [
+        {
+          "name": "Slash",
+          "damage": "40",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-62",
+      "itemType": "Pokemon Card",
+      "number": "62",
+      "name": "Spiritomb",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "text": "It was bound to a fissure in an Odd Keystone as punishment for misdeeds 500 years ago.",
+      "attacks": [
+        {
+          "name": "Nightmare",
+          "damage": "10",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        },
+        {
+          "name": "Damage Play",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Move as many damage counters on your opponent's Benched Pokémon as you like to any of your opponent's other Pokémon in any way you like."
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-63",
+      "itemType": "Pokemon Card",
+      "number": "63",
+      "name": "Pawniard",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Sumiyoshi Kizuki",
+      "text": "Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey.",
+      "attacks": [
+        {
+          "name": "Charge Order",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This attack does 10 damage times the number of your Pawniard."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-64",
+      "itemType": "Pokemon Card",
+      "number": "64",
+      "name": "Bisharp",
+      "stage": "Stage 1",
+      "evolvesFrom": "Pawniard",
+      "hp": "100",
+      "types": [
+        "Darkness",
+        "Metal"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Shin Nagasawa",
+      "text": "Bisharp pursues prey in the company of a large group of Pawniard. Then Bisharp finishes off the prey.",
+      "attacks": [
+        {
+          "name": "Retaliate",
+          "damage": "30+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If any of your Pokémon were Knocked Out by damage from an opponent's attack during his or her last turn, this attack does 60 more damage."
+        },
+        {
+          "name": "Mach Claw",
+          "damage": "60",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-65",
+      "itemType": "Pokemon Card",
+      "number": "65",
+      "name": "Yveltal",
+      "stage": "Basic",
+      "hp": "130",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Hajime Kusajima",
+      "text": "When its life comes to an end, it absorbs the life energy of every living thing and turns into a cocoon once more.",
+      "attacks": [
+        {
+          "name": "Oblivion Wing",
+          "damage": "30",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Attach a Darkness Energy card from your discard pile to 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Darkness Blade",
+          "damage": "100",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this Pokémon can't attack during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-66",
+      "itemType": "Pokemon Card",
+      "number": "66",
+      "name": "Yveltal BREAK",
+      "stage": "BREAK",
+      "evolvesFrom": "Yveltal",
+      "hp": "150",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare BREAK",
+      "artist": "5ban Graphics",
+      "text": "BREAK Evolution Rule: Yveltal BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution.",
+      "attacks": [
+        {
+          "name": "Baleful Night",
+          "damage": "120",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Darkness"
+          ],
+          "text": "This attack does 30 damage to each of your opponent's Benched Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-67",
+      "itemType": "Pokemon Card",
+      "number": "67",
+      "name": "Steelix-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Wild Edge",
+          "damage": "80+",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may do 50 more damage. If you do, this Pokémon does 20 damage to itself."
+        },
+        {
+          "name": "Iron Tail",
+          "damage": "100×",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. This attack does 100 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-68",
+      "itemType": "Pokemon Card",
+      "number": "68",
+      "name": "M Steelix-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Steelix-EX",
+      "hp": "240",
+      "types": [
+        "Metal",
+        "Fighting"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Canyon Axe",
+          "damage": "160",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-69",
+      "itemType": "Pokemon Card",
+      "number": "69",
+      "name": "Shieldon",
+      "stage": "Restored",
+      "evolvesFrom": "Armor Fossil Shieldon",
+      "hp": "90",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mizue",
+      "text": "It was generated from a fossil dug out of a layer of clay that was older than anyone knows. It has a sturdy face.",
+      "attacks": [
+        {
+          "name": "Rock Head",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Hammer In",
+          "damage": "60",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-70",
+      "itemType": "Pokemon Card",
+      "number": "70",
+      "name": "Bastiodon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Shieldon",
+      "hp": "150",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "artist": "match",
+      "text": "Any frontal attack is repulsed. It is a docile Pokémon that feeds on grass and berries.",
+      "attacks": [
+        {
+          "name": "Counter Head",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, if this Pokémon is damaged by an attack (even if this Pokémon is Knocked Out), put damage counters on the Attacking Pokémon equal to the damage done to this Pokémon."
+        },
+        {
+          "name": "Fortress of Rage",
+          "damage": "100+",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 10 more damage for each of your Benched Pokémon that has any damage counters on it."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-71",
+      "itemType": "Pokemon Card",
+      "number": "71",
+      "name": "Klink",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Common",
+      "artist": "Miki Tanaka",
+      "text": "The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.",
+      "attacks": [
+        {
+          "name": "Disorderly Flip",
+          "damage": "10×",
+          "cost": [
+            "Metal"
+          ],
+          "text": "Flip 4 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-72",
+      "itemType": "Pokemon Card",
+      "number": "72",
+      "name": "Klang",
+      "stage": "Stage 1",
+      "evolvesFrom": "Klink",
+      "hp": "80",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shigenori Negishi",
+      "text": "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die.",
+      "attacks": [
+        {
+          "name": "Vice Grip",
+          "damage": "30",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Disorderly Flip",
+          "damage": "30×",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "text": "Flip 4 coins. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-73",
+      "itemType": "Pokemon Card",
+      "number": "73",
+      "name": "Klinklang",
+      "stage": "Stage 2",
+      "evolvesFrom": "Klang",
+      "hp": "140",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Midori Harada",
+      "abilities": [
+        {
+          "name": "Heavy Bumper",
+          "text": "Any damage done to this Pokémon by an opponent's attack is reduced by 10 for each Colorless in your opponent's Active Pokémon's Retreat Cost (after applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "text": "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area.",
+      "attacks": [
+        {
+          "name": "Gear Spinner",
+          "damage": "70",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "text": "During your next turn, this Pokémon's Gear Spinner attack does 70 more damage (before applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-74",
+      "itemType": "Pokemon Card",
+      "number": "74",
+      "name": "Cobalion",
+      "stage": "Basic",
+      "hp": "120",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "artist": "kirisAki",
+      "text": "It has a body and heart of steel. It worked with its allies to punish people when they hurt Pokémon.",
+      "attacks": [
+        {
+          "name": "Quick Guard",
+          "cost": [
+            "Metal"
+          ],
+          "text": "Prevent all damage done to this Pokémon by attacks from Basic Pokémon during your opponent's next turn. This Pokémon can't use Quick Guard during your next turn."
+        },
+        {
+          "name": "Revenge Blast",
+          "damage": "30+",
+          "cost": [
+            "Metal",
+            "Metal"
+          ],
+          "text": "This attack does 30 more damage for each Prize card your opponent has taken."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-75",
+      "itemType": "Pokemon Card",
+      "number": "75",
+      "name": "Magearna-EX",
+      "stage": "Basic",
+      "hp": "160",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Mystic Heart",
+          "text": "Prevent all effects of your opponent's attacks, except damage, done to each of your Pokémon that has any Metal Energy attached to it. (Existing effects are not removed.)",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Soul Blaster",
+          "damage": "120",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your next turn, this Pokémon's Soul Blaster attack's base damage is 60."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-76",
+      "itemType": "Pokemon Card",
+      "number": "76",
+      "name": "Marill",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Common",
+      "artist": "Shibuzoh.",
+      "text": "The tip of its tail is filled with oil that is lighter than water, so it acts as a float.",
+      "attacks": [
+        {
+          "name": "Bubble Drain",
+          "damage": "10",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "Heal 10 damage from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-77",
+      "itemType": "Pokemon Card",
+      "number": "77",
+      "name": "Azumarill",
+      "stage": "Stage 1",
+      "evolvesFrom": "Marill",
+      "hp": "100",
+      "types": [
+        "Fairy",
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Sanosuke Sakuma",
+      "text": "The bubble-like pattern on its stomach helps it camouflage itself when it's in the water.",
+      "attacks": [
+        {
+          "name": "Play Rough",
+          "damage": "30+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        },
+        {
+          "name": "Bubble Drain",
+          "damage": "80",
+          "cost": [
+            "Fairy",
+            "Fairy",
+            "Colorless"
+          ],
+          "text": "Heal 30 damage from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-78",
+      "itemType": "Pokemon Card",
+      "number": "78",
+      "name": "Gardevoir-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Link Blast",
+          "damage": "30+",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "text": "If this Pokémon and your opponent's Active Pokémon have the same amount of Energy attached to them, this attack does 70 more damage."
+        },
+        {
+          "name": "Luminous Blade",
+          "damage": "120",
+          "cost": [
+            "Fairy",
+            "Fairy",
+            "Colorless"
+          ],
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-79",
+      "itemType": "Pokemon Card",
+      "number": "79",
+      "name": "M Gardevoir-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Gardevoir-EX",
+      "hp": "210",
+      "types": [
+        "Fairy",
+        "Psychic"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Despair Ray",
+          "damage": "110+",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "text": "Discard as many of your Benched Pokémon as you like. This attack does 10 more damage for each Benched Pokémon you discarded in this way."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-80",
+      "itemType": "Pokemon Card",
+      "number": "80",
+      "name": "Klefki",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Saya Tsuruta",
+      "abilities": [
+        {
+          "name": "Wonder Lock",
+          "text": "Once during your turn (before your attack), if this Pokémon is on your Bench, you may discard all cards attached to this Pokémon and attach it to 1 of your Pokémon as a Pokémon Tool card. Prevent any damage done to the Pokémon this card is attached to by attacks from your opponent's Mega Evolution Pokémon. If this card is attached to a Pokémon, discard this card at the end of your opponent's turn.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It never lets go of a key that it likes, so people give it the keys to vaults and safes as a way to prevent crime.",
+      "attacks": [
+        {
+          "name": "Fairy Wind",
+          "damage": "30",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-81",
+      "itemType": "Pokemon Card",
+      "number": "81",
+      "name": "Xerneas",
+      "stage": "Basic",
+      "hp": "130",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Megumi Mizutani",
+      "text": "Legends say it can share eternal life. It slept for a thousand years in the form of a tree before its revival.",
+      "attacks": [
+        {
+          "name": "Geomancy",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "Choose 2 of your Benched Pokémon. For each of those Pokémon, search your deck for a Fairy Energy card and attach it to that Pokémon. Shuffle your deck afterward."
+        },
+        {
+          "name": "Rainbow Spear",
+          "damage": "100",
+          "cost": [
+            "Fairy",
+            "Fairy",
+            "Colorless"
+          ],
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-82",
+      "itemType": "Pokemon Card",
+      "number": "82",
+      "name": "Xerneas BREAK",
+      "stage": "BREAK",
+      "evolvesFrom": "Xerneas",
+      "hp": "150",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare BREAK",
+      "artist": "5ban Graphics",
+      "text": "BREAK Evolution Rule: Xerneas BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution.",
+      "attacks": [
+        {
+          "name": "Life Stream",
+          "damage": "20×",
+          "cost": [
+            "Fairy",
+            "Fairy"
+          ],
+          "text": "This attack does 20 damage times the amount of Energy attached to all of your Pokémon."
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-83",
+      "itemType": "Pokemon Card",
+      "number": "83",
+      "name": "Druddigon",
+      "stage": "Basic",
+      "hp": "120",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare",
+      "artist": "kawayoo",
+      "text": "It warms its body by absorbing sunlight with its wings. When its body temperature falls, it can no longer move.",
+      "attacks": [
+        {
+          "name": "Proud Fang",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent has any Pokémon BREAK in play, this attack does 60 more damage."
+        },
+        {
+          "name": "Giga Claw",
+          "damage": "100",
+          "cost": [
+            "Fire",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. If both of them are tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-84",
+      "itemType": "Pokemon Card",
+      "number": "84",
+      "name": "Deino",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Common",
+      "artist": "Suwama Chiaki",
+      "text": "Lacking sight, it's unaware of its surroundings, so it bumps into things and eats anything that moves.",
+      "attacks": [
+        {
+          "name": "Roar",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "name": "Headbutt Bounce",
+          "damage": "20",
+          "cost": [
+            "Psychic",
+            "Darkness"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-85",
+      "itemType": "Pokemon Card",
+      "number": "85",
+      "name": "Zweilous",
+      "stage": "Stage 1",
+      "evolvesFrom": "Deino",
+      "hp": "90",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "After it has eaten up all the food in its territory, it moves to another area. Its two heads do not get along.",
+      "attacks": [
+        {
+          "name": "Double Hit",
+          "damage": "20×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        },
+        {
+          "name": "Power Breath",
+          "damage": "80",
+          "cost": [
+            "Psychic",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-86",
+      "itemType": "Pokemon Card",
+      "number": "86",
+      "name": "Hydreigon",
+      "stage": "Stage 2",
+      "evolvesFrom": "Zweilous",
+      "hp": "150",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Hideki Ishikawa",
+      "text": "It responds to movement by attacking. This scary, three-headed Pokémon devours everything in its path!",
+      "attacks": [
+        {
+          "name": "Cruel Fang",
+          "damage": "40",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 40 (before applying Weakness and Resistance)."
+        },
+        {
+          "name": "Dark Burn",
+          "damage": "50×",
+          "cost": [
+            "Psychic",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Discard as many Darkness Energy attached to your Pokémon as you like. This attack does 50 damage times the amount of Darkness Energy you discarded in this way."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-87",
+      "itemType": "Pokemon Card",
+      "number": "87",
+      "name": "Hydreigon BREAK",
+      "stage": "BREAK",
+      "evolvesFrom": "Hydreigon",
+      "hp": "190",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare BREAK",
+      "artist": "5ban Graphics",
+      "text": "BREAK Evolution Rule: Hydreigon BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution.",
+      "attacks": [
+        {
+          "name": "Calamity Blast",
+          "damage": "150",
+          "cost": [
+            "Psychic",
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Discard 3 Energy attached to this Pokémon. This attack does 50 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-88",
+      "itemType": "Pokemon Card",
+      "number": "88",
+      "name": "Meowth",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Masakazu Fukuda",
+      "text": "Adores round objects. It wanders the streets on a nightly basis to look for dropped loose change.",
+      "attacks": [
+        {
+          "name": "Stall",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "You can use this attack only if you go second, and only on your first turn. Discard an Energy attached to 1 of your opponent's Pokémon."
+        },
+        {
+          "name": "Scratch",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-89",
+      "itemType": "Pokemon Card",
+      "number": "89",
+      "name": "Persian",
+      "stage": "Stage 1",
+      "evolvesFrom": "Meowth",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Anesaki Dynamic",
+      "text": "Its lithe muscles allow it to walk without making a sound. It attacks in an instant.",
+      "attacks": [
+        {
+          "name": "Raid",
+          "damage": "30+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If this Pokémon evolved from Meowth during this turn, this attack does 30 more damage."
+        },
+        {
+          "name": "Fury Swipes",
+          "damage": "30×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-90",
+      "itemType": "Pokemon Card",
+      "number": "90",
+      "name": "Aipom",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Naoki Saito",
+      "text": "Its tail is so powerful that it can use it to grab a tree branch and hold itself up in the air.",
+      "attacks": [
+        {
+          "name": "Fiddle Around",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Look at the top 3 cards of your opponent's deck and put them back in any order."
+        },
+        {
+          "name": "Tail Jab",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-91",
+      "itemType": "Pokemon Card",
+      "number": "91",
+      "name": "Ambipom",
+      "stage": "Stage 1",
+      "evolvesFrom": "Aipom",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Atsuko Nishida",
+      "text": "To eat, it deftly shucks nuts with its two tails. It rarely uses its arms now.",
+      "attacks": [
+        {
+          "name": "Furry Chance",
+          "damage": "20+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Discard the top card of your opponent's deck. If that card is an Energy card, this attack does 60 more damage."
+        },
+        {
+          "name": "Double Hit",
+          "damage": "50×",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 50 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-92",
+      "itemType": "Pokemon Card",
+      "number": "92",
+      "name": "Rufflet",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "They will challenge anything, even strong opponents, without fear. Their frequent fights help them become stronger.",
+      "attacks": [
+        {
+          "name": "Reckless Charge",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This Pokémon does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-93",
+      "itemType": "Pokemon Card",
+      "number": "93",
+      "name": "Braviary",
+      "stage": "Stage 1",
+      "evolvesFrom": "Rufflet",
+      "hp": "120",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kyoko Umemoto",
+      "text": "They fight for their friends without any thought about danger to themselves. One can carry a car while flying.",
+      "attacks": [
+        {
+          "name": "Ambush",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 50 more damage."
+        },
+        {
+          "name": "Sky Drop",
+          "damage": "120-",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 120 damage minus 20 damage for each Colorless in your opponent's Active Pokémon's Retreat Cost."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-94",
+      "itemType": "Pokemon Card",
+      "number": "94",
+      "name": "Fletchling",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "TOKIYA",
+      "text": "Despite the beauty of its lilting voice, it's merciless to intruders that enter its territory.",
+      "attacks": [
+        {
+          "name": "Peck",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-95",
+      "itemType": "Pokemon Card",
+      "number": "95",
+      "name": "Fletchinder",
+      "stage": "Stage 1",
+      "evolvesFrom": "Fletchling",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shigenori Negishi",
+      "text": "The hotter the flame sac on its belly, the faster it can fly, but it takes some time to get the fire going.",
+      "attacks": [
+        {
+          "name": "Glide",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-96",
+      "itemType": "Pokemon Card",
+      "number": "96",
+      "name": "Talonflame",
+      "stage": "Stage 2",
+      "evolvesFrom": "Fletchinder",
+      "hp": "130",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "abilities": [
+        {
+          "name": "Gale Wings",
+          "text": "If this Pokémon is in your hand when you are setting up to play, you may put it face down as your Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "When attacking prey, it can reach speeds of up to 310 mph. It finishes its prey off with a colossal kick.",
+      "attacks": [
+        {
+          "name": "Aero Blitz",
+          "damage": "40",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 2 cards and put them into your hand. Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-97",
+      "itemType": "Pokemon Card",
+      "number": "97",
+      "name": "Hawlucha",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "miki kudo",
+      "abilities": [
+        {
+          "name": "Sudden Cyclone",
+          "text": "When you play this Pokémon from your hand onto your Bench, you may have your opponent switch his or her Active Pokémon with 1 of his or her Benched Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "With its wings, it controls its position in the air. It likes to attack from above, a maneuver that is difficult to defend against.",
+      "attacks": [
+        {
+          "name": "Acrobatics",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-98",
+      "itemType": "Trainer Card",
+      "number": "98",
+      "name": "Armor Fossil Shieldon",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Look at the bottom 7 cards of your deck. You may reveal a Shieldon you find there and put it onto your Bench. Shuffle the other cards back into your deck.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-99",
+      "itemType": "Trainer Card",
+      "number": "99",
+      "name": "Captivating Poké Puff",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Your opponent reveals his or her hand. Put any number of Basic Pokémon you find there onto your opponent's Bench.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-100",
+      "itemType": "Trainer Card",
+      "number": "100",
+      "name": "Claw Fossil Anorith",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Look at the bottom 7 cards of your deck. You may reveal an Anorith you find there and put it onto your Bench. Shuffle the other cards back into your deck.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-101",
+      "itemType": "Trainer Card",
+      "number": "101",
+      "name": "Gardevoir Spirit Link",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,Your turn does not end if the Pokémon this card is attached to becomes M Gardevoir-EX.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-102",
+      "itemType": "Trainer Card",
+      "number": "102",
+      "name": "Greedy Dice",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "You can play this card only if you took it as a face-down Prize card, before you put it into your hand.,Flip a coin. If heads, take 1 more Prize card.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-103",
+      "itemType": "Trainer Card",
+      "number": "103",
+      "name": "Ninja Boy",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Megumi Mizutani",
+      "text": "Choose 1 of your Basic Pokémon in play. Search your deck for a Basic Pokémon and switch it with that Pokémon. (Any attached cards, damage counters, Special Conditions, turns in play, and any other effects remain on the new Pokémon.) Shuffle the first Pokémon into your deck.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-104",
+      "itemType": "Trainer Card",
+      "number": "104",
+      "name": "Pokémon Ranger",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yusuke Ohmura",
+      "text": "Remove all effects of attacks on each player and his or her Pokémon.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-105",
+      "itemType": "Trainer Card",
+      "number": "105",
+      "name": "Special Charge",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Shuffle 2 Special Energy cards from your discard pile into your deck.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-106",
+      "itemType": "Trainer Card",
+      "number": "106",
+      "name": "Steelix Spirit Link",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,Your turn does not end if the Pokémon this card is attached to becomes M Steelix-EX.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-107",
+      "itemType": "Pokemon Card",
+      "number": "107",
+      "name": "Volcanion-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Fire",
+        "Water"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Steam Up",
+          "text": "Once during your turn (before your attack), you may discard a Fire Energy card from your hand. If you do, during this turn, your Basic Fire Pokémon's attacks do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Volcanic Heat",
+          "damage": "130",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "This Pokémon can't attack during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-108",
+      "itemType": "Pokemon Card",
+      "number": "108",
+      "name": "Steelix-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Wild Edge",
+          "damage": "80+",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may do 50 more damage. If you do, this Pokémon does 20 damage to itself."
+        },
+        {
+          "name": "Iron Tail",
+          "damage": "100×",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. This attack does 100 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-109",
+      "itemType": "Pokemon Card",
+      "number": "109",
+      "name": "M Steelix-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Steelix-EX",
+      "hp": "240",
+      "types": [
+        "Metal",
+        "Fighting"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Canyon Axe",
+          "damage": "160",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-110",
+      "itemType": "Pokemon Card",
+      "number": "110",
+      "name": "Magearna-EX",
+      "stage": "Basic",
+      "hp": "160",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Mystic Heart",
+          "text": "Prevent all effects of your opponent's attacks, except damage, done to each of your Pokémon that has any Metal Energy attached to it. (Existing effects are not removed.)",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Soul Blaster",
+          "damage": "120",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your next turn, this Pokémon's Soul Blaster attack's base damage is 60."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-111",
+      "itemType": "Pokemon Card",
+      "number": "111",
+      "name": "Gardevoir-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Link Blast",
+          "damage": "30+",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "text": "If this Pokémon and your opponent's Active Pokémon have the same amount of Energy attached to them, this attack does 70 more damage."
+        },
+        {
+          "name": "Luminous Blade",
+          "damage": "120",
+          "cost": [
+            "Fairy",
+            "Fairy",
+            "Colorless"
+          ],
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-112",
+      "itemType": "Pokemon Card",
+      "number": "112",
+      "name": "M Gardevoir-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Gardevoir-EX",
+      "hp": "210",
+      "types": [
+        "Fairy",
+        "Psychic"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Despair Ray",
+          "damage": "110+",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "text": "Discard as many of your Benched Pokémon as you like. This attack does 10 more damage for each Benched Pokémon you discarded in this way."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-113",
+      "itemType": "Trainer Card",
+      "number": "113",
+      "name": "Pokémon Ranger",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Megumi Mizutani",
+      "text": "Remove all effects of attacks on each player and his or her Pokémon.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-114",
+      "itemType": "Trainer Card",
+      "number": "114",
+      "name": "Professor Sycamore",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Yusuke Ohmura",
+      "text": "Discard your hand and draw 7 cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-115",
+      "itemType": "Pokemon Card",
+      "number": "115",
+      "name": "Volcanion-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Fire",
+        "Water"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Steam Up",
+          "text": "Once during your turn (before your attack), you may discard a Fire Energy card from your hand. If you do, during this turn, your Basic Fire Pokémon's attacks do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Volcanic Heat",
+          "damage": "130",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "This Pokémon can't attack during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-steam-siege-116",
+      "itemType": "Pokemon Card",
+      "number": "116",
+      "name": "Gardevoir-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Eske Yoshinob",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Link Blast",
+          "damage": "30+",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "text": "If this Pokémon and your opponent's Active Pokémon have the same amount of Energy attached to them, this attack does 70 more damage."
+        },
+        {
+          "name": "Luminous Blade",
+          "damage": "120",
+          "cost": [
+            "Fairy",
+            "Fairy",
+            "Colorless"
+          ],
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    }
+  ]
+}
