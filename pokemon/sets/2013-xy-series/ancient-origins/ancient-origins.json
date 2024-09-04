@@ -1,0 +1,3823 @@
+{
+  "setId": "tcg-pokemon-ancient-origins",
+  "cardCount": "101",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-ancient-origins-booster-box",
+      "itemType": "Sealed Product",
+      "name": "Ancient Origins Booster Box"
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-booster-pack",
+      "itemType": "Sealed Product",
+      "name": "Ancient Origins Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-ancient-origins-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Oddish",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "MAHOU",
+      "text": "Its scientific name is \"Oddium Wanderus.\" At night, it is said to walk nearly 1,000 feet on its two roots.",
+      "attacks": [
+        {
+          "name": "Trip Over",
+          "damage": "10+",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Gloom",
+      "stage": "Stage 1",
+      "evolvesFrom": "Oddish",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Masakazu Fukuda",
+      "text": "The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.",
+      "attacks": [
+        {
+          "name": "Drool",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-3",
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Vileplume",
+      "stage": "Stage 2",
+      "evolvesFrom": "Gloom",
+      "hp": "130",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Midori Harada",
+      "abilities": [
+        {
+          "name": "Irritating Pollen",
+          "text": "Each player can't play any Item cards from his or her hand.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It has the world's largest petals. With every step, the petals shake out heavy clouds of toxic pollen.",
+      "attacks": [
+        {
+          "name": "Solar Beam",
+          "damage": "70",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-4",
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Bellossom",
+      "stage": "Stage 2",
+      "evolvesFrom": "Gloom",
+      "hp": "120",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mizue",
+      "text": "When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.",
+      "attacks": [
+        {
+          "name": "Windmill",
+          "damage": "20",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Flower Tornado",
+          "damage": "60",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Move as many Grass Energy attached to your Pokémon to your other Pokémon in any way you like."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Spinarak",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Naoyo Kimura",
+      "text": "It lies still in the same pose for days in its web, waiting for its unsuspecting prey to wander close.",
+      "attacks": [
+        {
+          "name": "String Shot",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-6",
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Ariados",
+      "stage": "Stage 1",
+      "evolvesFrom": "Spinarak",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hajime Kusajima",
+      "abilities": [
+        {
+          "name": "Poisonous Nest",
+          "text": "Once during your turn (before your attack), you may use this Ability. Both Active Pokémon (except for Grass Pokémon) are now Poisoned.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It attaches silk to its prey and sets it free. Later, it tracks the silk to the prey and its friends.",
+      "attacks": [
+        {
+          "name": "Impound",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-7",
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Sceptile-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Sleep Poison",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Asleep and Poisoned."
+        },
+        {
+          "name": "Unseen Claw",
+          "damage": "60+",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon is affected by a Special Condition, this attack does 70 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-8",
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "M Sceptile-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Sceptile-EX",
+      "hp": "220",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Jagged Saber",
+          "damage": "100",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "You may attach up to 2 Grass Energy cards from your hand to your Benched Pokémon in any way you like. If you attached Energy to a Pokémon in this way, heal all damage from that Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-9",
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Combee",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Sumiyoshi Kizuki",
+      "text": "It collects and delivers honey to its colony. At night, they cluster to form a beehive and sleep.",
+      "attacks": [
+        {
+          "name": "Bug Bite",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Vespiquen",
+      "stage": "Stage 1",
+      "evolvesFrom": "Combee",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "kawayoo",
+      "text": "Its abdomen is a honeycomb for grubs. It raises its grubs on honey collected by Combee.",
+      "attacks": [
+        {
+          "name": "Intelligence Gathering",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "You may draw cards until you have 6 cards in your hand."
+        },
+        {
+          "name": "Bee Revenge",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 10 more damage for each Pokémon in your discard pile."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Vespiquen",
+      "stage": "Stage 1",
+      "evolvesFrom": "Combee",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Ayaka Yoshida",
+      "text": "Its abdomen is a honeycomb for grubs. It raises its grubs on honey collected by Combee.",
+      "attacks": [
+        {
+          "name": "Bee Drain",
+          "damage": "20",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Fury Swipes",
+          "damage": "30×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Virizion",
+      "stage": "Basic",
+      "hp": "110",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "match",
+      "text": "Legends say this Pokémon confounded opponents with its swift movements.",
+      "attacks": [
+        {
+          "name": "Bail Out",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Put 2 Pokémon from your discard pile into your hand."
+        },
+        {
+          "name": "Prize Count",
+          "damage": "40+",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": "If you have more Prize cards left than your opponent, this attack does 80 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Flareon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "90",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "sui",
+      "abilities": [
+        {
+          "name": "Flare Effect",
+          "text": "Each of your Stage 1 Pokémon in play is now a Fire Pokémon in addition to its existing types.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It has a flame bag inside its body. After inhaling deeply, it blows out flames of nearly 3,000 degrees Fahrenheit.",
+      "attacks": [
+        {
+          "name": "Heat Breath",
+          "damage": "60+",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Entei",
+      "stage": "Basic",
+      "hp": "120",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "artist": "Naoki Saito",
+      "text": "It is said that when it roars, a volcano erupts somewhere around the globe.",
+      "attacks": [
+        {
+          "name": "Burning Roar",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Discard the top 4 cards of your deck. If any of those cards are Fire Energy cards, attach them to your Pokémon in any way you like."
+        },
+        {
+          "name": "Combat Blaze",
+          "damage": "20+",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "text": "This attack does 20 more damage for each of your opponent's Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Entei",
+      "stage": "Basic",
+      "hp": "130",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "text": "It is said that when it roars, a volcano erupts somewhere around the globe.",
+      "attacks": [
+        {
+          "name": "Flame Screen",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 30 (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Heat Tackle",
+          "damage": "130",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this Pokémon does 30 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-16",
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Larvesta",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Satoshi Shirai",
+      "text": "The base of volcanoes is where they make their homes. They shoot fire from their five horns to repel attacking enemies.",
+      "attacks": [
+        {
+          "name": "Combustion",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Volcarona",
+      "stage": "Stage 1",
+      "evolvesFrom": "Larvesta",
+      "hp": "100",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kyoko Umemoto",
+      "text": "When volcanic ash darkened the atmosphere, it is said that Volcarona's fire provided a replacement for the sun.",
+      "attacks": [
+        {
+          "name": "Solar Birth",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Then, search your deck for up to 2 basic Energy cards and attach them to that Pokémon. Shuffle your deck afterward."
+        },
+        {
+          "name": "Flamethrower",
+          "damage": "60",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-18",
+      "itemType": "Pokemon Card",
+      "number": "18",
+      "name": "Volcarona",
+      "stage": "Stage 1",
+      "evolvesFrom": "Larvesta",
+      "hp": "110",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "text": "When volcanic ash darkened the atmosphere, it is said that Volcarona's fire provided a replacement for the sun.",
+      "attacks": [
+        {
+          "name": "Burning Scales",
+          "damage": "20+",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Flip 2 coins. This attack does 20 more damage for each heads."
+        },
+        {
+          "name": "Wind Wheel",
+          "damage": "80",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-19",
+      "itemType": "Pokemon Card",
+      "number": "19",
+      "name": "Magikarp",
+      "stage": "Basic",
+      "hp": "30",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Akira Komayama",
+      "text": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
+      "attacks": [
+        {
+          "name": "Epic Splash",
+          "damage": "30",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip 2 coins. If either of them is tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-20",
+      "itemType": "Pokemon Card",
+      "number": "20",
+      "name": "Gyarados",
+      "stage": "Stage 1",
+      "evolvesFrom": "Magikarp",
+      "hp": "130",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Shin Nagasawa",
+      "text": "Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage.",
+      "attacks": [
+        {
+          "name": "Berserker Splash",
+          "damage": "80",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 10 damage to each Benched Pokémon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Aqua Tail",
+          "damage": "90+",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin for each Water Energy attached to this Pokémon. This attack does 30 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-21",
+      "itemType": "Pokemon Card",
+      "number": "21",
+      "name": "Gyarados",
+      "stage": "Stage 1",
+      "evolvesFrom": "Magikarp",
+      "hp": "130",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "TOKIYA",
+      "text": "Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage.",
+      "attacks": [
+        {
+          "name": "Full Retaliation",
+          "damage": "30+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 30 more damage for each damage counter on each of your Benched Magikarp."
+        },
+        {
+          "name": "Thrash",
+          "damage": "100+",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 more damage. If tails, this Pokémon does 30 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-22",
+      "itemType": "Pokemon Card",
+      "number": "22",
+      "name": "Vaporeon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "kirisAki",
+      "abilities": [
+        {
+          "name": "Aqua Effect",
+          "text": "Each of your Stage 1 Pokémon in play is now a Water Pokémon in addition to its existing types.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It has evolved to be suitable for an aquatic life. It can invisibly melt away into water.",
+      "attacks": [
+        {
+          "name": "Hydro Splash",
+          "damage": "70",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-23",
+      "itemType": "Pokemon Card",
+      "number": "23",
+      "name": "Relicanth",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.",
+      "attacks": [
+        {
+          "name": "Deep Sea Search",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 2 Pokémon Tool cards, reveal them, and put them into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Take Down",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This Pokémon does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-24",
+      "itemType": "Pokemon Card",
+      "number": "24",
+      "name": "Regice",
+      "stage": "Basic",
+      "hp": "120",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Miki Tanaka",
+      "text": "Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.",
+      "attacks": [
+        {
+          "name": "Ice Beam",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Resistance Blizzard",
+          "damage": "70",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, prevent all effects of attacks, including damage, done to this Pokémon by Pokémon-EX."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-25",
+      "itemType": "Pokemon Card",
+      "number": "25",
+      "name": "Kyurem-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "PLANETA",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Glaciate",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "This attack does 30 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Icecalibur",
+          "damage": "130",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Discard an Energy attached to this Pokémon. The Defending Pokémon can't attack during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-26",
+      "itemType": "Pokemon Card",
+      "number": "26",
+      "name": "Jolteon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "90",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Sanosuke Sakuma",
+      "abilities": [
+        {
+          "name": "Electric Effect",
+          "text": "Each of your Stage 1 Pokémon in play is now a Lightning Pokémon in addition to its existing types.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It accumulates negative ions in the atmosphere to blast out 10,000-volt lightning bolts.",
+      "attacks": [
+        {
+          "name": "Thunder Blast",
+          "damage": "80",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-27",
+      "itemType": "Pokemon Card",
+      "number": "27",
+      "name": "Ampharos-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Thunder Rod",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Look at the top 4 cards of your deck and attach as many Lightning Energy cards you find there as you like to this Pokémon. Shuffle the other cards back into your deck."
+        },
+        {
+          "name": "Sparkling Tail",
+          "damage": "100",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-28",
+      "itemType": "Pokemon Card",
+      "number": "28",
+      "name": "M Ampharos-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Ampharos-EX",
+      "hp": "220",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Exavolt",
+          "damage": "120+",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may do 50 more damage and leave your opponent's Active Pokémon Paralyzed. If you do, this Pokémon does 30 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-29",
+      "itemType": "Pokemon Card",
+      "number": "29",
+      "name": "Rotom",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mizue",
+      "text": "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.",
+      "attacks": [
+        {
+          "name": "Electro Ball",
+          "damage": "20",
+          "cost": [
+            "Lightning"
+          ]
+        },
+        {
+          "name": "Electric Mischief",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. For each heads, choose a random card from your opponent's hand. Your opponent reveals that card and shuffles it into his or her deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-30",
+      "itemType": "Pokemon Card",
+      "number": "30",
+      "name": "Unown",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Akira Komayama",
+      "abilities": [
+        {
+          "name": "Farewell Letter",
+          "text": "Once during your turn (before your attack), if this Pokémon is on your Bench, you may discard this Pokémon and all cards attached to it (this does not count as a Knock Out). If you do, draw a card.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Shaped like ancient writing, it is a huge mystery whether language or Unown came first.",
+      "attacks": [
+        {
+          "name": "Hidden Power",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-31",
+      "itemType": "Pokemon Card",
+      "number": "31",
+      "name": "Baltoy",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "It moves by spinning on its foot. It is a rare Pokémon that was discovered in ancient ruins.",
+      "attacks": [
+        {
+          "name": "Slap",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ]
+        },
+        {
+          "name": "Spinning Attack",
+          "damage": "20",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-32",
+      "itemType": "Pokemon Card",
+      "number": "32",
+      "name": "Baltoy",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Ayaka Yoshida",
+      "text": "It moves by spinning on its foot. It is a rare Pokémon that was discovered in ancient ruins.",
+      "attacks": [
+        {
+          "name": "Future Spin",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Look at the top 3 cards of either player's deck and put them back on top of that player's deck in any order."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-33",
+      "itemType": "Pokemon Card",
+      "number": "33",
+      "name": "Claydol",
+      "stage": "Stage 1",
+      "evolvesFrom": "Baltoy",
+      "hp": "100",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Satoshi Shirai",
+      "text": "It is said that it originates from clay dolls made by an ancient civilization.",
+      "attacks": [
+        {
+          "name": "Rewind",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Devolve each of your opponent's evolved Pokémon and put the highest Stage Evolution card on it into your opponent's hand."
+        },
+        {
+          "name": "Hyper Beam",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-34",
+      "itemType": "Pokemon Card",
+      "number": "34",
+      "name": "Golett",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Sanosuke Sakuma",
+      "text": "Ancient science fashioned this Pokémon from clay. It's been active for thousands of years.",
+      "attacks": [
+        {
+          "name": "Smash Punch",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-35",
+      "itemType": "Pokemon Card",
+      "number": "35",
+      "name": "Golurk",
+      "stage": "Stage 1",
+      "evolvesFrom": "Golett",
+      "hp": "130",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "kawayoo",
+      "abilities": [
+        {
+          "name": "Double Type",
+          "text": "As long as this Pokémon is in play, it is Psychic and Fighting type.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control.",
+      "attacks": [
+        {
+          "name": "Superpower",
+          "damage": "80+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may do 40 more damage. If you do, this Pokémon does 20 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-36",
+      "itemType": "Pokemon Card",
+      "number": "36",
+      "name": "Hoopa-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Ryota Murayama",
+      "abilities": [
+        {
+          "name": "Scoundrel Ring",
+          "text": "When you play this Pokémon from your hand onto your Bench, you may search your deck for up to 3 Pokémon-EX (except for Hoopa-EX), reveal them, and put them into your hand. Shuffle your deck afterward.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Hyperspace Fury",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Discard 2 Energy attached to this Pokémon. This attack does 100 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-37",
+      "itemType": "Pokemon Card",
+      "number": "37",
+      "name": "Machamp-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Steaming Mad",
+          "damage": "20×",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage times the number of damage counters on this Pokémon. This Pokémon is now Confused."
+        },
+        {
+          "name": "Crazy Hammer",
+          "damage": "80+",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "If this Pokémon is affected by a Special Condition, this attack does 80 more damage. Then, remove all Special Conditions from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-38",
+      "itemType": "Pokemon Card",
+      "number": "38",
+      "name": "Wooper",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Sumiyoshi Kizuki",
+      "text": "When the temperature cools in the evening, they emerge from water to seek food along the shore.",
+      "attacks": [
+        {
+          "name": "Nap",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Heal 20 damage from this Pokémon."
+        },
+        {
+          "name": "Wave Splash",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-39",
+      "itemType": "Pokemon Card",
+      "number": "39",
+      "name": "Quagsire",
+      "stage": "Stage 1",
+      "evolvesFrom": "Wooper",
+      "hp": "110",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Naoyo Kimura",
+      "text": "This carefree Pokémon has an easy-going nature. While swimming, it always bumps into boat hulls.",
+      "attacks": [
+        {
+          "name": "Wave Splash",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Landslide",
+          "damage": "80",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-40",
+      "itemType": "Pokemon Card",
+      "number": "40",
+      "name": "Regirock",
+      "stage": "Basic",
+      "hp": "120",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Shin Nagasawa",
+      "text": "The same rocks that form its body have been found in ground layers around the world.",
+      "attacks": [
+        {
+          "name": "Rock Throw",
+          "damage": "40",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Unyielding Rock",
+          "damage": "60+",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon is a Pokémon-EX, this attack does 60 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-41",
+      "itemType": "Pokemon Card",
+      "number": "41",
+      "name": "Golurk",
+      "stage": "Stage 1",
+      "evolvesFrom": "Golett",
+      "hp": "130",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Suwama Chiaki",
+      "text": "It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control.",
+      "attacks": [
+        {
+          "name": "Dig Out",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Discard the top card of your deck. If that card is a Fighting Energy card, attach it to this Pokémon."
+        },
+        {
+          "name": "Double Lariat",
+          "damage": "90×",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 90 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-42",
+      "itemType": "Pokemon Card",
+      "number": "42",
+      "name": "Tyranitar-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Hammer In",
+          "damage": "60",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Break Ground",
+          "damage": "130",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-43",
+      "itemType": "Pokemon Card",
+      "number": "43",
+      "name": "M Tyranitar-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Tyranitar-EX",
+      "hp": "240",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Destroyer King",
+          "damage": "110+",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 60 more damage for each damage counter on your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-44",
+      "itemType": "Pokemon Card",
+      "number": "44",
+      "name": "Sableye",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hitoshi Ariga",
+      "text": "It dwells in the darkness of caves. It uses its sharp claws to dig up gems to nourish itself.",
+      "attacks": [
+        {
+          "name": "Bewitching Eyes",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Choose a Supporter card from your opponent's discard pile and use it as the effect of this attack."
+        },
+        {
+          "name": "Furtive Drop",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Put 3 damage counters on your opponent's Active Pokémon."
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-45",
+      "itemType": "Pokemon Card",
+      "number": "45",
+      "name": "Inkay",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Tomokazu Komiya",
+      "text": "It flashes the light-emitting spots on its body, which drains its opponent's will to fight. It takes the opportunity to scuttle away and hide.",
+      "attacks": [
+        {
+          "name": "Ink Spit",
+          "damage": "10",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-46",
+      "itemType": "Pokemon Card",
+      "number": "46",
+      "name": "Malamar",
+      "stage": "Stage 1",
+      "evolvesFrom": "Inkay",
+      "hp": "90",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Masakazu Fukuda",
+      "text": "It lures prey close with hypnotic motions, then wraps its tentacles around it before finishing it off with digestive fluids.",
+      "attacks": [
+        {
+          "name": "Entangling Control",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon. The new Active Pokémon is now Confused."
+        },
+        {
+          "name": "Trash Tentacle",
+          "damage": "30",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Put a card from your discard pile into your hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-47",
+      "itemType": "Pokemon Card",
+      "number": "47",
+      "name": "Beldum",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Common",
+      "artist": "Yuka Morii",
+      "text": "It converses with others by magnetic pulses. In a swarm, they move in perfect unison.",
+      "attacks": [
+        {
+          "name": "Ram",
+          "damage": "10",
+          "cost": [
+            "Metal"
+          ]
+        },
+        {
+          "name": "Spinning Attack",
+          "damage": "30",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-48",
+      "itemType": "Pokemon Card",
+      "number": "48",
+      "name": "Metang",
+      "stage": "Stage 1",
+      "evolvesFrom": "Beldum",
+      "hp": "90",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shigenori Negishi",
+      "text": "It is formed by two Beldum joining together. Its two brains are linked, amplifying its psychic power.",
+      "attacks": [
+        {
+          "name": "Metal Claw",
+          "damage": "30",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Bullet Punch",
+          "damage": "50+",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-49",
+      "itemType": "Pokemon Card",
+      "number": "49",
+      "name": "Metagross",
+      "stage": "Stage 2",
+      "evolvesFrom": "Metang",
+      "hp": "150",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "artist": "kirisAki",
+      "abilities": [
+        {
+          "name": "Magnetic Warp",
+          "text": "Once during your turn (before your attack), you may switch your Active Pokémon with 1 of your Benched Pokémon. If you do, your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Metang combined to form it. With four brains, it has the intelligence of a supercomputer.",
+      "attacks": [
+        {
+          "name": "Iron Cannon",
+          "damage": "80+",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may discard all Metal Energy attached to this Pokémon. If you do, this attack does 80 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-50",
+      "itemType": "Pokemon Card",
+      "number": "50",
+      "name": "Metagross",
+      "stage": "Stage 2",
+      "evolvesFrom": "Metang",
+      "hp": "150",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "artist": "Hitoshi Ariga",
+      "text": "Metang combined to form it. With four brains, it has the intelligence of a supercomputer.",
+      "attacks": [
+        {
+          "name": "Machine Gun Stomp",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 10 more damage for each card in your hand."
+        },
+        {
+          "name": "Guard Press",
+          "damage": "80",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-51",
+      "itemType": "Pokemon Card",
+      "number": "51",
+      "name": "Registeel",
+      "stage": "Basic",
+      "hp": "120",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "text": "Its body is said to be harder than any kind of metal. A study has revealed that its body is hollow.",
+      "attacks": [
+        {
+          "name": "Iron Head",
+          "damage": "30×",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. This attack does 30 damage times the number of heads."
+        },
+        {
+          "name": "Forbidden Iron Hammer",
+          "damage": "70",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon is a Pokémon-EX, discard an Energy attached to that Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-52",
+      "itemType": "Pokemon Card",
+      "number": "52",
+      "name": "Ralts",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Common",
+      "artist": "Aya Kusube",
+      "text": "It is highly attuned to the emotions of people and Pokémon. It hides if it senses hostility.",
+      "attacks": [
+        {
+          "name": "Mumble",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Magical Shot",
+          "damage": "20",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-53",
+      "itemType": "Pokemon Card",
+      "number": "53",
+      "name": "Kirlia",
+      "stage": "Stage 1",
+      "evolvesFrom": "Ralts",
+      "hp": "80",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "match",
+      "text": "It has a psychic power that enables it to distort the space around it and see into the future.",
+      "attacks": [
+        {
+          "name": "Calm Mind",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Heal 30 damage from this Pokémon."
+        },
+        {
+          "name": "Magical Shot",
+          "damage": "50",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-54",
+      "itemType": "Pokemon Card",
+      "number": "54",
+      "name": "Gardevoir",
+      "stage": "Stage 2",
+      "evolvesFrom": "Kirlia",
+      "hp": "130",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "TOKIYA",
+      "abilities": [
+        {
+          "name": "Bright Heal",
+          "text": "Once during your turn (before your attack), you may heal 20 damage from each of your Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It has the power to predict the future. Its power peaks when it is protecting its Trainer.",
+      "attacks": [
+        {
+          "name": "Telekinesis",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 50 damage to 1 of your opponent's Pokémon. This attack's damage isn't affected by Weakness or Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-55",
+      "itemType": "Pokemon Card",
+      "number": "55",
+      "name": "Cottonee",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Common",
+      "artist": "Kanako Eo",
+      "text": "Perhaps because they feel more at ease in a group, they stick to others they find. They end up looking like a cloud.",
+      "attacks": [
+        {
+          "name": "Cotton Bed",
+          "damage": "10",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-56",
+      "itemType": "Pokemon Card",
+      "number": "56",
+      "name": "Whimsicott",
+      "stage": "Stage 1",
+      "evolvesFrom": "Cottonee",
+      "hp": "70",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Atsuko Nishida",
+      "text": "Like the wind, it can slip through any gap, no matter how small. It leaves balls of white fluff behind.",
+      "attacks": [
+        {
+          "name": "Windy Mischief",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "Move all damage counters from 1 of your Benched Pokémon to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Rolling Tackle",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-57",
+      "itemType": "Pokemon Card",
+      "number": "57",
+      "name": "Giratina-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "PLANETA",
+      "abilities": [
+        {
+          "name": "Renegade Pulse",
+          "text": "Prevent all effects of attacks, including damage, done to this Pokémon by your opponent's Mega Evolution Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Chaos Wheel",
+          "damage": "100",
+          "cost": [
+            "Grass",
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent can't play any Pokémon Tool, Special Energy, or Stadium cards from his or her hand during his or her next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-58",
+      "itemType": "Pokemon Card",
+      "number": "58",
+      "name": "Goomy",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Common",
+      "artist": "sui",
+      "abilities": [
+        {
+          "name": "Water Down",
+          "text": "Whenever you attach a Water Energy card from your hand to this Pokémon, you may search your deck for Goomy and put it onto your Bench. Shuffle your deck afterward.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It's covered in a slimy membrane that makes any punches or kicks slide off it harmlessly.",
+      "attacks": [
+        {
+          "name": "Stampede",
+          "damage": "10",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-59",
+      "itemType": "Pokemon Card",
+      "number": "59",
+      "name": "Sliggoo",
+      "stage": "Stage 1",
+      "evolvesFrom": "Goomy",
+      "hp": "70",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Midori Harada",
+      "text": "Its four horns are a high-performance radar system. It uses them to sense sounds and smells, rather than using ears or a nose.",
+      "attacks": [
+        {
+          "name": "Bubble",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Melt",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Fairy"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-60",
+      "itemType": "Pokemon Card",
+      "number": "60",
+      "name": "Goodra",
+      "stage": "Stage 2",
+      "evolvesFrom": "Sliggoo",
+      "hp": "150",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Saya Tsuruta",
+      "text": "It attacks with retractable horns. It throws a punch that's the equivalent of the force of a hundred pro boxers.",
+      "attacks": [
+        {
+          "name": "Liquid Blow",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage to 1 of your opponent's Pokémon for each Colorless in its Retreat Cost. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Shining Breath",
+          "damage": "110",
+          "cost": [
+            "Water",
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, this Pokémon can't be affected by any Special Conditions."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-61",
+      "itemType": "Pokemon Card",
+      "number": "61",
+      "name": "Meowth",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Kanako Eo",
+      "text": "Adores round objects. It wanders the streets on a nightly basis to look for dropped loose change.",
+      "attacks": [
+        {
+          "name": "Act Tough",
+          "damage": "10+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If this Pokémon has any Darkness Energy attached to it, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-62",
+      "itemType": "Pokemon Card",
+      "number": "62",
+      "name": "Persian",
+      "stage": "Stage 1",
+      "evolvesFrom": "Meowth",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "Its lithe muscles allow it to walk without making a sound. It attacks in an instant.",
+      "attacks": [
+        {
+          "name": "Fake Out",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Ambush",
+          "damage": "40+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-63",
+      "itemType": "Pokemon Card",
+      "number": "63",
+      "name": "Eevee",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Lunge",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-64",
+      "itemType": "Pokemon Card",
+      "number": "64",
+      "name": "Porygon",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Yukiko Baba",
+      "text": "A Pokémon that consists entirely of programming code. It is capable of moving freely in cyberspace.",
+      "attacks": [
+        {
+          "name": "Data Check",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Look through your deck. Shuffle your deck afterward."
+        },
+        {
+          "name": "Sharpen",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-65",
+      "itemType": "Pokemon Card",
+      "number": "65",
+      "name": "Porygon2",
+      "stage": "Stage 1",
+      "evolvesFrom": "Porygon",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "MAHOU",
+      "text": "With planetary development software installed, it became capable of working in space.",
+      "attacks": [
+        {
+          "name": "Sharpen",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Tri Attack",
+          "damage": "30×",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-66",
+      "itemType": "Pokemon Card",
+      "number": "66",
+      "name": "Porygon-Z",
+      "stage": "Stage 2",
+      "evolvesFrom": "Porygon2",
+      "hp": "130",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "TOKIYA",
+      "text": "Its programming was modified to enable it to travel through alien dimensions. Seems there might have been an error…",
+      "attacks": [
+        {
+          "name": "Cyber Crush",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Discard all Special Energy attached to each of your opponent's Pokémon."
+        },
+        {
+          "name": "Slowing Beam",
+          "damage": "70",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, the Defending Pokémon's attacks cost Colorless more."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-67",
+      "itemType": "Pokemon Card",
+      "number": "67",
+      "name": "Porygon-Z",
+      "stage": "Stage 2",
+      "evolvesFrom": "Porygon2",
+      "hp": "130",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Naoki Saito",
+      "text": "Its programming was modified to enable it to travel through alien dimensions. Seems there might have been an error…",
+      "attacks": [
+        {
+          "name": "Digital Reboot",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Devolve as many of your Benched Pokémon as many times as you like. Put each Evolution card removed this way into your hand."
+        },
+        {
+          "name": "Dazzle Blast",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-68",
+      "itemType": "Pokemon Card",
+      "number": "68",
+      "name": "Lugia-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Aero Ball",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage times the amount of Energy attached to both Active Pokémon."
+        },
+        {
+          "name": "Deep Hurricane",
+          "damage": "80+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If there is any Stadium card in play, this attack does 70 more damage. Then, discard that Stadium card."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-69",
+      "itemType": "Trainer Card",
+      "number": "69",
+      "name": "Ace Trainer",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "You can play this card only if you have more Prize cards left than your opponent.,Each player shuffles his or her hand into his or her deck. Then, draw 6 cards. Your opponent draws 3 cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-70",
+      "itemType": "Trainer Card",
+      "number": "70",
+      "name": "Ampharos Spirit Link",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,Your turn does not end if the Pokémon this card is attached to becomes M Ampharos-EX.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-71",
+      "itemType": "Trainer Card",
+      "number": "71",
+      "name": "Eco Arm",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Shuffle 3 Pokémon Tool cards from your discard pile into your deck.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-72",
+      "itemType": "Trainer Card",
+      "number": "72",
+      "name": "Energy Recycler",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Shuffle 5 basic Energy cards from your discard pile into your deck.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-73",
+      "itemType": "Trainer Card",
+      "number": "73",
+      "name": "Faded Town",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "At any time between turns, put 2 damage counters on each Mega Evolution Pokémon.,This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-74",
+      "itemType": "Trainer Card",
+      "number": "74",
+      "name": "Forest of Giant Plants",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Each player's Grass Pokémon can evolve during his or her first turn or the turn he or she plays those Pokémon.,This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-75",
+      "itemType": "Trainer Card",
+      "number": "75",
+      "name": "Hex Maniac",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yusuke Ohmura",
+      "text": "Until the end of your opponent's next turn, each Pokémon in play, in each player's hand, and in each player's discard pile has no Abilities. (This includes cards that come into play on that turn.),You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-75a",
+      "itemType": "Trainer Card",
+      "number": "75a",
+      "name": "Hex Maniac",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "You Iribi",
+      "text": "Until the end of your opponent's next turn, each Pokémon in play, in each player's hand, and in each player's discard pile has no Abilities. (This includes cards that come into play on that turn.),You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-76",
+      "itemType": "Trainer Card",
+      "number": "76",
+      "name": "Level Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Search your deck for a Pokémon with 90 HP or less, reveal it, and put it into your hand. Shuffle your deck afterward.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-77",
+      "itemType": "Trainer Card",
+      "number": "77",
+      "name": "Lucky Helmet",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,Whenever the Pokémon this card is attached to is your Active Pokémon and is damaged by an opponent's attack (even if that Pokémon is Knocked Out), draw 2 cards.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-78",
+      "itemType": "Trainer Card",
+      "number": "78",
+      "name": "Lysandre",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "Switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-79",
+      "itemType": "Trainer Card",
+      "number": "79",
+      "name": "Paint Roller",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Discard any Stadium card in play. Then, draw a card.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-80",
+      "itemType": "Trainer Card",
+      "number": "80",
+      "name": "Sceptile Spirit Link",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,Your turn does not end if the Pokémon this card is attached to becomes M Sceptile-EX.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-81",
+      "itemType": "Trainer Card",
+      "number": "81",
+      "name": "Tyranitar Spirit Link",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,Your turn does not end if the Pokémon this card is attached to becomes M Tyranitar-EX.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-82",
+      "itemType": "Energy Card",
+      "number": "82",
+      "name": "Dangerous Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "This card can only be attached to Darkness Pokémon. This card provides Darkness Energy only while this card is attached to a Darkness Pokémon.,Whenever the Darkness Pokémon this card is attached to is your Active Pokémon and is damaged by an attack from your opponent's Pokémon-EX (even if that Pokémon is Knocked Out), put 2 damage counters on the Attacking Pokémon-EX.,(If this card is attached to anything other than a Darkness Pokémon, discard this card.)"
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-83",
+      "itemType": "Energy Card",
+      "number": "83",
+      "name": "Flash Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "This card can only be attached to Lightning Pokémon. This card provides Lightning Energy only while this card is attached to a Lightning Pokémon.,The Lightning Pokémon this card is attached to has no Weakness.,(If this card is attached to anything other than a Lightning Pokémon, discard this card.)"
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-84",
+      "itemType": "Pokemon Card",
+      "number": "84",
+      "name": "Sceptile-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Sleep Poison",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Asleep and Poisoned."
+        },
+        {
+          "name": "Unseen Claw",
+          "damage": "60+",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon is affected by a Special Condition, this attack does 70 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-85",
+      "itemType": "Pokemon Card",
+      "number": "85",
+      "name": "M Sceptile-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Sceptile-EX",
+      "hp": "220",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Jagged Saber",
+          "damage": "100",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "You may attach up to 2 Grass Energy cards from your hand to your Benched Pokémon in any way you like. If you attached Energy to a Pokémon in this way, heal all damage from that Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-86",
+      "itemType": "Pokemon Card",
+      "number": "86",
+      "name": "Kyurem-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Glaciate",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "This attack does 30 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Icecalibur",
+          "damage": "130",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Discard an Energy attached to this Pokémon. The Defending Pokémon can't attack during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-87",
+      "itemType": "Pokemon Card",
+      "number": "87",
+      "name": "Ampharos-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Thunder Rod",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Look at the top 4 cards of your deck and attach as many Lightning Energy cards you find there as you like to this Pokémon. Shuffle the other cards back into your deck."
+        },
+        {
+          "name": "Sparkling Tail",
+          "damage": "100",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-88",
+      "itemType": "Pokemon Card",
+      "number": "88",
+      "name": "M Ampharos-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Ampharos-EX",
+      "hp": "220",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Exavolt",
+          "damage": "120+",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may do 50 more damage and leave your opponent's Active Pokémon Paralyzed. If you do, this Pokémon does 30 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-89",
+      "itemType": "Pokemon Card",
+      "number": "89",
+      "name": "Hoopa-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Scoundrel Ring",
+          "text": "When you play this Pokémon from your hand onto your Bench, you may search your deck for up to 3 Pokémon-EX (except for Hoopa-EX), reveal them, and put them into your hand. Shuffle your deck afterward.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Hyperspace Fury",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Discard 2 Energy attached to this Pokémon. This attack does 100 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-90",
+      "itemType": "Pokemon Card",
+      "number": "90",
+      "name": "Machamp-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Steaming Mad",
+          "damage": "20×",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage times the number of damage counters on this Pokémon. This Pokémon is now Confused."
+        },
+        {
+          "name": "Crazy Hammer",
+          "damage": "80+",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "If this Pokémon is affected by a Special Condition, this attack does 80 more damage. Then, remove all Special Conditions from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-91",
+      "itemType": "Pokemon Card",
+      "number": "91",
+      "name": "Tyranitar-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Hammer In",
+          "damage": "60",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Break Ground",
+          "damage": "130",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-92",
+      "itemType": "Pokemon Card",
+      "number": "92",
+      "name": "M Tyranitar-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Tyranitar-EX",
+      "hp": "240",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Destroyer King",
+          "damage": "110+",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 60 more damage for each damage counter on your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-93",
+      "itemType": "Pokemon Card",
+      "number": "93",
+      "name": "Giratina-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Renegade Pulse",
+          "text": "Prevent all effects of attacks, including damage, done to this Pokémon by your opponent's Mega Evolution Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Chaos Wheel",
+          "damage": "100",
+          "cost": [
+            "Grass",
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent can't play any Pokémon Tool, Special Energy, or Stadium cards from his or her hand during his or her next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-94",
+      "itemType": "Pokemon Card",
+      "number": "94",
+      "name": "Lugia-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Aero Ball",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage times the amount of Energy attached to both Active Pokémon."
+        },
+        {
+          "name": "Deep Hurricane",
+          "damage": "80+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If there is any Stadium card in play, this attack does 70 more damage. Then, discard that Stadium card."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-95",
+      "itemType": "Trainer Card",
+      "number": "95",
+      "name": "Steven",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Megumi Mizutani",
+      "text": "Search your deck for a Supporter card and a basic Energy card, reveal them, and put them into your hand. Shuffle your deck afterward.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-96",
+      "itemType": "Pokemon Card",
+      "number": "96",
+      "name": "Primal Kyogre-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Kyogre-EX",
+      "hp": "240",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "5ban Graphics",
+      "text": "Primal Reversion rule: When 1 of your Pokémon becomes Primal Kyogre-EX, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Tidal Storm",
+          "damage": "150",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Move 2 Energy from this Pokémon to 1 of your Benched Pokémon. This attack does 30 damage to each of your opponent's Benched Pokémon-EX. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-97",
+      "itemType": "Pokemon Card",
+      "number": "97",
+      "name": "Primal Groudon-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Groudon-EX",
+      "hp": "240",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "5ban Graphics",
+      "text": "Primal Reversion rule: When 1 of your Pokémon becomes Primal Groudon-EX, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Gaia Volcano",
+          "damage": "100+",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "If there is any Stadium card in play, this attack does 100 more damage. Discard that Stadium card."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-98",
+      "itemType": "Pokemon Card",
+      "number": "98",
+      "name": "M Rayquaza-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Rayquaza-EX",
+      "hp": "220",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Emerald Break",
+          "damage": "30×",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 30 damage times the number of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-99",
+      "itemType": "Trainer Card",
+      "number": "99",
+      "name": "Energy Retrieval",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "5ban Graphics",
+      "text": "Put 2 basic Energy cards from your discard pile into your hand.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-ancient-origins-100",
+      "itemType": "Trainer Card",
+      "number": "100",
+      "name": "Trainers' Mail",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Toyste Beach",
+      "text": "Look at the top 4 cards of your deck. You may reveal a Trainer card you find there (except Trainers' Mail) and put it into your hand. Shuffle the other cards back into your deck.,You may play as many Item cards as you like during your turn (before your attack)."
+    }
+  ]
+}
