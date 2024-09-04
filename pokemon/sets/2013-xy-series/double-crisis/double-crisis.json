@@ -1,0 +1,1113 @@
+{
+  "setId": "tcg-pokemon-double-crisis",
+  "cardCount": "34",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-double-crisis-booster-pack",
+      "itemType": "Sealed Product",
+      "name": "Double Crisis Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-double-crisis-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Team Magma's Numel",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Akira Komayama",
+      "text": "No matter how heavy the cargo, we can transport it to our destination with ease, thanks to Numel.",
+      "attacks": [
+        {
+          "name": "Ember",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-double-crisis-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Team Magma's Camerupt",
+      "stage": "Stage 1",
+      "evolvesFrom": "Team Magma's Numel",
+      "hp": "110",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Shin Nagasawa",
+      "abilities": [
+        {
+          "name": "Burning Draft",
+          "text": "Once during your turn (before your attack), you may attach a Fighting or Fire Energy card from your discard pile to this Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Camerupt, with its strength against fire, played a big role in rescuing team members.",
+      "attacks": [
+        {
+          "name": "Flame Ball",
+          "damage": "60",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Move a basic Energy from this Pokémon to 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-double-crisis-3",
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Team Aqua's Spheal",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Sanosuke Sakuma",
+      "text": "Spheal's Water Gun can put out any fire. Flames used by opponents have no effect!",
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-double-crisis-4",
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Team Aqua's Sealeo",
+      "stage": "Stage 1",
+      "evolvesFrom": "Team Aqua's Spheal",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Naoki Saito",
+      "text": "It provides support by making paths of ice. It can win any battle as long as it's on ice.",
+      "attacks": [
+        {
+          "name": "Splatter",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Hail Storm",
+          "damage": "60+",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon is a Team Magma Pokémon, this attack does 60 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-double-crisis-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Team Aqua's Walrein",
+      "stage": "Stage 2",
+      "evolvesFrom": "Team Aqua's Sealeo",
+      "hp": "140",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Hitoshi Ariga",
+      "text": "It's good at attacks that freeze opponents with a powerful cold snap. Then, it pulverizes a frozen foe with its sharp tusks!",
+      "attacks": [
+        {
+          "name": "Power Blow",
+          "damage": "30×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This attack does 30 damage times the amount of Energy attached to this Pokémon."
+        },
+        {
+          "name": "Dual Blizzard",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Discard 2 Water Energy attached to this Pokémon. This attack does 80 damage to 2 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-double-crisis-6",
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Team Aqua's Kyogre-EX",
+      "stage": "Basic",
+      "hp": "190",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "nagimiso",
+      "abilities": [
+        {
+          "name": "Power Saver",
+          "text": "If there are 4 or fewer Team Aqua Pokémon in play, this Pokémon can't attack.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Aqua Impact",
+          "damage": "80+",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "This attack does 20 more damage for each Colorless in your opponent's Active Pokémon's Retreat Cost."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-double-crisis-7",
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Team Aqua's Grimer",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "kawayoo",
+      "text": "Its flexible body, which allows it to squeeze into any cracks, comes in handy when invading enemy hideouts.",
+      "attacks": [
+        {
+          "name": "Pound",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ]
+        },
+        {
+          "name": "Mud-Slap",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-double-crisis-8",
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "Team Aqua's Muk",
+      "stage": "Stage 1",
+      "evolvesFrom": "Team Aqua's Grimer",
+      "hp": "110",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kouki Saitou",
+      "abilities": [
+        {
+          "name": "Sludge Festival",
+          "text": "The Retreat Cost of each Pokémon in play (except for Team Aqua Pokémon) is Colorless more.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It immobilizes its opponents by wrapping them in its huge, poisonous body. It'll smoosh you, too!",
+      "attacks": [
+        {
+          "name": "Pester",
+          "damage": "60+",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon is affected by a Special Condition, this attack does 60 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-double-crisis-9",
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Team Aqua's Seviper",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Naoki Saito",
+      "text": "Seviper's tail is a sharp blade. It can even poison you!",
+      "attacks": [
+        {
+          "name": "Venomous Fang",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned."
+        },
+        {
+          "name": "Venom Tail",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon is affected by a Special Condition, discard an Energy attached to that Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-double-crisis-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Team Magma's Baltoy",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "They all cry out at once to let us know when they spot an enemy. It really helps out!",
+      "attacks": [
+        {
+          "name": "Telekinesis",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage to 1 of your opponent's Pokémon. This attack's damage isn't affected by Weakness or Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-double-crisis-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Team Magma's Claydol",
+      "stage": "Stage 1",
+      "evolvesFrom": "Team Magma's Baltoy",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Masakazu Fukuda",
+      "abilities": [
+        {
+          "name": "Magma Switch",
+          "text": "Once during your turn (before your attack), you may move a basic Energy from 1 of your Pokémon to 1 of your Team Magma Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Claydol's beam can seize opponents and keep them from moving. Long-range attacks are its specialty!",
+      "attacks": [
+        {
+          "name": "Power Beam",
+          "damage": "70",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-double-crisis-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Team Magma's Aron",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Akira Komayama",
+      "text": "Aron, which even devour metal, can eat and destroy enemy ships in an instant.",
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "damage": "10",
+          "cost": [
+            "Fighting"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-double-crisis-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Team Magma's Lairon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Team Magma's Aron",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Masakazu Fukuda",
+      "text": "When Lairon uses Take Down, the impact from its solid body is enough to destroy concrete!",
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Take Down",
+          "damage": "60",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This Pokémon does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-double-crisis-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Team Magma's Aggron",
+      "stage": "Stage 2",
+      "evolvesFrom": "Team Magma's Lairon",
+      "hp": "140",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "TOKIYA",
+      "text": "Aggron's metal horns can smash through any defenses, no matter how strong!",
+      "attacks": [
+        {
+          "name": "Rock Stomp",
+          "damage": "40×",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Discard as many Fighting Energy attached to your Pokémon as you like. This attack does 40 damage times the amount of Fighting Energy you discarded."
+        },
+        {
+          "name": "Boulder Storm",
+          "damage": "120",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage to each of your opponent's Benched Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-double-crisis-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Team Magma's Groudon-EX",
+      "stage": "Basic",
+      "hp": "190",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "nagimiso",
+      "abilities": [
+        {
+          "name": "Power Saver",
+          "text": "If there are 4 or fewer Team Magma Pokémon in play, this Pokémon can't attack.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Magma Quake",
+          "damage": "80+",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 80 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-double-crisis-16",
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Team Aqua's Poochyena",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "Poochyena can easily detect invading foes with its acute sense of smell. It's an excellent lookout!",
+      "attacks": [
+        {
+          "name": "Roar",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "name": "Bite",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-double-crisis-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Team Magma's Poochyena",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "TOKIYA",
+      "text": "Poochyena's nose can identify any scent. It's very useful for reconnaissance.",
+      "attacks": [
+        {
+          "name": "Infiltrate",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent reveals his or her hand."
+        },
+        {
+          "name": "Bite",
+          "damage": "20",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-double-crisis-18",
+      "itemType": "Pokemon Card",
+      "number": "18",
+      "name": "Team Aqua's Mightyena",
+      "stage": "Stage 1",
+      "evolvesFrom": "Team Aqua's Poochyena",
+      "hp": "100",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "Thanks to Mightyena's outstanding leadership, it's very good at combination attacks that can leave a foe helpless.",
+      "attacks": [
+        {
+          "name": "Teampact",
+          "damage": "30×",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin for each Team Aqua Pokémon you have in play. This attack does 30 damage times the number of heads."
+        },
+        {
+          "name": "Crunch",
+          "damage": "80",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-double-crisis-19",
+      "itemType": "Pokemon Card",
+      "number": "19",
+      "name": "Team Magma's Mightyena",
+      "stage": "Stage 1",
+      "evolvesFrom": "Team Magma's Poochyena",
+      "hp": "100",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Hitoshi Ariga",
+      "text": "This Pokémon is loyal to its master. It will protect its partner to the end, no matter what.",
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Hostile Fang",
+          "damage": "80",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon is a Team Aqua Pokémon, this attack does 40 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-double-crisis-20",
+      "itemType": "Pokemon Card",
+      "number": "20",
+      "name": "Team Aqua's Carvanha",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Sanosuke Sakuma",
+      "text": "You can't keep up with its movements underwater, can you? If you get caught in this whirlpool, there'll be no escape.",
+      "attacks": [
+        {
+          "name": "Fin Smack",
+          "damage": "10×",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-double-crisis-21",
+      "itemType": "Pokemon Card",
+      "number": "21",
+      "name": "Team Aqua's Sharpedo",
+      "stage": "Stage 1",
+      "evolvesFrom": "Team Aqua's Carvanha",
+      "hp": "90",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "kawayoo",
+      "abilities": [
+        {
+          "name": "Aqua Search",
+          "text": "Once during your turn (before your attack), you may search your deck for a Team Aqua Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It boasts fangs so powerful that they knock opponents out in one shot! Enemies that slip up will be taken down without fail!",
+      "attacks": [
+        {
+          "name": "Sharp Fang",
+          "damage": "70",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-double-crisis-22",
+      "itemType": "Pokemon Card",
+      "number": "22",
+      "name": "Team Magma's Zangoose",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Shin Nagasawa",
+      "text": "Can you handle the formation attack of the fearless Zangoose?",
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 2 Basic Team Magma Pokémon and put them onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "name": "Team Play",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage times the number of Team Magma Pokémon on your Bench."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-double-crisis-23",
+      "itemType": "Trainer Card",
+      "number": "23",
+      "name": "Aqua Diffuser",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,The Team Aqua Pokémon this card is attached to can also use the attack on this card. (You still need the necessary Energy to use this attack.),You may play as many Item cards as you like during your turn (before your attack).",
+      "attacks": [
+        {
+          "name": "Aqua Diffuser",
+          "cost": [
+            "Water"
+          ],
+          "text": "Your opponent's Active Pokémon is now Confused and Poisoned."
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-double-crisis-24",
+      "itemType": "Trainer Card",
+      "number": "24",
+      "name": "Magma Pointer",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,The Team Magma Pokémon this card is attached to can also use the attack on this card. (You still need the necessary Energy to use this attack.),You may play as many Item cards as you like during your turn (before your attack).",
+      "attacks": [
+        {
+          "name": "Magma Pointer",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "This attack does 20 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-double-crisis-25",
+      "itemType": "Trainer Card",
+      "number": "25",
+      "name": "Team Aqua Admin",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "GAME FREAK inc.",
+      "text": "Attach a basic Energy card from your discard pile to your Active Team Aqua Pokémon.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-double-crisis-26",
+      "itemType": "Trainer Card",
+      "number": "26",
+      "name": "Team Aqua Grunt",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "GAME FREAK inc.",
+      "text": "Discard a card from your hand. (If you can't discard a card, you can't play this card.) Draw 3 cards. If you discarded a Team Aqua Pokémon, draw 1 more card.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-double-crisis-27",
+      "itemType": "Trainer Card",
+      "number": "27",
+      "name": "Team Aqua's Great Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Search your deck for a Basic Team Aqua Pokémon and a basic Water Energy card, reveal them, and put them into your hand. Shuffle your deck afterward.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-double-crisis-28",
+      "itemType": "Trainer Card",
+      "number": "28",
+      "name": "Team Aqua's Secret Base",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "The Retreat Cost of each Pokémon in play (except for Team Aqua Pokémon) is Colorless more.,This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    },
+    {
+      "id": "tcg-pokemon-double-crisis-29",
+      "itemType": "Trainer Card",
+      "number": "29",
+      "name": "Team Magma Admin",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "GAME FREAK inc.",
+      "text": "Put up to 3 Team Magma Pokémon from your discard pile into your hand.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-double-crisis-30",
+      "itemType": "Trainer Card",
+      "number": "30",
+      "name": "Team Magma Grunt",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "GAME FREAK inc.",
+      "text": "Discard a card from your hand. (If you can't discard a card, you can't play this card.) Draw 3 cards. If you discarded a Team Magma Pokémon, draw 1 more card.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-double-crisis-31",
+      "itemType": "Trainer Card",
+      "number": "31",
+      "name": "Team Magma's Great Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Search your deck for a Basic Team Magma Pokémon and a basic Fighting Energy card, reveal them, and put them into your hand. Shuffle your deck afterward.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-double-crisis-32",
+      "itemType": "Trainer Card",
+      "number": "32",
+      "name": "Team Magma's Secret Base",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Whenever any player puts a Basic Pokémon (except for Team Magma Pokémon) from his or her hand onto his or her Bench, put 2 damage counters on that Pokémon.,This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    },
+    {
+      "id": "tcg-pokemon-double-crisis-33",
+      "itemType": "Energy Card",
+      "number": "33",
+      "name": "Double Aqua Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "This card can only be attached to Team Aqua Pokémon. Discard this card at the end of the turn you attached it.,This card provides WaterWater Energy only while it is attached to a Team Aqua Pokémon.,(If this card is attached to anything other than a Team Aqua Pokémon, discard this card.)"
+    },
+    {
+      "id": "tcg-pokemon-double-crisis-34",
+      "itemType": "Energy Card",
+      "number": "34",
+      "name": "Double Magma Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "This card can only be attached to Team Magma Pokémon. Discard this card at the end of the turn you attached it.,This card provides FightingFighting Energy only while it is attached to a Team Magma Pokémon.,(If this card is attached to anything other than a Team Magma Pokémon, discard this card.)"
+    }
+  ]
+}
