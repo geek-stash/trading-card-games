@@ -1,0 +1,4280 @@
+{
+  "setId": "tcg-pokemon-flashfire",
+  "cardCount": "110",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-flashfire-booster-box",
+      "itemType": "Sealed Product",
+      "name": "Flashfire Booster Box"
+    },
+    {
+      "id": "tcg-pokemon-flashfire-booster-pack",
+      "itemType": "Sealed Product",
+      "name": "Flashfire Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-flashfire-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Caterpie",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Sumiyoshi Kizuki",
+      "abilities": [
+        {
+          "name": "Adaptive Evolution",
+          "text": "This Pokémon can evolve during your first turn or the turn you play it.",
+          "type": "Ability"
+        }
+      ],
+      "text": "For protection, it releases a horrible stench from the antennae on its head to drive away enemies.",
+      "attacks": [
+        {
+          "name": "Bug Bite",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Metapod",
+      "stage": "Stage 1",
+      "evolvesFrom": "Caterpie",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "kawayoo",
+      "abilities": [
+        {
+          "name": "Adaptive Evolution",
+          "text": "This Pokémon can evolve during your first turn or the turn you play it.",
+          "type": "Ability"
+        }
+      ],
+      "text": "A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.",
+      "attacks": [
+        {
+          "name": "Harden",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, if this Pokémon would be damaged by an attack, prevent that attack's damage done to this Pokémon if that damage is 60 or less."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-3",
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Butterfree",
+      "stage": "Stage 2",
+      "evolvesFrom": "Metapod",
+      "hp": "130",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "sui",
+      "text": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
+      "attacks": [
+        {
+          "name": "Quiver Dance",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Search your deck for a basic Energy card and attach it to this Pokémon. Shuffle your deck afterward. If you attached Energy in this way, heal 40 damage from this Pokémon."
+        },
+        {
+          "name": "Gust",
+          "damage": "70",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-4",
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Pineco",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Suwama Chiaki",
+      "text": "It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn't bother it.",
+      "attacks": [
+        {
+          "name": "Ram",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Seedot",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Naoyo Kimura",
+      "text": "It attaches itself to a tree branch using the top of its head. Strong winds can sometimes make it fall.",
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-6",
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Nuzleaf",
+      "stage": "Stage 1",
+      "evolvesFrom": "Seedot",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Midori Harada",
+      "text": "The sound of its grass flute makes its listeners uneasy. It lives deep in forests.",
+      "attacks": [
+        {
+          "name": "Razor Leaf",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Cut",
+          "damage": "40",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-7",
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Shiftry",
+      "stage": "Stage 2",
+      "evolvesFrom": "Nuzleaf",
+      "hp": "140",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kouki Saitou",
+      "abilities": [
+        {
+          "name": "Leaf Draw",
+          "text": "Once during your turn (before your attack), you may discard a Grass Energy card from your hand. If you do, draw 3 cards.",
+          "type": "Ability"
+        }
+      ],
+      "text": "A Pokémon that was feared as a forest guardian. It can read the foe's mind and take preemptive action.",
+      "attacks": [
+        {
+          "name": "Deranged Dance",
+          "damage": "20×",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage times the number of Benched Pokémon (both yours and your opponent's)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-8",
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "Roselia",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "kirisAki",
+      "text": "It uses the different poisons in each hand separately when it attacks. The stronger its aroma, the healthier it is.",
+      "attacks": [
+        {
+          "name": "Sleep Powder",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Asleep."
+        },
+        {
+          "name": "Cut",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Grass"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-9",
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Roserade",
+      "stage": "Stage 1",
+      "evolvesFrom": "Roselia",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Masakazu Fukuda",
+      "text": "Luring prey with a sweet scent, it uses poison whips on its arms to poison, bind, and finish off the prey.",
+      "attacks": [
+        {
+          "name": "Whiplash",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin until you get tails. For each heads, discard an Energy attached to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Mega Drain",
+          "damage": "70",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "text": "Heal 20 damage from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Maractus",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "match",
+      "text": "It uses an up-tempo song and dance to drive away the bird Pokémon that prey on its flower seeds.",
+      "attacks": [
+        {
+          "name": "Exciting Shake",
+          "cost": [
+            "Grass"
+          ],
+          "text": "During your next turn, flip 6 coins instead of 2 for this Pokémon's Prickly Needles attack."
+        },
+        {
+          "name": "Prickly Needles",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Charizard-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Stoke",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, search your deck for up to 3 basic Energy cards and attach them to this Pokémon. Shuffle your deck afterward."
+        },
+        {
+          "name": "Fire Blast",
+          "damage": "120",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Charizard-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "PLANETA",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Combustion Blast",
+          "damage": "150",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This Pokémon can't use Combustion Blast during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "M Charizard-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Charizard-EX",
+      "hp": "220",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Crimson Dive",
+          "damage": "300",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This Pokémon does 50 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Ponyta",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Tomokazu Komiya",
+      "text": "As a newborn, it can barely stand. However, through galloping, its legs are made tougher and faster.",
+      "attacks": [
+        {
+          "name": "Agility",
+          "damage": "10",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+        },
+        {
+          "name": "Flame Tail",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Rapidash",
+      "stage": "Stage 1",
+      "evolvesFrom": "Ponyta",
+      "hp": "90",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Akira Komayama",
+      "text": "Very competitive, this Pokémon will chase anything that moves fast in the hopes of racing it.",
+      "attacks": [
+        {
+          "name": "Agility",
+          "damage": "20",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+        },
+        {
+          "name": "Overrun",
+          "damage": "40",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-16",
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Torkoal",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Akira Komayama",
+      "text": "You find abandoned coal mines full of them. They dig tirelessly in search of coal.",
+      "attacks": [
+        {
+          "name": "Live Coal",
+          "damage": "20",
+          "cost": [
+            "Fire"
+          ]
+        },
+        {
+          "name": "Flamethrower",
+          "damage": "80",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, discard an Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Fletchinder",
+      "stage": "Stage 1",
+      "evolvesFrom": "Fletchling",
+      "hp": "80",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "From its beak, it expels embers that set the tall grass on fire. Then it pounces on the bewildered prey that pop out of the grass.",
+      "attacks": [
+        {
+          "name": "Firebreathing",
+          "damage": "20+",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-18",
+      "itemType": "Pokemon Card",
+      "number": "18",
+      "name": "Litleo",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "text": "The stronger the opponent it faces, the more heat surges from its mane and the more power flows through its body.",
+      "attacks": [
+        {
+          "name": "Combustion",
+          "damage": "60",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-19",
+      "itemType": "Pokemon Card",
+      "number": "19",
+      "name": "Litleo",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "text": "The stronger the opponent it faces, the more heat surges from its mane and the more power flows through its body.",
+      "attacks": [
+        {
+          "name": "Fire Mane",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-20",
+      "itemType": "Pokemon Card",
+      "number": "20",
+      "name": "Pyroar",
+      "stage": "Stage 1",
+      "evolvesFrom": "Litleo",
+      "hp": "110",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Intimidating Mane",
+          "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Basic Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "The male with the largest mane of fire is the leader of the pride.",
+      "attacks": [
+        {
+          "name": "Scorching Fang",
+          "damage": "60+",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may discard a Fire Energy attached to this Pokémon. If you do, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-21",
+      "itemType": "Pokemon Card",
+      "number": "21",
+      "name": "Qwilfish",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "abilities": [
+        {
+          "name": "Counterattack Quills",
+          "text": "If this Pokémon is your Active Pokémon and is damaged by an opponent's attack (even if this Pokémon is Knocked Out), put 2 damage counters on the Attacking Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once.",
+      "attacks": [
+        {
+          "name": "Poison Sting",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-22",
+      "itemType": "Pokemon Card",
+      "number": "22",
+      "name": "Feebas",
+      "stage": "Basic",
+      "hp": "30",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Shigenori Negishi",
+      "text": "It eats anything, so it can even live in polluted streams and lakes. No one pays any attention to it.",
+      "attacks": [
+        {
+          "name": "Surprise Attack",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-23",
+      "itemType": "Pokemon Card",
+      "number": "23",
+      "name": "Milotic",
+      "stage": "Stage 1",
+      "evolvesFrom": "Feebas",
+      "hp": "100",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Shin Nagasawa",
+      "abilities": [
+        {
+          "name": "Energy Grace",
+          "text": "Once during your turn (before your attack) you may Knock Out this Pokémon. If you do, attach 3 basic Energy from your discard pile to 1 of your Pokémon (excluding Pokémon-EX).",
+          "type": "Ability"
+        }
+      ],
+      "text": "Milotic is breathtakingly beautiful. Those that see it are said to forget their combative spirits.",
+      "attacks": [
+        {
+          "name": "Waterfall",
+          "damage": "60",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-24",
+      "itemType": "Pokemon Card",
+      "number": "24",
+      "name": "Spheal",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "They can't swim well yet, and they move much faster by rolling. When they're happy they clap fins.",
+      "attacks": [
+        {
+          "name": "Ice Ball",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Water"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-25",
+      "itemType": "Pokemon Card",
+      "number": "25",
+      "name": "Sealeo",
+      "stage": "Stage 1",
+      "evolvesFrom": "Spheal",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "text": "It has a very sensitive nose. It touches new things with its nose to examine them.",
+      "attacks": [
+        {
+          "name": "Rest",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Heal 60 damage from this Pokémon. This Pokémon is now Asleep."
+        },
+        {
+          "name": "Ice Ball",
+          "damage": "60",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-26",
+      "itemType": "Pokemon Card",
+      "number": "26",
+      "name": "Walrein",
+      "stage": "Stage 2",
+      "evolvesFrom": "Sealeo",
+      "hp": "150",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Naoki Saito",
+      "text": "It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.",
+      "attacks": [
+        {
+          "name": "Powder Snow",
+          "damage": "60",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        },
+        {
+          "name": "Big Tusk",
+          "damage": "120-",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 120 damage minus 10 damage for each damage counter on this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-27",
+      "itemType": "Pokemon Card",
+      "number": "27",
+      "name": "Luvdisc",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Atsuko Nishida",
+      "text": "It lives in warm seas. It is said that a couple finding this Pokémon will be blessed with eternal love.",
+      "attacks": [
+        {
+          "name": "Heart Wink",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent can't draw a card at the beginning of his or her next turn."
+        },
+        {
+          "name": "Spike Draw",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Draw a card."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-28",
+      "itemType": "Pokemon Card",
+      "number": "28",
+      "name": "Buizel",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "sui",
+      "text": "It swims by rotating its two tails like a screw. When it dives, its flotation sac collapses.",
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ]
+        },
+        {
+          "name": "Quick Attack",
+          "damage": "10+",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-29",
+      "itemType": "Pokemon Card",
+      "number": "29",
+      "name": "Floatzel",
+      "stage": "Stage 1",
+      "evolvesFrom": "Buizel",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Kanako Eo",
+      "text": "It floats using its well-developed flotation sac. It assists in the rescues of drowning people.",
+      "attacks": [
+        {
+          "name": "Rescue",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Shuffle 3 Pokémon from your discard pile into your deck."
+        },
+        {
+          "name": "Screw Tail",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-30",
+      "itemType": "Pokemon Card",
+      "number": "30",
+      "name": "Bergmite",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "text": "It blocks opponents' attacks with the ice that shields its body. It uses cold air to repair any cracks with new ice.",
+      "attacks": [
+        {
+          "name": "Stomp Off",
+          "cost": [
+            "Water"
+          ],
+          "text": "Discard the top card of your opponent's deck."
+        },
+        {
+          "name": "Tackle",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-31",
+      "itemType": "Pokemon Card",
+      "number": "31",
+      "name": "Avalugg",
+      "stage": "Stage 1",
+      "evolvesFrom": "Bergmite",
+      "hp": "130",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Its ice-covered body is as hard as steel. Its cumbersome frame crushes anything that stands in its way.",
+      "attacks": [
+        {
+          "name": "Frost Barrier",
+          "damage": "40",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Shatter",
+          "damage": "90",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard any Stadium card in play."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-32",
+      "itemType": "Pokemon Card",
+      "number": "32",
+      "name": "Shinx",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Sanosuke Sakuma",
+      "text": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
+      "attacks": [
+        {
+          "name": "Paralyzing Gaze",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Static Shock",
+          "damage": "30",
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-33",
+      "itemType": "Pokemon Card",
+      "number": "33",
+      "name": "Luxio",
+      "stage": "Stage 1",
+      "evolvesFrom": "Shinx",
+      "hp": "80",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Akira Komayama",
+      "text": "Its claws loose electricity with enough amperage to cause fainting. They live in small groups.",
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": "20",
+          "cost": [
+            "Lightning"
+          ]
+        },
+        {
+          "name": "Electricounter",
+          "damage": "40×",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "This attack does 40 damage times the number of Prize cards your opponent has taken."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-34",
+      "itemType": "Pokemon Card",
+      "number": "34",
+      "name": "Luxray",
+      "stage": "Stage 2",
+      "evolvesFrom": "Luxio",
+      "hp": "140",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "Hitoshi Ariga",
+      "text": "When its eyes gleam gold, it can spot hiding prey–even those taking shelter behind a wall.",
+      "attacks": [
+        {
+          "name": "Fang Snipe",
+          "damage": "40",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Your opponent reveals his or her hand. Discard a Trainer card you find there."
+        },
+        {
+          "name": "Wild Charge",
+          "damage": "120",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "This Pokémon does 30 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-35",
+      "itemType": "Pokemon Card",
+      "number": "35",
+      "name": "Magnezone-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Electro Ball",
+          "damage": "40",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Dual Bullet",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "text": "This attack does 50 damage to 2 of your opponent's Pokémon. (Don't apply Weakness or Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-36",
+      "itemType": "Pokemon Card",
+      "number": "36",
+      "name": "Helioptile",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "text": "They make their home in deserts. They can generate their energy from basking in the sun, so eating food is not a requirement.",
+      "attacks": [
+        {
+          "name": "Pound",
+          "damage": "10",
+          "cost": [
+            "Lightning"
+          ]
+        },
+        {
+          "name": "Destructive Beam",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-37",
+      "itemType": "Pokemon Card",
+      "number": "37",
+      "name": "Heliolisk",
+      "stage": "Stage 1",
+      "evolvesFrom": "Helioptile",
+      "hp": "90",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "text": "They flare their frills and generate energy. A single Heliolisk can generate sufficient electricity to power a skyscraper.",
+      "attacks": [
+        {
+          "name": "Parabolic Charge",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 2 Energy cards, reveal them, and put them into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Quick Attack",
+          "damage": "60+",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-38",
+      "itemType": "Pokemon Card",
+      "number": "38",
+      "name": "Duskull",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "match",
+      "text": "It doggedly pursues its prey wherever it goes. However, the chase is abandoned at sunrise.",
+      "attacks": [
+        {
+          "name": "Revival",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Put a Basic Pokémon from your opponent's discard pile onto his or her Bench."
+        },
+        {
+          "name": "Sneaky Placement",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Put 1 damage counter on your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-39",
+      "itemType": "Pokemon Card",
+      "number": "39",
+      "name": "Dusclops",
+      "stage": "Stage 1",
+      "evolvesFrom": "Duskull",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "MAHOU",
+      "text": "Anyone who dares peer into its body to see its spectral ball of fire will have their spirit stolen away.",
+      "attacks": [
+        {
+          "name": "Confuse Ray",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Your opponent's Active Pokémon is now Confused."
+        },
+        {
+          "name": "Cursed Drop",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Put 4 damage counters on your opponent's Pokémon in any way you like."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-40",
+      "itemType": "Pokemon Card",
+      "number": "40",
+      "name": "Dusknoir",
+      "stage": "Stage 2",
+      "evolvesFrom": "Dusclops",
+      "hp": "130",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Suwama Chiaki",
+      "abilities": [
+        {
+          "name": "Shadow Void",
+          "text": "As often as you like during your turn (before your attack), you may move 1 damage counter from 1 of your Pokémon to this Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It is said to take lost spirits into its pliant body and guide them home.",
+      "attacks": [
+        {
+          "name": "Pain Pellets",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Put damage counters on 1 of your opponent's Pokémon equal to the number of damage counters on this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-41",
+      "itemType": "Pokemon Card",
+      "number": "41",
+      "name": "Toxicroak-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "PLANETA",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Triple Poison",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Poisoned. Put 3 damage counters instead of 1 on that Pokémon between turns."
+        },
+        {
+          "name": "Smash Uppercut",
+          "damage": "80",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-42",
+      "itemType": "Pokemon Card",
+      "number": "42",
+      "name": "Espurr",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "text": "The organ that emits its intense psychic power is sheltered by its ears to keep power from leaking out.",
+      "attacks": [
+        {
+          "name": "Psyshot",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ]
+        },
+        {
+          "name": "Fake Out",
+          "damage": "10",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-43",
+      "itemType": "Pokemon Card",
+      "number": "43",
+      "name": "Meowstic",
+      "stage": "Stage 1",
+      "evolvesFrom": "Espurr",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "text": "When in danger, it raises its ears and releases enough psychic power to grind a 10-ton truck into dust.",
+      "attacks": [
+        {
+          "name": "Ear Influence",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Move as many damage counters on your opponent's Pokémon as you like to any of your opponent's other Pokémon in any way you like."
+        },
+        {
+          "name": "Psychic",
+          "damage": "60+",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Does 10 more damage for each Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-44",
+      "itemType": "Pokemon Card",
+      "number": "44",
+      "name": "Skrelp",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "text": "Camouflaged as rotten kelp, they spray liquid poison on prey that approaches unawares and then finish it off.",
+      "attacks": [
+        {
+          "name": "Spit Poison",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-45",
+      "itemType": "Pokemon Card",
+      "number": "45",
+      "name": "Geodude",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "MAHOU",
+      "text": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
+      "attacks": [
+        {
+          "name": "Rollout",
+          "damage": "10",
+          "cost": [
+            "Fighting"
+          ]
+        },
+        {
+          "name": "Flail",
+          "damage": "10×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 10 damage times the number of damage counters on this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-46",
+      "itemType": "Pokemon Card",
+      "number": "46",
+      "name": "Graveler",
+      "stage": "Stage 1",
+      "evolvesFrom": "Geodude",
+      "hp": "100",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Naoyo Kimura",
+      "text": "With a free and uncaring nature, it doesn't mind if pieces break off while it rolls down mountains.",
+      "attacks": [
+        {
+          "name": "Double-Edge",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This Pokémon does 20 damage to itself."
+        },
+        {
+          "name": "Rollout",
+          "damage": "80",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-47",
+      "itemType": "Pokemon Card",
+      "number": "47",
+      "name": "Golem",
+      "stage": "Stage 2",
+      "evolvesFrom": "Graveler",
+      "hp": "150",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Sumiyoshi Kizuki",
+      "text": "It tumbles down mountains, leaving grooves from peak to base. Stay clear of these grooves.",
+      "attacks": [
+        {
+          "name": "Stone Edge",
+          "damage": "60+",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        },
+        {
+          "name": "Explosion",
+          "damage": "150",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This Pokémon does 100 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-48",
+      "itemType": "Pokemon Card",
+      "number": "48",
+      "name": "Binacle",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "text": "Two Binacle live together on one rock. When they fight, one of them will move to a different rock.",
+      "attacks": [
+        {
+          "name": "Double Scratch",
+          "damage": "30×",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-49",
+      "itemType": "Pokemon Card",
+      "number": "49",
+      "name": "Barbaracle",
+      "stage": "Stage 1",
+      "evolvesFrom": "Binacle",
+      "hp": "110",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "text": "When they evolve, two Binacle multiply into seven. They fight with the power of seven Binacle.",
+      "attacks": [
+        {
+          "name": "Rock Rush",
+          "damage": "30×",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "Discard as many Fighting Energy cards as you like from your hand. This attack does 30 damage times the number of Energy cards you discarded."
+        },
+        {
+          "name": "Boulder Crush",
+          "damage": "80",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-50",
+      "itemType": "Pokemon Card",
+      "number": "50",
+      "name": "Sneasel",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mizue",
+      "text": "It feeds on eggs stolen from nests. Its sharply hooked claws rip vulnerable spots on prey.",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Flash Claw",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Your opponent discards a card from his or her hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-51",
+      "itemType": "Pokemon Card",
+      "number": "51",
+      "name": "Sneasel",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "match",
+      "text": "It feeds on eggs stolen from nests. Its sharply hooked claws rip vulnerable spots on prey.",
+      "attacks": [
+        {
+          "name": "Icy Wind",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        },
+        {
+          "name": "Scratch",
+          "damage": "20",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-52",
+      "itemType": "Pokemon Card",
+      "number": "52",
+      "name": "Weavile",
+      "stage": "Stage 1",
+      "evolvesFrom": "Sneasel",
+      "hp": "90",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "Shigenori Negishi",
+      "text": "It lives in snowy regions. It carves patterns in trees with its claws as a signal to others.",
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "name": "Claw Rend",
+          "damage": "60+",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-53",
+      "itemType": "Pokemon Card",
+      "number": "53",
+      "name": "Stunky",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Kyoko Umemoto",
+      "text": "It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away.",
+      "attacks": [
+        {
+          "name": "Smokescreen",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        },
+        {
+          "name": "Slash",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-54",
+      "itemType": "Pokemon Card",
+      "number": "54",
+      "name": "Stunky",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Masakazu Fukuda",
+      "text": "It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away.",
+      "attacks": [
+        {
+          "name": "Collect",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw a card."
+        },
+        {
+          "name": "Spray Fluid",
+          "damage": "30",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-55",
+      "itemType": "Pokemon Card",
+      "number": "55",
+      "name": "Skuntank",
+      "stage": "Stage 1",
+      "evolvesFrom": "Stunky",
+      "hp": "100",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "kirisAki",
+      "text": "It sprays a vile-smelling fluid from the tip of its tail to attack. Its range is over 160 feet.",
+      "attacks": [
+        {
+          "name": "Push Down",
+          "damage": "30",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "name": "Acid Spray",
+          "damage": "70",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-56",
+      "itemType": "Pokemon Card",
+      "number": "56",
+      "name": "Sandile",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Masakazu Fukuda",
+      "text": "It moves along below the sand's surface, except for its nose and eyes. A dark membrane shields its eyes from the sun.",
+      "attacks": [
+        {
+          "name": "Surprise Attack",
+          "damage": "40",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-57",
+      "itemType": "Pokemon Card",
+      "number": "57",
+      "name": "Krokorok",
+      "stage": "Stage 1",
+      "evolvesFrom": "Sandile",
+      "hp": "90",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Naoki Saito",
+      "text": "They live in groups of a few individuals. Protective membranes shield their eyes from sandstorms.",
+      "attacks": [
+        {
+          "name": "Dark Clamp",
+          "damage": "10",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "name": "Double Swing",
+          "damage": "60×",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 60 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-58",
+      "itemType": "Pokemon Card",
+      "number": "58",
+      "name": "Scraggy",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Naoki Saito",
+      "text": "Its skin has a rubbery elasticity, so it can reduce damage by defensively pulling it skin up to its neck.",
+      "attacks": [
+        {
+          "name": "Tail Rap",
+          "damage": "20×",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-59",
+      "itemType": "Pokemon Card",
+      "number": "59",
+      "name": "Scrafty",
+      "stage": "Stage 1",
+      "evolvesFrom": "Scraggy",
+      "hp": "100",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "Hitoshi Ariga",
+      "text": "It pulls up its shed skin to protect itself while it kicks. The bigger the crest, the more respected it is.",
+      "attacks": [
+        {
+          "name": "Corner",
+          "damage": "30",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "name": "Jet Headbutt",
+          "damage": "80",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-60",
+      "itemType": "Pokemon Card",
+      "number": "60",
+      "name": "Forretress",
+      "stage": "Stage 1",
+      "evolvesFrom": "Pineco",
+      "hp": "100",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "artist": "Tomokazu Komiya",
+      "abilities": [
+        {
+          "name": "Thorn Tempest",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon, you may put 1 damage counter on each of your opponent's Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It is encased in a steel shell. Its peering eyes are all that can be seen of its mysterious innards.",
+      "attacks": [
+        {
+          "name": "Iron Crash",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 20 more damage for each Colorless in your opponent's Active Pokémon's Retreat Cost."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-61",
+      "itemType": "Pokemon Card",
+      "number": "61",
+      "name": "Durant",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "artist": "Midori Harada",
+      "text": "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony.",
+      "attacks": [
+        {
+          "name": "Chip Off",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Discard cards from your opponent's hand at random until he or she has 4 cards in his or her hand."
+        },
+        {
+          "name": "X-Scissor",
+          "damage": "20+",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-62",
+      "itemType": "Pokemon Card",
+      "number": "62",
+      "name": "Flabébé",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "text": "It draws out and controls the hidden power of flowers. The flower Flabébé holds is most likely part of its body.",
+      "attacks": [
+        {
+          "name": "Aromatherapy",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "Heal 10 damage from each of your Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-63",
+      "itemType": "Pokemon Card",
+      "number": "63",
+      "name": "Flabébé",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "text": "It draws out and controls the hidden power of flowers. The flower Flabébé holds is most likely part of its body.",
+      "attacks": [
+        {
+          "name": "Razor Leaf",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-64",
+      "itemType": "Pokemon Card",
+      "number": "64",
+      "name": "Floette",
+      "stage": "Stage 1",
+      "evolvesFrom": "Flabébé",
+      "hp": "70",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Flower Veil",
+          "text": "Each of your Grass Pokémon in play gets +20 HP.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It flutters around fields of flowers and cares for flowers that are starting to wilt. It draws out the hidden power of flowers to battle.",
+      "attacks": [
+        {
+          "name": "Fairy Wind",
+          "damage": "20",
+          "cost": [
+            "Fairy"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-65",
+      "itemType": "Pokemon Card",
+      "number": "65",
+      "name": "Floette",
+      "stage": "Stage 1",
+      "evolvesFrom": "Flabébé",
+      "hp": "70",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "It flutters around fields of flowers and cares for flowers that are starting to wilt. It draws out the hidden power of flowers to battle.",
+      "attacks": [
+        {
+          "name": "Petal Blizzard",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "This attack does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Razor Leaf",
+          "damage": "30",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-66",
+      "itemType": "Pokemon Card",
+      "number": "66",
+      "name": "Florges",
+      "stage": "Stage 2",
+      "evolvesFrom": "Floette",
+      "hp": "110",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "text": "It claims exquisite flower gardens as its territory, and it obtains power from basking in the energy emitted by flowering plants.",
+      "attacks": [
+        {
+          "name": "Brilliant Search",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 3 cards and put them into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Petal Blizzard",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "This attack does 20 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-67",
+      "itemType": "Pokemon Card",
+      "number": "67",
+      "name": "Spritzee",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "text": "It emits a scent that enraptures those who smell it. This fragrance changes depending on what it has eaten.",
+      "attacks": [
+        {
+          "name": "Fairy Wind",
+          "damage": "10",
+          "cost": [
+            "Fairy"
+          ]
+        },
+        {
+          "name": "Fickle Attack",
+          "damage": "30",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-68",
+      "itemType": "Pokemon Card",
+      "number": "68",
+      "name": "Carbink",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "text": "Born from temperatures and pressures deep underground, it fires beams from the stone in its head.",
+      "attacks": [
+        {
+          "name": "Crystal Barrier",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+        },
+        {
+          "name": "Wonder Blast",
+          "damage": "40+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 20 more damage for each Fairy Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-69",
+      "itemType": "Pokemon Card",
+      "number": "69",
+      "name": "M Charizard-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Charizard-EX",
+      "hp": "230",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Wild Blaze",
+          "damage": "300",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard the top 5 cards of your deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-70",
+      "itemType": "Pokemon Card",
+      "number": "70",
+      "name": "Druddigon",
+      "stage": "Basic",
+      "hp": "110",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ryota Murayama",
+      "text": "It races through narrow caves, using its sharp claws to catch prey. The skin on its face is harder than a rock.",
+      "attacks": [
+        {
+          "name": "Revenge",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If any of your Pokémon were Knocked Out by damage from an opponent's attack during his or her last turn, this attack does 70 more damage."
+        },
+        {
+          "name": "Dragon Claw",
+          "damage": "80",
+          "cost": [
+            "Fire",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-71",
+      "itemType": "Pokemon Card",
+      "number": "71",
+      "name": "Dragalge",
+      "stage": "Stage 1",
+      "evolvesFrom": "Skrelp",
+      "hp": "100",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Poison Barrier",
+          "text": "Your opponent's Poisoned Pokémon can't retreat.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Their poison is strong enough to eat through the hull of a tanker, and they spit it indiscriminately at anything that enters their territory.",
+      "attacks": [
+        {
+          "name": "Poison Breath",
+          "damage": "60",
+          "cost": [
+            "Water",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-72",
+      "itemType": "Pokemon Card",
+      "number": "72",
+      "name": "Goomy",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "text": "The weakest Dragon-type Pokémon, it lives in damp, shady places, so its body doesn't dry out.",
+      "attacks": [
+        {
+          "name": "Gooey",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Heal 10 damage from this Pokémon."
+        },
+        {
+          "name": "Tackle",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Fairy"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-73",
+      "itemType": "Pokemon Card",
+      "number": "73",
+      "name": "Sliggoo",
+      "stage": "Stage 1",
+      "evolvesFrom": "Goomy",
+      "hp": "80",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "It drives away opponents by excreting a sticky liquid that can dissolve anything. Its eyes devolved, so it can't see anything.",
+      "attacks": [
+        {
+          "name": "Gooey",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Heal 30 damage from this Pokémon."
+        },
+        {
+          "name": "Gentle Slap",
+          "damage": "40",
+          "cost": [
+            "Water",
+            "Fairy",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-74",
+      "itemType": "Pokemon Card",
+      "number": "74",
+      "name": "Goodra",
+      "stage": "Stage 2",
+      "evolvesFrom": "Sliggoo",
+      "hp": "150",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Gooey Regeneration",
+          "text": "As often as you like during your turn (before your attack), you may discard an Energy attached to this Pokémon. If you do, heal 60 damage from this Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "This very friendly Dragon-type Pokémon will hug its beloved Trainer, leaving that Trainer covered in sticky slime.",
+      "attacks": [
+        {
+          "name": "Heavy Whip",
+          "damage": "80+",
+          "cost": [
+            "Water",
+            "Fairy",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 40 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-75",
+      "itemType": "Pokemon Card",
+      "number": "75",
+      "name": "Pidgey",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "text": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
+      "attacks": [
+        {
+          "name": "Peck Off",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Before doing damage, discard all Pokémon Tool cards attached to your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-76",
+      "itemType": "Pokemon Card",
+      "number": "76",
+      "name": "Pidgeotto",
+      "stage": "Stage 1",
+      "evolvesFrom": "Pidgey",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shin Nagasawa",
+      "text": "The claws on its feet are well developed. It can carry prey such as an Exeggcute to its nest over 60 miles away.",
+      "attacks": [
+        {
+          "name": "Sand-Attack",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        },
+        {
+          "name": "Ambush",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-77",
+      "itemType": "Pokemon Card",
+      "number": "77",
+      "name": "Pidgeot",
+      "stage": "Stage 2",
+      "evolvesFrom": "Pidgeotto",
+      "hp": "130",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "kawayoo",
+      "text": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as Magikarp.",
+      "attacks": [
+        {
+          "name": "Clutch",
+          "damage": "40",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "name": "Strong Gust",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your next turn, this Pokémon's Strong Gust attack does 60 more damage (before applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-78",
+      "itemType": "Pokemon Card",
+      "number": "78",
+      "name": "Kangaskhan-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "Eske Yoshinob",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Triple Draw",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw 3 cards."
+        },
+        {
+          "name": "Kindred Kick",
+          "damage": "70+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-79",
+      "itemType": "Pokemon Card",
+      "number": "79",
+      "name": "M Kangaskhan-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Kangaskhan-EX",
+      "hp": "230",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo EX",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Wham Bam Punch",
+          "damage": "100+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. This attack does 30 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-80",
+      "itemType": "Pokemon Card",
+      "number": "80",
+      "name": "Snorlax",
+      "stage": "Basic",
+      "hp": "130",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Stir and Snooze",
+          "text": "If this Pokémon is Asleep, flip 2 coins instead of 1 between turns. If either of them is tails, this Pokémon is still Asleep.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.",
+      "attacks": [
+        {
+          "name": "Sleepy Press",
+          "damage": "120",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Heal 20 damage from this Pokémon. This Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-81",
+      "itemType": "Pokemon Card",
+      "number": "81",
+      "name": "Sentret",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Mizue",
+      "text": "When acting as a lookout, it warns others of danger by screeching and hitting the ground with its tail.",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Tail Smack",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-82",
+      "itemType": "Pokemon Card",
+      "number": "82",
+      "name": "Furret",
+      "stage": "Stage 1",
+      "evolvesFrom": "Sentret",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "text": "The mother puts its offspring to sleep by curling up around them. It corners foes with speed.",
+      "attacks": [
+        {
+          "name": "Buried Treasure Hunt",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Look at the top 4 cards of your deck and put 2 of them into your hand. Discard the other cards."
+        },
+        {
+          "name": "Slam",
+          "damage": "30×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-83",
+      "itemType": "Pokemon Card",
+      "number": "83",
+      "name": "Miltank",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kanako Eo",
+      "text": "If it is around babies, the milk it produces contains much more nutrition than usual.",
+      "attacks": [
+        {
+          "name": "Powerful Friends",
+          "damage": "10+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If you have any Stage 2 Pokémon on your Bench, this attack does 70 more damage."
+        },
+        {
+          "name": "Hammer In",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-84",
+      "itemType": "Pokemon Card",
+      "number": "84",
+      "name": "Buneary",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Kyoko Umemoto",
+      "text": "Its ears are always rolled up. They can be forcefully extended to shatter even a large boulder.",
+      "attacks": [
+        {
+          "name": "Bounce",
+          "damage": "10",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-85",
+      "itemType": "Pokemon Card",
+      "number": "85",
+      "name": "Lopunny",
+      "stage": "Stage 1",
+      "evolvesFrom": "Buneary",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Sanosuke Sakuma",
+      "abilities": [
+        {
+          "name": "Big Jump",
+          "text": "Once during your turn (before your attack), you may return this Pokémon and all cards attached to it to your hand.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Extremely cautious, it quickly bounds off when it senses danger.",
+      "attacks": [
+        {
+          "name": "Sitdown Bounce",
+          "damage": "80",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this Pokémon can't attack during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-86",
+      "itemType": "Pokemon Card",
+      "number": "86",
+      "name": "Fletchling",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "5ban Graphics",
+      "text": "These friendly Pokémon send signals to one another with beautiful chirps and tail-feather movements.",
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "damage": "10+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-87",
+      "itemType": "Pokemon Card",
+      "number": "87",
+      "name": "Furfrou",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Trimming its fluffy fur not only makes it more elegant but also increases the swiftness of its movements.",
+      "attacks": [
+        {
+          "name": "Tight Jaw",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Sharp Fang",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-88",
+      "itemType": "Trainer Card",
+      "number": "88",
+      "name": "Blacksmith",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Masakazu Fukuda",
+      "text": "Attach 2 Fire Energy cards from your discard pile to 1 of your Fire Pokémon.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-flashfire-88a",
+      "itemType": "Trainer Card",
+      "number": "88a",
+      "name": "Blacksmith",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Masakazu Fukuda",
+      "text": "Attach 2 Fire Energy cards from your discard pile to 1 of your Fire Pokémon.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-flashfire-89",
+      "itemType": "Trainer Card",
+      "number": "89",
+      "name": "Fiery Torch",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Discard a Fire Energy card from your hand. (If you can't discard a Fire Energy card, you can't play this card.) Draw 2 cards.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-flashfire-90",
+      "itemType": "Trainer Card",
+      "number": "90",
+      "name": "Lysandre",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "Switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-flashfire-91",
+      "itemType": "Trainer Card",
+      "number": "91",
+      "name": "Magnetic Storm",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Each Pokémon in play has no Resistance.,This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    },
+    {
+      "id": "tcg-pokemon-flashfire-92",
+      "itemType": "Trainer Card",
+      "number": "92",
+      "name": "Pal Pad",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "PLANETA",
+      "text": "Shuffle 2 Supporter cards from your discard pile into your deck.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-flashfire-93",
+      "itemType": "Trainer Card",
+      "number": "93",
+      "name": "Pokémon Center Lady",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Maiko Fujiwara",
+      "text": "Heal 60 damage and remove all Special Conditions from 1 of your Pokémon.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-flashfire-94",
+      "itemType": "Trainer Card",
+      "number": "94",
+      "name": "Pokémon Fan Club",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yusuke Ohmura",
+      "text": "Search your deck for up to 2 Basic Pokémon, reveal them, and put them into your hand. Shuffle your deck afterward.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-flashfire-95",
+      "itemType": "Trainer Card",
+      "number": "95",
+      "name": "Protection Cube",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,Prevent all damage done to the Pokémon this card is attached to by attacks it uses.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-flashfire-96",
+      "itemType": "Trainer Card",
+      "number": "96",
+      "name": "Sacred Ash",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "PLANETA",
+      "text": "Shuffle 5 Pokémon from your discard pile into your deck.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-flashfire-97",
+      "itemType": "Trainer Card",
+      "number": "97",
+      "name": "Startling Megaphone",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Discard all Pokémon Tool cards attached to each of your opponent's Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-flashfire-98",
+      "itemType": "Trainer Card",
+      "number": "98",
+      "name": "Trick Shovel",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "PLANETA",
+      "text": "Look at the top card of either player's deck. You may discard that card or return it to the top of the deck.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-flashfire-99",
+      "itemType": "Trainer Card",
+      "number": "99",
+      "name": "Ultra Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Discard 2 cards from your hand. (If you can't discard 2 cards, you can't play this card.) Search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-flashfire-100",
+      "itemType": "Pokemon Card",
+      "number": "100",
+      "name": "Charizard-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Stoke",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, search your deck for up to 3 basic Energy cards and attach them to this Pokémon. Shuffle your deck afterward."
+        },
+        {
+          "name": "Fire Blast",
+          "damage": "120",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-101",
+      "itemType": "Pokemon Card",
+      "number": "101",
+      "name": "Magnezone-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Electro Ball",
+          "damage": "40",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Dual Bullet",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "text": "This attack does 50 damage to 2 of your opponent's Pokémon. (Don't apply Weakness or Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-102",
+      "itemType": "Pokemon Card",
+      "number": "102",
+      "name": "Toxicroak-EX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Triple Poison",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Poisoned. Put 3 damage counters instead of 1 on that Pokémon between turns."
+        },
+        {
+          "name": "Smash Uppercut",
+          "damage": "80",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-103",
+      "itemType": "Pokemon Card",
+      "number": "103",
+      "name": "Kangaskhan-EX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ryo Ueda",
+      "text": "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Triple Draw",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw 3 cards."
+        },
+        {
+          "name": "Kindred Kick",
+          "damage": "70+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-104",
+      "itemType": "Trainer Card",
+      "number": "104",
+      "name": "Lysandre",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ken Sugimori",
+      "text": "Switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-flashfire-105",
+      "itemType": "Trainer Card",
+      "number": "105",
+      "name": "Pokémon Center Lady",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Megumi Mizutani",
+      "text": "Heal 60 damage and remove all Special Conditions from 1 of your Pokémon.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-flashfire-106",
+      "itemType": "Trainer Card",
+      "number": "106",
+      "name": "Pokémon Fan Club",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Emi Ando",
+      "text": "Search your deck for up to 2 Basic Pokémon, reveal them, and put them into your hand. Shuffle your deck afterward.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-flashfire-107",
+      "itemType": "Pokemon Card",
+      "number": "107",
+      "name": "M Charizard-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Charizard-EX",
+      "hp": "220",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Crimson Dive",
+          "damage": "300",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This Pokémon does 50 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-108",
+      "itemType": "Pokemon Card",
+      "number": "108",
+      "name": "M Charizard-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Charizard-EX",
+      "hp": "230",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Wild Blaze",
+          "damage": "300",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard the top 5 cards of your deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-flashfire-109",
+      "itemType": "Pokemon Card",
+      "number": "109",
+      "name": "M Kangaskhan-EX",
+      "stage": "MEGA",
+      "evolvesFrom": "Kangaskhan-EX",
+      "hp": "230",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "5ban Graphics",
+      "text": "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.,Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Wham Bam Punch",
+          "damage": "100+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. This attack does 30 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    }
+  ]
+}
