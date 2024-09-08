@@ -1,0 +1,7140 @@
+{
+  "setId": "tcg-pokemon-guardians-rising",
+  "cardCount": "180",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-guardians-rising-booster-box",
+      "itemType": "Sealed Product",
+      "name": "Guardians Rising Booster Box"
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-booster-pack",
+      "itemType": "Sealed Product",
+      "name": "Guardians Rising Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-guardians-rising-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Bellsprout",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Aya Kusube",
+      "text": "Even though its body is extremely skinny, it is blindingly fast when catching its prey.",
+      "attacks": [
+        {
+          "name": "Vine Whip",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Weepinbell",
+      "stage": "Stage 1",
+      "evolvesFrom": "Bellsprout",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mina Nakai",
+      "text": "The leafy parts act as cutters for slashing foes. It spits a fluid that dissolves everything.",
+      "attacks": [
+        {
+          "name": "Muddy Acid",
+          "damage": "40",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-3",
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Victreebel",
+      "stage": "Stage 2",
+      "evolvesFrom": "Weepinbell",
+      "hp": "140",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "TOKIYA",
+      "text": "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
+      "attacks": [
+        {
+          "name": "Pollen Hazard",
+          "damage": "20",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Your opponent's Active Pokémon is now Burned, Confused, and Poisoned."
+        },
+        {
+          "name": "Stick and Absorb",
+          "damage": "80",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Heal 20 damage from this Pokémon. The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-4",
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Petilil",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Naoki Saito",
+      "text": "Although the leaves on its head are bitter enough to cause dizziness, they provide relief from weariness—even more so when boiled.",
+      "attacks": [
+        {
+          "name": "Blot",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Heal 10 damage from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Lilligant",
+      "stage": "Stage 1",
+      "evolvesFrom": "Petilil",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "You Iribi",
+      "text": "No matter how much time and money is spent raising it, its flowers are the most beautiful when they bloom in the wild.",
+      "attacks": [
+        {
+          "name": "Petal Blizzard",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This attack does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Petal Dance",
+          "damage": "40×",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 40 damage for each heads. This Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-6",
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Phantump",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Sanosuke Sakuma",
+      "text": "These Pokémon are stumps possessed by the spirits of children who died in the forest. Their cries sound like eerie screams.",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ]
+        },
+        {
+          "name": "Confuse Ray",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-7",
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Trevenant",
+      "stage": "Stage 1",
+      "evolvesFrom": "Phantump",
+      "hp": "120",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Hiroyuki Yamamoto",
+      "text": "This Pokémon is said to devour anyone daring to ravage the forest. To the creatures dwelling in the forest, it offers great kindness.",
+      "attacks": [
+        {
+          "name": "Poltergeist",
+          "damage": "30×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent reveals their hand. This attack does 30 damage for each Trainer card you find there."
+        },
+        {
+          "name": "Horn Leech",
+          "damage": "90",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Heal 30 damage from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-8",
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "Wimpod",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "match",
+      "text": "This Pokémon is a coward. As it desperately dashes off, the flailing of its many legs leaves a sparkling clean path in its wake.",
+      "attacks": [
+        {
+          "name": "Scamper Away",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Shuffle this Pokémon and all cards attached to it into your deck."
+        },
+        {
+          "name": "Ram",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-9",
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Golisopod",
+      "stage": "Stage 1",
+      "evolvesFrom": "Wimpod",
+      "hp": "130",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kouki Saitou",
+      "abilities": [
+        {
+          "name": "Armor",
+          "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "text": "With a flashing slash of its giant sharp claws, it cleaves seawater—or even air—right in two.",
+      "attacks": [
+        {
+          "name": "Resolute Claws",
+          "damage": "80+",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon is a Pokémon-GX or a Pokémon-EX, this attack does 70 more damage (before applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Victini",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "kodama",
+      "abilities": [
+        {
+          "name": "Victory Star",
+          "text": "Once during your turn, after you flip any coins for an attack, you may ignore all results of those coin flips and begin flipping those coins again. You can't use more than 1 Victory Star Ability each turn.",
+          "type": "Ability"
+        }
+      ],
+      "text": "This Pokémon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter.",
+      "attacks": [
+        {
+          "name": "V-Flame",
+          "damage": "50",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Litwick",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "text": "While shining a light and pretending to be a guide, it leeches off the life force of any who follow it.",
+      "attacks": [
+        {
+          "name": "Flickering Flames",
+          "damage": "10",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Lampent",
+      "stage": "Stage 1",
+      "evolvesFrom": "Litwick",
+      "hp": "80",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "0313",
+      "text": "The spirits it absorbs fuel its baleful fire. It hangs around hospitals waiting for people to pass on.",
+      "attacks": [
+        {
+          "name": "Will-O-Wisp",
+          "damage": "30",
+          "cost": [
+            "Fire"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Chandelure",
+      "stage": "Stage 2",
+      "evolvesFrom": "Lampent",
+      "hp": "140",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kouki Saitou",
+      "abilities": [
+        {
+          "name": "Shady Move",
+          "text": "Once during your turn (before your attack), you may move 1 damage counter from 1 Pokémon to another Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Being consumed in Chandelure's flame burns up the spirit, leaving the body behind.",
+      "attacks": [
+        {
+          "name": "Super Singe",
+          "damage": "50",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Your opponent's Active Pokémon is now Burned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Oricorio",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "artist": "Shin Nagasawa",
+      "text": "It beats its wings together to create fire. As it moves in the steps of its beautiful dance, it bathes opponents in intense flames.",
+      "attacks": [
+        {
+          "name": "Passionate Dance",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Search your deck for up to 3 Basic Fire Pokémon and put them onto your Bench. Then, shuffle your deck."
+        },
+        {
+          "name": "Kindle",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "text": "Discard an Energy from this Pokémon. If you do, discard an Energy from your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Salandit",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "TOKIYA",
+      "text": "It burns its bodily fluids to create a poisonous gas. When its enemies become disoriented from inhaling the gas, it attacks them.",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "10",
+          "cost": [
+            "Fire"
+          ]
+        },
+        {
+          "name": "Venoshock",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon is Poisoned, this attack does 40 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-16",
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Salazzle",
+      "stage": "Stage 1",
+      "evolvesFrom": "Salandit",
+      "hp": "110",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Hot Poison",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may leave your opponent's Active Pokémon Burned and Poisoned.",
+          "type": "Ability"
+        }
+      ],
+      "text": "For some reason, only females have been found. It creates a reverse harem of male Salandit that it lives with.",
+      "attacks": [
+        {
+          "name": "Flamethrower",
+          "damage": "90",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard an Energy from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Turtonator",
+      "stage": "Basic",
+      "hp": "110",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "artist": "Shin Nagasawa",
+      "text": "The shell on its back is chemically unstable and explodes violently if struck. The hole in its stomach is its weak point.",
+      "attacks": [
+        {
+          "name": "Body Slam",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Heat Blast",
+          "damage": "90",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-18",
+      "itemType": "Pokemon Card",
+      "number": "18",
+      "name": "Turtonator-GX",
+      "stage": "Basic",
+      "hp": "190",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Shell Trap",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, if this Pokémon is damaged by an attack (even if this Pokémon is Knocked Out), put 8 damage counters on the Attacking Pokémon."
+        },
+        {
+          "name": "Bright Flame",
+          "damage": "160",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Discard 2 Fire Energy from this Pokémon."
+        },
+        {
+          "name": "Nitro Tank-GX",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Attach 5 Fire Energy cards from your discard pile to your Pokémon in any way you like. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-19",
+      "itemType": "Pokemon Card",
+      "number": "19",
+      "name": "Alolan Sandshrew",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Mizue",
+      "text": "It lives on snowy mountains. Its steel shell is very hard—so much so, it can't roll its body up into a ball.",
+      "attacks": [
+        {
+          "name": "Defense Curl",
+          "text": "Flip a coin. If heads, prevent all damage done to this Pokémon by attacks during your opponent's next turn."
+        },
+        {
+          "name": "Ice Ball",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-19a",
+      "itemType": "Pokemon Card",
+      "number": "19a",
+      "name": "Alolan Sandshrew",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Hideki Ishikawa",
+      "text": "It lives on snowy mountains. Its steel shell is very hard—so much so, it can't roll its body up into a ball.",
+      "attacks": [
+        {
+          "name": "Defense Curl",
+          "text": "Flip a coin. If heads, prevent all damage done to this Pokémon by attacks during your opponent's next turn."
+        },
+        {
+          "name": "Ice Ball",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-20",
+      "itemType": "Pokemon Card",
+      "number": "20",
+      "name": "Alolan Sandslash",
+      "stage": "Stage 1",
+      "evolvesFrom": "Alolan Sandshrew",
+      "hp": "110",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "TOKIYA",
+      "abilities": [
+        {
+          "name": "Slush Rush",
+          "text": "Once during your turn (before your attack), you may draw a card.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Fleeing a volcanic eruption, it settled on a snowy mountain. As it races through the snowfields, it sends up a spray of snow.",
+      "attacks": [
+        {
+          "name": "Smash Turn",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-21",
+      "itemType": "Pokemon Card",
+      "number": "21",
+      "name": "Alolan Vulpix",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "You Iribi",
+      "text": "It exhales air colder than -58 degrees Fahrenheit. Elderly people in Alola call this Pokémon by an older name—Keokeo.",
+      "attacks": [
+        {
+          "name": "Beacon",
+          "text": "Search your deck for up to 2 Pokémon, reveal them, and put them into your hand. Then, shuffle your deck."
+        },
+        {
+          "name": "Icy Snow",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-21a",
+      "itemType": "Pokemon Card",
+      "number": "21a",
+      "name": "Alolan Vulpix",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "kirisAki",
+      "text": "It exhales air colder than -58 degrees Fahrenheit. Elderly people in Alola call this Pokémon by an older name—Keokeo.",
+      "attacks": [
+        {
+          "name": "Beacon",
+          "text": "Search your deck for up to 2 Pokémon, reveal them, and put them into your hand. Then, shuffle your deck."
+        },
+        {
+          "name": "Icy Snow",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-22",
+      "itemType": "Pokemon Card",
+      "number": "22",
+      "name": "Alolan Ninetales-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Alolan Vulpix",
+      "hp": "210",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Ice Blade",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 50 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Blizzard Edge",
+          "damage": "160",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Discard 2 Energy from this Pokémon."
+        },
+        {
+          "name": "Ice Path-GX",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Move all damage counters from this Pokémon to your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-23",
+      "itemType": "Pokemon Card",
+      "number": "23",
+      "name": "Tentacool",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Shibuzoh.",
+      "text": "They can be found lying dehydrated on beaches, but they are often still alive. When soaked in water, they will revive.",
+      "attacks": [
+        {
+          "name": "Sludge Shock",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't be healed during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-24",
+      "itemType": "Pokemon Card",
+      "number": "24",
+      "name": "Tentacruel",
+      "stage": "Stage 1",
+      "evolvesFrom": "Tentacool",
+      "hp": "110",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Masakazu Fukuda",
+      "text": "Normally, it has 80 poisonous tentacles. The longer one has been alive, the fewer tentacles it will have.",
+      "attacks": [
+        {
+          "name": "Poison Sting",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        },
+        {
+          "name": "Seething Tentacles",
+          "damage": "40+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 40 more damage. If tails, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-25",
+      "itemType": "Pokemon Card",
+      "number": "25",
+      "name": "Politoed",
+      "stage": "Stage 2",
+      "evolvesFrom": "Poliwhirl",
+      "hp": "130",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Saya Tsuruta",
+      "text": "They gather on moonlit nights to form a large chorus. Their cries sound angry and not at all pleasant, but they are certainly distinctive.",
+      "attacks": [
+        {
+          "name": "Roll Call",
+          "cost": [
+            "Water"
+          ],
+          "text": "Search your deck for a Poliwag, a Poliwhirl, and a Poliwrath, and put them onto your Bench. Then, shuffle your deck."
+        },
+        {
+          "name": "Hyper Jump",
+          "damage": "100",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may shuffle this Pokémon and all cards attached to it into your deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-26",
+      "itemType": "Pokemon Card",
+      "number": "26",
+      "name": "Delibird",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "sui",
+      "text": "Although it naturally prefers colder locales, Delibird in Alola seem able to withstand the heat to a certain extent.",
+      "attacks": [
+        {
+          "name": "All the Presents",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. For each heads, you may search your deck for a card and put it into your hand. Then, shuffle your deck."
+        },
+        {
+          "name": "Surprise Attack",
+          "damage": "40",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-27",
+      "itemType": "Pokemon Card",
+      "number": "27",
+      "name": "Carvanha",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Hideki Ishikawa",
+      "text": "Each school has its own territory. Any intruders are mercilessly attacked with fangs bared.",
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-28",
+      "itemType": "Pokemon Card",
+      "number": "28",
+      "name": "Sharpedo",
+      "stage": "Stage 1",
+      "evolvesFrom": "Carvanha",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "text": "It pursues its prey at speeds of 75 mph and finishes them off with fangs that can crush iron. It is known as the bully of the sea.",
+      "attacks": [
+        {
+          "name": "Jet Headbutt",
+          "damage": "70",
+          "cost": [
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-29",
+      "itemType": "Pokemon Card",
+      "number": "29",
+      "name": "Wailmer",
+      "stage": "Basic",
+      "hp": "120",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Miki Tanaka",
+      "text": "It loves to startle people. It fills itself up with seawater and plays by bouncing around like a ball.",
+      "attacks": [
+        {
+          "name": "Splash",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Surf",
+          "damage": "70",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-30",
+      "itemType": "Pokemon Card",
+      "number": "30",
+      "name": "Wailord",
+      "stage": "Stage 1",
+      "evolvesFrom": "Wailmer",
+      "hp": "200",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "OOYAMA",
+      "text": "Wailord pursue their prey in pods. With their large mouths, they can swallow entire schools of Wishiwashi whole.",
+      "attacks": [
+        {
+          "name": "Dive",
+          "damage": "40",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+        },
+        {
+          "name": "Open Sea",
+          "damage": "80",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Heal 30 damage from each of your Water Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-31",
+      "itemType": "Pokemon Card",
+      "number": "31",
+      "name": "Snorunt",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Tomokazu Komiya",
+      "text": "Their numbers seem to have rapidly increased in Alola. Custom has it that houses where Snorunt live will be prosperous for generations to come.",
+      "attacks": [
+        {
+          "name": "Chilly",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ]
+        },
+        {
+          "name": "Frost Breath",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Water"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-32",
+      "itemType": "Pokemon Card",
+      "number": "32",
+      "name": "Glalie",
+      "stage": "Stage 1",
+      "evolvesFrom": "Snorunt",
+      "hp": "120",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "so-taro",
+      "text": "Legend says a boulder on an icy mountain absorbed the distress and regrets of a stranded mountaineer, giving rise to Glalie.",
+      "attacks": [
+        {
+          "name": "Crunch",
+          "damage": "40",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Raging Floe",
+          "damage": "70+",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "text": "If this Pokémon has any damage counters on it, this attack does 80 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-33",
+      "itemType": "Pokemon Card",
+      "number": "33",
+      "name": "Vanillite",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "OOYAMA",
+      "text": "Born of an icicle, this Pokémon uses its frosty breath to make ice crystals, causing snow to fall.",
+      "attacks": [
+        {
+          "name": "Triple Spin",
+          "damage": "10×",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip 3 coins. This attack does 10 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-34",
+      "itemType": "Pokemon Card",
+      "number": "34",
+      "name": "Vanillish",
+      "stage": "Stage 1",
+      "evolvesFrom": "Vanillite",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Naoki Saito",
+      "text": "Hot days cause its body to melt. It can be restored by refreezing it, but the process leaves its body slightly warped.",
+      "attacks": [
+        {
+          "name": "Ice Shard",
+          "damage": "30+",
+          "cost": [
+            "Water"
+          ],
+          "text": "If your opponent's Active Pokémon is a Fighting Pokémon, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-35",
+      "itemType": "Pokemon Card",
+      "number": "35",
+      "name": "Vanilluxe",
+      "stage": "Stage 2",
+      "evolvesFrom": "Vanillish",
+      "hp": "140",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "kawayoo",
+      "text": "Each of its two heads has a brain, and when they are in agreement, it attacks its enemies by exhaling a violent blizzard.",
+      "attacks": [
+        {
+          "name": "Hail",
+          "cost": [
+            "Water"
+          ],
+          "text": "This attack does 20 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Frozen Breath",
+          "damage": "80",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "text": "You may discard 2 Water Energy from this Pokémon. If you do, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-36",
+      "itemType": "Pokemon Card",
+      "number": "36",
+      "name": "Alomomola",
+      "stage": "Basic",
+      "hp": "110",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Aya Kusube",
+      "text": "It uses its special mucus to close the wounds of injured Pokémon. The reason for this behavior remains unknown.",
+      "attacks": [
+        {
+          "name": "Borne Ashore",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Put a Basic Pokémon from either player's discard pile onto its owner's Bench."
+        },
+        {
+          "name": "Hydro Splash",
+          "damage": "60",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-37",
+      "itemType": "Pokemon Card",
+      "number": "37",
+      "name": "Wishiwashi",
+      "stage": "Basic",
+      "hp": "30",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Sanosuke Sakuma",
+      "abilities": [
+        {
+          "name": "Schooling",
+          "text": "Once during your turn (before your attack), you may switch this Pokémon with a Wishiwashi-GX in your hand. Any attached cards, damage counters, Special Conditions, turns in play, and any other effects remain on the new Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "When it's in trouble, its eyes moisten and begin to shine. The shining light attracts its comrades, and they stand together against their enemies.",
+      "attacks": [
+        {
+          "name": "Sharpshooting",
+          "cost": [
+            "Water"
+          ],
+          "text": "This attack does 10 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-38",
+      "itemType": "Pokemon Card",
+      "number": "38",
+      "name": "Wishiwashi-GX",
+      "stage": "Basic",
+      "hp": "210",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "damage": "20",
+          "cost": [
+            "Water"
+          ]
+        },
+        {
+          "name": "Torrential Vortex",
+          "damage": "120",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard a Special Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Blue Surge-GX",
+          "damage": "220",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Move all Energy from this Pokémon to your Benched Pokémon in any way you like. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-39",
+      "itemType": "Pokemon Card",
+      "number": "39",
+      "name": "Mareanie",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shin Nagasawa",
+      "text": "It plunges the poison spike on its head into its prey. When the prey has weakened, Mareanie deals the finishing blow with its 10 tentacles.",
+      "attacks": [
+        {
+          "name": "Bail Out",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Put a Pokémon from your discard pile into your hand."
+        },
+        {
+          "name": "Rain Splash",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-40",
+      "itemType": "Pokemon Card",
+      "number": "40",
+      "name": "Alolan Geodude",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Hitoshi Ariga",
+      "text": "Its body is a magnetic stone. Iron sand attaches firmly to the portions of its body that are particularly magnetic.",
+      "attacks": [
+        {
+          "name": "Rock Polish",
+          "text": "During your next turn, this Pokémon has no Retreat Cost."
+        },
+        {
+          "name": "Rollout",
+          "damage": "40",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-41",
+      "itemType": "Pokemon Card",
+      "number": "41",
+      "name": "Alolan Graveler",
+      "stage": "Stage 1",
+      "evolvesFrom": "Alolan Geodude",
+      "hp": "110",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "match",
+      "text": "Its preferred food is dravite. After it has eaten this mineral, crystals form inside the Pokémon, rising to the surface of part of its body.",
+      "attacks": [
+        {
+          "name": "Thunder Punch",
+          "damage": "50+",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage. If tails, this Pokémon does 20 damage to itself."
+        },
+        {
+          "name": "Electrobullet",
+          "damage": "80",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-42",
+      "itemType": "Pokemon Card",
+      "number": "42",
+      "name": "Alolan Golem",
+      "stage": "Stage 2",
+      "evolvesFrom": "Alolan Graveler",
+      "hp": "160",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Shin Nagasawa",
+      "text": "It fires rocks charged with electricity. Even if the rock isn't fired that accurately, just grazing an opponent will cause numbness and fainting.",
+      "attacks": [
+        {
+          "name": "Electromagnetic Rock Wrecker",
+          "damage": "80×",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin for each Lightning Energy attached to this Pokémon. This attack does 80 damage for each heads."
+        },
+        {
+          "name": "Heavy Slam",
+          "damage": "200-",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 30 less damage for each Colorless in your opponent's Active Pokémon's Retreat Cost."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-43",
+      "itemType": "Pokemon Card",
+      "number": "43",
+      "name": "Helioptile",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Masakazu Fukuda",
+      "text": "They make their home in deserts. They can generate their energy from basking in the sun, so eating food is not a requirement.",
+      "attacks": [
+        {
+          "name": "Thunder Shock",
+          "damage": "10",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-44",
+      "itemType": "Pokemon Card",
+      "number": "44",
+      "name": "Heliolisk",
+      "stage": "Stage 1",
+      "evolvesFrom": "Helioptile",
+      "hp": "100",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "Shin Nagasawa",
+      "text": "They flare their frills and generate energy. A single Heliolisk can generate sufficient electricity to power a skyscraper.",
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "damage": "20+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        },
+        {
+          "name": "Raging Thunder",
+          "damage": "120",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 30 damage to 1 of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-45",
+      "itemType": "Pokemon Card",
+      "number": "45",
+      "name": "Vikavolt-GX",
+      "stage": "Stage 2",
+      "evolvesFrom": "Charjabug",
+      "hp": "240",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Charge Beam",
+          "damage": "50",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Attach an Energy card from your discard pile to this Pokémon."
+        },
+        {
+          "name": "Super Zap Cannon",
+          "damage": "180",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard 2 Energy from this Pokémon."
+        },
+        {
+          "name": "Gigatron-GX",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 60 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-46",
+      "itemType": "Pokemon Card",
+      "number": "46",
+      "name": "Oricorio",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "Naoki Saito",
+      "text": "This Oricorio has sipped bright yellow nectar. Its bright, cheerful dance melts the hearts of its enemies.",
+      "attacks": [
+        {
+          "name": "Feather Dance",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "During your next turn, this Pokémon's Pom-Pom Punch attack's base damage is 100."
+        },
+        {
+          "name": "Pom-Pom Punch",
+          "damage": "20",
+          "cost": [
+            "Lightning"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-47",
+      "itemType": "Pokemon Card",
+      "number": "47",
+      "name": "Tapu Koko-GX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Aero Trail",
+          "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may move any number of Lightning Energy from your other Pokémon to this Pokémon. If you do, switch this Pokémon with your Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Sky-High Claws",
+          "damage": "130",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Tapu Thunder-GX",
+          "damage": "50×",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "This attack does 50 damage times the amount of Energy attached to all of your opponent's Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-48",
+      "itemType": "Pokemon Card",
+      "number": "48",
+      "name": "Slowpoke",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Mina Nakai",
+      "text": "Its long tail often breaks off. It doesn't really feel any pain, though, and the tail grows back, so Slowpoke isn't particularly bothered.",
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Whimsy Tackle",
+          "damage": "60",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-49",
+      "itemType": "Pokemon Card",
+      "number": "49",
+      "name": "Slowbro",
+      "stage": "Stage 1",
+      "evolvesFrom": "Slowpoke",
+      "hp": "110",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shibuzoh.",
+      "text": "It spaces out while gazing at the sea. With Shellder's poison flowing through its body, it becomes even spacier.",
+      "attacks": [
+        {
+          "name": "Amnesia",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Active Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+        },
+        {
+          "name": "Facade",
+          "damage": "50+",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If this Pokémon is Burned or Poisoned, this attack does 80 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-50",
+      "itemType": "Pokemon Card",
+      "number": "50",
+      "name": "Trubbish",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Yuka Morii",
+      "text": "Unsanitary places are what they like best. They can be spotted in Alola, often with Grimer in hot pursuit.",
+      "attacks": [
+        {
+          "name": "Stomp Off",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Discard the top card of your opponent's deck."
+        },
+        {
+          "name": "Drool",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-51",
+      "itemType": "Pokemon Card",
+      "number": "51",
+      "name": "Garbodor",
+      "stage": "Stage 1",
+      "evolvesFrom": "Trubbish",
+      "hp": "120",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "text": "Beware the poisonous liquid it shoots from its right arm. If even a little of it gets on you, you'll experience the effects of the unidentified toxin.",
+      "attacks": [
+        {
+          "name": "Trashalanche",
+          "damage": "20×",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "This attack does 20 damage for each Item card in your opponent's discard pile."
+        },
+        {
+          "name": "Acid Spray",
+          "damage": "70",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-51a",
+      "itemType": "Pokemon Card",
+      "number": "51a",
+      "name": "Garbodor",
+      "stage": "Stage 1",
+      "evolvesFrom": "Trubbish",
+      "hp": "120",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "nagimiso",
+      "text": "Beware the poisonous liquid it shoots from its right arm. If even a little of it gets on you, you'll experience the effects of the unidentified toxin.",
+      "attacks": [
+        {
+          "name": "Trashalanche",
+          "damage": "20×",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "This attack does 20 damage for each Item card in your opponent's discard pile."
+        },
+        {
+          "name": "Acid Spray",
+          "damage": "70",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-52",
+      "itemType": "Pokemon Card",
+      "number": "52",
+      "name": "Gothita",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Yuka Morii",
+      "text": "Their ribbonlike feelers increase their psychic power. They are always staring at something.",
+      "attacks": [
+        {
+          "name": "Blown Kiss",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Put 1 damage counter on 1 of your opponent's Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-53",
+      "itemType": "Pokemon Card",
+      "number": "53",
+      "name": "Gothorita",
+      "stage": "Stage 1",
+      "evolvesFrom": "Gothita",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "kawayoo",
+      "text": "Starlight is the source of their power. At night, they mark star positions by using psychic power to float stones.",
+      "attacks": [
+        {
+          "name": "Slap",
+          "damage": "20",
+          "cost": [
+            "Psychic"
+          ]
+        },
+        {
+          "name": "Psybeam",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-54",
+      "itemType": "Pokemon Card",
+      "number": "54",
+      "name": "Gothitelle",
+      "stage": "Stage 2",
+      "evolvesFrom": "Gothorita",
+      "hp": "140",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "text": "Starry skies thousands of light-years away are visible in the space distorted by their intense psychic power.",
+      "attacks": [
+        {
+          "name": "Tractorbeam",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon. This attack does 30 damage to the new Active Pokémon."
+        },
+        {
+          "name": "Link Blast",
+          "damage": "50+",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "If this Pokémon and your opponent's Active Pokémon have the same amount of Energy attached to them, this attack does 80 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-55",
+      "itemType": "Pokemon Card",
+      "number": "55",
+      "name": "Oricorio",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "abilities": [
+        {
+          "name": "Vital Dance",
+          "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may search your deck for up to 2 basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "text": "This Oricorio relaxes by swaying gently. This increases its psychic energy, which it then fires at its enemies.",
+      "attacks": [
+        {
+          "name": "Casual Slap",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-56",
+      "itemType": "Pokemon Card",
+      "number": "56",
+      "name": "Oricorio",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "TOKIYA",
+      "text": "This Oricorio has sipped purple nectar. Its elegant, attractive dance will send the minds and hearts of its enemies to another world.",
+      "attacks": [
+        {
+          "name": "Supernatural Dance",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "For each Pokémon in your opponent's discard pile, put 1 damage counter on your opponent's Pokémon in any way you like."
+        },
+        {
+          "name": "Revelation Dance",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If there is no Stadium card in play, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-57",
+      "itemType": "Pokemon Card",
+      "number": "57",
+      "name": "Toxapex-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Mareanie",
+      "hp": "210",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Spike Cannon",
+          "damage": "30×",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip 4 coins. This attack does 30 damage for each heads."
+        },
+        {
+          "name": "Super Intense Poison",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Your opponent's Active Pokémon is now Poisoned. Put 10 damage counters instead of 1 on that Pokémon between turns."
+        },
+        {
+          "name": "Total Shelter-GX",
+          "damage": "150",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-58",
+      "itemType": "Pokemon Card",
+      "number": "58",
+      "name": "Mimikyu",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Megumi Mizutani",
+      "text": "Its actual appearance is unknown. A scholar who saw what was under its rag was overwhelmed by horror and died of the shock.",
+      "attacks": [
+        {
+          "name": "Filch",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw 2 cards."
+        },
+        {
+          "name": "Copycat",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "If your opponent's Pokémon used an attack that isn't a GX attack during their last turn, use it as this attack."
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-59",
+      "itemType": "Pokemon Card",
+      "number": "59",
+      "name": "Dhelmise",
+      "stage": "Basic",
+      "hp": "120",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Hasuno",
+      "abilities": [
+        {
+          "name": "Steelworker",
+          "text": "Your Metal Pokémon's attacks do 10 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "text": "Swinging its massive anchor, it can KO Wailord in a single blow. What appears to be green seaweed is actually its body.",
+      "attacks": [
+        {
+          "name": "Anchor Shot",
+          "damage": "70",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-60",
+      "itemType": "Pokemon Card",
+      "number": "60",
+      "name": "Tapu Lele-GX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Wonder Tag",
+          "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Energy Drive",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage times the amount of Energy attached to both Active Pokémon. This damage isn't affected by Weakness or Resistance."
+        },
+        {
+          "name": "Tapu Cure-GX",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Heal all damage from 2 of your Benched Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-60a",
+      "itemType": "Pokemon Card",
+      "number": "60a",
+      "name": "Tapu Lele-GX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Wonder Tag",
+          "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Energy Drive",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage times the amount of Energy attached to both Active Pokémon. This damage isn't affected by Weakness or Resistance."
+        },
+        {
+          "name": "Tapu Cure-GX",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Heal all damage from 2 of your Benched Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-61",
+      "itemType": "Pokemon Card",
+      "number": "61",
+      "name": "Lunala",
+      "stage": "Stage 2",
+      "evolvesFrom": "Cosmoem",
+      "hp": "160",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "text": "It is said to be a female evolution of Cosmog. When its third eye activates, away it flies to another world.",
+      "attacks": [
+        {
+          "name": "Shatter Shot",
+          "damage": "40×",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "This attack does 40 damage times the amount of Psychic Energy attached to this Pokémon."
+        },
+        {
+          "name": "Wings of the Moone",
+          "damage": "130",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Move all Energy from this Pokémon to your Benched Pokémon in any way you like."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-62",
+      "itemType": "Pokemon Card",
+      "number": "62",
+      "name": "Machop",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Kyoko Umemoto",
+      "text": "It loves working out. As it gazes at its muscles, which continue to swell day by day, it becomes more and more dedicated to its training.",
+      "attacks": [
+        {
+          "name": "Dual Chop",
+          "damage": "30×",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "Flip 2 coins. This attack does 30 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-63",
+      "itemType": "Pokemon Card",
+      "number": "63",
+      "name": "Machop",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Masakazu Fukuda",
+      "text": "It loves working out. As it gazes at its muscles, which continue to swell day by day, it becomes more and more dedicated to its training.",
+      "attacks": [
+        {
+          "name": "Dynamic Chop",
+          "damage": "50",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-64",
+      "itemType": "Pokemon Card",
+      "number": "64",
+      "name": "Machoke",
+      "stage": "Stage 1",
+      "evolvesFrom": "Machop",
+      "hp": "100",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouki Saitou",
+      "abilities": [
+        {
+          "name": "Daunting Pose",
+          "text": "Prevent all damage done to your Benched Pokémon by your opponent's attacks. Your opponent's attacks and Abilities can't put damage counters on your Benched Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "As a result of its continual workouts, it has developed tremendous power. It uses that power to help people with their work.",
+      "attacks": [
+        {
+          "name": "Cross Chop",
+          "damage": "30+",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-65",
+      "itemType": "Pokemon Card",
+      "number": "65",
+      "name": "Machamp",
+      "stage": "Stage 2",
+      "evolvesFrom": "Machoke",
+      "hp": "160",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Hitoshi Ariga",
+      "text": "It unleashes megaton-level punches that send opponents flying clear over the horizon.",
+      "attacks": [
+        {
+          "name": "Settle the Score",
+          "damage": "20+",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "This attack does 80 more damage for each Prize card your opponent took on their last turn."
+        },
+        {
+          "name": "Submission",
+          "damage": "150",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "This Pokémon does 30 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-66",
+      "itemType": "Pokemon Card",
+      "number": "66",
+      "name": "Sudowoodo",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hajime Kusajima",
+      "abilities": [
+        {
+          "name": "Roadblock",
+          "text": "Your opponent can't have more than 4 Benched Pokémon. If they have 5 or more Benched Pokémon, they discard Benched Pokémon until they have 4 Pokémon on the Bench. If more than one effect changes the number of Benched Pokémon allowed, use the smaller number.",
+          "type": "Ability"
+        }
+      ],
+      "text": "To avoid attack, it mimics a tree. It will run off if splashed with water, which it hates.",
+      "attacks": [
+        {
+          "name": "Rock Throw",
+          "damage": "40",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-67",
+      "itemType": "Pokemon Card",
+      "number": "67",
+      "name": "Gligar",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Mina Nakai",
+      "text": "It usually clings to cliffs. When it spots its prey, it spreads its wings and glides down to attack.",
+      "attacks": [
+        {
+          "name": "Double Shot",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "This attack does 10 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-68",
+      "itemType": "Pokemon Card",
+      "number": "68",
+      "name": "Gliscor",
+      "stage": "Stage 1",
+      "evolvesFrom": "Gligar",
+      "hp": "110",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yoshinobu Saito",
+      "text": "It observes prey while hanging inverted from branches. When the chance presents itself, it swoops!",
+      "attacks": [
+        {
+          "name": "Finishing Stinger",
+          "damage": "70",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "If your opponent's Active Pokémon has no damage counters on it before this attack does damage, this attack does nothing."
+        },
+        {
+          "name": "Guillotine",
+          "damage": "90",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-69",
+      "itemType": "Pokemon Card",
+      "number": "69",
+      "name": "Nosepass",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Tomokazu Komiya",
+      "text": "The magnet in Nosepass's nose provides an unerring compass, making it an excellent partner for Trainers going on a journey.",
+      "attacks": [
+        {
+          "name": "Ram",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Rising Lunge",
+          "damage": "30+",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-70",
+      "itemType": "Pokemon Card",
+      "number": "70",
+      "name": "Barboach",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "sui",
+      "text": "Its two whiskers provide a sensitive radar. Even in muddy waters, it can detect its prey's location.",
+      "attacks": [
+        {
+          "name": "Hook",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Mud-Slap",
+          "damage": "20",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-71",
+      "itemType": "Pokemon Card",
+      "number": "71",
+      "name": "Whiscash",
+      "stage": "Stage 1",
+      "evolvesFrom": "Barboach",
+      "hp": "130",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Masakazu Fukuda",
+      "text": "A glutton that devours anything that moves, it quietly lurks at the bottom of swamps, lying in wait for prey.",
+      "attacks": [
+        {
+          "name": "Water Pulse",
+          "damage": "60",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        },
+        {
+          "name": "Landslip",
+          "damage": "100×",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard the top 3 cards of your deck. This attack does 100 damage for each Energy card you discarded in this way."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-72",
+      "itemType": "Pokemon Card",
+      "number": "72",
+      "name": "Pancham",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "TOKIYA",
+      "text": "It grows up imitating the behavior of Pangoro, which it looks up to as a leader.",
+      "attacks": [
+        {
+          "name": "Karate Chop",
+          "damage": "60-",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "This attack does 10 less damage for each damage counter on this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-73",
+      "itemType": "Pokemon Card",
+      "number": "73",
+      "name": "Rockruff",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Naoki Saito",
+      "text": "It's considered to be a good Pokémon for beginners because of its friendliness, but its disposition grows rougher as it grows up.",
+      "attacks": [
+        {
+          "name": "Corner",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "name": "Wild Kick",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-74",
+      "itemType": "Pokemon Card",
+      "number": "74",
+      "name": "Lycanroc-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Rockruff",
+      "hp": "200",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Bloodthirsty Eyes",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may switch 1 of your opponent's Benched Pokémon with their Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Claw Slash",
+          "damage": "110",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Dangerous Rogue-GX",
+          "damage": "50×",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "This attack does 50 damage for each of your opponent's Benched Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-75",
+      "itemType": "Pokemon Card",
+      "number": "75",
+      "name": "Mudbray",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "The mud stuck to Mudbray's hooves enhances its grip and its powerful running gait.",
+      "attacks": [
+        {
+          "name": "Double Kick",
+          "damage": "30×",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "Flip 2 coins. This attack does 30 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-76",
+      "itemType": "Pokemon Card",
+      "number": "76",
+      "name": "Mudsdale",
+      "stage": "Stage 1",
+      "evolvesFrom": "Mudbray",
+      "hp": "140",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "text": "It spits a mud that provides resistance to both wind and rain, so the walls of old houses were often coated with it.",
+      "attacks": [
+        {
+          "name": "Enhanced Stomp",
+          "damage": "60+",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "If this Pokémon has a Pokémon Tool card attached to it, this attack does 60 more damage."
+        },
+        {
+          "name": "High Horsepower",
+          "damage": "180",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "This Pokémon does 40 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-77",
+      "itemType": "Pokemon Card",
+      "number": "77",
+      "name": "Minior",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Naoki Saito",
+      "text": "It eats dust in the atmosphere. The composition of the dust determines the color of its core.",
+      "attacks": [
+        {
+          "name": "Swift",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on your opponent's Active Pokémon."
+        },
+        {
+          "name": "Cosmicsplosion",
+          "damage": "190",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "This Pokémon is Knocked Out."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-78",
+      "itemType": "Pokemon Card",
+      "number": "78",
+      "name": "Murkrow",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Sekio",
+      "text": "They awaken at dusk and take wing in the twilight, leading to the expression, \"Get home before the Murkrow fly.\"",
+      "attacks": [
+        {
+          "name": "Whirlwind",
+          "damage": "10",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Your opponent switches their Active Pokémon with 1 of their Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-79",
+      "itemType": "Pokemon Card",
+      "number": "79",
+      "name": "Honchkrow",
+      "stage": "Stage 1",
+      "evolvesFrom": "Murkrow",
+      "hp": "110",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "Hideki Ishikawa",
+      "text": "A single cry from this nocturnal Pokémon, and more than a hundred of its Murkrow cronies will assemble.",
+      "attacks": [
+        {
+          "name": "Feint Attack",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "This attack does 30 damage to 1 of your opponent's Pokémon. This damage isn't affected by Weakness, Resistance, or any other effects on that Pokémon."
+        },
+        {
+          "name": "Raven's Claw",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 10 more damage for each damage counter on all of your opponent's Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-80",
+      "itemType": "Pokemon Card",
+      "number": "80",
+      "name": "Sableye",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Aya Kusube",
+      "text": "It's a fiend for gemstones, so it stalks Carbink. Unfortunately, Gabite almost always grabs them first.",
+      "attacks": [
+        {
+          "name": "Limitation",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Your opponent can't play any Supporter cards from their hand during their next turn."
+        },
+        {
+          "name": "Scratch",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-81",
+      "itemType": "Pokemon Card",
+      "number": "81",
+      "name": "Absol",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Anesaki Dynamic",
+      "text": "Long ago, superstitions were spread about it, saying it brought disaster. This fed a hatred of it, and it was driven deep into the mountains.",
+      "attacks": [
+        {
+          "name": "Future Sight",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Look at the top 4 cards of either player's deck and put them back in any order."
+        },
+        {
+          "name": "Doom News",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Put all Energy attached to this Pokémon into your hand. At the end of your opponent's next turn, the Defending Pokémon will be Knocked Out."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-82",
+      "itemType": "Pokemon Card",
+      "number": "82",
+      "name": "Pangoro",
+      "stage": "Stage 1",
+      "evolvesFrom": "Pancham",
+      "hp": "130",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "kodama",
+      "text": "It boasts superb physical strength. Those who wish to become Pangoro's Trainer have no choice but to converse with their fists.",
+      "attacks": [
+        {
+          "name": "Sky Uppercut",
+          "damage": "70",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Resistance."
+        },
+        {
+          "name": "Magnum Punch",
+          "damage": "130",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-83",
+      "itemType": "Pokemon Card",
+      "number": "83",
+      "name": "Beldum",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Common",
+      "artist": "Kyoko Umemoto",
+      "text": "Its cells are all magnets. It uses magnetism to communicate with others of its kind.",
+      "attacks": [
+        {
+          "name": "Core Beam",
+          "damage": "20",
+          "cost": [
+            "Metal"
+          ],
+          "text": "Discard a Metal Energy from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-84",
+      "itemType": "Pokemon Card",
+      "number": "84",
+      "name": "Metang",
+      "stage": "Stage 1",
+      "evolvesFrom": "Beldum",
+      "hp": "90",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "When two Beldum link together, their psychic power is doubled. Their intelligence, however, remains unchanged.",
+      "attacks": [
+        {
+          "name": "Ram",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Core Beam",
+          "damage": "80",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "text": "Discard a Metal Energy from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-85",
+      "itemType": "Pokemon Card",
+      "number": "85",
+      "name": "Metagross-GX",
+      "stage": "Stage 2",
+      "evolvesFrom": "Metang",
+      "hp": "250",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Geotech System",
+          "text": "Once during your turn (before your attack), you may attach a Psychic or Metal Energy card from your discard pile to your Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Giga Hammer",
+          "damage": "150",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "text": "This Pokémon can't use Giga Hammer during your next turn."
+        },
+        {
+          "name": "Algorithm-GX",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 5 cards and put them into your hand. Then, shuffle your deck. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-86",
+      "itemType": "Pokemon Card",
+      "number": "86",
+      "name": "Probopass",
+      "stage": "Stage 1",
+      "evolvesFrom": "Nosepass",
+      "hp": "130",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "artist": "Yoshinobu Saito",
+      "text": "It radiates such a powerful magnetic field that nearby electrical appliances become unusable.",
+      "attacks": [
+        {
+          "name": "Energy Link",
+          "damage": "30",
+          "cost": [
+            "Metal"
+          ],
+          "text": "Attach an Energy card from your discard pile to this Pokémon."
+        },
+        {
+          "name": "Power Gem",
+          "damage": "120",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-87",
+      "itemType": "Pokemon Card",
+      "number": "87",
+      "name": "Solgaleo",
+      "stage": "Stage 2",
+      "evolvesFrom": "Cosmoem",
+      "hp": "160",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "artist": "5ban Graphics",
+      "text": "It is said to live in another world. The intense light it radiates from the surface of its body can make the darkest of nights light up like midday.",
+      "attacks": [
+        {
+          "name": "Shining Arrow",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "text": "This attack does 50 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Fangs of the Sunne",
+          "damage": "170",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "text": "This Pokémon can't use Fangs of the Sunne during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-88",
+      "itemType": "Pokemon Card",
+      "number": "88",
+      "name": "Clefairy",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "Its adorable behavior and appearance make it popular with men and women, young and old. Its numbers are few, however.",
+      "attacks": [
+        {
+          "name": "Slap",
+          "damage": "10",
+          "cost": [
+            "Fairy"
+          ]
+        },
+        {
+          "name": "Follow Me",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-89",
+      "itemType": "Pokemon Card",
+      "number": "89",
+      "name": "Clefable",
+      "stage": "Stage 1",
+      "evolvesFrom": "Clefairy",
+      "hp": "100",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Miki Tanaka",
+      "text": "They don't like to reveal themselves in front of people. They live quietly in packs deep in the mountains.",
+      "attacks": [
+        {
+          "name": "Lullaby",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        },
+        {
+          "name": "Meteor Mash",
+          "damage": "60",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your next turn, this Pokémon's Meteor Mash attack does 60 more damage (before applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-90",
+      "itemType": "Pokemon Card",
+      "number": "90",
+      "name": "Cottonee",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Common",
+      "artist": "Megumi Mizutani",
+      "text": "When it finds others of its kind, they all stick together. When enough of them have collected, the mass resembles a cumulonimbus cloud.",
+      "attacks": [
+        {
+          "name": "Continuous Tumble",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. This attack does 10 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-91",
+      "itemType": "Pokemon Card",
+      "number": "91",
+      "name": "Whimsicott",
+      "stage": "Stage 1",
+      "evolvesFrom": "Cottonee",
+      "hp": "80",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouki Saitou",
+      "text": "It rides on the wind and slips into people's homes. After it has turned a room into a cotton-filled mess, it giggles to itself and takes off.",
+      "attacks": [
+        {
+          "name": "The Wages of Fluff",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is Knocked Out during your next turn, take 2 more Prize cards."
+        },
+        {
+          "name": "Fairy Wind",
+          "damage": "30",
+          "cost": [
+            "Fairy"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-92",
+      "itemType": "Pokemon Card",
+      "number": "92",
+      "name": "Sylveon-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "200",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Magical Ribbon",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "Search your deck for up to 3 cards and put them into your hand. Then, shuffle your deck."
+        },
+        {
+          "name": "Fairy Wind",
+          "damage": "110",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Plea-GX",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Put 2 of your opponent's Benched Pokémon and all cards attached to them into your opponent's hand. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-92a",
+      "itemType": "Pokemon Card",
+      "number": "92a",
+      "name": "Sylveon-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "200",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Magical Ribbon",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "Search your deck for up to 3 cards and put them into your hand. Then, shuffle your deck."
+        },
+        {
+          "name": "Fairy Wind",
+          "damage": "110",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Plea-GX",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Put 2 of your opponent's Benched Pokémon and all cards attached to them into your opponent's hand. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-93",
+      "itemType": "Pokemon Card",
+      "number": "93",
+      "name": "Comfey",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Sanosuke Sakuma",
+      "abilities": [
+        {
+          "name": "Flower Shield",
+          "text": "Each of your Pokémon that has any Fairy Energy attached to it can't be affected by any Special Conditions. Remove any Special Conditions affecting those Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It attaches flowers to its highly nutritious vine. This revitalizes the flowers, and they give off an aromatic scent.",
+      "attacks": [
+        {
+          "name": "Sweet Kiss",
+          "damage": "30",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "text": "Your opponent draws a card."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-94",
+      "itemType": "Pokemon Card",
+      "number": "94",
+      "name": "Goomy",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Common",
+      "artist": "Asako Ito",
+      "text": "The weakest of all Dragon-type Pokémon, it's unable to breathe if its skin dries out, so it sticks to shady places.",
+      "attacks": [
+        {
+          "name": "Bubble",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If head, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Tackle",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Fairy"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-95",
+      "itemType": "Pokemon Card",
+      "number": "95",
+      "name": "Sliggoo",
+      "stage": "Stage 1",
+      "evolvesFrom": "Goomy",
+      "hp": "70",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Tomokazu Komiya",
+      "text": "It has trouble drawing a line between friends and food. It will calmly try to melt and eat even those it gets along well with.",
+      "attacks": [
+        {
+          "name": "Division",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 2 Sliggoo and put them onto your Bench. Then, shuffle your deck."
+        },
+        {
+          "name": "Tackle",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Fairy"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-96",
+      "itemType": "Pokemon Card",
+      "number": "96",
+      "name": "Goodra",
+      "stage": "Stage 2",
+      "evolvesFrom": "Sliggoo",
+      "hp": "160",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Naoki Saito",
+      "text": "An amazingly friendly Pokémon, but if left to itself, loneliness overcomes it, and it oozes gooey tears.",
+      "attacks": [
+        {
+          "name": "Power Whip",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage times the amount of Energy attached to this Pokémon to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Beat Slider",
+          "damage": "130",
+          "cost": [
+            "Water",
+            "Fairy",
+            "Colorless"
+          ],
+          "text": "Your opponent switches their Active Pokémon with 1 of their Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-97",
+      "itemType": "Pokemon Card",
+      "number": "97",
+      "name": "Drampa",
+      "stage": "Basic",
+      "hp": "120",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "match",
+      "text": "It has a compassionate personality, but if it is angered, it will completely destroy its surroundings with its intense breath.",
+      "attacks": [
+        {
+          "name": "Amass",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a basic Energy card and attach it to this Pokémon. Then, shuffle your deck."
+        },
+        {
+          "name": "Power Cyclone",
+          "damage": "80",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Move an Energy from this Pokémon to 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-98",
+      "itemType": "Pokemon Card",
+      "number": "98",
+      "name": "Jangmo-o",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Common",
+      "artist": "match",
+      "abilities": [
+        {
+          "name": "Bulletproof",
+          "text": "This Pokémon takes 10 less damage from attacks (after applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "text": "It expresses its feelings by smacking its scales. Metallic sounds echo through the tall mountains where Jangmo-o lives.",
+      "attacks": [
+        {
+          "name": "Dragon Claw",
+          "damage": "30",
+          "cost": [
+            "Lightning",
+            "Fighting"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-99",
+      "itemType": "Pokemon Card",
+      "number": "99",
+      "name": "Hakamo-o",
+      "stage": "Stage 1",
+      "evolvesFrom": "Jangmo-o",
+      "hp": "90",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shin Nagasawa",
+      "text": "It leaps at its prey with a courageous shout. Its scaly punches tear its opponents to shreds.",
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Dragon Claw",
+          "damage": "80",
+          "cost": [
+            "Lightning",
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-100",
+      "itemType": "Pokemon Card",
+      "number": "100",
+      "name": "Kommo-o-GX",
+      "stage": "Stage 2",
+      "evolvesFrom": "Hakamo-o",
+      "hp": "240",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Adamantine Press",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Shred",
+          "damage": "130",
+          "cost": [
+            "Lightning",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+        },
+        {
+          "name": "Ultra Uppercut-GX",
+          "damage": "240",
+          "cost": [
+            "Lightning",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "(You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-101",
+      "itemType": "Pokemon Card",
+      "number": "101",
+      "name": "Chansey",
+      "stage": "Basic",
+      "hp": "110",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Megumi Mizutani",
+      "text": "The eggs laid by Chansey are rich in nutrients and a favorite food of many Pokémon.",
+      "attacks": [
+        {
+          "name": "Bind Wound",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, heal 30 damage from 1 of your Pokémon."
+        },
+        {
+          "name": "Hammer In",
+          "damage": "80",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-102",
+      "itemType": "Pokemon Card",
+      "number": "102",
+      "name": "Blissey",
+      "stage": "Stage 1",
+      "evolvesFrom": "Chansey",
+      "hp": "160",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Hideki Ishikawa",
+      "abilities": [
+        {
+          "name": "Fresh Egg",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may heal 80 damage from your Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Even the most ferocious Pokémon become calm when they eat Blissey's egg, which is said to be filled with happiness.",
+      "attacks": [
+        {
+          "name": "Double-Edge",
+          "damage": "160",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This Pokémon does 80 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-103",
+      "itemType": "Pokemon Card",
+      "number": "103",
+      "name": "Taillow",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Ayaka Yoshida",
+      "text": "It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates.",
+      "attacks": [
+        {
+          "name": "Reckless Charge",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This Pokémon does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-104",
+      "itemType": "Pokemon Card",
+      "number": "104",
+      "name": "Swellow",
+      "stage": "Stage 1",
+      "evolvesFrom": "Taillow",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "text": "If its two tail feathers are standing at attention, it is proof of good health. It soars elegantly in the sky.",
+      "attacks": [
+        {
+          "name": "Agility",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+        },
+        {
+          "name": "Swallow Dive",
+          "damage": "40+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If this Pokémon used Agility during your last turn, this attack does 80 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-105",
+      "itemType": "Pokemon Card",
+      "number": "105",
+      "name": "Castform",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "sui",
+      "text": "It changes its form depending on the weather. Changes in the temperature or humidity appear to affect its cellular structure.",
+      "attacks": [
+        {
+          "name": "Weather Teller",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 2 Stadium cards, reveal them, and put them into your hand. Then, shuffle your deck."
+        },
+        {
+          "name": "Water Pulse",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-106",
+      "itemType": "Pokemon Card",
+      "number": "106",
+      "name": "Rayquaza",
+      "stage": "Basic",
+      "hp": "120",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Yoshinobu Saito",
+      "text": "It lives in the ozone layer far above the clouds and cannot be seen from the ground.",
+      "attacks": [
+        {
+          "name": "Turbo Storm",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Attach 2 basic Energy cards from your discard pile to 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Dragon Claw",
+          "damage": "80",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-107",
+      "itemType": "Pokemon Card",
+      "number": "107",
+      "name": "Patrat",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Ayaka Yoshida",
+      "text": "Using food stored in cheek pouches, they can keep watch for days. They use their tails to communicate with others.",
+      "attacks": [
+        {
+          "name": "Glance",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Look at the top card of your opponent's deck."
+        },
+        {
+          "name": "Tackle",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-108",
+      "itemType": "Pokemon Card",
+      "number": "108",
+      "name": "Watchog",
+      "stage": "Stage 1",
+      "evolvesFrom": "Patrat",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "text": "Using luminescent matter, it makes its eyes and body glow and stuns attacking opponents.",
+      "attacks": [
+        {
+          "name": "Scrutinize",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Look at the top 2 cards of your opponent's deck, discard 1 of them, and put the other card back."
+        },
+        {
+          "name": "Slam",
+          "damage": "60×",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 60 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-109",
+      "itemType": "Pokemon Card",
+      "number": "109",
+      "name": "Fletchling",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "You Iribi",
+      "text": "This amiable Pokémon is easy to train. But when battle is joined, it shows its ferocious side.",
+      "attacks": [
+        {
+          "name": "Growl",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, the Defending Pokémon's attacks do 20 less damage (before applying Weakness and Resistance)."
+        },
+        {
+          "name": "Flap",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-110",
+      "itemType": "Pokemon Card",
+      "number": "110",
+      "name": "Fletchinder",
+      "stage": "Stage 1",
+      "evolvesFrom": "Fletchling",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "kawayoo",
+      "text": "From its beak, it fires embers at its prey. Once it has caught them, it grills them at high heat before feasting upon them.",
+      "attacks": [
+        {
+          "name": "Flap",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Razor Wind",
+          "damage": "40",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-111",
+      "itemType": "Pokemon Card",
+      "number": "111",
+      "name": "Talonflame",
+      "stage": "Stage 2",
+      "evolvesFrom": "Fletchinder",
+      "hp": "130",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Shin Nagasawa",
+      "text": "Its favorite foods are Wingull and Pikipek. It attacks with a powerful kick and grasps them firmly in its talons.",
+      "attacks": [
+        {
+          "name": "Flame Charge",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a Fire Energy card and attach it to this Pokémon. Then, shuffle your deck."
+        },
+        {
+          "name": "Loop-the-Loop",
+          "damage": "90",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Put all Energy attached to this Pokémon into your hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-112",
+      "itemType": "Pokemon Card",
+      "number": "112",
+      "name": "Stufful",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "Despite its adorable appearance, when it gets angry and flails about, its arms and legs could knock a pro wrestler sprawling.",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Hammer In",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-113",
+      "itemType": "Pokemon Card",
+      "number": "113",
+      "name": "Bewear",
+      "stage": "Stage 1",
+      "evolvesFrom": "Stufful",
+      "hp": "130",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shin Nagasawa",
+      "abilities": [
+        {
+          "name": "Rake It In",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may draw 3 cards.",
+          "type": "Ability"
+        }
+      ],
+      "text": "This immensely dangerous Pokémon possesses overwhelming physical strength. Its habitat is generally off-limits.",
+      "attacks": [
+        {
+          "name": "Dangerous Blow",
+          "damage": "60+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon is a Basic Pokémon, this attack does 60 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-114",
+      "itemType": "Pokemon Card",
+      "number": "114",
+      "name": "Komala",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouki Saitou",
+      "abilities": [
+        {
+          "name": "Comatose",
+          "text": "As long as this Pokémon is your Active Pokémon, whenever you attach an Energy from your hand to it, it is now Asleep.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It is born asleep, and it dies asleep. All its movements are apparently no more than the results of it tossing and turning in its dreams.",
+      "attacks": [
+        {
+          "name": "Hypno Roll",
+          "damage": "100",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack can be used if this Pokémon is Asleep. If it is not Asleep, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-115",
+      "itemType": "Pokemon Card",
+      "number": "115",
+      "name": "Drampa-GX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Righteous Edge",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Discard a Special Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Berserk",
+          "damage": "80+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your Benched Pokémon have any damage counters on them, this attack does 70 more damage."
+        },
+        {
+          "name": "Big Wheel-GX",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Shuffle your hand into your deck. Then, draw 10 cards. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-116",
+      "itemType": "Trainer Card",
+      "number": "116",
+      "name": "Aether Paradise Conservation Area",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Basic Grass and Basic Lightning Pokémon (both yours and your opponent's) take 30 less damage from the opponent's attacks (after applying Weakness and Resistance).,This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-117",
+      "itemType": "Trainer Card",
+      "number": "117",
+      "name": "Altar of the Moone",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "The Retreat Cost of each Pokémon (both yours and your opponent's) that has any Psychic or Darkness Energy attached to it is ColorlessColorless less.,This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-118",
+      "itemType": "Trainer Card",
+      "number": "118",
+      "name": "Altar of the Sunne",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Fire Pokémon and Metal Pokémon (both yours and your opponent's) have no Weakness.,This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-119",
+      "itemType": "Trainer Card",
+      "number": "119",
+      "name": "Aqua Patch",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Attach a Water Energy card from your discard pile to 1 of your Benched Water Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-120",
+      "itemType": "Trainer Card",
+      "number": "120",
+      "name": "Brooklet Hill",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Once during each player's turn, that player may search their deck for a Basic Water Pokémon or Basic Fighting Pokémon and, put it onto their Bench, and shuffle their deck.,This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-121",
+      "itemType": "Trainer Card",
+      "number": "121",
+      "name": "Choice Band",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Eske Yoshinob",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,The attacks of the Pokémon this card is attached to do 30 more damage to your opponent's Active Pokémon-GX or Active Pokémon-EX (before applying Weakness and Resistance).,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-121a",
+      "itemType": "Trainer Card",
+      "number": "121a",
+      "name": "Choice Band",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Eske Yoshinob",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,The attacks of the Pokémon this card is attached to do 30 more damage to your opponent's Active Pokémon-GX or Active Pokémon-EX (before applying Weakness and Resistance).,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-122",
+      "itemType": "Trainer Card",
+      "number": "122",
+      "name": "Energy Loto",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yoshinobu Saito",
+      "text": "Look at the top 7 cards of your deck. You may reveal an Energy card you find there and put it into your hand. Shuffle the other cards back into your deck.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-123",
+      "itemType": "Trainer Card",
+      "number": "123",
+      "name": "Energy Recycler",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Shuffle 5 basic Energy cards from your discard pile into your deck.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-124",
+      "itemType": "Trainer Card",
+      "number": "124",
+      "name": "Enhanced Hammer",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yoshinobu Saito",
+      "text": "Discard a Special Energy from 1 of your opponent's Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-124a",
+      "itemType": "Trainer Card",
+      "number": "124a",
+      "name": "Enhanced Hammer",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yoshinobu Saito",
+      "text": "Discard a Special Energy from 1 of your opponent's Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-125",
+      "itemType": "Trainer Card",
+      "number": "125",
+      "name": "Field Blower",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Choose up to 2 in any combination of Pokémon Tool cards and Stadium cards in play (yours or your opponent's) and discard them.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-125a",
+      "itemType": "Trainer Card",
+      "number": "125a",
+      "name": "Field Blower",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Choose up to 2 in any combination of Pokémon Tool cards and Stadium cards in play (yours or your opponent's) and discard them.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-126",
+      "itemType": "Trainer Card",
+      "number": "126",
+      "name": "Hala",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "Shuffle your hand into your deck. If you have used your GX attack, draw 7 cards. If not, draw 4 cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-127",
+      "itemType": "Trainer Card",
+      "number": "127",
+      "name": "Mallow",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "Search your deck for 2 cards, shuffle your deck, and put those cards on top of your deck in any order.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-128",
+      "itemType": "Trainer Card",
+      "number": "128",
+      "name": "Max Potion",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Heal all damage from 1 of your Pokémon. If you do, discard all Energy from that Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-128a",
+      "itemType": "Trainer Card",
+      "number": "128a",
+      "name": "Max Potion",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Heal all damage from 1 of your Pokémon. If you do, discard all Energy from that Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-129",
+      "itemType": "Trainer Card",
+      "number": "129",
+      "name": "Multi Switch",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Move an Energy from 1 of your Benched Pokémon to your Active Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-130",
+      "itemType": "Trainer Card",
+      "number": "130",
+      "name": "Rescue Stretcher",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yoshinobu Saito",
+      "text": "Choose 1: • Put a Pokémon from your discard pile into your hand. • Shuffle 3 Pokémon from your discard pile into your deck.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-130a",
+      "itemType": "Trainer Card",
+      "number": "130a",
+      "name": "Rescue Stretcher",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yoshinobu Saito",
+      "text": "Choose 1: • Put a Pokémon from your discard pile into your hand. • Shuffle 3 Pokémon from your discard pile into your deck.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-131",
+      "itemType": "Pokemon Card",
+      "number": "131",
+      "name": "Turtonator-GX",
+      "stage": "Basic",
+      "hp": "190",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Shell Trap",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, if this Pokémon is damaged by an attack (even if this Pokémon is Knocked Out), put 8 damage counters on the Attacking Pokémon."
+        },
+        {
+          "name": "Bright Flame",
+          "damage": "160",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Discard 2 Fire Energy from this Pokémon."
+        },
+        {
+          "name": "Nitro Tank-GX",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Attach 5 Fire Energy cards from your discard pile to your Pokémon in any way you like. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-132",
+      "itemType": "Pokemon Card",
+      "number": "132",
+      "name": "Alolan Ninetales-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Alolan Vulpix",
+      "hp": "210",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Ice Blade",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 50 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Blizzard Edge",
+          "damage": "160",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Discard 2 Energy from this Pokémon."
+        },
+        {
+          "name": "Ice Path-GX",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Move all damage counters from this Pokémon to your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-133",
+      "itemType": "Pokemon Card",
+      "number": "133",
+      "name": "Wishiwashi-GX",
+      "stage": "Basic",
+      "hp": "210",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "damage": "20",
+          "cost": [
+            "Water"
+          ]
+        },
+        {
+          "name": "Torrential Vortex",
+          "damage": "120",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard a Special Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Blue Surge-GX",
+          "damage": "220",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Move all Energy from this Pokémon to your Benched Pokémon in any way you like. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-134",
+      "itemType": "Pokemon Card",
+      "number": "134",
+      "name": "Vikavolt-GX",
+      "stage": "Stage 2",
+      "evolvesFrom": "Charjabug",
+      "hp": "240",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Charge Beam",
+          "damage": "50",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Attach an Energy card from your discard pile to this Pokémon."
+        },
+        {
+          "name": "Super Zap Cannon",
+          "damage": "180",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard 2 Energy from this Pokémon."
+        },
+        {
+          "name": "Gigatron-GX",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 60 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-135",
+      "itemType": "Pokemon Card",
+      "number": "135",
+      "name": "Tapu Koko-GX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Aero Trail",
+          "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may move any number of Lightning Energy from your other Pokémon to this Pokémon. If you do, switch this Pokémon with your Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Sky-High Claws",
+          "damage": "130",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Tapu Thunder-GX",
+          "damage": "50×",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "This attack does 50 damage times the amount of Energy attached to all of your opponent's Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-136",
+      "itemType": "Pokemon Card",
+      "number": "136",
+      "name": "Toxapex-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Mareanie",
+      "hp": "210",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Spike Cannon",
+          "damage": "30×",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip 4 coins. This attack does 30 damage for each heads."
+        },
+        {
+          "name": "Super Intense Poison",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Your opponent's Active Pokémon is now Poisoned. Put 10 damage counters instead of 1 on that Pokémon between turns."
+        },
+        {
+          "name": "Total Shelter-GX",
+          "damage": "150",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-137",
+      "itemType": "Pokemon Card",
+      "number": "137",
+      "name": "Tapu Lele-GX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Wonder Tag",
+          "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Energy Drive",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage times the amount of Energy attached to both Active Pokémon. This damage isn't affected by Weakness or Resistance."
+        },
+        {
+          "name": "Tapu Cure-GX",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Heal all damage from 2 of your Benched Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-138",
+      "itemType": "Pokemon Card",
+      "number": "138",
+      "name": "Lycanroc-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Rockruff",
+      "hp": "200",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Bloodthirsty Eyes",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may switch 1 of your opponent's Benched Pokémon with their Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Claw Slash",
+          "damage": "110",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Dangerous Rogue-GX",
+          "damage": "50×",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "This attack does 50 damage for each of your opponent's Benched Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-139",
+      "itemType": "Pokemon Card",
+      "number": "139",
+      "name": "Metagross-GX",
+      "stage": "Stage 2",
+      "evolvesFrom": "Metang",
+      "hp": "250",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Geotech System",
+          "text": "Once during your turn (before your attack), you may attach a Psychic or Metal Energy card from your discard pile to your Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Giga Hammer",
+          "damage": "150",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "text": "This Pokémon can't use Giga Hammer during your next turn."
+        },
+        {
+          "name": "Algorithm-GX",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 5 cards and put them into your hand. Then, shuffle your deck. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-140",
+      "itemType": "Pokemon Card",
+      "number": "140",
+      "name": "Sylveon-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "200",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Magical Ribbon",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "Search your deck for up to 3 cards and put them into your hand. Then, shuffle your deck."
+        },
+        {
+          "name": "Fairy Wind",
+          "damage": "110",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Plea-GX",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Put 2 of your opponent's Benched Pokémon and all cards attached to them into your opponent's hand. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-141",
+      "itemType": "Pokemon Card",
+      "number": "141",
+      "name": "Kommo-o-GX",
+      "stage": "Stage 2",
+      "evolvesFrom": "Hakamo-o",
+      "hp": "240",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Adamantine Press",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Shred",
+          "damage": "130",
+          "cost": [
+            "Lightning",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+        },
+        {
+          "name": "Ultra Uppercut-GX",
+          "damage": "240",
+          "cost": [
+            "Lightning",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "(You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-142",
+      "itemType": "Pokemon Card",
+      "number": "142",
+      "name": "Drampa-GX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Righteous Edge",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Discard a Special Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Berserk",
+          "damage": "80+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your Benched Pokémon have any damage counters on them, this attack does 70 more damage."
+        },
+        {
+          "name": "Big Wheel-GX",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Shuffle your hand into your deck. Then, draw 10 cards. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-143",
+      "itemType": "Trainer Card",
+      "number": "143",
+      "name": "Hala",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Naoki Saito",
+      "text": "Shuffle your hand into your deck. If you have used your GX attack, draw 7 cards. If not, draw 4 cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-144",
+      "itemType": "Trainer Card",
+      "number": "144",
+      "name": "Hau",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Sanosuke Sakuma",
+      "text": "Draw 3 cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-145",
+      "itemType": "Trainer Card",
+      "number": "145",
+      "name": "Mallow",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Megumi Mizutani",
+      "text": "Search your deck for 2 cards, shuffle your deck, then put those cards on top of it in any order.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-146",
+      "itemType": "Pokemon Card",
+      "number": "146",
+      "name": "Decidueye-GX",
+      "stage": "Stage 2",
+      "evolvesFrom": "Dartrix",
+      "hp": "240",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Feather Arrow",
+          "text": "Once during your turn (before your attack), you may put 2 damage counters on 1 of your opponent's Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Razor Leaf",
+          "damage": "90",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Hollow Hunt-GX",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Put 3 cards from your discard pile into your hand. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-147",
+      "itemType": "Pokemon Card",
+      "number": "147",
+      "name": "Incineroar-GX",
+      "stage": "Stage 2",
+      "evolvesFrom": "Torracat",
+      "hp": "250",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Hustling Strike",
+          "damage": "10+",
+          "cost": [
+            "Fire"
+          ],
+          "text": "This attack does 20 more damage for each of your Benched Fire Pokémon."
+        },
+        {
+          "name": "Tiger Swing",
+          "damage": "80+",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 50 more damage for each heads."
+        },
+        {
+          "name": "Burning Slam-GX",
+          "damage": "200",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Burned. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-148",
+      "itemType": "Pokemon Card",
+      "number": "148",
+      "name": "Turtonator-GX",
+      "stage": "Basic",
+      "hp": "190",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Shell Trap",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, if this Pokémon is damaged by an attack (even if this Pokémon is Knocked Out), put 8 damage counters on the Attacking Pokémon."
+        },
+        {
+          "name": "Bright Flame",
+          "damage": "160",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Discard 2 Fire Energy from this Pokémon."
+        },
+        {
+          "name": "Nitro Tank-GX",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Attach 5 Fire Energy cards from your discard pile to your Pokémon in any way you like. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-149",
+      "itemType": "Pokemon Card",
+      "number": "149",
+      "name": "Primarina-GX",
+      "stage": "Stage 2",
+      "evolvesFrom": "Brionne",
+      "hp": "250",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Bubble Beat",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 20 more damage times the amount of Water Energy attached to your Pokémon."
+        },
+        {
+          "name": "Roaring Seas",
+          "damage": "120",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Discard an Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Grand Echo-GX",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Heal all damage from all of your Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-150",
+      "itemType": "Pokemon Card",
+      "number": "150",
+      "name": "Alolan Ninetales-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Alolan Vulpix",
+      "hp": "210",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Ice Blade",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 50 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Blizzard Edge",
+          "damage": "160",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Discard 2 Energy from this Pokémon."
+        },
+        {
+          "name": "Ice Path-GX",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Move all damage counters from this Pokémon to your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-151",
+      "itemType": "Pokemon Card",
+      "number": "151",
+      "name": "Wishiwashi-GX",
+      "stage": "Basic",
+      "hp": "210",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "damage": "20",
+          "cost": [
+            "Water"
+          ]
+        },
+        {
+          "name": "Torrential Vortex",
+          "damage": "120",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard a Special Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Blue Surge-GX",
+          "damage": "220",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Move all Energy from this Pokémon to your Benched Pokémon in any way you like. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-152",
+      "itemType": "Pokemon Card",
+      "number": "152",
+      "name": "Vikavolt-GX",
+      "stage": "Stage 2",
+      "evolvesFrom": "Charjabug",
+      "hp": "240",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Charge Beam",
+          "damage": "50",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Attach an Energy card from your discard pile to this Pokémon."
+        },
+        {
+          "name": "Super Zap Cannon",
+          "damage": "180",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard 2 Energy from this Pokémon."
+        },
+        {
+          "name": "Gigatron-GX",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 60 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-153",
+      "itemType": "Pokemon Card",
+      "number": "153",
+      "name": "Tapu Koko-GX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Aero Trail",
+          "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may move any number of Lightning Energy from your other Pokémon to this Pokémon. If you do, switch this Pokémon with your Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Sky-High Claws",
+          "damage": "130",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Tapu Thunder-GX",
+          "damage": "50×",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "This attack does 50 damage times the amount of Energy attached to all of your opponent's Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-154",
+      "itemType": "Pokemon Card",
+      "number": "154",
+      "name": "Toxapex-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Mareanie",
+      "hp": "210",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Spike Cannon",
+          "damage": "30×",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip 4 coins. This attack does 30 damage for each heads."
+        },
+        {
+          "name": "Super Intense Poison",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Your opponent's Active Pokémon is now Poisoned. Put 10 damage counters instead of 1 on that Pokémon between turns."
+        },
+        {
+          "name": "Total Shelter-GX",
+          "damage": "150",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-155",
+      "itemType": "Pokemon Card",
+      "number": "155",
+      "name": "Tapu Lele-GX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Wonder Tag",
+          "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Energy Drive",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage times the amount of Energy attached to both Active Pokémon. This damage isn't affected by Weakness or Resistance."
+        },
+        {
+          "name": "Tapu Cure-GX",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Heal all damage from 2 of your Benched Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-156",
+      "itemType": "Pokemon Card",
+      "number": "156",
+      "name": "Lycanroc-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Rockruff",
+      "hp": "200",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Bloodthirsty Eyes",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may switch 1 of your opponent's Benched Pokémon with their Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Claw Slash",
+          "damage": "110",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Dangerous Rogue-GX",
+          "damage": "50×",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "This attack does 50 damage for each of your opponent's Benched Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-157",
+      "itemType": "Pokemon Card",
+      "number": "157",
+      "name": "Metagross-GX",
+      "stage": "Stage 2",
+      "evolvesFrom": "Metang",
+      "hp": "250",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Geotech System",
+          "text": "Once during your turn (before your attack), you may attach a Psychic or Metal Energy card from your discard pile to your Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Giga Hammer",
+          "damage": "150",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "text": "This Pokémon can't use Giga Hammer during your next turn."
+        },
+        {
+          "name": "Algorithm-GX",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 5 cards and put them into your hand. Then, shuffle your deck. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-157a",
+      "itemType": "Pokemon Card",
+      "number": "157a",
+      "name": "Metagross-GX",
+      "stage": "Stage 2",
+      "evolvesFrom": "Metang",
+      "hp": "250",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Geotech System",
+          "text": "Once during your turn (before your attack), you may attach a Psychic or Metal Energy card from your discard pile to your Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Giga Hammer",
+          "damage": "150",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "text": "This Pokémon can't use Giga Hammer during your next turn."
+        },
+        {
+          "name": "Algorithm-GX",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 5 cards and put them into your hand. Then, shuffle your deck. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-158",
+      "itemType": "Pokemon Card",
+      "number": "158",
+      "name": "Sylveon-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "200",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Magical Ribbon",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "Search your deck for up to 3 cards and put them into your hand. Then, shuffle your deck."
+        },
+        {
+          "name": "Fairy Wind",
+          "damage": "110",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Plea-GX",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Put 2 of your opponent's Benched Pokémon and all cards attached to them into your opponent's hand. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-159",
+      "itemType": "Pokemon Card",
+      "number": "159",
+      "name": "Kommo-o-GX",
+      "stage": "Stage 2",
+      "evolvesFrom": "Hakamo-o",
+      "hp": "240",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Adamantine Press",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Shred",
+          "damage": "130",
+          "cost": [
+            "Lightning",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+        },
+        {
+          "name": "Ultra Uppercut-GX",
+          "damage": "240",
+          "cost": [
+            "Lightning",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "(You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-160",
+      "itemType": "Pokemon Card",
+      "number": "160",
+      "name": "Drampa-GX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Righteous Edge",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Discard a Special Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Berserk",
+          "damage": "80+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your Benched Pokémon have any damage counters on them, this attack does 70 more damage."
+        },
+        {
+          "name": "Big Wheel-GX",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Shuffle your hand into your deck. Then, draw 10 cards. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-161",
+      "itemType": "Trainer Card",
+      "number": "161",
+      "name": "Aqua Patch",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Toyste Beach",
+      "text": "Attach a Water Energy card from your discard pile to 1 of your Benched Water Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-162",
+      "itemType": "Trainer Card",
+      "number": "162",
+      "name": "Enhanced Hammer",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Yoshinobu Saito",
+      "text": "Discard a Special Energy from 1 of your opponent's Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-163",
+      "itemType": "Trainer Card",
+      "number": "163",
+      "name": "Field Blower",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Toyste Beach",
+      "text": "Choose up to 2 in any combination of Pokémon Tool cards and Stadium cards in play (yours or your opponent's) and discard them.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-164",
+      "itemType": "Trainer Card",
+      "number": "164",
+      "name": "Max Potion",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Toyste Beach",
+      "text": "Heal all damage from 1 of your Pokémon. If you do, discard all Energy from that Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-165",
+      "itemType": "Trainer Card",
+      "number": "165",
+      "name": "Rare Candy",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Toyste Beach",
+      "text": "Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card onto the Basic Pokémon to evolve it. You can't use this card during your first turn or on a Basic Pokémon that was put into play this turn.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-166",
+      "itemType": "Energy Card",
+      "number": "166",
+      "name": "Double Colorless Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Rare Secret",
+      "text": "Double Colorless Energy provides ColorlessColorless Energy."
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-167",
+      "itemType": "Energy Card",
+      "number": "167",
+      "name": "Grass Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Rare Secret"
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-168",
+      "itemType": "Energy Card",
+      "number": "168",
+      "name": "Lightning Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Rare Secret"
+    },
+    {
+      "id": "tcg-pokemon-guardians-rising-169",
+      "itemType": "Energy Card",
+      "number": "169",
+      "name": "Fighting Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Rare Secret"
+    }
+  ]
+}
