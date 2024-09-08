@@ -1,0 +1,6929 @@
+{
+  "setId": "tcg-pokemon-burning-shadows",
+  "cardCount": "177",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-burning-shadows-booster-box",
+      "itemType": "Sealed Product",
+      "name": "Burning Shadows Booster Box"
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-booster-pack",
+      "itemType": "Sealed Product",
+      "name": "Burning Shadows Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-burning-shadows-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Caterpie",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Sekio",
+      "text": "When attacked by bird Pokémon, it resists by releasing a terrifically strong odor from its antennae, but it often becomes their prey.",
+      "attacks": [
+        {
+          "name": "Surprise Attack",
+          "damage": "20",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Metapod",
+      "stage": "Stage 1",
+      "evolvesFrom": "Caterpie",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Suwama Chiaki",
+      "text": "Its shell is filled with its soft innards. It doesn't move much because of the risk it might carelessly spill its innards out.",
+      "attacks": [
+        {
+          "name": "Ram",
+          "damage": "20",
+          "cost": [
+            "Grass"
+          ]
+        },
+        {
+          "name": "Shed Skin",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Heal 40 damage from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-3",
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Butterfree",
+      "stage": "Stage 2",
+      "evolvesFrom": "Metapod",
+      "hp": "120",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Shin Nagasawa",
+      "text": "Close examination of its large eyes reveals that each eye is composed of a myriad of tiny eyes.",
+      "attacks": [
+        {
+          "name": "Bye-Bye Heal",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Heal all damage from all of your Pokémon. Shuffle this Pokémon and all cards attached to it into your deck."
+        },
+        {
+          "name": "Stun Spore",
+          "damage": "60",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-4",
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Oddish",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Sumiyoshi Kizuki",
+      "text": "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.",
+      "attacks": [
+        {
+          "name": "Poison Powder",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Gloom",
+      "stage": "Stage 1",
+      "evolvesFrom": "Oddish",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shibuzoh.",
+      "text": "Smells incredibly foul! However, around one out of a thousand people enjoy sniffing its nose-bending stink.",
+      "attacks": [
+        {
+          "name": "Stinky Scent",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Your opponent's Active Pokémon is now Confused."
+        },
+        {
+          "name": "Razor Leaf",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-6",
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Vileplume",
+      "stage": "Stage 2",
+      "evolvesFrom": "Gloom",
+      "hp": "140",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "chibi",
+      "abilities": [
+        {
+          "name": "Disgusting Pollen",
+          "text": "As long as this Pokémon is your Active Pokémon, your opponent's Basic Pokémon can't attack.",
+          "type": "Ability"
+        }
+      ],
+      "text": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
+      "attacks": [
+        {
+          "name": "Downer Shock",
+          "damage": "60",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Asleep. If tails, your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-7",
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Tangela",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Shibuzoh.",
+      "text": "Many writhing vines cover it, so its true identity remains unknown. The blue vines grow its whole life long.",
+      "attacks": [
+        {
+          "name": "Bind Down",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-8",
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "Tangrowth",
+      "stage": "Stage 1",
+      "evolvesFrom": "Tangela",
+      "hp": "140",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "tetsuya koizumi",
+      "text": "It ensnares prey by extending arms made of vines. Losing arms to predators does not trouble it.",
+      "attacks": [
+        {
+          "name": "Giga Drain",
+          "damage": "30",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Crosswise Whip",
+          "damage": "50×",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 4 coins. This attack does 50 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-9",
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Ledyba",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Ayaka Yoshida",
+      "text": "They are timid and grow uneasy when not in a swarm with others of their kind. The pattern on their backs differs slightly from one to another.",
+      "attacks": [
+        {
+          "name": "Agility",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Ledian",
+      "stage": "Stage 1",
+      "evolvesFrom": "Ledyba",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Atsuko Nishida",
+      "text": "While it's believed that starlight provides it with energy, this Pokémon also loves to eat berries. In the daytime, it curls up in the grass to sleep.",
+      "attacks": [
+        {
+          "name": "Swift",
+          "damage": "30",
+          "cost": [
+            "Grass"
+          ],
+          "text": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on your opponent's Active Pokémon."
+        },
+        {
+          "name": "Comet Punch",
+          "damage": "40×",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 4 coins. This attack does 40 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Heracross",
+      "stage": "Basic",
+      "hp": "110",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Shin Nagasawa",
+      "abilities": [
+        {
+          "name": "Guts",
+          "text": "If this Pokémon would be Knocked Out by damage from an attack, flip a coin. If heads, this Pokémon is not Knocked Out, and its remaining HP becomes 10.",
+          "type": "Ability"
+        }
+      ],
+      "text": "This powerful Pokémon thrusts its prized horn under its enemies' bellies, then lifts and throws them.",
+      "attacks": [
+        {
+          "name": "Pitch",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": "Your opponent switches their Active Pokémon with 1 of their Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Pansage",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Shigenori Negishi",
+      "text": "It shares the leaf on its head with weary-looking Pokémon. These leaves are known to relieve stress.",
+      "attacks": [
+        {
+          "name": "Vine Whip",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Simisage",
+      "stage": "Stage 1",
+      "evolvesFrom": "Pansage",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "tetsuya koizumi",
+      "text": "It attacks enemies with strikes of its thorn-covered tail. This Pokémon is wild tempered.",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Leaf Supply",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "You may attach a Grass Energy card from your hand to 1 of your Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Dewpider",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "It crawls onto the land in search of food. Its water bubble allows it to breathe and protects its soft head.",
+      "attacks": [
+        {
+          "name": "Ambush",
+          "damage": "10+",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Araquanid",
+      "stage": "Stage 1",
+      "evolvesFrom": "Dewpider",
+      "hp": "100",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Naoki Saito",
+      "text": "It delivers headbutts with the water bubble on its head. Small Pokémon get sucked into the bubble, where they drown.",
+      "attacks": [
+        {
+          "name": "Bubble Net",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Energy can't be attached to the Defending Pokémon from your opponent's hand during their next turn."
+        },
+        {
+          "name": "Sharp Fang",
+          "damage": "80",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-16",
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Wimpod",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Wimp Out",
+          "text": "During your first turn, this Pokémon has no Retreat Cost.",
+          "type": "Ability"
+        }
+      ],
+      "text": "This Pokémon is a coward. As it desperately dashes off, the flailing of its many legs leaves a sparkling clean path in its wake.",
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Golisopod-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Wimpod",
+      "hp": "210",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "First Impression",
+          "damage": "30+",
+          "cost": [
+            "Grass"
+          ],
+          "text": "If this Pokémon was on the Bench and became your Active Pokémon this turn, this attack does 90 more damage."
+        },
+        {
+          "name": "Armor Press",
+          "damage": "100",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, this Pokémon takes 20 less damage from attacks (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Crossing Cut-GX",
+          "damage": "150",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-18",
+      "itemType": "Pokemon Card",
+      "number": "18",
+      "name": "Charmander",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "The flame on its tail indicates Charmander's life force. If it is healthy, the flame burns brightly.",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Flame Tail",
+          "damage": "20",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-18a",
+      "itemType": "Pokemon Card",
+      "number": "18a",
+      "name": "Charmander",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Masakazu Fukuda",
+      "text": "The flame on its tail indicates Charmander's life force. If it is healthy, the flame burns brightly.",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Flame Tail",
+          "damage": "20",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-19",
+      "itemType": "Pokemon Card",
+      "number": "19",
+      "name": "Charmeleon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Charmander",
+      "hp": "90",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "kawayoo",
+      "text": "It lashes about with its tail to knock down its foe. It then tears up the fallen opponent with sharp claws.",
+      "attacks": [
+        {
+          "name": "Claw Slash",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Heat Blast",
+          "damage": "70",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-20",
+      "itemType": "Pokemon Card",
+      "number": "20",
+      "name": "Charizard-GX",
+      "stage": "Stage 2",
+      "evolvesFrom": "Charmeleon",
+      "hp": "250",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "damage": "70",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Crimson Storm",
+          "damage": "300",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard 3 Fire Energy from this Pokémon."
+        },
+        {
+          "name": "Raging Out-GX",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard the top 10 cards of your opponent's deck. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-21",
+      "itemType": "Pokemon Card",
+      "number": "21",
+      "name": "Ho-Oh-GX",
+      "stage": "Basic",
+      "hp": "190",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "PLANETA",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Sacred Fire",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 50 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Phoenix Burn",
+          "damage": "180",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "This Pokémon can't use Phoenix Burn during your next turn."
+        },
+        {
+          "name": "Eternal Flame-GX",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Put 3 in any combination of Fire Pokémon-GX or Fire Pokémon-EX from your discard pile onto your Bench. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-22",
+      "itemType": "Pokemon Card",
+      "number": "22",
+      "name": "Pansear",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Miki Tanaka",
+      "text": "Very intelligent, it roasts berries before eating them. It likes to help people.",
+      "attacks": [
+        {
+          "name": "Flare",
+          "damage": "10",
+          "cost": [
+            "Fire"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-23",
+      "itemType": "Pokemon Card",
+      "number": "23",
+      "name": "Simisear",
+      "stage": "Stage 1",
+      "evolvesFrom": "Pansear",
+      "hp": "90",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "kirisAki",
+      "text": "A flame burns inside its body. It scatters embers from its head and tail to sear its opponents.",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Flare Recharge",
+          "damage": "50",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Attach a Fire Energy card from your discard pile to 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-24",
+      "itemType": "Pokemon Card",
+      "number": "24",
+      "name": "Heatmor",
+      "stage": "Basic",
+      "hp": "110",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Anesaki Dynamic",
+      "text": "Using their very hot, flame-covered tongues, they burn through Durant's steel bodies and consume their insides.",
+      "attacks": [
+        {
+          "name": "Odor Sleuth",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. For each heads, put a card from your discard pile into your hand."
+        },
+        {
+          "name": "Searing Flame",
+          "damage": "60",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Burned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-25",
+      "itemType": "Pokemon Card",
+      "number": "25",
+      "name": "Salazzle-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Salandit",
+      "hp": "200",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Diabolical Claws",
+          "damage": "50×",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "text": "This attack does 50 damage for each Prize card you have taken."
+        },
+        {
+          "name": "Heat Blast",
+          "damage": "110",
+          "cost": [
+            "Fire",
+            "Fire"
+          ]
+        },
+        {
+          "name": "Queen's Haze-GX",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "text": "Discard all Energy from your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-26",
+      "itemType": "Pokemon Card",
+      "number": "26",
+      "name": "Turtonator",
+      "stage": "Basic",
+      "hp": "130",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "text": "The shell on its back is chemically unstable and explodes violently if struck. The hole in its stomach is its weak point.",
+      "attacks": [
+        {
+          "name": "Flame Cloak",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Attach a Fire Energy card from your discard pile to this Pokémon."
+        },
+        {
+          "name": "Heat Blast",
+          "damage": "70",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-27",
+      "itemType": "Pokemon Card",
+      "number": "27",
+      "name": "Alolan Vulpix",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Saya Tsuruta",
+      "text": "It exhales air colder than -58 degrees Fahrenheit. Elderly people in Alola call this Pokémon by an older name—Keokeo.",
+      "attacks": [
+        {
+          "name": "Powder Snow",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Asleep."
+        },
+        {
+          "name": "Icy Snow",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Water"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-28",
+      "itemType": "Pokemon Card",
+      "number": "28",
+      "name": "Alolan Ninetales",
+      "stage": "Stage 1",
+      "evolvesFrom": "Alolan Vulpix",
+      "hp": "110",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Luminous Barrier",
+          "text": "Prevent all effects of attacks, including damage, done to this Pokémon by your opponent's Pokémon-GX or Pokémon-EX.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It creates drops of ice in its coat and showers them over its enemies. Anyone who angers it will be frozen stiff in an instant.",
+      "attacks": [
+        {
+          "name": "Aurora Beam",
+          "damage": "80",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-29",
+      "itemType": "Pokemon Card",
+      "number": "29",
+      "name": "Horsea",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Saya Tsuruta",
+      "text": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
+      "attacks": [
+        {
+          "name": "Water Arrow",
+          "cost": [
+            "Water"
+          ],
+          "text": "This attack does 10 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-30",
+      "itemType": "Pokemon Card",
+      "number": "30",
+      "name": "Seadra",
+      "stage": "Stage 1",
+      "evolvesFrom": "Horsea",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Suwama Chiaki",
+      "text": "Its body bristles with sharp spikes. Carelessly trying to touch it could cause fainting from the spikes.",
+      "attacks": [
+        {
+          "name": "Water Arrow",
+          "cost": [
+            "Water"
+          ],
+          "text": "This attack does 30 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-31",
+      "itemType": "Pokemon Card",
+      "number": "31",
+      "name": "Kingdra",
+      "stage": "Stage 2",
+      "evolvesFrom": "Seadra",
+      "hp": "140",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "text": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
+      "attacks": [
+        {
+          "name": "Brine",
+          "cost": [
+            "Water"
+          ],
+          "text": "This attack does 90 damage to 1 of your opponent's Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Tornado Shot",
+          "damage": "90",
+          "cost": [
+            "Water"
+          ],
+          "text": "Discard a Water Energy from this Pokémon. This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-32",
+      "itemType": "Pokemon Card",
+      "number": "32",
+      "name": "Magikarp",
+      "stage": "Basic",
+      "hp": "30",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Yukiko Baba",
+      "text": "Although weak and helpless, this Pokémon is incredibly fertile. They exist in such multitudes, you'll soon grow tired of seeing them.",
+      "attacks": [
+        {
+          "name": "Splashing Dodge",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-33",
+      "itemType": "Pokemon Card",
+      "number": "33",
+      "name": "Gyarados",
+      "stage": "Stage 1",
+      "evolvesFrom": "Magikarp",
+      "hp": "150",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "so-taro",
+      "text": "A tale is told of a town that angered Gyarados. Before the sun rose the next day, flames utterly consumed the town, leaving not a trace behind.",
+      "attacks": [
+        {
+          "name": "Venting Anger",
+          "damage": "50×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 50 damage for each Magikarp in your discard pile."
+        },
+        {
+          "name": "Splash Burn",
+          "damage": "160",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 30 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-34",
+      "itemType": "Pokemon Card",
+      "number": "34",
+      "name": "Marill",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Asako Ito",
+      "text": "The fur on its body naturally repels water. It can stay dry, even when it plays in the water.",
+      "attacks": [
+        {
+          "name": "Bubble",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Rollout",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-35",
+      "itemType": "Pokemon Card",
+      "number": "35",
+      "name": "Azumarill",
+      "stage": "Stage 1",
+      "evolvesFrom": "Marill",
+      "hp": "120",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "miki kudo",
+      "abilities": [
+        {
+          "name": "Thick Fat",
+          "text": "This Pokémon takes 30 less damage from the attacks of your opponent's Fire or Water Pokémon (after applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "text": "Its long ears are superb sensors. It can distinguish the movements of living things on riverbeds.",
+      "attacks": [
+        {
+          "name": "Waterfall",
+          "damage": "80",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-36",
+      "itemType": "Pokemon Card",
+      "number": "36",
+      "name": "Panpour",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Suwama Chiaki",
+      "text": "The water stored inside the tuft on its head is full of nutrients. It waters plants with it using its tail.",
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-37",
+      "itemType": "Pokemon Card",
+      "number": "37",
+      "name": "Simipour",
+      "stage": "Stage 1",
+      "evolvesFrom": "Panpour",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Sanosuke Sakuma",
+      "text": "The high-pressure water expelled from its tail is so powerful, it can destroy a concrete wall.",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Aqua Reflect",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Move a Water Energy from this Pokémon to 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-38",
+      "itemType": "Pokemon Card",
+      "number": "38",
+      "name": "Bruxish",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Masakazu Fukuda",
+      "text": "When it unleashes its psychic power from the protuberance on its head, the grating sound of grinding teeth echoes through the area.",
+      "attacks": [
+        {
+          "name": "Gnash Teeth",
+          "cost": [
+            "Water"
+          ],
+          "text": "Your opponent's Active Pokémon is now Confused."
+        },
+        {
+          "name": "Synchronoise",
+          "damage": "60",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage to each of your opponent's Benched Pokémon that shares a type with your opponent's Active Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-39",
+      "itemType": "Pokemon Card",
+      "number": "39",
+      "name": "Tapu Fini-GX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Aqua Ring",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "You may switch this Pokémon with 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Hydro Shot",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Discard 2 Water Energy from this Pokémon. This attack does 120 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Tapu Storm-GX",
+          "cost": [
+            "Water"
+          ],
+          "text": "Shuffle your opponent's Active Pokémon and all cards attached to it into their deck. If your opponent has no Benched Pokémon, this attack does nothing. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-39a",
+      "itemType": "Pokemon Card",
+      "number": "39a",
+      "name": "Tapu Fini-GX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Aqua Ring",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "You may switch this Pokémon with 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Hydro Shot",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Discard 2 Water Energy from this Pokémon. This attack does 120 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Tapu Storm-GX",
+          "cost": [
+            "Water"
+          ],
+          "text": "Shuffle your opponent's Active Pokémon and all cards attached to it into their deck. If your opponent has no Benched Pokémon, this attack does nothing. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-40",
+      "itemType": "Pokemon Card",
+      "number": "40",
+      "name": "Pikachu",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Saya Tsuruta",
+      "text": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
+      "attacks": [
+        {
+          "name": "Tail Whap",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Thunder Shock",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-41",
+      "itemType": "Pokemon Card",
+      "number": "41",
+      "name": "Raichu",
+      "stage": "Stage 1",
+      "evolvesFrom": "Pikachu",
+      "hp": "110",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Evoshock",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may leave your opponent's Active Pokémon Paralyzed.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It unleashes electric shocks that can reach 100,000 volts. When agitated, it can knock out even an Indian elephant.",
+      "attacks": [
+        {
+          "name": "Volt Tackle",
+          "damage": "130",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "This Pokémon does 30 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-42",
+      "itemType": "Pokemon Card",
+      "number": "42",
+      "name": "Electabuzz",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "match",
+      "text": "Half of all sudden blackouts are caused by Electabuzz gathering at electric power plants and gobbling up electricity.",
+      "attacks": [
+        {
+          "name": "Punch",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Thunder Shock",
+          "damage": "40",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-43",
+      "itemType": "Pokemon Card",
+      "number": "43",
+      "name": "Electivire",
+      "stage": "Stage 1",
+      "evolvesFrom": "Electabuzz",
+      "hp": "140",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "kawayoo",
+      "text": "It pushes the tips of its tails against its foes and then lets loose a high-voltage current. Its foes are burned to a crisp in an instant.",
+      "attacks": [
+        {
+          "name": "Thunder Punch",
+          "damage": "60+",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 60 more damage. If tails, this Pokémon does 20 damage to itself."
+        },
+        {
+          "name": "Giga Impact",
+          "damage": "170",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This Pokémon can't attack during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-44",
+      "itemType": "Pokemon Card",
+      "number": "44",
+      "name": "Tynamo",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Asako Ito",
+      "text": "While one alone doesn't have much power, a chain of many Tynamo can be as powerful as lightning.",
+      "attacks": [
+        {
+          "name": "Aqua Shock",
+          "damage": "10+",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "If your opponent's Active Pokémon has any Water Energy attached to it, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-45",
+      "itemType": "Pokemon Card",
+      "number": "45",
+      "name": "Eelektrik",
+      "stage": "Stage 1",
+      "evolvesFrom": "Tynamo",
+      "hp": "90",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "OOYAMA",
+      "text": "It wraps itself around its prey and paralyzes it with electricity from the round spots on its sides. Then it chomps.",
+      "attacks": [
+        {
+          "name": "Small Appetite",
+          "damage": "50",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon's maximum HP is 100 or more, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-46",
+      "itemType": "Pokemon Card",
+      "number": "46",
+      "name": "Eelektross",
+      "stage": "Stage 2",
+      "evolvesFrom": "Eelektrik",
+      "hp": "140",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "hatachu",
+      "text": "With their sucker mouths, they suck in prey. Then they use their fangs to shock the prey with electricity.",
+      "attacks": [
+        {
+          "name": "Dark Clamp",
+          "damage": "50",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "name": "Vacuum Bolt",
+          "damage": "80+",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "You may do 80 more damage. If you do, this attack does 80 damage to 1 of your Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-47",
+      "itemType": "Pokemon Card",
+      "number": "47",
+      "name": "Togedemaru",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "The spiny fur on its back is normally at rest. When this Pokémon becomes agitated, its fur stands on end and stabs into its attackers.",
+      "attacks": [
+        {
+          "name": "Rollout",
+          "damage": "20",
+          "cost": [
+            "Lightning"
+          ]
+        },
+        {
+          "name": "Electrosmash",
+          "damage": "40+",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-48",
+      "itemType": "Pokemon Card",
+      "number": "48",
+      "name": "Slowking",
+      "stage": "Stage 1",
+      "evolvesFrom": "Slowpoke",
+      "hp": "120",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Eri Yamaki",
+      "text": "A poisonous bite reacted with its system, blessing it with the enhanced intellect of a genius. It has full control of its psychic powers.",
+      "attacks": [
+        {
+          "name": "Drift Ashore",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Search your deck for a card and put it into your hand. Then, shuffle your deck."
+        },
+        {
+          "name": "Unarmed",
+          "damage": "110",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "If you have no cards in your hand, ignore all Energy in this attack's cost."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-49",
+      "itemType": "Pokemon Card",
+      "number": "49",
+      "name": "Wobbuffet",
+      "stage": "Basic",
+      "hp": "120",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "nagimiso",
+      "text": "It hates light and shock. If attacked, it inflates its body to build up its counterstrike.",
+      "attacks": [
+        {
+          "name": "Shadowy Knot",
+          "damage": "50×",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "This attack does 50 damage for each Colorless in your opponent's Active Pokémon's Retreat Cost."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-50",
+      "itemType": "Pokemon Card",
+      "number": "50",
+      "name": "Seviper",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Eri Yamaki",
+      "abilities": [
+        {
+          "name": "More Poison",
+          "text": "Put 1 more damage counter on your opponent's Poisoned Pokémon between turns.",
+          "type": "Ability"
+        }
+      ],
+      "text": "In battle, it uses its bladed tail to counter any Zangoose. It secretes a deadly venom in its tail.",
+      "attacks": [
+        {
+          "name": "Venomous Fang",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-51",
+      "itemType": "Pokemon Card",
+      "number": "51",
+      "name": "Duskull",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "text": "It doggedly pursues its prey wherever it goes. However, the chase is abandoned at sunrise.",
+      "attacks": [
+        {
+          "name": "Dark Guidance",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Put a Basic Pokémon from your discard pile onto your Bench."
+        },
+        {
+          "name": "Spooky Shot",
+          "damage": "20",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-52",
+      "itemType": "Pokemon Card",
+      "number": "52",
+      "name": "Dusclops",
+      "stage": "Stage 1",
+      "evolvesFrom": "Duskull",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "SATOSHI NAKAI",
+      "text": "Anyone who dares peer into its body to see its spectral ball of fire will have their spirit stolen away.",
+      "attacks": [
+        {
+          "name": "Night Roam",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Put 1 damage counter on each Pokémon (both yours and your opponent's)."
+        },
+        {
+          "name": "Ambush",
+          "damage": "30+",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-53",
+      "itemType": "Pokemon Card",
+      "number": "53",
+      "name": "Dusknoir",
+      "stage": "Stage 2",
+      "evolvesFrom": "Dusclops",
+      "hp": "150",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "nagimiso",
+      "abilities": [
+        {
+          "name": "Dark Invitation",
+          "text": "Once during your turn (before your attack), you may have your opponent reveal their hand. Put a Basic Pokémon you find there onto your opponent's Bench, and put 3 damage counters on that Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It is said to take lost spirits into its pliant body and guide them home.",
+      "attacks": [
+        {
+          "name": "Mind Jack",
+          "damage": "30+",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 30 more damage for each of your opponent's Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-54",
+      "itemType": "Pokemon Card",
+      "number": "54",
+      "name": "Croagunk",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Naoki Saito",
+      "text": "Its cheeks hold poison sacs. It tries to catch foes off guard to jab them with toxic fingers.",
+      "attacks": [
+        {
+          "name": "Corkscrew Punch",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Frog Hop",
+          "damage": "20+",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-55",
+      "itemType": "Pokemon Card",
+      "number": "55",
+      "name": "Toxicroak",
+      "stage": "Stage 1",
+      "evolvesFrom": "Croagunk",
+      "hp": "110",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "kawayoo",
+      "text": "It has a poison sac at its throat. When it croaks, the stored poison is churned for greater potency.",
+      "attacks": [
+        {
+          "name": "Poison Jab",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        },
+        {
+          "name": "Poison Boost",
+          "damage": "80+",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "If this Pokémon is Poisoned, this attack does 80 more damage. Then, remove that Special Condition from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-56",
+      "itemType": "Pokemon Card",
+      "number": "56",
+      "name": "Venipede",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Yukiko Baba",
+      "text": "It discovers what is going on around it by using the feelers on its head and tail. It is brutally aggressive.",
+      "attacks": [
+        {
+          "name": "Bug Bite",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ]
+        },
+        {
+          "name": "Venoshock",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon is Poisoned, this attack does 40 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-57",
+      "itemType": "Pokemon Card",
+      "number": "57",
+      "name": "Whirlipede",
+      "stage": "Stage 1",
+      "evolvesFrom": "Venipede",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "SATOSHI NAKAI",
+      "text": "Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies.",
+      "attacks": [
+        {
+          "name": "Spin Turn",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Rollout",
+          "damage": "60",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-58",
+      "itemType": "Pokemon Card",
+      "number": "58",
+      "name": "Scolipede",
+      "stage": "Stage 2",
+      "evolvesFrom": "Whirlipede",
+      "hp": "160",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Ayaka Yoshida",
+      "text": "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison.",
+      "attacks": [
+        {
+          "name": "Poison Horn",
+          "damage": "80",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        },
+        {
+          "name": "Steamroller",
+          "damage": "140",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-59",
+      "itemType": "Pokemon Card",
+      "number": "59",
+      "name": "Espurr",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Miki Tanaka",
+      "text": "The organ that emits its intense psychic power is sheltered by its ears to keep power from leaking out.",
+      "attacks": [
+        {
+          "name": "Perplexing Eyes",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon's Weakness is now Psychic until the end of your next turn. (The amount of Weakness doesn't change.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-60",
+      "itemType": "Pokemon Card",
+      "number": "60",
+      "name": "Meowstic",
+      "stage": "Stage 1",
+      "evolvesFrom": "Espurr",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Anesaki Dynamic",
+      "text": "When in danger, it raises its ears and releases enough psychic power to grind a 10-ton truck to dust.",
+      "attacks": [
+        {
+          "name": "Allure",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Draw 3 cards."
+        },
+        {
+          "name": "Hand Kinesis",
+          "damage": "10×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 10 damage for each card in your hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-61",
+      "itemType": "Pokemon Card",
+      "number": "61",
+      "name": "Sandygast",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Masakazu Fukuda",
+      "text": "Born from a sand mound playfully built by a child, this Pokémon embodies the grudges of the departed.",
+      "attacks": [
+        {
+          "name": "Absorb Life",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Heal 10 damage from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-62",
+      "itemType": "Pokemon Card",
+      "number": "62",
+      "name": "Palossand",
+      "stage": "Stage 1",
+      "evolvesFrom": "Sandygast",
+      "hp": "130",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "kawayoo",
+      "text": "Possessed people controlled by this Pokémon transformed its sand mound into a castle. As it evolved, its power to curse grew ever stronger.",
+      "attacks": [
+        {
+          "name": "Sand Tomb",
+          "damage": "80",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "name": "Dust Storm",
+          "damage": "100",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard all cards from both Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-63",
+      "itemType": "Pokemon Card",
+      "number": "63",
+      "name": "Necrozma-GX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "PLANETA",
+      "abilities": [
+        {
+          "name": "Light's End",
+          "text": "Prevent all damage done to this Pokémon by attacks from Colorless Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Prismatic Burst",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard all Psychic Energy from this Pokémon. This attack does 60 more damage for each card you discarded in this way."
+        },
+        {
+          "name": "Black Ray-GX",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 100 damage to each of your opponent's Pokémon-GX and Pokémon-EX. This damage isn't affected by Weakness or Resistance. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-64",
+      "itemType": "Pokemon Card",
+      "number": "64",
+      "name": "Machamp-GX",
+      "stage": "Stage 2",
+      "evolvesFrom": "Machoke",
+      "hp": "250",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Cross-Cut",
+          "damage": "60+",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 60 more damage."
+        },
+        {
+          "name": "Bedrock Breaker",
+          "damage": "130",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "Discard any Stadium card in play."
+        },
+        {
+          "name": "Muscle Punch-GX",
+          "damage": "180",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "This attack's damage isn't affected by Resistance. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-65",
+      "itemType": "Pokemon Card",
+      "number": "65",
+      "name": "Rhyhorn",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "miki kudo",
+      "text": "Strong, but not too bright, this Pokémon can shatter even a skyscraper with its charging Tackles.",
+      "attacks": [
+        {
+          "name": "Lunge Out",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Horn Drill",
+          "damage": "60",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-66",
+      "itemType": "Pokemon Card",
+      "number": "66",
+      "name": "Rhydon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Rhyhorn",
+      "hp": "110",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Sanosuke Sakuma",
+      "text": "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees Fahrenheit.",
+      "attacks": [
+        {
+          "name": "Rock Tumble",
+          "damage": "80",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Resistance."
+        },
+        {
+          "name": "Megahorn",
+          "damage": "120",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-67",
+      "itemType": "Pokemon Card",
+      "number": "67",
+      "name": "Rhyperior",
+      "stage": "Stage 2",
+      "evolvesFrom": "Rhydon",
+      "hp": "160",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Toppling Wind",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may discard the top 3 cards of your opponent's deck.",
+          "type": "Ability"
+        }
+      ],
+      "text": "From holes in its palms, it fires out Geodude. Its carapace can withstand volcanic eruptions.",
+      "attacks": [
+        {
+          "name": "Rock Wrecker",
+          "damage": "170",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Weakness or Resistance. This Pokémon can't attack during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-68",
+      "itemType": "Pokemon Card",
+      "number": "68",
+      "name": "Lunatone",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shin Nagasawa",
+      "abilities": [
+        {
+          "name": "Heal Block",
+          "text": "If you have Solrock in play, Pokémon (both yours and your opponent's) can't be healed.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Because it turns active on nights of the full moon, it is said to have some link to the lunar phases.",
+      "attacks": [
+        {
+          "name": "Lunar Blast",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-69",
+      "itemType": "Pokemon Card",
+      "number": "69",
+      "name": "Solrock",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Masakazu Fukuda",
+      "text": "Solar energy is the source of its power, so it is strong during the daytime. When it spins, its body shines.",
+      "attacks": [
+        {
+          "name": "Double Draw",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw 2 cards."
+        },
+        {
+          "name": "Solar Heat",
+          "damage": "20+",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "If there is any Stadium card in play, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-70",
+      "itemType": "Pokemon Card",
+      "number": "70",
+      "name": "Riolu",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Saya Tsuruta",
+      "text": "It can discern the physical and emotional states of people, Pokémon, and other natural things from the shape of their aura waves.",
+      "attacks": [
+        {
+          "name": "Punch",
+          "damage": "10",
+          "cost": [
+            "Fighting"
+          ]
+        },
+        {
+          "name": "Low Kick",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-71",
+      "itemType": "Pokemon Card",
+      "number": "71",
+      "name": "Lucario",
+      "stage": "Stage 1",
+      "evolvesFrom": "Riolu",
+      "hp": "120",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "nagimiso",
+      "abilities": [
+        {
+          "name": "Stance",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may prevent all effects of your opponent's attacks, including damage, done to this Pokémon until the end of your opponent's next turn.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Not only does it perceive auras, but it has also gained the power to control them. It employs them in battle.",
+      "attacks": [
+        {
+          "name": "Submarine Blow",
+          "damage": "120",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-72",
+      "itemType": "Pokemon Card",
+      "number": "72",
+      "name": "Sawk",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Shigenori Negishi",
+      "text": "Desiring the strongest karate chop, they seclude themselves in mountains and train without sleeping.",
+      "attacks": [
+        {
+          "name": "Quick Guard",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Prevent all damage done to this Pokémon by attacks from Basic Pokémon during your opponent's next turn. This Pokémon can't use Quick Guard during your next turn."
+        },
+        {
+          "name": "Brick Break",
+          "damage": "40",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Resistance or any effects on your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-73",
+      "itemType": "Pokemon Card",
+      "number": "73",
+      "name": "Crabrawler",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "kirisAki",
+      "text": "While guarding its weak points with its pincers, it looks for an opening and unleashes punches. When it loses, it foams at the mouth and faints.",
+      "attacks": [
+        {
+          "name": "Light Punch",
+          "damage": "40",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-74",
+      "itemType": "Pokemon Card",
+      "number": "74",
+      "name": "Crabominable",
+      "stage": "Stage 1",
+      "evolvesFrom": "Crabrawler",
+      "hp": "140",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "text": "It aimed for the top but got lost and ended up on a snowy mountain. Being forced to endure the cold, this Pokémon evolved and grew fur.",
+      "attacks": [
+        {
+          "name": "Gutsy Hammer",
+          "damage": "80",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "This Pokémon does 10 damage to itself for each damage counter on it."
+        },
+        {
+          "name": "Double Stomp",
+          "damage": "80+",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "Flip 2 coins. This attack does 40 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-75",
+      "itemType": "Pokemon Card",
+      "number": "75",
+      "name": "Lycanroc",
+      "stage": "Stage 1",
+      "evolvesFrom": "Rockruff",
+      "hp": "110",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Shin Nagasawa",
+      "text": "The more intimidating the opponent it faces, the more this Pokémon's blood boils. It will attack with no regard for its own safety.",
+      "attacks": [
+        {
+          "name": "Dangerous Claws",
+          "damage": "30+",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "If your opponent's Active Pokémon is a Basic Pokémon, this attack does 30 more damage."
+        },
+        {
+          "name": "Corner",
+          "damage": "90",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-76",
+      "itemType": "Pokemon Card",
+      "number": "76",
+      "name": "Lycanroc",
+      "stage": "Stage 1",
+      "evolvesFrom": "Rockruff",
+      "hp": "110",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Masakazu Fukuda",
+      "text": "Its quick movements confuse its enemies. Well equipped with claws and fangs, it also uses the sharp rocks in its mane as weapons.",
+      "attacks": [
+        {
+          "name": "Rock Throw",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Accelerock",
+          "damage": "100",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-77",
+      "itemType": "Pokemon Card",
+      "number": "77",
+      "name": "Mudbray",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Saya Tsuruta",
+      "text": "The mud stuck to Mudbray's hooves enhances its grip and its powerful running gait.",
+      "attacks": [
+        {
+          "name": "Stomp",
+          "damage": "20+",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-78",
+      "itemType": "Pokemon Card",
+      "number": "78",
+      "name": "Mudsdale",
+      "stage": "Stage 1",
+      "evolvesFrom": "Mudbray",
+      "hp": "130",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "TOKIYA",
+      "text": "It spits a mud that provides resistance to both wind and rain, so the walls of old houses were often coated with it.",
+      "attacks": [
+        {
+          "name": "Kick Away",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent switches their Active Pokémon with 1 of their Benched Pokémon."
+        },
+        {
+          "name": "Vigorous Dash",
+          "damage": "130",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This Pokémon does 30 damage to itself. This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-79",
+      "itemType": "Pokemon Card",
+      "number": "79",
+      "name": "Passimian",
+      "stage": "Basic",
+      "hp": "110",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "text": "They form groups of roughly 20 individuals. Their mutual bond is remarkable—they will never let down a comrade.",
+      "attacks": [
+        {
+          "name": "Punch",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Intentional Grounding",
+          "damage": "90",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "Discard a Pokémon Tool card from your hand. If you don't, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-80",
+      "itemType": "Pokemon Card",
+      "number": "80",
+      "name": "Marshadow-GX",
+      "stage": "Basic",
+      "hp": "150",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Shadow Hunt",
+          "text": "This Pokémon can use the attacks of any Basic Pokémon in your discard pile. (You still need the necessary Energy to use each attack.)",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Beatdown",
+          "damage": "120",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Peerless Hundred Blows-GX",
+          "damage": "50×",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "This attack does 50 damage times the amount of basic Energy attached to this Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-81",
+      "itemType": "Pokemon Card",
+      "number": "81",
+      "name": "Alolan Rattata",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "nagimiso",
+      "text": "With its incisors, it gnaws through doors and infiltrates people's homes. Then, with a twitch of its whiskers, it steals whatever food it finds.",
+      "attacks": [
+        {
+          "name": "Focus Energy",
+          "text": "During your next turn, this Pokémon's Bite attack's base damage is 60."
+        },
+        {
+          "name": "Bite",
+          "damage": "10",
+          "cost": [
+            "Darkness"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-82",
+      "itemType": "Pokemon Card",
+      "number": "82",
+      "name": "Alolan Raticate",
+      "stage": "Stage 1",
+      "evolvesFrom": "Alolan Rattata",
+      "hp": "120",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "text": "It forms a group of Rattata, which it assumes command of. Each group has its own territory, and disputes over food happen often.",
+      "attacks": [
+        {
+          "name": "Enhanced Fang",
+          "damage": "10+",
+          "text": "If this Pokémon has a Pokémon Tool card attached to it, this attack does 50 more damage."
+        },
+        {
+          "name": "Hyper Fang",
+          "damage": "60",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-83",
+      "itemType": "Pokemon Card",
+      "number": "83",
+      "name": "Alolan Grimer",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "A Grimer, which had been brought in to solve a problem with garbage, developed over time into this form.",
+      "attacks": [
+        {
+          "name": "Division",
+          "text": "Search your deck for Alolan Grimer and put it onto your Bench. Then, shuffle your deck."
+        },
+        {
+          "name": "Slippery Sludge",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-84",
+      "itemType": "Pokemon Card",
+      "number": "84",
+      "name": "Alolan Muk-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Alolan Grimer",
+      "hp": "220",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Chemical Breath",
+          "damage": "10+",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 70 more damage for each Special Condition affecting your opponent's Active Pokémon."
+        },
+        {
+          "name": "Crunch",
+          "damage": "120",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard an Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Tri Hazard-GX",
+          "text": "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon. The new Active Pokémon is now Burned, Paralyzed, and Poisoned. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-85",
+      "itemType": "Pokemon Card",
+      "number": "85",
+      "name": "Sneasel",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Hasuno",
+      "text": "It has a cunning yet savage disposition. It waits for parents to leave their nests, and then it sneaks in to steal their eggs.",
+      "attacks": [
+        {
+          "name": "Hone Claws",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "During your next turn, this Pokémon's Slash attack's base damage is 80."
+        },
+        {
+          "name": "Slash",
+          "damage": "20",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-86",
+      "itemType": "Pokemon Card",
+      "number": "86",
+      "name": "Weavile",
+      "stage": "Stage 1",
+      "evolvesFrom": "Sneasel",
+      "hp": "90",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "Satoshi Shirai",
+      "text": "They travel in groups of four or five, leaving signs for one another on trees and rocks. They bring down their prey with coordinated attacks.",
+      "attacks": [
+        {
+          "name": "Rule of Evil",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This attack does 60 damage to each Pokémon that has an Ability (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Slash",
+          "damage": "70",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-87",
+      "itemType": "Pokemon Card",
+      "number": "87",
+      "name": "Darkrai",
+      "stage": "Basic",
+      "hp": "120",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Hitoshi Ariga",
+      "text": "It chases people and Pokémon from its territory by causing them to experience deep, nightmarish slumbers.",
+      "attacks": [
+        {
+          "name": "Hypnoblast",
+          "damage": "30",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        },
+        {
+          "name": "Dark Raid",
+          "damage": "80+",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent has already used their GX attack, this attack does 80 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-88",
+      "itemType": "Pokemon Card",
+      "number": "88",
+      "name": "Darkrai-GX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "PLANETA",
+      "abilities": [
+        {
+          "name": "Restoration",
+          "text": "Once during your turn (before your attack), if this Pokémon is in your discard pile, you may put it onto your Bench. Then, attach a Darkness Energy card from your discard pile to this Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Dark Cleave",
+          "damage": "130",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Resistance."
+        },
+        {
+          "name": "Dead End-GX",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon is affected by a Special Condition, that Pokémon is Knocked Out. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-88a",
+      "itemType": "Pokemon Card",
+      "number": "88a",
+      "name": "Darkrai-GX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "PLANETA",
+      "abilities": [
+        {
+          "name": "Restoration",
+          "text": "Once during your turn (before your attack), if this Pokémon is in your discard pile, you may put it onto your Bench. Then, attach a Darkness Energy card from your discard pile to this Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Dark Cleave",
+          "damage": "130",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Resistance."
+        },
+        {
+          "name": "Dead End-GX",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon is affected by a Special Condition, that Pokémon is Knocked Out. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-89",
+      "itemType": "Pokemon Card",
+      "number": "89",
+      "name": "Inkay",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "OOYAMA",
+      "text": "Opponents who stare at the flashing of the light-emitting spots on its body become dazed and lose their will to fight.",
+      "attacks": [
+        {
+          "name": "Constrict",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Tackle",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-90",
+      "itemType": "Pokemon Card",
+      "number": "90",
+      "name": "Malamar",
+      "stage": "Stage 1",
+      "evolvesFrom": "Inkay",
+      "hp": "100",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "text": "It wields the most compelling hypnotic powers of any Pokémon, and it forces others to do whatever it wants.",
+      "attacks": [
+        {
+          "name": "Psybeam",
+          "damage": "20",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Your opponent's Active Pokémon is now Confused."
+        },
+        {
+          "name": "Energy Slosh",
+          "damage": "70",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may move all Energy attached to this Pokémon to 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-91",
+      "itemType": "Pokemon Card",
+      "number": "91",
+      "name": "Ralts",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Common",
+      "artist": "Yumi",
+      "text": "If its horns capture the warm feelings of people or Pokémon, its body warms up slightly.",
+      "attacks": [
+        {
+          "name": "Draining Kiss",
+          "damage": "10",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "Heal 10 damage from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-92",
+      "itemType": "Pokemon Card",
+      "number": "92",
+      "name": "Kirlia",
+      "stage": "Stage 1",
+      "evolvesFrom": "Ralts",
+      "hp": "80",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Anesaki Dynamic",
+      "text": "The cheerful spirit of its Trainer gives it energy for its psychokinetic power. It spins and dances when happy.",
+      "attacks": [
+        {
+          "name": "Smack",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Magical Shot",
+          "damage": "30",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-92a",
+      "itemType": "Pokemon Card",
+      "number": "92a",
+      "name": "Kirlia",
+      "stage": "Stage 1",
+      "evolvesFrom": "Ralts",
+      "hp": "80",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Anesaki Dynamic",
+      "text": "The cheerful spirit of its Trainer gives it energy for its psychokinetic power. It spins and dances when happy.",
+      "attacks": [
+        {
+          "name": "Smack",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Magical Shot",
+          "damage": "30",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-93",
+      "itemType": "Pokemon Card",
+      "number": "93",
+      "name": "Gardevoir-GX",
+      "stage": "Stage 2",
+      "evolvesFrom": "Kirlia",
+      "hp": "230",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Secret Spring",
+          "text": "Once during your turn (before your attack), you may attach a Fairy Energy card from your hand to 1 of your Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Infinite Force",
+          "damage": "30×",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "This attack does 30 damage times the amount of Energy attached to both Active Pokémon."
+        },
+        {
+          "name": "Twilight-GX",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "Shuffle 10 cards from your discard pile into your deck. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-94",
+      "itemType": "Pokemon Card",
+      "number": "94",
+      "name": "Diancie",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "TOKIYA",
+      "text": "A sudden transformation of Carbink, its pink, glimmering body is said to be the loveliest sight in the whole world.",
+      "attacks": [
+        {
+          "name": "Sparkling Wish",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "Search your deck for a card that evolves from 1 of your Pokémon and put it onto that Pokémon to evolve it. Then, shuffle your deck."
+        },
+        {
+          "name": "Diamond Storm",
+          "damage": "30",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "text": "Heal 30 damage from each of your Fairy Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-95",
+      "itemType": "Pokemon Card",
+      "number": "95",
+      "name": "Cutiefly",
+      "stage": "Basic",
+      "hp": "30",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "text": "It feeds on the nectar and pollen of flowers. Because it's able to sense auras, it can identify which flowers are about to bloom.",
+      "attacks": [
+        {
+          "name": "Fairy Wind",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-96",
+      "itemType": "Pokemon Card",
+      "number": "96",
+      "name": "Ribombee",
+      "stage": "Stage 1",
+      "evolvesFrom": "Cutiefly",
+      "hp": "70",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Megumi Mizutani",
+      "abilities": [
+        {
+          "name": "Honey Gather",
+          "text": "Once during your turn (before your attack), you may search your deck for up to 2 basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It rolls up pollen into puffs. It makes many different varieties, some used as food and others used in battle.",
+      "attacks": [
+        {
+          "name": "Pollen Shot",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-97",
+      "itemType": "Pokemon Card",
+      "number": "97",
+      "name": "Morelull",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Common",
+      "artist": "Hitoshi Ariga",
+      "text": "It scatters spores that flicker and glow. Anyone seeing these lights falls into a deep slumber.",
+      "attacks": [
+        {
+          "name": "Ram",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-98",
+      "itemType": "Pokemon Card",
+      "number": "98",
+      "name": "Shiinotic",
+      "stage": "Stage 1",
+      "evolvesFrom": "Morelull",
+      "hp": "100",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare",
+      "artist": "Naoki Saito",
+      "text": "Forests where Shiinotic live are treacherous to enter at night. People confused by its strange lights can never find their way home again.",
+      "attacks": [
+        {
+          "name": "Strength Sap",
+          "damage": "30",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "text": "Heal from this Pokémon 30 damage times the amount of Energy attached to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Sleep Pulse",
+          "damage": "60",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-99",
+      "itemType": "Pokemon Card",
+      "number": "99",
+      "name": "Noivern-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Noibat",
+      "hp": "200",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Distort",
+          "damage": "50",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Your opponent can't play any Item cards from their hand during their next turn."
+        },
+        {
+          "name": "Sonic Volume",
+          "damage": "120",
+          "cost": [
+            "Psychic",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Your opponent can't play any Special Energy cards from their hand during their next turn."
+        },
+        {
+          "name": "Boomburst-GX",
+          "cost": [
+            "Psychic",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "This attack does 50 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-100",
+      "itemType": "Pokemon Card",
+      "number": "100",
+      "name": "Zygarde",
+      "stage": "Basic",
+      "hp": "150",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Masakazu Fukuda",
+      "text": "This is Zygarde's form at times when it uses its overwhelming power to suppress those who endanger the ecosystem.",
+      "attacks": [
+        {
+          "name": "Land Crush",
+          "damage": "80",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Core Enforcer",
+          "damage": "150",
+          "cost": [
+            "Darkness",
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard a Darkness Energy and a Fairy Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-101",
+      "itemType": "Pokemon Card",
+      "number": "101",
+      "name": "Meowth",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "It lies around all day, becoming active near dusk. At night, it wanders the city in search of loose change.",
+      "attacks": [
+        {
+          "name": "Fake Out",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-102",
+      "itemType": "Pokemon Card",
+      "number": "102",
+      "name": "Persian",
+      "stage": "Stage 1",
+      "evolvesFrom": "Meowth",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Sekio",
+      "text": "It has a violent temperament. It will attack anything that looks it in the eye. Its sharp claws inflict deep wounds.",
+      "attacks": [
+        {
+          "name": "Screech",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "During your next turn, the Defending Pokémon takes 60 more damage from attacks (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Slash",
+          "damage": "40",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-103",
+      "itemType": "Pokemon Card",
+      "number": "103",
+      "name": "Porygon",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Shin Nagasawa",
+      "text": "Roughly 20 years ago, it was artificially created, utilizing the latest technology of the time.",
+      "attacks": [
+        {
+          "name": "Code Check",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Look at 1 of your opponent's face-down Prize cards."
+        },
+        {
+          "name": "Beam",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-104",
+      "itemType": "Pokemon Card",
+      "number": "104",
+      "name": "Porygon2",
+      "stage": "Stage 1",
+      "evolvesFrom": "Porygon",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Midori Harada",
+      "text": "For the purposes of planetary development, Porygon was updated with the most cutting-edge technology available.",
+      "attacks": [
+        {
+          "name": "Calculate",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Look at the top 6 cards of your deck and put them back in any order."
+        },
+        {
+          "name": "Beam",
+          "damage": "40",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-105",
+      "itemType": "Pokemon Card",
+      "number": "105",
+      "name": "Porygon-Z",
+      "stage": "Stage 2",
+      "evolvesFrom": "Porygon2",
+      "hp": "130",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "MAHOU",
+      "abilities": [
+        {
+          "name": "Initialize",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may devolve each of your opponent's evolved Pokémon by putting the highest Stage Evolution card on it into your opponent's hand.",
+          "type": "Ability"
+        }
+      ],
+      "text": "In order to create a more advanced Pokémon, an additional program was installed, but apparently it contained a defect that makes it move oddly.",
+      "attacks": [
+        {
+          "name": "Zap Cannon",
+          "damage": "80",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This Pokémon can't use Zap Cannon during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-105a",
+      "itemType": "Pokemon Card",
+      "number": "105a",
+      "name": "Porygon-Z",
+      "stage": "Stage 2",
+      "evolvesFrom": "Porygon2",
+      "hp": "130",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Shin Nagasawa",
+      "abilities": [
+        {
+          "name": "Initialize",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may devolve each of your opponent's evolved Pokémon by putting the highest Stage Evolution card on it into your opponent's hand.",
+          "type": "Ability"
+        }
+      ],
+      "text": "In order to create a more advanced Pokémon, an additional program was installed, but apparently it contained a defect that makes it move oddly.",
+      "attacks": [
+        {
+          "name": "Zap Cannon",
+          "damage": "80",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This Pokémon can't use Zap Cannon during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-106",
+      "itemType": "Pokemon Card",
+      "number": "106",
+      "name": "Hoothoot",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "MAHOU",
+      "text": "It has a perfect sense of time. Whatever happens, it keeps rhythm by precisely tilting its head in time.",
+      "attacks": [
+        {
+          "name": "See Through",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent reveals their hand."
+        },
+        {
+          "name": "Peck",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-107",
+      "itemType": "Pokemon Card",
+      "number": "107",
+      "name": "Noctowl",
+      "stage": "Stage 1",
+      "evolvesFrom": "Hoothoot",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Sekio",
+      "text": "Its eyes are specially adapted. They concentrate even faint light and enable it to see in the dark.",
+      "attacks": [
+        {
+          "name": "Hypnoblast",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        },
+        {
+          "name": "Night Raid",
+          "damage": "70",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent reveals their hand. Discard a Pokémon from it."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-108",
+      "itemType": "Pokemon Card",
+      "number": "108",
+      "name": "Bouffalant",
+      "stage": "Basic",
+      "hp": "120",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "TOKIYA",
+      "text": "They charge wildly and headbutt everything. Their headbutts have enough destructive force to derail a train.",
+      "attacks": [
+        {
+          "name": "Bouffant Head",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Knock Over",
+          "damage": "80",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may discard any Stadium card in play."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-109",
+      "itemType": "Pokemon Card",
+      "number": "109",
+      "name": "Noibat",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Yumi",
+      "text": "They live in pitch black caves. Their enormous ears can emit ultrasonic waves of 200,000 hertz.",
+      "attacks": [
+        {
+          "name": "Agility",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-110",
+      "itemType": "Pokemon Card",
+      "number": "110",
+      "name": "Stufful",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Sekio",
+      "text": "Despite its adorable appearance, when it gets angry and flails about, its arms and legs could knock a pro wrestler sprawling.",
+      "attacks": [
+        {
+          "name": "Baby-Doll Eyes",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "name": "Tackle",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-111",
+      "itemType": "Pokemon Card",
+      "number": "111",
+      "name": "Bewear",
+      "stage": "Stage 1",
+      "evolvesFrom": "Stufful",
+      "hp": "120",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "text": "This immensely dangerous Pokémon possesses overwhelming physical strength. Its habitat is generally off-limits.",
+      "attacks": [
+        {
+          "name": "Mix-Up",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, discard the top 3 cards of your opponent's deck."
+        },
+        {
+          "name": "Tantrum",
+          "damage": "120",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-112",
+      "itemType": "Trainer Card",
+      "number": "112",
+      "name": "Acerola",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "Put 1 of your Pokémon that has any damage counters on it and all cards attached to it into your hand.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-112a",
+      "itemType": "Trainer Card",
+      "number": "112a",
+      "name": "Acerola",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hideki Ishikawa",
+      "text": "Put 1 of your Pokémon that has any damage counters on it and all cards attached to it into your hand.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-113",
+      "itemType": "Trainer Card",
+      "number": "113",
+      "name": "Bodybuilding Dumbbells",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Eske Yoshinob",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,The Stage 1 Pokémon this card is attached to gets +40 HP.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-114",
+      "itemType": "Trainer Card",
+      "number": "114",
+      "name": "Escape Rope",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Each player switches their Active Pokémon with 1 of their Benched Pokémon. Your opponent switches first. (If a player does not have a Benched Pokémon, that player doesn't switch Pokémon.),You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-115",
+      "itemType": "Trainer Card",
+      "number": "115",
+      "name": "Guzma",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon. If you do, switch your Active Pokémon with 1 of your Benched Pokémon.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-115a",
+      "itemType": "Trainer Card",
+      "number": "115a",
+      "name": "Guzma",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Masakazu Fukuda",
+      "text": "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon. If you do, switch your Active Pokémon with 1 of your Benched Pokémon.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-116",
+      "itemType": "Trainer Card",
+      "number": "116",
+      "name": "Kiawe",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "Search your deck for up to 4 Fire Energy cards and attach them to 1 of your Pokémon. Then, shuffle your deck. Your turn ends.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-116a",
+      "itemType": "Trainer Card",
+      "number": "116a",
+      "name": "Kiawe",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Masakazu Fukuda",
+      "text": "Search your deck for up to 4 Fire Energy cards and attach them to 1 of your Pokémon. Then, shuffle your deck. Your turn ends.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-117",
+      "itemType": "Trainer Card",
+      "number": "117",
+      "name": "Lana",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "Heal 50 damage from each of your Pokémon that has any Water Energy attached to it.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-118",
+      "itemType": "Trainer Card",
+      "number": "118",
+      "name": "Mount Lanakila",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "The Retreat Cost of each Basic Pokémon in play (both yours and your opponent's) is Colorless more.,This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-119",
+      "itemType": "Trainer Card",
+      "number": "119",
+      "name": "Olivia",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "Search your deck for up to 2 Pokémon-GX, reveal them, and put them into your hand. Then, shuffle your deck.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-120",
+      "itemType": "Trainer Card",
+      "number": "120",
+      "name": "Plumeria",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "Discard 2 cards from your hand. If you do, discard an Energy from 1 of your opponent's Pokémon.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-121",
+      "itemType": "Trainer Card",
+      "number": "121",
+      "name": "Po Town",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Whenever any player plays a Pokémon from their hand to evolve 1 of their Pokémon, put 3 damage counters on that Pokémon.,This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-122",
+      "itemType": "Trainer Card",
+      "number": "122",
+      "name": "Rotom Dex Poké Finder Mode",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Look at the top 4 cards of your deck and put them back in any order or shuffle them into your deck.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-123",
+      "itemType": "Trainer Card",
+      "number": "123",
+      "name": "Sophocles",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "Discard 2 cards from your hand. If you do, draw 4 cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-124",
+      "itemType": "Trainer Card",
+      "number": "124",
+      "name": "Super Scoop Up",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Flip a coin. If heads, put 1 of your Pokémon and all cards attached to it into your hand.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-125",
+      "itemType": "Trainer Card",
+      "number": "125",
+      "name": "Tormenting Spray",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Choose a random card from your opponent's hand. Your opponent reveals that card. If it's a Supporter card, discard it.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-126",
+      "itemType": "Trainer Card",
+      "number": "126",
+      "name": "Weakness Policy",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ayaka Yoshida",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,The Pokémon this card is attached to has no Weakness.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-127",
+      "itemType": "Trainer Card",
+      "number": "127",
+      "name": "Wicke",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "take",
+      "text": "Each player counts the cards in their hand, shuffles those cards into their deck, then draws that many cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-128",
+      "itemType": "Trainer Card",
+      "number": "128",
+      "name": "Wishful Baton",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,If the Pokémon this card is attached to is your Active Pokémon and is Knocked Out by damage from an opponent's attack, move up to 3 basic Energy cards from that Pokémon to 1 of your Benched Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-129",
+      "itemType": "Pokemon Card",
+      "number": "129",
+      "name": "Golisopod-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Wimpod",
+      "hp": "210",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "First Impression",
+          "damage": "30+",
+          "cost": [
+            "Grass"
+          ],
+          "text": "If this Pokémon was on the Bench and became your Active Pokémon this turn, this attack does 90 more damage."
+        },
+        {
+          "name": "Armor Press",
+          "damage": "100",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, this Pokémon takes 20 less damage from attacks (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Crossing Cut-GX",
+          "damage": "150",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-130",
+      "itemType": "Pokemon Card",
+      "number": "130",
+      "name": "Tapu Bulu-GX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Horn Attack",
+          "damage": "30",
+          "cost": [
+            "Grass"
+          ]
+        },
+        {
+          "name": "Nature's Judgment",
+          "damage": "120+",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "You may discard all Energy from this Pokémon. If you do, this attack does 60 more damage."
+        },
+        {
+          "name": "Tapu Wilderness-GX",
+          "damage": "150",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Heal all damage from this Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-131",
+      "itemType": "Pokemon Card",
+      "number": "131",
+      "name": "Ho-Oh-GX",
+      "stage": "Basic",
+      "hp": "190",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Sacred Fire",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 50 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Phoenix Burn",
+          "damage": "180",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "This Pokémon can't use Phoenix Burn during your next turn."
+        },
+        {
+          "name": "Eternal Flame-GX",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Put 3 in any combination of Fire Pokémon-GX or Fire Pokémon-EX from your discard pile onto your Bench. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-132",
+      "itemType": "Pokemon Card",
+      "number": "132",
+      "name": "Salazzle-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Salandit",
+      "hp": "200",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Diabolical Claws",
+          "damage": "50×",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "text": "This attack does 50 damage for each Prize card you have taken."
+        },
+        {
+          "name": "Heat Blast",
+          "damage": "110",
+          "cost": [
+            "Fire",
+            "Fire"
+          ]
+        },
+        {
+          "name": "Queen's Haze-GX",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "text": "Discard all Energy from your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-133",
+      "itemType": "Pokemon Card",
+      "number": "133",
+      "name": "Tapu Fini-GX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Aqua Ring",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "You may switch this Pokémon with 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Hydro Shot",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Discard 2 Water Energy from this Pokémon. This attack does 120 damage to 1 of your opponent's Pokémon. (Don't apply Weakness or Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Tapu Storm-GX",
+          "cost": [
+            "Water"
+          ],
+          "text": "Shuffle your opponent's Active Pokémon and all cards attached to it into their deck. If your opponent has no Benched Pokémon, this attack does nothing. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-134",
+      "itemType": "Pokemon Card",
+      "number": "134",
+      "name": "Necrozma-GX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Light's End",
+          "text": "Prevent all damage done to this Pokémon by attacks from Colorless Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Prismatic Burst",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard all Psychic Energy from this Pokémon. This attack does 60 more damage for each card you discarded in this way."
+        },
+        {
+          "name": "Black Ray-GX",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 100 damage to each of your opponent's Pokémon-GX and Pokémon-EX. This damage isn't affected by Weakness or Resistance. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-135",
+      "itemType": "Pokemon Card",
+      "number": "135",
+      "name": "Machamp-GX",
+      "stage": "Stage 2",
+      "evolvesFrom": "Machoke",
+      "hp": "250",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Cross-Cut",
+          "damage": "60+",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 60 more damage."
+        },
+        {
+          "name": "Bedrock Breaker",
+          "damage": "130",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "Discard any Stadium card in play."
+        },
+        {
+          "name": "Muscle Punch-GX",
+          "damage": "180",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "This attack's damage isn't affected by Resistance. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-136",
+      "itemType": "Pokemon Card",
+      "number": "136",
+      "name": "Lycanroc-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Rockruff",
+      "hp": "200",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Crunch",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Discard an Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Accelerock",
+          "damage": "120",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Lycanfang-GX",
+          "damage": "200",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Discard 2 Energy from this Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-137",
+      "itemType": "Pokemon Card",
+      "number": "137",
+      "name": "Marshadow-GX",
+      "stage": "Basic",
+      "hp": "150",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Shadow Hunt",
+          "text": "This Pokémon can use the attacks of Basic Pokémon in your discard pile. (You still need the necessary Energy to use each attack.)",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Beatdown",
+          "damage": "120",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Peerless Hundred Blows-GX",
+          "damage": "50×",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "This attack does 50 damage times the amount of basic Energy attached to this Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-138",
+      "itemType": "Pokemon Card",
+      "number": "138",
+      "name": "Alolan Muk-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Alolan Grimer",
+      "hp": "220",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Chemical Breath",
+          "damage": "10+",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 70 more damage for each Special Condition affecting your opponent's Active Pokémon."
+        },
+        {
+          "name": "Crunch",
+          "damage": "120",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard an Energy attached to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Tri Hazard-GX",
+          "text": "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon. The new Active Pokémon is now Burned, Paralyzed, and Poisoned. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-139",
+      "itemType": "Pokemon Card",
+      "number": "139",
+      "name": "Darkrai-GX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Restoration",
+          "text": "Once during your turn (before your attack), if this Pokémon is in your discard pile, you may put it onto your Bench. Then, attach a Darkness Energy card from your discard pile to this Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Dark Cleave",
+          "damage": "130",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Resistance."
+        },
+        {
+          "name": "Dead End-GX",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon is affected by a Special Condition, that Pokémon is Knocked Out. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-140",
+      "itemType": "Pokemon Card",
+      "number": "140",
+      "name": "Gardevoir-GX",
+      "stage": "Stage 2",
+      "evolvesFrom": "Kirlia",
+      "hp": "230",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Secret Spring",
+          "text": "Once during your turn (before your attack), you may attach a Fairy Energy card from your hand to 1 of your Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Infinite Force",
+          "damage": "30×",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "This attack does 30 damage times the amount of Energy attached to both Active Pokémon."
+        },
+        {
+          "name": "Twilight-GX",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "Shuffle 10 cards from your discard pile into your deck. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-141",
+      "itemType": "Pokemon Card",
+      "number": "141",
+      "name": "Noivern-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Noibat",
+      "hp": "200",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Distort",
+          "damage": "50",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Your opponent can't play any Item cards from their hand during their next turn."
+        },
+        {
+          "name": "Sonic Volume",
+          "damage": "120",
+          "cost": [
+            "Psychic",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Your opponent can't play any Special Energy cards from their hand during their next turn."
+        },
+        {
+          "name": "Boomburst-GX",
+          "cost": [
+            "Psychic",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "This attack does 50 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-142",
+      "itemType": "Trainer Card",
+      "number": "142",
+      "name": "Acerola",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Megumi Mizutani",
+      "text": "Put 1 of your Pokémon that has any damage counters on it and all cards attached to it into your hand.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-143",
+      "itemType": "Trainer Card",
+      "number": "143",
+      "name": "Guzma",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Masakazu Fukuda",
+      "text": "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon. If you do, switch your Active Pokémon with 1 of your Benched Pokémon.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-144",
+      "itemType": "Trainer Card",
+      "number": "144",
+      "name": "Kiawe",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Naoki Saito",
+      "text": "Search your deck for up to 4 Fire Energy cards and attach them to 1 of your Pokémon. Then, shuffle your deck. Your turn ends.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-145",
+      "itemType": "Trainer Card",
+      "number": "145",
+      "name": "Plumeria",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Sanosuke Sakuma",
+      "text": "Discard 2 cards from your hand. If you do, discard an Energy attached to 1 of your opponent's Pokémon.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-146",
+      "itemType": "Trainer Card",
+      "number": "146",
+      "name": "Sophocles",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Sanosuke Sakuma",
+      "text": "Discard 2 cards from your hand. If you do, draw 4 cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-147",
+      "itemType": "Trainer Card",
+      "number": "147",
+      "name": "Wicke",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Naoki Saito",
+      "text": "Each player counts the cards in their hand, shuffles those cards into their deck, then draws that many cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-148",
+      "itemType": "Pokemon Card",
+      "number": "148",
+      "name": "Golisopod-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Wimpod",
+      "hp": "210",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "First Impression",
+          "damage": "30+",
+          "cost": [
+            "Grass"
+          ],
+          "text": "If this Pokémon was on the Bench and became your Active Pokémon this turn, this attack does 90 more damage."
+        },
+        {
+          "name": "Armor Press",
+          "damage": "100",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, this Pokémon takes 20 less damage from attacks (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Crossing Cut-GX",
+          "damage": "150",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-149",
+      "itemType": "Pokemon Card",
+      "number": "149",
+      "name": "Tapu Bulu-GX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Horn Attack",
+          "damage": "30",
+          "cost": [
+            "Grass"
+          ]
+        },
+        {
+          "name": "Nature's Judgment",
+          "damage": "120+",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "You may discard all Energy from this Pokémon. If you do, this attack does 60 more damage."
+        },
+        {
+          "name": "Tapu Wilderness-GX",
+          "damage": "150",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Heal all damage from this Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-150",
+      "itemType": "Pokemon Card",
+      "number": "150",
+      "name": "Charizard-GX",
+      "stage": "Stage 2",
+      "evolvesFrom": "Charmeleon",
+      "hp": "250",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "damage": "70",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Crimson Storm",
+          "damage": "300",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard 3 Fire Energy from this Pokémon."
+        },
+        {
+          "name": "Raging Out-GX",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard the top 10 cards of your opponent's deck. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-151",
+      "itemType": "Pokemon Card",
+      "number": "151",
+      "name": "Salazzle-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Salandit",
+      "hp": "200",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Diabolical Claws",
+          "damage": "50×",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "text": "This attack does 50 damage for each Prize card you have taken."
+        },
+        {
+          "name": "Heat Blast",
+          "damage": "110",
+          "cost": [
+            "Fire",
+            "Fire"
+          ]
+        },
+        {
+          "name": "Queen's Haze-GX",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "text": "Discard all Energy from your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-152",
+      "itemType": "Pokemon Card",
+      "number": "152",
+      "name": "Tapu Fini-GX",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Aqua Ring",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "You may switch this Pokémon with 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Hydro Shot",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Discard 2 Water Energy from this Pokémon. This attack does 120 damage to 1 of your opponent's Pokémon. (Don't apply Weakness or Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Tapu Storm-GX",
+          "cost": [
+            "Water"
+          ],
+          "text": "Shuffle your opponent's Active Pokémon and all cards attached to it into their deck. If your opponent has no Benched Pokémon, this attack does nothing. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-153",
+      "itemType": "Pokemon Card",
+      "number": "153",
+      "name": "Necrozma-GX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Light's End",
+          "text": "Prevent all damage done to this Pokémon by attacks from Colorless Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Prismatic Burst",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard all Psychic Energy from this Pokémon. This attack does 60 more damage for each card you discarded in this way."
+        },
+        {
+          "name": "Black Ray-GX",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 100 damage to each of your opponent's Pokémon-GX and Pokémon-EX. This damage isn't affected by Weakness or Resistance. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-154",
+      "itemType": "Pokemon Card",
+      "number": "154",
+      "name": "Machamp-GX",
+      "stage": "Stage 2",
+      "evolvesFrom": "Machoke",
+      "hp": "250",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Cross-Cut",
+          "damage": "60+",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 60 more damage."
+        },
+        {
+          "name": "Bedrock Breaker",
+          "damage": "130",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "Discard any Stadium card in play."
+        },
+        {
+          "name": "Muscle Punch-GX",
+          "damage": "180",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "This attack's damage isn't affected by Resistance. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-155",
+      "itemType": "Pokemon Card",
+      "number": "155",
+      "name": "Lycanroc-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Rockruff",
+      "hp": "200",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Crunch",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Discard an Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Accelerock",
+          "damage": "120",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Lycanfang-GX",
+          "damage": "200",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Discard 2 Energy from this Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-156",
+      "itemType": "Pokemon Card",
+      "number": "156",
+      "name": "Marshadow-GX",
+      "stage": "Basic",
+      "hp": "150",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Shadow Hunt",
+          "text": "This Pokémon can use the attacks of Basic Pokémon in your discard pile. (You still need the necessary Energy to use each attack.)",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Beatdown",
+          "damage": "120",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Peerless Hundred Blows-GX",
+          "damage": "50×",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "This attack does 50 damage times the number of basic Energy attached to this Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-157",
+      "itemType": "Pokemon Card",
+      "number": "157",
+      "name": "Alolan Muk-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Alolan Grimer",
+      "hp": "220",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Chemical Breath",
+          "damage": "10+",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 70 more damage for each Special Condition affecting your opponent's Active Pokémon."
+        },
+        {
+          "name": "Crunch",
+          "damage": "120",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard an Energy attached to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Tri Hazard-GX",
+          "text": "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon. The new Active Pokémon is now Burned, Paralyzed, and Poisoned. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-158",
+      "itemType": "Pokemon Card",
+      "number": "158",
+      "name": "Darkrai-GX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Restoration",
+          "text": "Once during your turn (before your attack), if this Pokémon is in your discard pile, you may put it onto your Bench. Then, attach a Darkness Energy card from your discard pile to this Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Dark Cleave",
+          "damage": "130",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Resistance."
+        },
+        {
+          "name": "Dead End-GX",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon is affected by a Special Condition, that Pokémon is Knocked Out. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-159",
+      "itemType": "Pokemon Card",
+      "number": "159",
+      "name": "Gardevoir-GX",
+      "stage": "Stage 2",
+      "evolvesFrom": "Kirlia",
+      "hp": "230",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Secret Spring",
+          "text": "Once during your turn (before your attack), you may attach a Fairy Energy card from your hand to 1 of your Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Infinite Force",
+          "damage": "30×",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "This attack does 30 damage times the amount of Energy attached to both Active Pokémon."
+        },
+        {
+          "name": "Twilight-GX",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "Shuffle 10 cards from your discard pile into your deck. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-160",
+      "itemType": "Pokemon Card",
+      "number": "160",
+      "name": "Noivern-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Noibat",
+      "hp": "200",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Distort",
+          "damage": "50",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Your opponent can't play any Item cards from their hand during their next turn."
+        },
+        {
+          "name": "Sonic Volume",
+          "damage": "120",
+          "cost": [
+            "Psychic",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Your opponent can't play any Special Energy cards from their hand during their next turn."
+        },
+        {
+          "name": "Boomburst-GX",
+          "cost": [
+            "Psychic",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "This attack does 50 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-161",
+      "itemType": "Trainer Card",
+      "number": "161",
+      "name": "Bodybuilding Dumbbells",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Eske Yoshinob",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,The Stage 1 Pokémon this card is attached to gets +40 HP.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-162",
+      "itemType": "Trainer Card",
+      "number": "162",
+      "name": "Choice Band",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Eske Yoshinob",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,The attacks of the Pokémon this card is attached to do 30 more damage to your opponent's Active Pokémon-GX or Active Pokémon-EX (before applying Weakness and Resistance).,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-163",
+      "itemType": "Trainer Card",
+      "number": "163",
+      "name": "Escape Rope",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Toyste Beach",
+      "text": "Each player switches their Active Pokémon with 1 of their Benched Pokémon. Your opponent switches first. (If a player does not have a Benched Pokémon, that player doesn't switch Pokémon.),You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-164",
+      "itemType": "Trainer Card",
+      "number": "164",
+      "name": "Multi Switch",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Toyste Beach",
+      "text": "Move an Energy from 1 of your Benched Pokémon to your Active Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-165",
+      "itemType": "Trainer Card",
+      "number": "165",
+      "name": "Rescue Stretcher",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Yoshinobu Saito",
+      "text": "Choose 1: • Put a Pokémon from your discard pile into your hand. • Shuffle 3 Pokémon from your discard pile into your deck.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-166",
+      "itemType": "Trainer Card",
+      "number": "166",
+      "name": "Super Scoop Up",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Toyste Beach",
+      "text": "Flip a coin. If heads, put 1 of your Pokémon and all cards attached to it into your hand.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-167",
+      "itemType": "Energy Card",
+      "number": "167",
+      "name": "Fire Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Rare Secret"
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-168",
+      "itemType": "Energy Card",
+      "number": "168",
+      "name": "Darkness Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Rare Secret"
+    },
+    {
+      "id": "tcg-pokemon-burning-shadows-169",
+      "itemType": "Energy Card",
+      "number": "169",
+      "name": "Fairy Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Rare Secret"
+    }
+  ]
+}

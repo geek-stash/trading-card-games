@@ -1,0 +1,6295 @@
+{
+  "setId": "tcg-pokemon-sun-moon",
+  "cardCount": "173",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-sun-moon-booster-box",
+      "itemType": "Sealed Product",
+      "name": "Sun & Moon Booster Box"
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-booster-pack",
+      "itemType": "Sealed Product",
+      "name": "Sun & Moon Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-sun-moon-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Caterpie",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Kanako Eo",
+      "text": "When attacked by bird Pokémon, it resists by releasing a terrifically strong odor from its antennae, but it often becomes their prey.",
+      "attacks": [
+        {
+          "name": "Nap",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Heal 20 damage from this Pokémon."
+        },
+        {
+          "name": "Gnaw",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Metapod",
+      "stage": "Stage 1",
+      "evolvesFrom": "Caterpie",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yuka Morii",
+      "text": "Its shell is filled with its soft innards. It doesn't move much because of the risk it might carelessly spill its innards out.",
+      "attacks": [
+        {
+          "name": "Iron Defense",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, prevent all damage done to this Pokémon by attacks during your opponent's next turn."
+        },
+        {
+          "name": "Bug Bite",
+          "damage": "40",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-3",
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Butterfree",
+      "stage": "Stage 2",
+      "evolvesFrom": "Metapod",
+      "hp": "130",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "chibi",
+      "text": "Close examination of its large eyes reveals that each eye is composed of a myriad of tiny eyes.",
+      "attacks": [
+        {
+          "name": "Psy Bolt",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Whirlwind",
+          "damage": "80",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent switches their Active Pokémon with 1 of their Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-4",
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Paras",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Ayaka Yoshida",
+      "text": "No matter how much it eats, the mushrooms growing on its back steal away most of the nutrients it consumes.",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Parasect",
+      "stage": "Stage 1",
+      "evolvesFrom": "Paras",
+      "hp": "110",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Eri Yamaki",
+      "text": "The large mushroom on its back controls it. It often fights over territory with Shiinotic.",
+      "attacks": [
+        {
+          "name": "Fury Cutter",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. If 1 of them is heads, this attack does 20 more damage. If 2 of them are heads, this attack does 60 more damage. If all of them are heads, this attack does 120 damage."
+        },
+        {
+          "name": "Mushroom Drain",
+          "damage": "70",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Heal 30 damage from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-6",
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Pinsir",
+      "stage": "Basic",
+      "hp": "110",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "DemizuPosuka",
+      "text": "One solid blow from its horns is enough to split apart a large tree. Its greatest rival in Alola is Vikavolt.",
+      "attacks": [
+        {
+          "name": "Roof Fling",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, put your opponent's Active Pokémon and all cards attached to it into your opponent's hand."
+        },
+        {
+          "name": "Guillotine",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Grass"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-7",
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Surskit",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Kyoko Umemoto",
+      "text": "When this Pokémon senses danger, a sweet fluid oozes from the tip of its heads. The taste of it disgusts bird Pokémon.",
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "damage": "10+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-8",
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "Masquerain",
+      "stage": "Stage 1",
+      "evolvesFrom": "Surskit",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "miki kudo",
+      "text": "Its wings and antennae don't cope well with moisture. After a rain, it faces sunward to dry off.",
+      "attacks": [
+        {
+          "name": "Struggle Bug",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Move an Energy from your opponent's Active Pokémon to 1 of their Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-9",
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Rowlet",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Megumi Mizutani",
+      "text": "This wary Pokémon uses photosynthesis to store up energy during the day, while becoming active at night.",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Leafage",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Dartrix",
+      "stage": "Stage 1",
+      "evolvesFrom": "Rowlet",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mizue",
+      "text": "A bit of a dandy, it spends its free time preening its wings. Its preoccupation with any dirt on its plumage can leave it unable to battle.",
+      "attacks": [
+        {
+          "name": "Sharp Blade Quill",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Leaf Blade",
+          "damage": "50+",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Decidueye",
+      "stage": "Stage 2",
+      "evolvesFrom": "Dartrix",
+      "hp": "140",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "text": "It fires arrow quills from its wings with such precision, they can pierce a pebble at distances over a hundred yards.",
+      "attacks": [
+        {
+          "name": "Leaf Blade",
+          "damage": "30+",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        },
+        {
+          "name": "Brave Bird",
+          "damage": "120",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This Pokémon does 20 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Decidueye-GX",
+      "stage": "Stage 2",
+      "evolvesFrom": "Dartrix",
+      "hp": "240",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Feather Arrow",
+          "text": "Once during your turn (before your attack), you may put 2 damage counters on 1 of your opponent's Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Razor Leaf",
+          "damage": "90",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Hollow Hunt-GX",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Put 3 cards from your discard pile into your hand. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Grubbin",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Akira Komayama",
+      "text": "They often gather near places frequented by electric Pokémon in order to avoid being attacked by bird Pokémon.",
+      "attacks": [
+        {
+          "name": "Vice Grip",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Fomantis",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "They give off a sweet and refreshing scent. Cutiefly often gather near the tall grass where Fomantis are hiding.",
+      "attacks": [
+        {
+          "name": "Synthesis",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Search your deck for a Grass Energy card and attach it to 1 of your Pokémon. Then, shuffle your deck."
+        },
+        {
+          "name": "Leafage",
+          "damage": "20",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Lurantis-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Fomantis",
+      "hp": "210",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Flower Supply",
+          "damage": "40",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Attach 2 basic Energy cards from your discard pile to your Pokémon in any way you like."
+        },
+        {
+          "name": "Solar Blade",
+          "damage": "120",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Heal 30 damage from this Pokémon."
+        },
+        {
+          "name": "Chloroscythe-GX",
+          "damage": "50×",
+          "cost": [
+            "Grass"
+          ],
+          "text": "This attack does 50 damage times the amount of Grass Energy attached to this Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-16",
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Morelull",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Saya Tsuruta",
+      "text": "As it drowses the day away, it nourishes itself by sucking from tree roots. It wakens at the fall of night, wandering off in search of a new tree.",
+      "attacks": [
+        {
+          "name": "Flickering Spores",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        },
+        {
+          "name": "Ram",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Shiinotic",
+      "stage": "Stage 1",
+      "evolvesFrom": "Morelull",
+      "hp": "100",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mizue",
+      "abilities": [
+        {
+          "name": "Illuminate",
+          "text": "Once during your turn (before your attack), you may search your deck for a Grass Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It emits flickering spores that cause drowsiness. When its prey succumb to sleep, this Pokémon feeds on them by sucking in their energy.",
+      "attacks": [
+        {
+          "name": "Flickering Spores",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-18",
+      "itemType": "Pokemon Card",
+      "number": "18",
+      "name": "Bounsweet",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Akira Komayama",
+      "text": "A delectable aroma pours from its body. They are often swallowed whole by Toucannon lured by that wafting deliciousness.",
+      "attacks": [
+        {
+          "name": "Sweet Scent",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Heal 30 damage from 1 of your Pokémon."
+        },
+        {
+          "name": "Splash",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-19",
+      "itemType": "Pokemon Card",
+      "number": "19",
+      "name": "Steenee",
+      "stage": "Stage 1",
+      "evolvesFrom": "Bounsweet",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mizue",
+      "text": "The sepals on its head developed to protect its body. These are quite hard, so even if pecked by bird Pokémon, this Pokémon is totally fine.",
+      "attacks": [
+        {
+          "name": "Sweet Scent",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Heal 30 damage from 1 of your Pokémon."
+        },
+        {
+          "name": "Stomp",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-20",
+      "itemType": "Pokemon Card",
+      "number": "20",
+      "name": "Tsareena",
+      "stage": "Stage 2",
+      "evolvesFrom": "Steenee",
+      "hp": "140",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Shin Nagasawa",
+      "abilities": [
+        {
+          "name": "Queenly Majesty",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may have your opponent reveal their hand. Then, discard a card from it.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Its long, striking legs aren't just for show but to be used to kick with skill. In victory, it shows off by kicking the defeated, laughing boisterously.",
+      "attacks": [
+        {
+          "name": "Trop Kick",
+          "damage": "80",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Heal 20 damage and remove all Special Conditions from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-21",
+      "itemType": "Pokemon Card",
+      "number": "21",
+      "name": "Growlithe",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "MAHOU",
+      "text": "It's both clever and loyal, but if a stranger tries to invade its territory, it barks threateningly.",
+      "attacks": [
+        {
+          "name": "Take Down",
+          "damage": "60",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This Pokémon does 20 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-22",
+      "itemType": "Pokemon Card",
+      "number": "22",
+      "name": "Arcanine",
+      "stage": "Stage 1",
+      "evolvesFrom": "Growlithe",
+      "hp": "130",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "kodama",
+      "text": "Overflowing with beauty and majesty, this strong Pokémon appears in ancient Eastern folklore.",
+      "attacks": [
+        {
+          "name": "Searing Flame",
+          "damage": "60",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Burned."
+        },
+        {
+          "name": "Firestorm",
+          "damage": "190",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Discard 3 Fire Energy from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-23",
+      "itemType": "Pokemon Card",
+      "number": "23",
+      "name": "Torkoal",
+      "stage": "Basic",
+      "hp": "110",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "sui",
+      "text": "Coal is the source of Torkoal's energy. Large amounts of coal can be found in the mounts where they live.",
+      "attacks": [
+        {
+          "name": "Singe",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Your opponent's Active Pokémon is now Burned."
+        },
+        {
+          "name": "Body Slam",
+          "damage": "50",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-24",
+      "itemType": "Pokemon Card",
+      "number": "24",
+      "name": "Litten",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Akira Komayama",
+      "text": "While grooming itself, it builds up fur inside its stomach. It sets the fur alight and spews fiery attacks, which change based on how it coughs.",
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": "10",
+          "cost": [
+            "Fire"
+          ]
+        },
+        {
+          "name": "Flare",
+          "damage": "20",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-25",
+      "itemType": "Pokemon Card",
+      "number": "25",
+      "name": "Torracat",
+      "stage": "Stage 1",
+      "evolvesFrom": "Litten",
+      "hp": "90",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "TOKIYA",
+      "text": "At its throat, it bears a bell of fire. The bell rings brightly whenever this Pokémon spits fire.",
+      "attacks": [
+        {
+          "name": "Fury Swipes",
+          "damage": "20×",
+          "cost": [
+            "Fire"
+          ],
+          "text": "Flip 3 coins. This attack does 20 damage for each heads."
+        },
+        {
+          "name": "Flamethrower",
+          "damage": "90",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Discard an Energy from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-26",
+      "itemType": "Pokemon Card",
+      "number": "26",
+      "name": "Incineroar",
+      "stage": "Stage 2",
+      "evolvesFrom": "Torracat",
+      "hp": "160",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "artist": "Hitoshi Ariga",
+      "text": "This Pokémon has a violent, selfish disposition. If it's not in the mood to listen, it will ignore its Trainer's orders with complete nonchalance.",
+      "attacks": [
+        {
+          "name": "Fire Fang",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Burned."
+        },
+        {
+          "name": "Darkest Lariat",
+          "damage": "100×",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 100 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-27",
+      "itemType": "Pokemon Card",
+      "number": "27",
+      "name": "Incineroar-GX",
+      "stage": "Stage 2",
+      "evolvesFrom": "Torracat",
+      "hp": "250",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Hustling Strike",
+          "damage": "10+",
+          "cost": [
+            "Fire"
+          ],
+          "text": "This attack does 20 more damage for each of your Benched Fire Pokémon."
+        },
+        {
+          "name": "Tiger Swing",
+          "damage": "80+",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 50 more damage for each heads."
+        },
+        {
+          "name": "Burning Slam-GX",
+          "damage": "200",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Burned. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-28",
+      "itemType": "Pokemon Card",
+      "number": "28",
+      "name": "Psyduck",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Shibuzoh.",
+      "text": "As a result of headaches so fierce they cause it to cry, it sometimes uses psychokinesis without meaning to.",
+      "attacks": [
+        {
+          "name": "Confusion Wave",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Both Active Pokémon are now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-29",
+      "itemType": "Pokemon Card",
+      "number": "29",
+      "name": "Golduck",
+      "stage": "Stage 1",
+      "evolvesFrom": "Psyduck",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Hasuno",
+      "text": "It is said that the red part of its forehead grants supernatural powers to those who posses one, so it was over-hunted in the past.",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Double Jet",
+          "damage": "60×",
+          "cost": [
+            "Water"
+          ],
+          "text": "Discard up to 2 Water Energy cards from your hand. This attack does 60 damage for each card you discarded in this way."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-30",
+      "itemType": "Pokemon Card",
+      "number": "30",
+      "name": "Poliwag",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Asako Ito",
+      "text": "It's still not very good at walking. Its Trainers should train this Pokémon to walk every day.",
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ]
+        },
+        {
+          "name": "Hydro Pump",
+          "damage": "30+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 10 more damage times the amount of Water Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-31",
+      "itemType": "Pokemon Card",
+      "number": "31",
+      "name": "Poliwhirl",
+      "stage": "Stage 1",
+      "evolvesFrom": "Poliwag",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Atsuko Nishida",
+      "text": "It marches over the land in search of bug Pokémon to eat. Then it takes them underwater so it can dine on them where it's safe.",
+      "attacks": [
+        {
+          "name": "Double Slap",
+          "damage": "30×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 30 damage for each heads."
+        },
+        {
+          "name": "Wave Splash",
+          "damage": "60",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-32",
+      "itemType": "Pokemon Card",
+      "number": "32",
+      "name": "Poliwrath",
+      "stage": "Stage 2",
+      "evolvesFrom": "Poliwhirl",
+      "hp": "150",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Midori Harada",
+      "text": "Its percentage of body fat is nearly zero. Its body is entirely muscle, which makes it heavy and forces its swimming prowess to develop.",
+      "attacks": [
+        {
+          "name": "Split Spiral Punch",
+          "damage": "30",
+          "cost": [
+            "Water"
+          ],
+          "text": "Your opponent's Active Pokémon is now Confused."
+        },
+        {
+          "name": "Wake-Up Slap",
+          "damage": "80+",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon is affected by a Special Condition, this attack does 80 more damage. Then, remove all Special Conditions from that Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-33",
+      "itemType": "Pokemon Card",
+      "number": "33",
+      "name": "Shellder",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Midori Harada",
+      "text": "The hardness of its shell surpasses the hardness of a diamond. In days gone by, people used the shells to make shields.",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-34",
+      "itemType": "Pokemon Card",
+      "number": "34",
+      "name": "Cloyster",
+      "stage": "Stage 1",
+      "evolvesFrom": "Shellder",
+      "hp": "120",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Yoshinobu Saito",
+      "text": "Its hard shell cannot be shattered—not even by a bomb. The contents of the shell remain unknown.",
+      "attacks": [
+        {
+          "name": "Headlock",
+          "damage": "30+",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 more damage. If tails, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Guard Press",
+          "damage": "80",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, this Pokémon takes 20 less damage from attacks (after applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-35",
+      "itemType": "Pokemon Card",
+      "number": "35",
+      "name": "Lapras-GX",
+      "stage": "Basic",
+      "hp": "190",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Collect",
+          "cost": [
+            "Water"
+          ],
+          "text": "Draw 3 cards."
+        },
+        {
+          "name": "Blizzard Burn",
+          "damage": "160",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "text": "This Pokémon can't attack during your next turn."
+        },
+        {
+          "name": "Ice Beam-GX",
+          "damage": "100",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Paralyzed. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-36",
+      "itemType": "Pokemon Card",
+      "number": "36",
+      "name": "Corsola",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Satoshi Shirai",
+      "text": "Pursued by Mareanie for the branches on its head, this Pokémon will sometimes snap its own branches off as a diversion while it escapes.",
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck."
+        },
+        {
+          "name": "Surf",
+          "damage": "60",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-37",
+      "itemType": "Pokemon Card",
+      "number": "37",
+      "name": "Wingull",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Aya Kusube",
+      "text": "Fishermen keep an eye out for Wingull in the sky, because wherever they're circling, the ocean sure to be is teeming with fish Pokémon.",
+      "attacks": [
+        {
+          "name": "Roost",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Heal 30 damage from this Pokémon. It can't retreat during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-38",
+      "itemType": "Pokemon Card",
+      "number": "38",
+      "name": "Pelipper",
+      "stage": "Stage 1",
+      "evolvesFrom": "Wingull",
+      "hp": "100",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Sumiyoshi Kizuki",
+      "text": "Gathering food is the work of young males. They store food in their capacious beaks and carry it back to others waiting in the nest.",
+      "attacks": [
+        {
+          "name": "Courier",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Put 1 of your Benched Pokémon and all cards attached to it into your hand."
+        },
+        {
+          "name": "Fly",
+          "damage": "60",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-39",
+      "itemType": "Pokemon Card",
+      "number": "39",
+      "name": "Popplio",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "This Pokémon snorts body fluids from its nose, blowing balloons to smash into its foes. It's famous for being a hard worker.",
+      "attacks": [
+        {
+          "name": "Pound",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ]
+        },
+        {
+          "name": "Water Gun",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-40",
+      "itemType": "Pokemon Card",
+      "number": "40",
+      "name": "Brionne",
+      "stage": "Stage 1",
+      "evolvesFrom": "Popplio",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Saya Tsuruta",
+      "text": "A skillful dancer, it creates a sequence of water balloons as it dances, and briskly bombards it enemies.",
+      "attacks": [
+        {
+          "name": "Wave Splash",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Disarming Voice",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-41",
+      "itemType": "Pokemon Card",
+      "number": "41",
+      "name": "Primarina",
+      "stage": "Stage 2",
+      "evolvesFrom": "Brionne",
+      "hp": "150",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "text": "It controls its water balloons with song. The melody is learning from others of its kind and is passed down from one generation to the next.",
+      "attacks": [
+        {
+          "name": "Disarming Voice",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Confused."
+        },
+        {
+          "name": "Sparkling Aria",
+          "damage": "100",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Heal 30 damage from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-42",
+      "itemType": "Pokemon Card",
+      "number": "42",
+      "name": "Primarina-GX",
+      "stage": "Stage 2",
+      "evolvesFrom": "Brionne",
+      "hp": "250",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Bubble Beat",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 20 more damage times the amount of Water Energy attached to your Pokémon."
+        },
+        {
+          "name": "Roaring Seas",
+          "damage": "120",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Discard an Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Grand Echo-GX",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Heal all damage from all of your Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-43",
+      "itemType": "Pokemon Card",
+      "number": "43",
+      "name": "Crabominable",
+      "stage": "Stage 1",
+      "evolvesFrom": "Crabrawler",
+      "hp": "140",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "TOKIYA",
+      "text": "It just throws punches indiscriminately. In times of desperation, it can lop off its own pincers and fire them like rockets.",
+      "attacks": [
+        {
+          "name": "Avalanche",
+          "damage": "80",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "This attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Ice Hammer",
+          "damage": "140",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-44",
+      "itemType": "Pokemon Card",
+      "number": "44",
+      "name": "Wishiwashi",
+      "stage": "Basic",
+      "hp": "30",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Cowardice",
+          "text": "Once during your turn (before your attack), you may discard all cards attached to this Pokémon and return it to your hand. You can't use this Ability during your first turn or on the turn this Pokémon was put into play.",
+          "type": "Ability"
+        }
+      ],
+      "text": "When it's in trouble, its eyes moisten and begin to shine. The shining light attracts its comrades, and they stand together against their enemies.",
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-45",
+      "itemType": "Pokemon Card",
+      "number": "45",
+      "name": "Dewpider",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "It crawls onto the land in search of food. Its water bubble allows it to breathe and protects its soft head.",
+      "attacks": [
+        {
+          "name": "Bubble",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-46",
+      "itemType": "Pokemon Card",
+      "number": "46",
+      "name": "Araquanid",
+      "stage": "Stage 1",
+      "evolvesFrom": "Dewpider",
+      "hp": "100",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "match",
+      "abilities": [
+        {
+          "name": "Water Bubble",
+          "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Fire Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It delivers headbutts with the water bubble on its head. Small Pokémon get sucked into the bubble, where they drown.",
+      "attacks": [
+        {
+          "name": "Aqua Edge",
+          "damage": "70",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-47",
+      "itemType": "Pokemon Card",
+      "number": "47",
+      "name": "Pyukumuku",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "You Iribi",
+      "abilities": [
+        {
+          "name": "Innards Out",
+          "text": "If this Pokémon is your Active Pokémon and is Knocked Out by damage from an opponent's attack, put 6 damage counters on the Attacking Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It lives in shallow seas, such as areas near a beach. It can eject its internal organs, which it uses to engulf its prey or battle enemies.",
+      "attacks": [
+        {
+          "name": "Continuous Tumble",
+          "damage": "30×",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip a coin until you get tails. This attack does 30 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-48",
+      "itemType": "Pokemon Card",
+      "number": "48",
+      "name": "Bruxish",
+      "stage": "Basic",
+      "hp": "110",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Mizue",
+      "text": "It stuns its prey with psychokinesis and then grinds them to mush with its strong teeth. Even Shellder's shell is no match for it.",
+      "attacks": [
+        {
+          "name": "Vivid Charge",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 3 basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck."
+        },
+        {
+          "name": "Psychic Fangs",
+          "damage": "90",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-49",
+      "itemType": "Pokemon Card",
+      "number": "49",
+      "name": "Chinchou",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Ayaka Yoshida",
+      "text": "It lives in the depths beyond the reach of sunlight. It flashes lights on its antennae to communicate with others of its kind.",
+      "attacks": [
+        {
+          "name": "Searching Light",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Look at 1 of your face-down Prize cards."
+        },
+        {
+          "name": "Electro Ball",
+          "damage": "30",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-50",
+      "itemType": "Pokemon Card",
+      "number": "50",
+      "name": "Lanturn",
+      "stage": "Stage 1",
+      "evolvesFrom": "Chinchou",
+      "hp": "110",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "Masakazu Fukuda",
+      "text": "This Pokémon flashes a bright light that blinds its prey. This creates an opening for it to deliver an electrical attack.",
+      "attacks": [
+        {
+          "name": "Confuse Ray",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Confused."
+        },
+        {
+          "name": "Aqua Spark",
+          "damage": "60+",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If this Pokémon has any Water Energy attached to it, this attack does 60 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-51",
+      "itemType": "Pokemon Card",
+      "number": "51",
+      "name": "Charjabug",
+      "stage": "Stage 1",
+      "evolvesFrom": "Grubbin",
+      "hp": "90",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Naoki Saito",
+      "text": "From the food it digests, it generates electricity, and it stores this energy in its electric sac.",
+      "attacks": [
+        {
+          "name": "Shocking Jaws",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Electric Ball",
+          "damage": "50",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-52",
+      "itemType": "Pokemon Card",
+      "number": "52",
+      "name": "Vikavolt",
+      "stage": "Stage 2",
+      "evolvesFrom": "Charjabug",
+      "hp": "150",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Hitoshi Ariga",
+      "abilities": [
+        {
+          "name": "Strong Charge",
+          "text": "Once during your turn (before your attack), you may search your deck for a Grass Energy card and a Lightning Energy card and attach them to your Pokémon in any way you like. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It produces electricity via an electrical organ in its abdomen. It overwhelms bird Pokémon with shocking beams of electrical energy.",
+      "attacks": [
+        {
+          "name": "Electro Cannon",
+          "damage": "150",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard 3 Energy from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-53",
+      "itemType": "Pokemon Card",
+      "number": "53",
+      "name": "Togedemaru",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Megumi Mizutani",
+      "text": "The long hairs on its back act as lightning rods. The bolts of lightning it attracts are stored as energy in its electric sac.",
+      "attacks": [
+        {
+          "name": "Defense Curl",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, prevent all damage done to this Pokémon by attacks during your opponent's next turn."
+        },
+        {
+          "name": "Discharge",
+          "damage": "30×",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Discard all Lightning Energy from this Pokémon. This attack does 30 damage for each card you discarded in this way."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-54",
+      "itemType": "Pokemon Card",
+      "number": "54",
+      "name": "Zubat",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Satoshi Shirai",
+      "text": "It sleeps in caves during the day. It has no eyes, so to check its surroundings while flying, it emits ultrasonic waves.",
+      "attacks": [
+        {
+          "name": "Astonish",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Choose a random card from your opponent's hand. Your opponent reveals that card and shuffles it into their deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-55",
+      "itemType": "Pokemon Card",
+      "number": "55",
+      "name": "Golbat",
+      "stage": "Stage 1",
+      "evolvesFrom": "Zubat",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Masakazu Fukuda",
+      "text": "Its thick fangs are hollow like straws, making them unexpectedly fragile. These fangs are specialized for sucking blood.",
+      "attacks": [
+        {
+          "name": "Super Poison Breath",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        },
+        {
+          "name": "Acrobatics",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-56",
+      "itemType": "Pokemon Card",
+      "number": "56",
+      "name": "Crobat",
+      "stage": "Stage 2",
+      "evolvesFrom": "Golbat",
+      "hp": "130",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "DemizuPosuka",
+      "text": "Both its legs became wings, and as a result, it can't move well on the ground. All it can do is crawl around.",
+      "attacks": [
+        {
+          "name": "Triple Poison",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Your opponent's Active Pokémon is now Poisoned. Put 3 damage counters instead of 1 on that Pokémon between turns."
+        },
+        {
+          "name": "Surprise Strike",
+          "damage": "60+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If this Pokémon was on the Bench and became your Active Pokémon this turn, this attack does 60 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-57",
+      "itemType": "Pokemon Card",
+      "number": "57",
+      "name": "Alolan Grimer",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Naoki Saito",
+      "text": "The crystals on Grimer's body are lumps of toxins. If one falls off, lethal poisons leak out.",
+      "attacks": [
+        {
+          "name": "Super Poison Breath",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned."
+        },
+        {
+          "name": "Pound",
+          "damage": "40",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-58",
+      "itemType": "Pokemon Card",
+      "number": "58",
+      "name": "Alolan Muk",
+      "stage": "Stage 1",
+      "evolvesFrom": "Alolan Grimer",
+      "hp": "120",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Hitoshi Ariga",
+      "abilities": [
+        {
+          "name": "Power of Alchemy",
+          "text": "Each Basic Pokémon in play, in each player's hand, and in each player's discard pile has no Abilities.",
+          "type": "Ability"
+        }
+      ],
+      "text": "While it's unexpectedly quiet and friendly, if it's not fed any trash for a while, it will smash its Trainer's furnishings and eat up the fragments.",
+      "attacks": [
+        {
+          "name": "Crunch",
+          "damage": "90",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-59",
+      "itemType": "Pokemon Card",
+      "number": "59",
+      "name": "Drowzee",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Suwama Chiaki",
+      "text": "It finds really fun dreams tasty. When it makes friends with people, it may show them the most delicious dreams it's ever eaten.",
+      "attacks": [
+        {
+          "name": "Psychic Boom",
+          "damage": "10×",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "This attack does 10 damage times the amount of Energy attached to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Headbutt",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-60",
+      "itemType": "Pokemon Card",
+      "number": "60",
+      "name": "Hypno",
+      "stage": "Stage 1",
+      "evolvesFrom": "Drowzee",
+      "hp": "110",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "OOYAMA",
+      "text": "As a matter of course, it makes anyone it meets fall asleep and has a taste of their dreams. Anyone having a good dream, it carries off.",
+      "attacks": [
+        {
+          "name": "Meditate",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 10 more damage for each damage counter on your opponent's Active Pokémon."
+        },
+        {
+          "name": "Hypnoblast",
+          "damage": "70",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-61",
+      "itemType": "Pokemon Card",
+      "number": "61",
+      "name": "Espeon-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "200",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Psybeam",
+          "damage": "30",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Your opponent's Active Pokémon is now Confused."
+        },
+        {
+          "name": "Psychic",
+          "damage": "60+",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 30 more damage times the amount of Energy attached to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Divide-GX",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Put 10 damage counters on your opponent's Pokémon in any way you like. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-62",
+      "itemType": "Pokemon Card",
+      "number": "62",
+      "name": "Mareanie",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "match",
+      "text": "It plunges the poison spike on its head into its prey. When the prey has weakened, Mareanie deals the finishing blow with its 10 tentacles.",
+      "attacks": [
+        {
+          "name": "Poison Sting",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-63",
+      "itemType": "Pokemon Card",
+      "number": "63",
+      "name": "Toxapex",
+      "stage": "Stage 1",
+      "evolvesFrom": "Mareanie",
+      "hp": "110",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Toxic Spikes",
+          "text": "Whenever your opponent's Active Pokémon retreats, their new Active Pokémon is Poisoned.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Toxapex crawls along the ocean floor on its 12 legs. It leaves a trail of Corsola bits scattered in its wake.",
+      "attacks": [
+        {
+          "name": "Venoshock",
+          "damage": "50+",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon is Poisoned, this attack does 50 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-64",
+      "itemType": "Pokemon Card",
+      "number": "64",
+      "name": "Cosmog",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Megumi Mizutani",
+      "text": "Its body is gaseous and frail. It slowly grows as it collects dust from the atmosphere.",
+      "attacks": [
+        {
+          "name": "Dust Gathering",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw a card."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-65",
+      "itemType": "Pokemon Card",
+      "number": "65",
+      "name": "Cosmoem",
+      "stage": "Stage 1",
+      "evolvesFrom": "Cosmog",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Sanosuke Sakuma",
+      "text": "Motionless as if dead, its body is faintly warm to the touch. In the distant past, it was called the cocoon of the stars.",
+      "attacks": [
+        {
+          "name": "Teleport",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-66",
+      "itemType": "Pokemon Card",
+      "number": "66",
+      "name": "Lunala-GX",
+      "stage": "Stage 2",
+      "evolvesFrom": "Cosmoem",
+      "hp": "250",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "PLANETA",
+      "abilities": [
+        {
+          "name": "Psychic Transfer",
+          "text": "As often as you like during your turn (before your attack), you may move a Psychic Energy from 1 of your Pokémon to another of your Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Moongeist Beam",
+          "damage": "120",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "The Defending Pokémon can't be healed during your opponent's next turn."
+        },
+        {
+          "name": "Lunar Fall-GX",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Knock Out 1 of your opponent's Basic Pokémon that isn't a Pokémon-GX. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-67",
+      "itemType": "Pokemon Card",
+      "number": "67",
+      "name": "Makuhita",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Mina Nakai",
+      "text": "It was originally brought in from another region, but now Makuhita from Alola are more famous.",
+      "attacks": [
+        {
+          "name": "Surprise Attack",
+          "damage": "20",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        },
+        {
+          "name": "Strength",
+          "damage": "40",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-68",
+      "itemType": "Pokemon Card",
+      "number": "68",
+      "name": "Hariyama",
+      "stage": "Stage 1",
+      "evolvesFrom": "Makuhita",
+      "hp": "130",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Miki Tanaka",
+      "text": "It is known for its fantastic strength, but as it grows older, it focuses more on training Makuhita.",
+      "attacks": [
+        {
+          "name": "Push Out",
+          "damage": "60",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent switches their Active Pokémon with 1 of their Benched Pokémon."
+        },
+        {
+          "name": "Megaton Slap Push",
+          "damage": "130",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-69",
+      "itemType": "Pokemon Card",
+      "number": "69",
+      "name": "Roggenrola",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Kanako Eo",
+      "text": "The hexagonal cavity is its ear. It walks in the direction of sounds it hears, but if the sounds cease, it panics and topples over.",
+      "attacks": [
+        {
+          "name": "Smack Down",
+          "damage": "20+",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon has Fighting Resistance, this attack does 50 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-70",
+      "itemType": "Pokemon Card",
+      "number": "70",
+      "name": "Boldore",
+      "stage": "Stage 1",
+      "evolvesFrom": "Roggenrola",
+      "hp": "110",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shigenori Negishi",
+      "text": "It explores caves in search of underground water. It's not comfortable around water, so this Pokémon takes great care in lapping it up.",
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Rock Hurl",
+          "damage": "50",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-71",
+      "itemType": "Pokemon Card",
+      "number": "71",
+      "name": "Gigalith",
+      "stage": "Stage 2",
+      "evolvesFrom": "Boldore",
+      "hp": "160",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Eske Yoshinob",
+      "text": "Known for its hefty horsepower, this Pokémon is a popular partner for construction workers.",
+      "attacks": [
+        {
+          "name": "Rock Artillery",
+          "damage": "50×",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Discard any amount of Fighting Energy from your Pokémon. This attack does 50 damage for each card you discarded in this way."
+        },
+        {
+          "name": "Rock Tumble",
+          "damage": "120",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack's damage isn't affected by Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-72",
+      "itemType": "Pokemon Card",
+      "number": "72",
+      "name": "Crabrawler",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Shin Nagasawa",
+      "text": "It punches so much, its pincers often come off from overuse, but they grow back quickly. What little meat they contain is rich and delicious.",
+      "attacks": [
+        {
+          "name": "Punch",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Crabhammer",
+          "damage": "40",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-73",
+      "itemType": "Pokemon Card",
+      "number": "73",
+      "name": "Passimian",
+      "stage": "Basic",
+      "hp": "110",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Naoki Saito",
+      "text": "They form groups of roughly 20 individuals. Their mutual bond is remarkable—they will never let down a comrade.",
+      "attacks": [
+        {
+          "name": "Fling",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Team Play",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 30 damage for each of your Benched Passimian."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-74",
+      "itemType": "Pokemon Card",
+      "number": "74",
+      "name": "Sandygast",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Akira Komayama",
+      "text": "It takes control of anyone who puts a hand in its mouth. And so it adds to the accumulation of its sand-mound body.",
+      "attacks": [
+        {
+          "name": "Shore Up",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Attach a Fighting Energy card from your discard pile to this Pokémon."
+        },
+        {
+          "name": "Sand Tomb",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-75",
+      "itemType": "Pokemon Card",
+      "number": "75",
+      "name": "Palossand",
+      "stage": "Stage 1",
+      "evolvesFrom": "Sandygast",
+      "hp": "130",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "abilities": [
+        {
+          "name": "Wall of Sand",
+          "text": "This Pokémon takes 20 less damage from attacks (after applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "text": "Buried beneath the castle are masses of dried-up bones from those whose vitality it has drained.",
+      "attacks": [
+        {
+          "name": "Absorb Vitality",
+          "damage": "50",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-76",
+      "itemType": "Pokemon Card",
+      "number": "76",
+      "name": "Alolan Rattata",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "When the sun goes down, it becomes active. It runs around town on a chase for good food for the boss of its nest—Raticate.",
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-77",
+      "itemType": "Pokemon Card",
+      "number": "77",
+      "name": "Alolan Raticate",
+      "stage": "Stage 1",
+      "evolvesFrom": "Alolan Rattata",
+      "hp": "120",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "match",
+      "text": "This gourmet Pokémon is particular about the taste and freshness of its food. Restaurants where Raticate live have a good reputation.",
+      "attacks": [
+        {
+          "name": "Evil Orders",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Search your deck for a number of cards up to the number of your Benched Pokémon and put them into your hand. Then, shuffle your deck."
+        },
+        {
+          "name": "Endeavor",
+          "damage": "60+",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 30 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-78",
+      "itemType": "Pokemon Card",
+      "number": "78",
+      "name": "Alolan Meowth",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "text": "This Pokémon was not originally found in Alola. Human actions caused a surge in their numbers, and they went feral. They're prideful and crafty.",
+      "attacks": [
+        {
+          "name": "Fury Swipes",
+          "damage": "10×",
+          "text": "Flip 3 coins. This attack does 10 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-79",
+      "itemType": "Pokemon Card",
+      "number": "79",
+      "name": "Alolan Persian",
+      "stage": "Stage 1",
+      "evolvesFrom": "Alolan Meowth",
+      "hp": "90",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "kirisAki",
+      "text": "Its round face and smooth coat—softer than the most high-class velvet—have made this a very popular Pokémon in Alola.",
+      "attacks": [
+        {
+          "name": "Taunt",
+          "text": "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon."
+        },
+        {
+          "name": "Claw Rend",
+          "damage": "30+",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-80",
+      "itemType": "Pokemon Card",
+      "number": "80",
+      "name": "Umbreon-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "200",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Strafe",
+          "damage": "30",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "You may switch this Pokémon with 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Shadow Bullet",
+          "damage": "90",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Dark Call-GX",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Discard 2 Energy from your opponent's Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-81",
+      "itemType": "Pokemon Card",
+      "number": "81",
+      "name": "Carvanha",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Sumiyoshi Kizuki",
+      "text": "If they scent the faintest trace of blood, they rush to attack en masse. When alone, they're rather cowardly.",
+      "attacks": [
+        {
+          "name": "Gnaw Through",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Discard all Pokémon Tool cards from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Bite",
+          "damage": "20",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-82",
+      "itemType": "Pokemon Card",
+      "number": "82",
+      "name": "Sharpedo",
+      "stage": "Stage 1",
+      "evolvesFrom": "Carvanha",
+      "hp": "110",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Yumi",
+      "abilities": [
+        {
+          "name": "Rough Skin",
+          "text": "If this Pokémon is your Active Pokémon and is damaged by an opponent's attack (even if this Pokémon is Knocked Out), put 3 damage counters on the Attacking Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It has a sad history. In the past, its dorsal fin was a treasured foodstuff, so this Pokémon became a victim of overfishing.",
+      "attacks": [
+        {
+          "name": "Aqua Impact",
+          "damage": "60+",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 20 more damage for each Colorless in your opponent's Active Pokémon's Retreat Cost."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-83",
+      "itemType": "Pokemon Card",
+      "number": "83",
+      "name": "Sandile",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Atsuko Nishida",
+      "text": "It submerges itself in sand and moves as if swimming. This wise behavior keeps its enemies from finding it and maintains its temperature.",
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Crunch",
+          "damage": "30",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-84",
+      "itemType": "Pokemon Card",
+      "number": "84",
+      "name": "Krokorok",
+      "stage": "Stage 1",
+      "evolvesFrom": "Sandile",
+      "hp": "90",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "kawayoo",
+      "text": "They move in groups of a few individuals. A female is often the leader of the group, and the males will gather food.",
+      "attacks": [
+        {
+          "name": "Knock Off",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard a random card from your opponent's hand."
+        },
+        {
+          "name": "Darkness Fang",
+          "damage": "60",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-85",
+      "itemType": "Pokemon Card",
+      "number": "85",
+      "name": "Krookodile",
+      "stage": "Stage 2",
+      "evolvesFrom": "Krokorok",
+      "hp": "150",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Hajime Kusajima",
+      "text": "Its unique faculty of sight can detect small prey more than 30 miles away, even in the midst of a sandstorm.",
+      "attacks": [
+        {
+          "name": "False Accusation",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 20 more damage for each card in your opponent's hand."
+        },
+        {
+          "name": "Obsidian Fang",
+          "damage": "120",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Before doing damage, discard all Pokémon Tool cards from your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-86",
+      "itemType": "Pokemon Card",
+      "number": "86",
+      "name": "Alolan Diglett",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Common",
+      "artist": "Megumi Mizutani",
+      "text": "Its head sports an altered form of whiskers made of metal. When in communication with its comrades, its whiskers wobble to and fro.",
+      "attacks": [
+        {
+          "name": "Spelunk",
+          "text": "Look at the top 3 cards of your deck and put them back in any order."
+        },
+        {
+          "name": "Mud-Slap",
+          "damage": "10",
+          "cost": [
+            "Metal"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-87",
+      "itemType": "Pokemon Card",
+      "number": "87",
+      "name": "Alolan Dugtrio",
+      "stage": "Stage 1",
+      "evolvesFrom": "Alolan Diglett",
+      "hp": "100",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "match",
+      "abilities": [
+        {
+          "name": "Tangling Hair",
+          "text": "Your opponent's Active Pokémon's Retreat Cost is Colorless more.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Its shining gold hair provides it with protection. It's reputed that keeping any of its fallen hairs will bring bad luck.",
+      "attacks": [
+        {
+          "name": "Dig Under",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 50 damage to 1 of your opponent's Pokémon. This damage isn't affected by Weakness or Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-88",
+      "itemType": "Pokemon Card",
+      "number": "88",
+      "name": "Skarmory",
+      "stage": "Basic",
+      "hp": "110",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Common",
+      "artist": "Anesaki Dynamic",
+      "text": "Its feathers, which fall off as it grows, are thin and sharp. In times long past, warriors used them as swords.",
+      "attacks": [
+        {
+          "name": "Metallic Sound",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard all Special Energy from each Pokémon."
+        },
+        {
+          "name": "Aerial Ace",
+          "damage": "60+",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-89",
+      "itemType": "Pokemon Card",
+      "number": "89",
+      "name": "Solgaleo-GX",
+      "stage": "Stage 2",
+      "evolvesFrom": "Cosmoem",
+      "hp": "250",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "PLANETA",
+      "abilities": [
+        {
+          "name": "Ultra Road",
+          "text": "Once during your turn (before your attack), you may switch your Active Pokémon with 1 of your Benched Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Sunsteel Strike",
+          "damage": "230",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "text": "Discard all Energy from this Pokémon."
+        },
+        {
+          "name": "Sol Burst-GX",
+          "cost": [
+            "Metal"
+          ],
+          "text": "Search your deck for up to 5 Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-90",
+      "itemType": "Pokemon Card",
+      "number": "90",
+      "name": "Snubbull",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Common",
+      "artist": "Tomokazu Komiya",
+      "text": "Its growls make its opponents uneasy. This laid-back Pokémon tends to sleep half the day.",
+      "attacks": [
+        {
+          "name": "Reckless Charge",
+          "damage": "20",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "Flip a coin. If tails, this Pokémon does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-91",
+      "itemType": "Pokemon Card",
+      "number": "91",
+      "name": "Granbull",
+      "stage": "Stage 1",
+      "evolvesFrom": "Snubbull",
+      "hp": "110",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Suwama Chiaki",
+      "text": "More timid than Snubbull, this Pokémon is doted on by young people amused at the contrast between its looks and its attitude.",
+      "attacks": [
+        {
+          "name": "Dark Clamp",
+          "damage": "30",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "name": "Fight Back",
+          "damage": "50+",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If this Pokémon has any damage counters on it, this attack does 80 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-92",
+      "itemType": "Pokemon Card",
+      "number": "92",
+      "name": "Cutiefly",
+      "stage": "Basic",
+      "hp": "30",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Common",
+      "artist": "Hitoshi Ariga",
+      "text": "It feeds on the nectar and pollen of flowers. Because it's able to sense auras, it can identify which flowers are about to bloom.",
+      "attacks": [
+        {
+          "name": "Fly Around",
+          "damage": "10",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "If any damage is done to this Pokémon by attacks during your opponent's next turn, flip a coin. If heads, prevent that damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-93",
+      "itemType": "Pokemon Card",
+      "number": "93",
+      "name": "Ribombee",
+      "stage": "Stage 1",
+      "evolvesFrom": "Cutiefly",
+      "hp": "60",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Shin Nagasawa",
+      "abilities": [
+        {
+          "name": "Curative Pollen",
+          "text": "Once during your turn (before your attack), you may heal 20 damage from 1 of your Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It rolls up pollen into puffs. It makes many different varieties, some used as food and others used in battle.",
+      "attacks": [
+        {
+          "name": "Fairy Wind",
+          "damage": "30",
+          "cost": [
+            "Fairy"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-94",
+      "itemType": "Pokemon Card",
+      "number": "94",
+      "name": "Dratini",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Common",
+      "artist": "Naoyo Kimura",
+      "text": "After a 10-hour struggle, a fisherman was able to pull one up and confirm its existence.",
+      "attacks": [
+        {
+          "name": "Signs of Evolution",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Search your deck for a Dratini, a Dragonair, and a Dragonite, reveal them, and put them into your hand. Then, shuffle your deck."
+        },
+        {
+          "name": "Tail Smack",
+          "damage": "10",
+          "cost": [
+            "Lightning"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-95",
+      "itemType": "Pokemon Card",
+      "number": "95",
+      "name": "Dragonair",
+      "stage": "Stage 1",
+      "evolvesFrom": "Dratini",
+      "hp": "90",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Uncommon",
+      "artist": "hatachu",
+      "text": "From time immemorial, it has been venerated by agricultural peoples as an entity able to control the weather.",
+      "attacks": [
+        {
+          "name": "Dragon's Wish",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "During your next turn, you may attach any number of Energy cards from your hand to your Pokémon."
+        },
+        {
+          "name": "Tail Smack",
+          "damage": "60",
+          "cost": [
+            "Grass",
+            "Lightning",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-96",
+      "itemType": "Pokemon Card",
+      "number": "96",
+      "name": "Dragonite",
+      "stage": "Stage 2",
+      "evolvesFrom": "Dragonair",
+      "hp": "160",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Hiroyuki Yamamoto",
+      "text": "Incur the wrath of this normally calm Pokémon at your peril, because it will smash everything to smithereens before it's satisfied.",
+      "attacks": [
+        {
+          "name": "Dragon Wave",
+          "damage": "130",
+          "cost": [
+            "Grass",
+            "Lightning"
+          ],
+          "text": "Discard a Grass Energy and a Lightning Energy from this Pokémon."
+        },
+        {
+          "name": "Giant Tail",
+          "damage": "200",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-97",
+      "itemType": "Pokemon Card",
+      "number": "97",
+      "name": "Spearow",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Yukiko Baba",
+      "text": "Farmers whose fields are troubled by bug Pokémon appreciate Spearow for its vigorous appetite and look after it.",
+      "attacks": [
+        {
+          "name": "Peck Bugs",
+          "damage": "10+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon is a Grass Pokémon, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-98",
+      "itemType": "Pokemon Card",
+      "number": "98",
+      "name": "Fearow",
+      "stage": "Stage 1",
+      "evolvesFrom": "Spearow",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Hideki Ishikawa",
+      "text": "Drawings of a Pokémon resembling Fearow can be seen in murals from deep in ancient history.",
+      "attacks": [
+        {
+          "name": "Devastating Wind",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent shuffles their hand into their deck and draws 3 cards."
+        },
+        {
+          "name": "Slashing Strike",
+          "damage": "60",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This Pokémon can't use Slashing Strike during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-99",
+      "itemType": "Pokemon Card",
+      "number": "99",
+      "name": "Kangaskhan",
+      "stage": "Basic",
+      "hp": "130",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "TOKIYA",
+      "text": "Kangaskhan's maternal love is so deep that it will brave death to protect its offspring.",
+      "attacks": [
+        {
+          "name": "Cross-Cut",
+          "damage": "30+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 30 more damage."
+        },
+        {
+          "name": "Hurricane Punch",
+          "damage": "50×",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 4 coins. This attack does 50 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-100",
+      "itemType": "Pokemon Card",
+      "number": "100",
+      "name": "Tauros-GX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Rage",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 10 more damage for each damage counter on this Pokémon."
+        },
+        {
+          "name": "Horn Attack",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Mad Bull-GX",
+          "damage": "30×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 30 damage for each damage counter on this Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-101",
+      "itemType": "Pokemon Card",
+      "number": "101",
+      "name": "Eevee",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Shibuzoh.",
+      "abilities": [
+        {
+          "name": "Energy Evolution",
+          "text": "When you attach a basic Energy card from your hand to this Pokémon during your turn, you may search your deck for a card that evolves from this Pokémon that is the same type as that Energy card and put it onto this Pokémon to evolve it. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Possessing an unbalanced and unstable genetic makeup, it conceals many possible evolutions.",
+      "attacks": [
+        {
+          "name": "Quick Draw",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, draw a card."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-101a",
+      "itemType": "Pokemon Card",
+      "number": "101a",
+      "name": "Eevee",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Saya Tsuruta",
+      "abilities": [
+        {
+          "name": "Energy Evolution",
+          "text": "When you attach a basic Energy card from your hand to this Pokémon during your turn, you may search your deck for a card that evolves from this Pokémon that is the same type as that Energy card and put it onto this Pokémon to evolve it. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Possessing an unbalanced and unstable genetic makeup, it conceals many possible evolutions.",
+      "attacks": [
+        {
+          "name": "Quick Draw",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, draw a card."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-102",
+      "itemType": "Pokemon Card",
+      "number": "102",
+      "name": "Spinda",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shigenori Negishi",
+      "text": "Its steps are staggering and unsteady, but Spinda thinks it's walking in a straight line.",
+      "attacks": [
+        {
+          "name": "Teeter Punch",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-103",
+      "itemType": "Pokemon Card",
+      "number": "103",
+      "name": "Lillipup",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "MAHOU",
+      "text": "Because it doesn't yelp, it's extremely popular with Trainers who live in apartment buildings.",
+      "attacks": [
+        {
+          "name": "Work Up",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "During your next turn, this Pokémon's attacks do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance)."
+        },
+        {
+          "name": "Bite",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-104",
+      "itemType": "Pokemon Card",
+      "number": "104",
+      "name": "Herdier",
+      "stage": "Stage 1",
+      "evolvesFrom": "Lillipup",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "sui",
+      "abilities": [
+        {
+          "name": "Treasure Hunt",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may put an Item card from your discard pile into your hand.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Its dense black fur grows continuously. The high cost of keeping its hard fur properly groomed make this a troublesome Pokémon to train.",
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-105",
+      "itemType": "Pokemon Card",
+      "number": "105",
+      "name": "Stoutland",
+      "stage": "Stage 2",
+      "evolvesFrom": "Herdier",
+      "hp": "150",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Kagemaru Himeno",
+      "text": "Intelligent, good-natured, and valiant, it's a trustworthy partner on rescue teams.",
+      "attacks": [
+        {
+          "name": "Ferocious Bellow",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, the Defending Pokémon's attacks do 50 less damage (before applying Weakness and Resistance)."
+        },
+        {
+          "name": "Hammer In",
+          "damage": "120",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-106",
+      "itemType": "Pokemon Card",
+      "number": "106",
+      "name": "Pikipek",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Shin Nagasawa",
+      "text": "This Pokémon feeds on berries, whose leftover seeds become the ammunition for the attacks it fires off from its mouth.",
+      "attacks": [
+        {
+          "name": "Rock Smash",
+          "damage": "10+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-107",
+      "itemType": "Pokemon Card",
+      "number": "107",
+      "name": "Trumbeak",
+      "stage": "Stage 1",
+      "evolvesFrom": "Pikipek",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kouki Saitou",
+      "text": "By bending its beak, it can produce a variety of call and brand itself a noisy nuisance for its neighbors.",
+      "attacks": [
+        {
+          "name": "Bullet Seed",
+          "damage": "20×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip 4 coins. This attack does 20 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-108",
+      "itemType": "Pokemon Card",
+      "number": "108",
+      "name": "Toucannon",
+      "stage": "Stage 2",
+      "evolvesFrom": "Trumbeak",
+      "hp": "140",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Megumi Mizutani",
+      "text": "Within its beak, its internal gas ignites, explosively launching seeds with enough power to pulverize boulders.",
+      "attacks": [
+        {
+          "name": "Echoed Voice",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your next turn, this Pokémon's Echoed Voice attack does 60 more damage (before applying Weakness and Resistance)."
+        },
+        {
+          "name": "Beak Blast",
+          "damage": "100",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Burned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-109",
+      "itemType": "Pokemon Card",
+      "number": "109",
+      "name": "Yungoos",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "match",
+      "text": "With its sharp fangs, it will bite anything. It did not originally live in Alola but was imported from another region.",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Bite",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-110",
+      "itemType": "Pokemon Card",
+      "number": "110",
+      "name": "Gumshoos-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Yungoos",
+      "hp": "210",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Search the Premises",
+          "text": "Once during your turn (before your attack), you may have your opponent reveal their hand.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Headbutt Bounce",
+          "damage": "100",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Gumshoe Chance-GX",
+          "damage": "10+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This attack does 50 damage times the amount of Energy attached to your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-111",
+      "itemType": "Pokemon Card",
+      "number": "111",
+      "name": "Stufful",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Sanosuke Sakuma",
+      "text": "Despite its adorable appearance, when it gets angry and flails about, its arms and legs could knock a pro wrestler sprawling.",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-112",
+      "itemType": "Pokemon Card",
+      "number": "112",
+      "name": "Bewear",
+      "stage": "Stage 1",
+      "evolvesFrom": "Stufful",
+      "hp": "130",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "kirisAki",
+      "text": "This immensely dangerous Pokémon possesses overwhelming physical strength. Its habitat is generally off-limits.",
+      "attacks": [
+        {
+          "name": "Bear Hug",
+          "damage": "40",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "name": "Superpower",
+          "damage": "80+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may do 40 more damage. If you do, this Pokémon does 20 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-113",
+      "itemType": "Pokemon Card",
+      "number": "113",
+      "name": "Oranguru",
+      "stage": "Basic",
+      "hp": "120",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Instruct",
+          "text": "Once during your turn (before your attack), you may draw cards until you have 3 cards in your hand.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Deep in the jungle, high in the lofty canopy, this Pokémon abides. On rare occasions, it shows up at the beach to match wits with Slowking.",
+      "attacks": [
+        {
+          "name": "Psychic",
+          "damage": "60+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 20 more damage times the amount of Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-114",
+      "itemType": "Trainer Card",
+      "number": "114",
+      "name": "Big Malasada",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Heal 20 damage and remove a Special Condition from your Active Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-115",
+      "itemType": "Trainer Card",
+      "number": "115",
+      "name": "Crushing Hammer",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yoshinobu Saito",
+      "text": "Flip a coin. If heads, discard an Energy from 1 of your opponent's Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-116",
+      "itemType": "Trainer Card",
+      "number": "116",
+      "name": "Energy Retrieval",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Put 2 basic Energy cards from your discard pile into your hand.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-117",
+      "itemType": "Trainer Card",
+      "number": "117",
+      "name": "Energy Switch",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Move a basic Energy from 1 of your Pokémon to another of your Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-118",
+      "itemType": "Trainer Card",
+      "number": "118",
+      "name": "Exp. Share",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,When your Active Pokémon is Knocked Out by damage from an opponent's attack, you may move 1 basic Energy card from that Pokémon to the Pokémon this card is attached to.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-119",
+      "itemType": "Trainer Card",
+      "number": "119",
+      "name": "Great Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-120",
+      "itemType": "Trainer Card",
+      "number": "120",
+      "name": "Hau",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "Draw 3 cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-121",
+      "itemType": "Trainer Card",
+      "number": "121",
+      "name": "Ilima",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "Each player shuffles their hand into their deck and flips a coin. If heads, that player draws 6 cards. If tails, they draw 3 cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-122",
+      "itemType": "Trainer Card",
+      "number": "122",
+      "name": "Lillie",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "Draw cards until you have 6 cards in your hand. If it's your first turn, draw cards until you have 8 cards in your hand.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-123",
+      "itemType": "Trainer Card",
+      "number": "123",
+      "name": "Nest Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-124",
+      "itemType": "Trainer Card",
+      "number": "124",
+      "name": "Poison Barb",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.,If the Pokémon this card is attached to is your Active Pokémon and is damaged by an opponent's attack (even if this Pokémon is Knocked Out), the Attacking Pokémon is now Poisoned.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-125",
+      "itemType": "Trainer Card",
+      "number": "125",
+      "name": "Poké Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Flip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-126",
+      "itemType": "Trainer Card",
+      "number": "126",
+      "name": "Pokémon Catcher",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with their Active Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-127",
+      "itemType": "Trainer Card",
+      "number": "127",
+      "name": "Potion",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Heal 30 damage from 1 of your Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-128",
+      "itemType": "Trainer Card",
+      "number": "128",
+      "name": "Professor Kukui",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "Draw 2 cards. During this turn, your Pokémon's attacks do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-129",
+      "itemType": "Trainer Card",
+      "number": "129",
+      "name": "Rare Candy",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card onto the Basic Pokémon to evolve it. You can't use this card during your first turn or on a Basic Pokémon that was put into play this turn.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-130",
+      "itemType": "Trainer Card",
+      "number": "130",
+      "name": "Repel",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yoshinobu Saito",
+      "text": "Your opponent switches their Active Pokémon with 1 of their Benched Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-131",
+      "itemType": "Trainer Card",
+      "number": "131",
+      "name": "Rotom Dex",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "After counting your Prize cards, shuffle them into your deck. Then, take that many cards from the top of your deck and put them face down as your Prize cards.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-132",
+      "itemType": "Trainer Card",
+      "number": "132",
+      "name": "Switch",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Switch your Active Pokémon with 1 of your Benched Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-133",
+      "itemType": "Trainer Card",
+      "number": "133",
+      "name": "Team Skull Grunt",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "Your opponent reveals their hand. Discard 2 Energy cards from it.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-134",
+      "itemType": "Trainer Card",
+      "number": "134",
+      "name": "Timer Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Flip 2 coins. For each heads, search your deck for an Evolution Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-135",
+      "itemType": "Trainer Card",
+      "number": "135",
+      "name": "Ultra Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Discard 2 cards from your hand. If you do, search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-136",
+      "itemType": "Energy Card",
+      "number": "136",
+      "name": "Double Colorless Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Uncommon",
+      "text": "Double Colorless Energy provides ColorlessColorless Energy."
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-137",
+      "itemType": "Energy Card",
+      "number": "137",
+      "name": "Rainbow Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Uncommon",
+      "text": "This card provides Colorless Energy. While in play, this card provides every type of Energy but provides only 1 Energy at a time. When you attach this card from your hand to 1 of your Pokémon, put 1 damage counter on that Pokémon."
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-138",
+      "itemType": "Pokemon Card",
+      "number": "138",
+      "name": "Lurantis-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Fomantis",
+      "hp": "210",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Flower Supply",
+          "damage": "40",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Attach 2 basic Energy cards from your discard pile to your Pokémon in any way you like."
+        },
+        {
+          "name": "Solar Blade",
+          "damage": "120",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Heal 30 damage from this Pokémon."
+        },
+        {
+          "name": "Chloroscythe-GX",
+          "damage": "50×",
+          "cost": [
+            "Grass"
+          ],
+          "text": "This attack does 50 damage times the amount of Grass Energy attached to this Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-139",
+      "itemType": "Pokemon Card",
+      "number": "139",
+      "name": "Lapras-GX",
+      "stage": "Basic",
+      "hp": "190",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Collect",
+          "cost": [
+            "Water"
+          ],
+          "text": "Draw 3 cards."
+        },
+        {
+          "name": "Blizzard Burn",
+          "damage": "160",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "text": "This Pokémon can't attack during your next turn."
+        },
+        {
+          "name": "Ice Beam-GX",
+          "damage": "100",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Paralyzed. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-140",
+      "itemType": "Pokemon Card",
+      "number": "140",
+      "name": "Espeon-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "200",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Psybeam",
+          "damage": "30",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Your opponent's Active Pokémon is now Confused."
+        },
+        {
+          "name": "Psychic",
+          "damage": "60+",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 30 more damage times the amount of Energy attached to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Divide-GX",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Put 10 damage counters on your opponent's Pokémon in any way you like. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-141",
+      "itemType": "Pokemon Card",
+      "number": "141",
+      "name": "Lunala-GX",
+      "stage": "Stage 2",
+      "evolvesFrom": "Cosmoem",
+      "hp": "250",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Psychic Transfer",
+          "text": "As often as you like during your turn (before your attack), you may move a Psychic Energy from 1 of your Pokémon to another of your Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Moongeist Beam",
+          "damage": "120",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "The Defending Pokémon can't be healed during your opponent's next turn."
+        },
+        {
+          "name": "Lunar Fall-GX",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Knock Out 1 of your opponent's Basic Pokémon that isn't a Pokémon-GX. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-142",
+      "itemType": "Pokemon Card",
+      "number": "142",
+      "name": "Umbreon-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "200",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Strafe",
+          "damage": "30",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "You may switch this Pokémon with 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Shadow Bullet",
+          "damage": "90",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Dark Call-GX",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Discard 2 Energy from your opponent's Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-143",
+      "itemType": "Pokemon Card",
+      "number": "143",
+      "name": "Solgaleo-GX",
+      "stage": "Stage 2",
+      "evolvesFrom": "Cosmoem",
+      "hp": "250",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Ultra Road",
+          "text": "Once during your turn (before your attack), you may switch your Active Pokémon with 1 of your Benched Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Sunsteel Strike",
+          "damage": "230",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "text": "Discard all Energy from this Pokémon."
+        },
+        {
+          "name": "Sol Burst-GX",
+          "cost": [
+            "Metal"
+          ],
+          "text": "Search your deck for up to 5 Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-144",
+      "itemType": "Pokemon Card",
+      "number": "144",
+      "name": "Tauros-GX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Rage",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 10 more damage for each damage counter on this Pokémon."
+        },
+        {
+          "name": "Horn Attack",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Mad Bull-GX",
+          "damage": "30×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 30 damage for each damage counter on this Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-145",
+      "itemType": "Pokemon Card",
+      "number": "145",
+      "name": "Gumshoos-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Yungoos",
+      "hp": "210",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Search the Premises",
+          "text": "Once during your turn (before your attack), you may have your opponent reveal their hand.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Headbutt Bounce",
+          "damage": "100",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Gumshoe Chance-GX",
+          "damage": "10+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This attack does 50 damage times the amount of Energy attached to your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-146",
+      "itemType": "Trainer Card",
+      "number": "146",
+      "name": "Ilima",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Sanosuke Sakuma",
+      "text": "Each player shuffles their hand into their deck and flips a coin. If heads, that player draws 6 cards. If tails, they draw 3 cards.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-147",
+      "itemType": "Trainer Card",
+      "number": "147",
+      "name": "Lillie",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Megumi Mizutani",
+      "text": "Draw cards until you have 6 cards in your hand. If it's your first turn, draw cards until you have 8 cards in your hand.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-148",
+      "itemType": "Trainer Card",
+      "number": "148",
+      "name": "Professor Kukui",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Megumi Mizutani",
+      "text": "Draw 2 cards. During this turn, your Pokémon's attacks do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-149",
+      "itemType": "Trainer Card",
+      "number": "149",
+      "name": "Team Skull Grunt",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Sanosuke Sakuma",
+      "text": "Your opponent reveals their hand. Discard 2 Energy cards from it.,You may play only 1 Supporter card during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-150",
+      "itemType": "Pokemon Card",
+      "number": "150",
+      "name": "Lurantis-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Fomantis",
+      "hp": "210",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Flower Supply",
+          "damage": "40",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Attach 2 basic Energy cards from your discard pile to your Pokémon in any way you like."
+        },
+        {
+          "name": "Solar Blade",
+          "damage": "120",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Heal 30 damage from this Pokémon."
+        },
+        {
+          "name": "Chloroscythe-GX",
+          "damage": "50×",
+          "cost": [
+            "Grass"
+          ],
+          "text": "This attack does 50 damage times the amount of Grass Energy attached to this Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-151",
+      "itemType": "Pokemon Card",
+      "number": "151",
+      "name": "Lapras-GX",
+      "stage": "Basic",
+      "hp": "190",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Collect",
+          "cost": [
+            "Water"
+          ],
+          "text": "Draw 3 cards."
+        },
+        {
+          "name": "Blizzard Burn",
+          "damage": "160",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "text": "This Pokémon can't attack during your next turn."
+        },
+        {
+          "name": "Ice Beam-GX",
+          "damage": "100",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Paralyzed. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-152",
+      "itemType": "Pokemon Card",
+      "number": "152",
+      "name": "Espeon-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "200",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Psybeam",
+          "damage": "30",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Your opponent's Active Pokémon is now Confused."
+        },
+        {
+          "name": "Psychic",
+          "damage": "60+",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 30 more damage times the number of Energy attached to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Divide-GX",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Put 10 damage counters on your opponent's Pokémon in any way you like. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-153",
+      "itemType": "Pokemon Card",
+      "number": "153",
+      "name": "Lunala-GX",
+      "stage": "Stage 2",
+      "evolvesFrom": "Cosmoem",
+      "hp": "250",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Psychic Transfer",
+          "text": "As often as you like during your turn (before your attack), you may move a Psychic Energy from 1 of your Pokémon to another of your Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Moongeist Beam",
+          "damage": "120",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "The Defending Pokémon can't be healed during your opponent's next turn."
+        },
+        {
+          "name": "Lunar Fall-GX",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Knock Out 1 of your opponent's Basic Pokémon that isn't a Pokémon-GX. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-154",
+      "itemType": "Pokemon Card",
+      "number": "154",
+      "name": "Umbreon-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "200",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Strafe",
+          "damage": "30",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "You may switch this Pokémon with 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Shadow Bullet",
+          "damage": "90",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Dark Call-GX",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Discard 2 Energy from your opponent's Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-155",
+      "itemType": "Pokemon Card",
+      "number": "155",
+      "name": "Solgaleo-GX",
+      "stage": "Stage 2",
+      "evolvesFrom": "Cosmoem",
+      "hp": "250",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Ultra Road",
+          "text": "Once during your turn (before your attack), you may switch your Active Pokémon with 1 of your Benched Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Sunsteel Strike",
+          "damage": "230",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "text": "Discard all Energy from this Pokémon."
+        },
+        {
+          "name": "Sol Burst-GX",
+          "cost": [
+            "Metal"
+          ],
+          "text": "Search your deck for up to 5 Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-156",
+      "itemType": "Pokemon Card",
+      "number": "156",
+      "name": "Tauros-GX",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Rage",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 10 more damage for each damage counter on this Pokémon."
+        },
+        {
+          "name": "Horn Attack",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Mad Bull-GX",
+          "damage": "30×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 30 damage for each damage counter on this Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-157",
+      "itemType": "Pokemon Card",
+      "number": "157",
+      "name": "Gumshoos-GX",
+      "stage": "Stage 1",
+      "evolvesFrom": "Yungoos",
+      "hp": "210",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Search the Premises",
+          "text": "Once during your turn (before your attack), you may have your opponent reveal their hand.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Headbutt Bounce",
+          "damage": "100",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Gumshoe Chance-GX",
+          "damage": "10+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This attack does 50 damage times the amount of Energy attached to your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-158",
+      "itemType": "Trainer Card",
+      "number": "158",
+      "name": "Nest Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Toyste Beach",
+      "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-159",
+      "itemType": "Trainer Card",
+      "number": "159",
+      "name": "Rotom Dex",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "5ban Graphics",
+      "text": "After counting your Prize cards, shuffle them into your deck. Then, take that many cards from the top of your deck and put them face down as your Prize cards.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-160",
+      "itemType": "Trainer Card",
+      "number": "160",
+      "name": "Switch",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Ryo Ueda",
+      "text": "Switch your Active Pokémon with 1 of your Benched Pokémon.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-161",
+      "itemType": "Trainer Card",
+      "number": "161",
+      "name": "Ultra Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Ryo Ueda",
+      "text": "Discard 2 cards from your hand. If you do, search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.,You may play as many Item cards as you like during your turn (before your attack)."
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-162",
+      "itemType": "Energy Card",
+      "number": "162",
+      "name": "Psychic Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Rare Secret"
+    },
+    {
+      "id": "tcg-pokemon-sun-moon-163",
+      "itemType": "Energy Card",
+      "number": "163",
+      "name": "Metal Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Rare Secret"
+    }
+  ]
+}

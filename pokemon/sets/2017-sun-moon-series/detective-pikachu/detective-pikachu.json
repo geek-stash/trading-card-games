@@ -1,0 +1,721 @@
+{
+  "setId": "tcg-pokemon-detective-pikachu",
+  "cardCount": "18",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-detective-pikachu-booster-pack",
+      "itemType": "Sealed Product",
+      "name": "Detective Pikachu Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-detective-pikachu-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Bulbasaur",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "MPC Film",
+      "text": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.",
+      "attacks": [
+        {
+          "name": "Find a Friend",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Search your deck for a Grass Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-detective-pikachu-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Ludicolo",
+      "stage": "Stage 2",
+      "evolvesFrom": "Lombre",
+      "hp": "140",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Framestore",
+      "abilities": [
+        {
+          "name": "Table Service",
+          "text": "Once during your turn (before your attack), you may heal 30 damage from 1 of your Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "If it hears festive music, all its muscles fill with energy. It can't help breaking out into a dance.",
+      "attacks": [
+        {
+          "name": "Punch and Run",
+          "damage": "70",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-detective-pikachu-3",
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Morelull",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "MPC Film",
+      "text": "It scatters its shining spores around itself. Even though they're dangerous, nighttime tours of forests where Morelull live are popular.",
+      "attacks": [
+        {
+          "name": "Sleep Spore",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-detective-pikachu-4",
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Charmander",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "MPC Film",
+      "text": "The flame on its tail indicates Charmander's life force. If it is healthy, the flame burns brightly.",
+      "attacks": [
+        {
+          "name": "Reckless Charge",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This Pokémon does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-detective-pikachu-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Charizard",
+      "stage": "Stage 2",
+      "evolvesFrom": "Charmeleon",
+      "hp": "180",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Framestore",
+      "text": "When expelling a blast of superhot fire, the red flame at the tip of its tail burns more intensely.",
+      "attacks": [
+        {
+          "name": "Slash",
+          "damage": "70",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Wild Tackle",
+          "damage": "180",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This Pokémon does 50 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-detective-pikachu-6",
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Arcanine",
+      "stage": "Stage 1",
+      "evolvesFrom": "Growlithe",
+      "hp": "120",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "artist": "MPC Film",
+      "abilities": [
+        {
+          "name": "Security Guard",
+          "text": "As long as this Pokémon is your Active Pokémon, all of your Pokémon take 30 less damage from your opponent's attacks (after applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "text": "Legends tell of its fighting alongside a general and conquering a whole country.",
+      "attacks": [
+        {
+          "name": "Sharp Fang",
+          "damage": "90",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-detective-pikachu-7",
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Psyduck",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Framestore",
+      "text": "Using psychokinesis gives it a headache, so it normally passes the time spacing out and doing as little as possible.",
+      "attacks": [
+        {
+          "name": "Panic",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ],
+          "text": "This Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-detective-pikachu-8",
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "Magikarp",
+      "stage": "Basic",
+      "hp": "30",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Framestore",
+      "text": "In the distant past, they were fairly strong, but they have become gradually weaker over time.",
+      "attacks": [
+        {
+          "name": "Hold Still",
+          "cost": [
+            "Water"
+          ],
+          "text": "Heal 10 damage from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-detective-pikachu-9",
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Greninja",
+      "stage": "Stage 2",
+      "evolvesFrom": "Frogadier",
+      "hp": "140",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "MPC Film",
+      "abilities": [
+        {
+          "name": "Evasion Jutsu",
+          "text": "If any damage is done to this Pokémon by attacks, flip a coin. If heads, prevent that damage.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It creates throwing stars out of compressed water. When it spins them and throws them at high speed, these stars can split metal in two.",
+      "attacks": [
+        {
+          "name": "Furious Shurikens",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "This attack does 50 damage to 2 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-detective-pikachu-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Detective Pikachu",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare",
+      "artist": "MPC Film",
+      "text": "He loves to show off his vast knowledge. This expressive Pikachu is like a middle-aged man.",
+      "attacks": [
+        {
+          "name": "Scout",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Your opponent reveals their hand."
+        },
+        {
+          "name": "Surprise Attack",
+          "damage": "80",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-detective-pikachu-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Mr. Mime",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "MPC Film",
+      "abilities": [
+        {
+          "name": "Pantomime",
+          "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may switch 1 of your face-down Prize cards with the top card of your deck.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Its pantomime skills are wonderful. You may become enraptured while watching it, but next thing you know, Mr. Mime has made a real wall.",
+      "attacks": [
+        {
+          "name": "Juggling",
+          "damage": "20×",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Flip 4 coins. This attack does 20 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-detective-pikachu-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Mewtwo",
+      "stage": "Basic",
+      "hp": "130",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "MPC Film",
+      "text": "This Pokémon was created by years of horrific gene splicing and DNA engineering experiments.",
+      "attacks": [
+        {
+          "name": "Psyjack",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Active Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+        },
+        {
+          "name": "Break Burn",
+          "damage": "130",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Discard 2 Psychic Energy from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-detective-pikachu-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Machamp",
+      "stage": "Stage 2",
+      "evolvesFrom": "Machoke",
+      "hp": "160",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "MPC Film",
+      "text": "It grasps its opponents with its four arms and twists them up in an intricate hold. People call it \"the Machamp special.\"",
+      "attacks": [
+        {
+          "name": "Directing Traffic",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "Look at the top 5 cards of your deck and put them back in any order."
+        },
+        {
+          "name": "Cross Chop",
+          "damage": "80+",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "Flip a coin. If heads, this attack does 60 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-detective-pikachu-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Jigglypuff",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Common",
+      "artist": "Framestore",
+      "text": "Recordings of Jigglypuff's strange lullabies can be purchased from department stores. These CDs can be found near the bedding area.",
+      "attacks": [
+        {
+          "name": "Healing Melody",
+          "cost": [
+            "Fairy"
+          ],
+          "text": "Heal 10 damage from each of your Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-detective-pikachu-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Snubbull",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fairy"
+      ],
+      "rarity": "Common",
+      "artist": "Framestore",
+      "text": "It grows close to others easily and is also easily spoiled. The disparity between its face and its actions makes many young people wild about it.",
+      "attacks": [
+        {
+          "name": "Play Rough",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-detective-pikachu-16",
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Lickitung",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "MPC Film",
+      "text": "It checks out whatever's around it by licking everything. If you don't clean off a spot where it's licked you, you'll break out in a rash!",
+      "attacks": [
+        {
+          "name": "Continuous Lick",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. This attack does 20 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-detective-pikachu-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Ditto",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "MPC Film",
+      "text": "While it can transform into anything, each Ditto apparently has its own strengths and weaknesses when it comes to transformations.",
+      "attacks": [
+        {
+          "name": "Copy Anything",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon's attacks and use it as this attack. If this Pokémon doesn't have the necessary Energy to use that attack, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-detective-pikachu-18",
+      "itemType": "Pokemon Card",
+      "number": "18",
+      "name": "Slaking",
+      "stage": "Stage 2",
+      "evolvesFrom": "Vigoroth",
+      "hp": "180",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Framestore",
+      "text": "The world's laziest Pokémon. It moves to another spot when there's no food left within its reach.",
+      "attacks": [
+        {
+          "name": "Pitch",
+          "damage": "150",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent switches their Active Pokémon with 1 of their Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    }
+  ]
+}
