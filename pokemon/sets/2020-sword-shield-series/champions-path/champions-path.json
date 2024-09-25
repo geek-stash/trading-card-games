@@ -1,0 +1,2693 @@
+{
+  "setId": "tcg-pokemon-champions-path",
+  "cardCount": "80",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-champions-path-booster-pack",
+      "itemType": "Sealed Product",
+      "name": "Champions Path Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-champions-path-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Venusaur V",
+      "stage": "Basic",
+      "hp": "220",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo V",
+      "artist": "PLANETA Mochizuki",
+      "text": "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Pollen Bomb",
+          "damage": "80",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Asleep and Poisoned."
+        },
+        {
+          "name": "Solar Typhoon",
+          "damage": "220",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "During your next turn, this Pokémon can't use Solar Typhoon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Weedle",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Yuka Morii",
+      "text": "Its poison stinger is very powerful. Its bright-colored body is intended to warn off its enemies.",
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-3",
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Kakuna",
+      "stage": "Stage 1",
+      "evolvesFrom": "Weedle",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Miki Tanaka",
+      "text": "While awaiting evolution, it hides from predators under leaves and in nooks of branches.",
+      "attacks": [
+        {
+          "name": "Bug Bite",
+          "damage": "30",
+          "cost": [
+            "Grass"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-4",
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Beedrill",
+      "stage": "Stage 2",
+      "evolvesFrom": "Kakuna",
+      "hp": "140",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hideki Ishikawa",
+      "text": "May appear in a swarm. Flies at violent speeds, all the while stabbing with the toxic stinger on its rear.",
+      "attacks": [
+        {
+          "name": "Poison Jab",
+          "damage": "80",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Eldegoss V",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo V",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Happy Match",
+          "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may put a Supporter card from your discard pile into your hand.",
+          "type": "Ability"
+        }
+      ],
+      "text": "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Float Up",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may shuffle this Pokémon and all cards attached to it into your deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-6",
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Vulpix",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Shibuzoh.",
+      "text": "While young, it has six gorgeous tails. When it grows, several new tails are sprouted.",
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Singe",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Burned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-7",
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Victini",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Taira Akitsu",
+      "text": "When it shares the infinite energy it creates, that being's entire body will be overflowing with power.",
+      "attacks": [
+        {
+          "name": "Quick Draw",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw a card."
+        },
+        {
+          "name": "Combustion",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-8",
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "Incineroar V",
+      "stage": "Basic",
+      "hp": "220",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo V",
+      "artist": "Kouki Saitou",
+      "text": "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Grand Flame",
+          "damage": "90",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Attach up to 2 Fire Energy cards from your discard pile to 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Flare Blitzer",
+          "damage": "220",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "This Pokémon also does 30 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-9",
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Sizzlipede",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "Akira Komayama",
+      "text": "It stores flammable gas in its body and uses it to generate heat. The yellow sections on its belly get particularly hot.",
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Combustion",
+          "damage": "50",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Centiskorch",
+      "stage": "Stage 1",
+      "evolvesFrom": "Sizzlipede",
+      "hp": "130",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Shin Nagasawa",
+      "text": "When it heats up, its body temperature reaches about 1,500 degrees Fahrenheit. It lashes its body like a whip and launches itself at enemies.",
+      "attacks": [
+        {
+          "name": "Searing Flame",
+          "damage": "50",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Burned."
+        },
+        {
+          "name": "Heat Crawler",
+          "damage": "140",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Carvanha",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Shigenori Negishi",
+      "text": "With its sturdy jaws and fangs, it can easily chomp wooden boats to splinters. It fights with Basculin over food.",
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Sharpedo",
+      "stage": "Stage 1",
+      "evolvesFrom": "Carvanha",
+      "hp": "110",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryuta Fuse",
+      "text": "It drinks in seawater and jets it from its rear to propel itself. It's very sensitive to the scent of blood.",
+      "attacks": [
+        {
+          "name": "Aqua Jet",
+          "damage": "50",
+          "cost": [
+            "Water"
+          ],
+          "text": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Wailord V",
+      "stage": "Basic",
+      "hp": "280",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo V",
+      "artist": "PLANETA Mochizuki",
+      "text": "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Draw Up",
+          "cost": [
+            "Water"
+          ],
+          "text": "Attach up to 3 Water Energy cards from your discard pile to this Pokémon."
+        },
+        {
+          "name": "Ocean Waves",
+          "damage": "120×",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "text": "Flip 3 coins. This attack does 120 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Drednaw V",
+      "stage": "Basic",
+      "hp": "210",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo V",
+      "artist": "aky CG Works",
+      "abilities": [
+        {
+          "name": "Solid Shell",
+          "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "text": "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Powerful Bite",
+          "damage": "130",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Drednaw VMAX",
+      "stage": "VMAX",
+      "evolvesFrom": "Drednaw V",
+      "hp": "320",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo VMAX",
+      "artist": "aky CG Works",
+      "abilities": [
+        {
+          "name": "Solid Shell",
+          "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "text": "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.",
+      "attacks": [
+        {
+          "name": "G-Max Headbutt",
+          "damage": "160+",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 80 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-16",
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Gardevoir V",
+      "stage": "Basic",
+      "hp": "210",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo V",
+      "artist": "Kagemaru Himeno",
+      "text": "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Magical Shot",
+          "damage": "30",
+          "cost": [
+            "Psychic"
+          ]
+        },
+        {
+          "name": "Swelling Pulse",
+          "damage": "120+",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "If this Pokémon was healed during this turn, this attack does 80 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Gardevoir VMAX",
+      "stage": "VMAX",
+      "evolvesFrom": "Gardevoir V",
+      "hp": "320",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo VMAX",
+      "artist": "5ban Graphics",
+      "text": "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.",
+      "attacks": [
+        {
+          "name": "Max Cure",
+          "damage": "180",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Heal 50 damage from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-18",
+      "itemType": "Pokemon Card",
+      "number": "18",
+      "name": "Hatenna",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Akira Komayama",
+      "text": "Via the protrusion on its head, it senses other creatures' emotions. If you don't have a calm disposition, it will never warm up to you.",
+      "attacks": [
+        {
+          "name": "Stampede",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ]
+        },
+        {
+          "name": "Magical Shot",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-19",
+      "itemType": "Pokemon Card",
+      "number": "19",
+      "name": "Hattrem",
+      "stage": "Stage 1",
+      "evolvesFrom": "Hatenna",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hitoshi Ariga",
+      "text": "No matter who you are, if you bring strong emotions near this Pokémon, it will silence you violently.",
+      "attacks": [
+        {
+          "name": "Beat",
+          "damage": "20",
+          "cost": [
+            "Psychic"
+          ]
+        },
+        {
+          "name": "Super Psy Bolt",
+          "damage": "40",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-20",
+      "itemType": "Pokemon Card",
+      "number": "20",
+      "name": "Hatterene",
+      "stage": "Stage 2",
+      "evolvesFrom": "Hattrem",
+      "hp": "150",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Naoki Saito",
+      "abilities": [
+        {
+          "name": "Hazard Sensor",
+          "text": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), the Attacking Pokémon is now Confused.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It emits psychic power strong enough to cause headaches as a deterrent to the approach of others.",
+      "attacks": [
+        {
+          "name": "Life Sucker",
+          "damage": "100",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Heal 30 damage from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-21",
+      "itemType": "Pokemon Card",
+      "number": "21",
+      "name": "Galarian Cursola V",
+      "stage": "Basic",
+      "hp": "190",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo V",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Gnawing Aura",
+          "text": "As long as this Pokémon is in the Active Spot, whenever your opponent attaches an Energy card from their hand to 1 of their Pokémon, put 3 damage counters on that Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Hollow Missile",
+          "damage": "60",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Put 3 damage counters on your opponent's Benched Pokémon in any way you like."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-22",
+      "itemType": "Pokemon Card",
+      "number": "22",
+      "name": "Alcremie V",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo V",
+      "artist": "Ayaka Yoshida",
+      "text": "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Sugary Sprinkles",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Heal 30 damage from each of your Benched Pokémon."
+        },
+        {
+          "name": "Sweet Splash",
+          "damage": "100",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-23",
+      "itemType": "Pokemon Card",
+      "number": "23",
+      "name": "Alcremie VMAX",
+      "stage": "VMAX",
+      "evolvesFrom": "Alcremie V",
+      "hp": "310",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo VMAX",
+      "artist": "5ban Graphics",
+      "text": "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.",
+      "attacks": [
+        {
+          "name": "Adornment",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "For each of your Benched Pokémon, search your deck for a Psychic Energy card and attach it to that Pokémon. Then, shuffle your deck."
+        },
+        {
+          "name": "G-Max Whisk",
+          "damage": "60×",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Discard any amount of Energy from your Pokémon. This attack does 60 damage for each card you discarded in this way."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-24",
+      "itemType": "Pokemon Card",
+      "number": "24",
+      "name": "Machop",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Shibuzoh.",
+      "text": "Its whole body is composed of muscles. Even though it's the size of a human child, it can hurl 100 grown-ups.",
+      "attacks": [
+        {
+          "name": "Low Kick",
+          "damage": "10",
+          "cost": [
+            "Fighting"
+          ]
+        },
+        {
+          "name": "Steady Punch",
+          "damage": "20+",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 40 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-25",
+      "itemType": "Pokemon Card",
+      "number": "25",
+      "name": "Machoke",
+      "stage": "Stage 1",
+      "evolvesFrom": "Machop",
+      "hp": "110",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "AKIRA EGAWA",
+      "text": "Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions.",
+      "attacks": [
+        {
+          "name": "Low Kick",
+          "damage": "30",
+          "cost": [
+            "Fighting"
+          ]
+        },
+        {
+          "name": "Pummel",
+          "damage": "50+",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 70 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-26",
+      "itemType": "Pokemon Card",
+      "number": "26",
+      "name": "Machamp",
+      "stage": "Stage 2",
+      "evolvesFrom": "Machoke",
+      "hp": "170",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Anesaki Dynamic",
+      "text": "It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles.",
+      "attacks": [
+        {
+          "name": "Macho Revenge",
+          "damage": "20×",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage for each Fighting Pokémon in your discard pile."
+        },
+        {
+          "name": "Dynamite Punch",
+          "damage": "200",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "This Pokémon also does 50 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-27",
+      "itemType": "Pokemon Card",
+      "number": "27",
+      "name": "Lucario V",
+      "stage": "Basic",
+      "hp": "210",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo V",
+      "artist": "AKIRA EGAWA",
+      "text": "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Aura Sphere",
+          "damage": "40",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Beatdown Smash",
+          "damage": "180",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "During your next turn, this Pokémon can't use Beatdown Smash."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-28",
+      "itemType": "Pokemon Card",
+      "number": "28",
+      "name": "Zygarde",
+      "stage": "Basic",
+      "hp": "140",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Shin Nagasawa",
+      "text": "Some say it can change to an even more powerful form when battling those who threaten the ecosystem.",
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Power Blast",
+          "damage": "130",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard a Fighting Energy from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-29",
+      "itemType": "Pokemon Card",
+      "number": "29",
+      "name": "Rockruff",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Naoyo Kimura",
+      "text": "When it rubs the rocks on its neck against you, that's proof of its love for you. However, the rocks are sharp, so the gesture is quite painful!",
+      "attacks": [
+        {
+          "name": "Collect",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw a card."
+        },
+        {
+          "name": "Bite",
+          "damage": "20",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-30",
+      "itemType": "Pokemon Card",
+      "number": "30",
+      "name": "Lycanroc",
+      "stage": "Stage 1",
+      "evolvesFrom": "Rockruff",
+      "hp": "120",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ryuta Fuse",
+      "text": "The rocks in its mane are sharper than a knife. Fragments that break off are treasured as good luck charms.",
+      "attacks": [
+        {
+          "name": "Rock Throw",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Slashing Strike",
+          "damage": "150",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "During your next turn, this Pokémon can't use Slashing Strike."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-31",
+      "itemType": "Pokemon Card",
+      "number": "31",
+      "name": "Rolycoly",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Masakazu Fukuda",
+      "text": "Most of its body has the same composition as coal. Fittingly, this Pokémon was first discovered in coal mines about 400 years ago.",
+      "attacks": [
+        {
+          "name": "Ram",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-32",
+      "itemType": "Pokemon Card",
+      "number": "32",
+      "name": "Grapploct V",
+      "stage": "Basic",
+      "hp": "210",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Holo V",
+      "artist": "PLANETA Igarashi",
+      "text": "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Tie Up",
+          "damage": "20",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn."
+        },
+        {
+          "name": "Moonsault Press",
+          "damage": "120+",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 100 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-33",
+      "itemType": "Pokemon Card",
+      "number": "33",
+      "name": "Ekans",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Uta",
+      "text": "The eggs of bird Pokémon are its favorite food. It swallows eggs whole, so sometimes an egg gets stuck, and Ekans faints.",
+      "attacks": [
+        {
+          "name": "Ram",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Tail Snap",
+          "damage": "30",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-34",
+      "itemType": "Pokemon Card",
+      "number": "34",
+      "name": "Arbok",
+      "stage": "Stage 1",
+      "evolvesFrom": "Ekans",
+      "hp": "120",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "nagimiso",
+      "text": "After stunning its opponents with the pattern on its stomach, it quickly wraps them up in its body and waits for them to stop moving.",
+      "attacks": [
+        {
+          "name": "Sharp Fang",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Tail Snap",
+          "damage": "70",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-35",
+      "itemType": "Pokemon Card",
+      "number": "35",
+      "name": "Galarian Zigzagoon",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "Its restlessness has it constantly running around. If it sees another Pokémon, it will purposely run into them in order to start a fight.",
+      "attacks": [
+        {
+          "name": "Pin Missile",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip 4 coins. This attack does 10 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-36",
+      "itemType": "Pokemon Card",
+      "number": "36",
+      "name": "Galarian Linoone",
+      "stage": "Stage 1",
+      "evolvesFrom": "Galarian Zigzagoon",
+      "hp": "100",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Akira Komayama",
+      "text": "It uses its long tongue to taunt opponents. Once the opposition is enraged, this Pokémon hurls itself at the opponent, tackling them forcefully.",
+      "attacks": [
+        {
+          "name": "Double-Edge",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This Pokémon also does 20 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-37",
+      "itemType": "Pokemon Card",
+      "number": "37",
+      "name": "Galarian Obstagoon",
+      "stage": "Stage 2",
+      "evolvesFrom": "Galarian Linoone",
+      "hp": "170",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Shin Nagasawa",
+      "abilities": [
+        {
+          "name": "Wicked Ruler",
+          "text": "Once during your turn, you may have your opponent discard cards from their hand until they have 4 cards in their hand.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Its voice is staggering in volume. Obstagoon has a tendency to take on a threatening posture and shout—this move is known as Obstruct.",
+      "attacks": [
+        {
+          "name": "Knuckle Impact",
+          "damage": "180",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your next turn, this Pokémon can't attack."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-38",
+      "itemType": "Pokemon Card",
+      "number": "38",
+      "name": "Absol",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "kodama",
+      "text": "The elderly call it the disaster Pokémon and detest it, but interest in its power to predict disasters is on the rise.",
+      "attacks": [
+        {
+          "name": "Dark Cutter",
+          "damage": "70",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-39",
+      "itemType": "Pokemon Card",
+      "number": "39",
+      "name": "Purrloin",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "sowsow",
+      "text": "It steals things from people just to amuse itself with their frustration. A rivalry exists between this Pokémon and Nickit.",
+      "attacks": [
+        {
+          "name": "Dig Claws",
+          "damage": "10",
+          "cost": [
+            "Darkness"
+          ]
+        },
+        {
+          "name": "Fake Out",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-40",
+      "itemType": "Pokemon Card",
+      "number": "40",
+      "name": "Liepard",
+      "stage": "Stage 1",
+      "evolvesFrom": "Purrloin",
+      "hp": "100",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hasuno",
+      "abilities": [
+        {
+          "name": "Limber",
+          "text": "This Pokémon can't be Paralyzed.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Don't be fooled by its gorgeous fur and elegant figure. This is a moody and vicious Pokémon.",
+      "attacks": [
+        {
+          "name": "Slashing Claw",
+          "damage": "90",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-41",
+      "itemType": "Pokemon Card",
+      "number": "41",
+      "name": "Scraggy",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "miki kudo",
+      "text": "If it locks eyes with you, watch out! Nothing and no one is safe from the reckless headbutts of this troublesome Pokémon.",
+      "attacks": [
+        {
+          "name": "Stampede",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Ram",
+          "damage": "20",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-42",
+      "itemType": "Pokemon Card",
+      "number": "42",
+      "name": "Scrafty",
+      "stage": "Stage 1",
+      "evolvesFrom": "Scraggy",
+      "hp": "120",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "tetsuya koizumi",
+      "text": "As halfhearted as this Pokémon's kicks may seem, they pack enough power to shatter Conkeldurr's concrete pillars.",
+      "attacks": [
+        {
+          "name": "Corner",
+          "damage": "30",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+        },
+        {
+          "name": "Bad Brawl",
+          "damage": "90+",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If you played Piers from your hand during this turn, this attack does 90 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-43",
+      "itemType": "Pokemon Card",
+      "number": "43",
+      "name": "Trubbish",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "nagimiso",
+      "text": "Its favorite places are unsanitary ones. If you leave trash lying around, you could even find one of these Pokémon living in your room.",
+      "attacks": [
+        {
+          "name": "Venoshock",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon is Poisoned, this attack does 50 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-44",
+      "itemType": "Pokemon Card",
+      "number": "44",
+      "name": "Inkay",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "sui",
+      "text": "It spins while making its luminescent spots flash. These spots allow it to communicate with others by using different patterns of light.",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10",
+          "cost": [
+            "Darkness"
+          ]
+        },
+        {
+          "name": "Attack from Behind",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon is Confused, this attack does 50 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-45",
+      "itemType": "Pokemon Card",
+      "number": "45",
+      "name": "Malamar",
+      "stage": "Stage 1",
+      "evolvesFrom": "Inkay",
+      "hp": "120",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "kawayoo",
+      "text": "Gazing at its luminescent spots will quickly induce a hypnotic state, putting the observer under Malamar's control.",
+      "attacks": [
+        {
+          "name": "Eerie Wave",
+          "damage": "50",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Confused."
+        },
+        {
+          "name": "Random Peck",
+          "damage": "80+",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 40 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-46",
+      "itemType": "Pokemon Card",
+      "number": "46",
+      "name": "Nickit",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Naoki Saito",
+      "text": "Aided by the soft pads on its feet, it silently raids the food stores of other Pokémon. It survives off its ill-gotten gains.",
+      "attacks": [
+        {
+          "name": "Filch",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw a card."
+        },
+        {
+          "name": "Tail Smack",
+          "damage": "30",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-47",
+      "itemType": "Pokemon Card",
+      "number": "47",
+      "name": "Duraludon V",
+      "stage": "Basic",
+      "hp": "220",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare Holo V",
+      "artist": "aky CG Works",
+      "abilities": [
+        {
+          "name": "Hard Coat",
+          "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "text": "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Gatling Slug",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 40 more damage for each Metal Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-48",
+      "itemType": "Pokemon Card",
+      "number": "48",
+      "name": "Swablu",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "0313",
+      "text": "It constantly grooms its cotton-like wings. It takes a shower to clean itself if it becomes dirty.",
+      "attacks": [
+        {
+          "name": "Peck",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-49",
+      "itemType": "Pokemon Card",
+      "number": "49",
+      "name": "Altaria",
+      "stage": "Stage 1",
+      "evolvesFrom": "Swablu",
+      "hp": "110",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Taira Akitsu",
+      "abilities": [
+        {
+          "name": "Miraculous Charm",
+          "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon V and Pokémon-GX.",
+          "type": "Ability"
+        }
+      ],
+      "text": "On sunny days, it flies freely through the sky and blends into the clouds. It sings in a beautiful soprano.",
+      "attacks": [
+        {
+          "name": "Speed Dive",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-50",
+      "itemType": "Trainer Card",
+      "number": "50",
+      "name": "Bede",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Naoki Saito",
+      "text": "Attach a basic Energy card from your hand to 1 of your Benched Pokémon.,You may play only 1 Supporter card during your turn."
+    },
+    {
+      "id": "tcg-pokemon-champions-path-51",
+      "itemType": "Trainer Card",
+      "number": "51",
+      "name": "Full Heal",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yoshinobu Saito",
+      "text": "Remove all Special Conditions from your Active Pokémon.,You may play any number of Item cards during your turn."
+    },
+    {
+      "id": "tcg-pokemon-champions-path-52",
+      "itemType": "Trainer Card",
+      "number": "52",
+      "name": "Great Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.,You may play any number of Item cards during your turn."
+    },
+    {
+      "id": "tcg-pokemon-champions-path-53",
+      "itemType": "Trainer Card",
+      "number": "53",
+      "name": "Hop",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Sanosuke Sakuma",
+      "text": "Draw 3 cards.,You may play only 1 Supporter card during your turn."
+    },
+    {
+      "id": "tcg-pokemon-champions-path-54",
+      "itemType": "Trainer Card",
+      "number": "54",
+      "name": "Hyper Potion",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Heal 120 damage from 1 of your Pokémon that has at least 2 Energy attached. If you healed any damage in this way, discard 2 Energy from it.,You may play any number of Item cards during your turn."
+    },
+    {
+      "id": "tcg-pokemon-champions-path-55",
+      "itemType": "Trainer Card",
+      "number": "55",
+      "name": "Kabu",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "take",
+      "text": "Shuffle your hand into your deck. Then, draw 4 cards. If your Active Pokémon is your only Pokémon in play, draw 8 cards instead.,You may play only 1 Supporter card during your turn."
+    },
+    {
+      "id": "tcg-pokemon-champions-path-56",
+      "itemType": "Trainer Card",
+      "number": "56",
+      "name": "Marnie",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "kirisAki",
+      "text": "Each player shuffles their hand and puts it on the bottom of their deck. If either player put any cards on the bottom of their deck in this way, you draw 5 cards, and your opponent draws 4 cards.,You may play only 1 Supporter card during your turn."
+    },
+    {
+      "id": "tcg-pokemon-champions-path-57",
+      "itemType": "Trainer Card",
+      "number": "57",
+      "name": "Milo",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "take",
+      "text": "Discard up to 2 cards from your hand, and draw 2 cards for each card you discarded in this way.,You may play only 1 Supporter card during your turn."
+    },
+    {
+      "id": "tcg-pokemon-champions-path-58",
+      "itemType": "Trainer Card",
+      "number": "58",
+      "name": "Piers",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "take",
+      "text": "Search your deck for an Energy card and a Darkness Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.,You may play only 1 Supporter card during your turn."
+    },
+    {
+      "id": "tcg-pokemon-champions-path-59",
+      "itemType": "Trainer Card",
+      "number": "59",
+      "name": "Poké Ball",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "artist": "Studio Bora Inc.",
+      "text": "Flip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.,You may play any number of Item cards during your turn."
+    },
+    {
+      "id": "tcg-pokemon-champions-path-60",
+      "itemType": "Trainer Card",
+      "number": "60",
+      "name": "Pokémon Center Lady",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "kirisAki",
+      "text": "Heal 60 damage from 1 of your Pokémon, and it recovers from all Special Conditions.,You may play only 1 Supporter card during your turn."
+    },
+    {
+      "id": "tcg-pokemon-champions-path-61",
+      "itemType": "Trainer Card",
+      "number": "61",
+      "name": "Potion",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "artist": "Ryo Ueda",
+      "text": "Heal 30 damage from 1 of your Pokémon.,You may play any number of Item cards during your turn."
+    },
+    {
+      "id": "tcg-pokemon-champions-path-62",
+      "itemType": "Trainer Card",
+      "number": "62",
+      "name": "Professor's Research (Professor Magnolia)",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Yusuke Ohmura",
+      "text": "Discard your hand and draw 7 cards.,You may play only 1 Supporter card during your turn."
+    },
+    {
+      "id": "tcg-pokemon-champions-path-63",
+      "itemType": "Trainer Card",
+      "number": "63",
+      "name": "Rotom Bike",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Draw cards until you have 6 cards in your hand. Your turn ends.,You may play any number of Item cards during your turn."
+    },
+    {
+      "id": "tcg-pokemon-champions-path-64",
+      "itemType": "Trainer Card",
+      "number": "64",
+      "name": "Rotom Phone",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Look at the top 5 cards of your deck, choose 1 of them, and shuffle the other cards back into your deck. Then, put the card you chose on top of your deck.,You may play any number of Item cards during your turn."
+    },
+    {
+      "id": "tcg-pokemon-champions-path-65",
+      "itemType": "Trainer Card",
+      "number": "65",
+      "name": "Sonia",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Yusuke Ohmura",
+      "text": "Search your deck for up to 2 Basic Pokémon or up to 2 basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.,You may play only 1 Supporter card during your turn."
+    },
+    {
+      "id": "tcg-pokemon-champions-path-66",
+      "itemType": "Trainer Card",
+      "number": "66",
+      "name": "Suspicious Food Tin",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Heal 80 damage from 1 of your Pokémon that has at least 1 Psychic Energy attached. If you healed any damage in this way, discard a Psychic Energy from it.,You may play any number of Item cards during your turn."
+    },
+    {
+      "id": "tcg-pokemon-champions-path-67",
+      "itemType": "Trainer Card",
+      "number": "67",
+      "name": "Team Yell Grunt",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "nagimiso",
+      "text": "Put an Energy attached to 1 of your opponent's Pokémon into their hand.,You may play only 1 Supporter card during your turn."
+    },
+    {
+      "id": "tcg-pokemon-champions-path-68",
+      "itemType": "Trainer Card",
+      "number": "68",
+      "name": "Turffield Stadium",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "aky CG Works",
+      "text": "Once during each player's turn, that player may search their deck for an Evolution Grass Pokémon, reveal it, and put it into their hand. Then, that player shuffles their deck.,This Stadium stays in play when you play it. Discard it if another Stadium comes into play. If a Stadium with the same name is in play, you can't play this card."
+    },
+    {
+      "id": "tcg-pokemon-champions-path-69",
+      "itemType": "Pokemon Card",
+      "number": "69",
+      "name": "Drednaw V",
+      "stage": "Basic",
+      "hp": "210",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "aky CG Works",
+      "abilities": [
+        {
+          "name": "Solid Shell",
+          "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "text": "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Powerful Bite",
+          "damage": "130",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-70",
+      "itemType": "Pokemon Card",
+      "number": "70",
+      "name": "Gardevoir V",
+      "stage": "Basic",
+      "hp": "210",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "PLANETA Mochizuki",
+      "text": "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Magical Shot",
+          "damage": "30",
+          "cost": [
+            "Psychic"
+          ]
+        },
+        {
+          "name": "Swelling Pulse",
+          "damage": "120+",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "If this Pokémon was healed during this turn, this attack does 80 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-71",
+      "itemType": "Pokemon Card",
+      "number": "71",
+      "name": "Galarian Cursola V",
+      "stage": "Basic",
+      "hp": "190",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Gnawing Aura",
+          "text": "As long as this Pokémon is in the Active Spot, whenever your opponent attaches an Energy card from their hand to 1 of their Pokémon, put 3 damage counters on that Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Hollow Missile",
+          "damage": "60",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Put 3 damage counters on your opponent's Benched Pokémon in any way you like."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-72",
+      "itemType": "Pokemon Card",
+      "number": "72",
+      "name": "Grapploct V",
+      "stage": "Basic",
+      "hp": "210",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "PLANETA Igarashi",
+      "text": "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Tie Up",
+          "damage": "20",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn."
+        },
+        {
+          "name": "Moonsault Press",
+          "damage": "120+",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 100 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-73",
+      "itemType": "Trainer Card",
+      "number": "73",
+      "name": "Hop",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Naoki Saito",
+      "text": "Draw 3 cards.,You may play only 1 Supporter card during your turn."
+    },
+    {
+      "id": "tcg-pokemon-champions-path-74",
+      "itemType": "Pokemon Card",
+      "number": "74",
+      "name": "Charizard VMAX",
+      "stage": "VMAX",
+      "evolvesFrom": "Charizard V",
+      "hp": "330",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "aky CG Works",
+      "text": "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.",
+      "attacks": [
+        {
+          "name": "Claw Slash",
+          "damage": "100",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "G-Max Wildfire",
+          "damage": "300",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard 2 Energy from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-75",
+      "itemType": "Pokemon Card",
+      "number": "75",
+      "name": "Drednaw VMAX",
+      "stage": "VMAX",
+      "evolvesFrom": "Drednaw V",
+      "hp": "320",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "aky CG Works",
+      "abilities": [
+        {
+          "name": "Solid Shell",
+          "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "text": "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.",
+      "attacks": [
+        {
+          "name": "G-Max Headbutt",
+          "damage": "160+",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 80 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-76",
+      "itemType": "Pokemon Card",
+      "number": "76",
+      "name": "Gardevoir VMAX",
+      "stage": "VMAX",
+      "evolvesFrom": "Gardevoir V",
+      "hp": "320",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "text": "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.",
+      "attacks": [
+        {
+          "name": "Max Cure",
+          "damage": "180",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Heal 50 damage from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-77",
+      "itemType": "Trainer Card",
+      "number": "77",
+      "name": "Kabu",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "Hitoshi Ariga",
+      "text": "Shuffle your hand into your deck. Then, draw 4 cards. If your Active Pokémon is your only Pokémon in play, draw 8 cards instead.,You may play only 1 Supporter card during your turn."
+    },
+    {
+      "id": "tcg-pokemon-champions-path-78",
+      "itemType": "Trainer Card",
+      "number": "78",
+      "name": "Piers",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "kirisAki",
+      "text": "Search your deck for an Energy card and a Darkness Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.,You may play only 1 Supporter card during your turn."
+    },
+    {
+      "id": "tcg-pokemon-champions-path-79",
+      "itemType": "Pokemon Card",
+      "number": "79",
+      "name": "Charizard V",
+      "stage": "Basic",
+      "hp": "220",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "5ban Graphics",
+      "text": "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Claw Slash",
+          "damage": "80",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Fire Spin",
+          "damage": "220",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard 2 Energy from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-champions-path-80",
+      "itemType": "Trainer Card",
+      "number": "80",
+      "name": "Suspicious Food Tin",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Secret",
+      "artist": "Ryo Ueda",
+      "text": "Heal 80 damage from 1 of your Pokémon that has at least 1 Psychic Energy attached. If you healed any damage in this way, discard a Psychic Energy from it.,You may play any number of Item cards during your turn."
+    }
+  ]
+}
