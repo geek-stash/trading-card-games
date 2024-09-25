@@ -1,0 +1,2504 @@
+{
+  "setId": "tcg-pokemon-shining-fates",
+  "cardCount": "73",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-shining-fates-booster-pack",
+      "itemType": "Sealed Product",
+      "name": "Shining Fates Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-shining-fates-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Yanma",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "text": "If it flaps its wings really fast, it can generate shock waves that will shatter windows in the area.",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ]
+        },
+        {
+          "name": "Wing Attack",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Yanmega",
+      "stage": "Stage 1",
+      "evolvesFrom": "Yanma",
+      "hp": "120",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Souichirou Gunjima",
+      "text": "This six-legged Pokémon is easily capable of transporting an adult in flight. The wings on its tail help it stay balanced.",
+      "attacks": [
+        {
+          "name": "Bug Bite",
+          "damage": "30",
+          "cost": [
+            "Grass"
+          ]
+        },
+        {
+          "name": "Nosedive",
+          "damage": "120",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "This Pokémon also does 30 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-3",
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Celebi",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Yuu Nishida",
+      "abilities": [
+        {
+          "name": "Woodland Stroll",
+          "text": "Once during your turn, if this Pokémon is in the Active Spot, you may look at the top 6 cards of your deck, reveal an Energy card you find there, and put it into your hand. Shuffle the other cards back into your deck.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It has the power to travel across time, but it is said to appear only in peaceful times.",
+      "attacks": [
+        {
+          "name": "Leaf Step",
+          "damage": "40",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-4",
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Cacnea",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Uta",
+      "text": "It prefers harsh environments such as deserts. It can survive for 30 days on water stored in its body.",
+      "attacks": [
+        {
+          "name": "Pierce",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Grass"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Tropius",
+      "stage": "Basic",
+      "hp": "110",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Akira Komayama",
+      "text": "Bunches of delicious fruit grow around its neck. In warm areas, many ranches raise Tropius.",
+      "attacks": [
+        {
+          "name": "Attach Leaves",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Attach up to 2 Grass Energy cards from your discard pile to your Benched Pokémon in any way you like."
+        },
+        {
+          "name": "Gust",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-6",
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Rowlet",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "HYOGONOSUKE",
+      "abilities": [
+        {
+          "name": "Sky Circus",
+          "text": "If you played Bird Keeper from your hand during this turn, ignore all Energy in this Pokémon's attack costs.",
+          "type": "Ability"
+        }
+      ],
+      "text": "At a distance, it launches its sharp feathers while flying about. If the enemy gets too close, Rowlet switches tactics and delivers vicious kicks.",
+      "attacks": [
+        {
+          "name": "Wind Shard",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 60 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-7",
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Dartrix",
+      "stage": "Stage 1",
+      "evolvesFrom": "Rowlet",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "AKIRA EGAWA",
+      "text": "It throws one knifelike feather after another at its enemies, and each one precisely strikes a weak point. These feathers are known as blade quills.",
+      "attacks": [
+        {
+          "name": "Razor Leaf",
+          "damage": "40",
+          "cost": [
+            "Grass"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-8",
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "Decidueye",
+      "stage": "Stage 2",
+      "evolvesFrom": "Dartrix",
+      "hp": "140",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Ryota Murayama",
+      "abilities": [
+        {
+          "name": "Deep Forest Camo",
+          "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon V and Pokémon-GX.",
+          "type": "Ability"
+        }
+      ],
+      "text": "As if wielding a bow, it launches the arrow quills hidden among the feathers of its wings. Decidueye's shots never miss.",
+      "attacks": [
+        {
+          "name": "Splitting Arrow",
+          "damage": "90",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "This attack also does 20 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-9",
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Dhelmise V",
+      "stage": "Basic",
+      "hp": "220",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo V",
+      "artist": "Eske Yoshinob",
+      "text": "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Anchor Anger",
+          "damage": "30+",
+          "cost": [
+            "Grass"
+          ],
+          "text": "If any of your Grass Pokémon were Knocked Out by damage from an opponent's attack during their last turn, this attack does 90 more damage."
+        },
+        {
+          "name": "Giga Hammer",
+          "damage": "200",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "During your next turn, this Pokémon can't use Giga Hammer."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Dhelmise VMAX",
+      "stage": "VMAX",
+      "evolvesFrom": "Dhelmise V",
+      "hp": "330",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo VMAX",
+      "artist": "PLANETA Mochizuki",
+      "text": "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.",
+      "attacks": [
+        {
+          "name": "Swinging Chain",
+          "cost": [
+            "Grass"
+          ],
+          "text": "This attack does 30 damage to 1 of your opponent's Pokémon for each Grass Energy attached to this Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Max Anchor",
+          "damage": "240",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "During your next turn, this Pokémon can't use Max Anchor."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Grookey",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Naoki Saito",
+      "text": "When it uses its special stick to strike up a beat, the sound waves produced carry revitalizing energy to the plants and flowers in the area.",
+      "attacks": [
+        {
+          "name": "Fury Swipes",
+          "damage": "10×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 10 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Thwackey",
+      "stage": "Stage 1",
+      "evolvesFrom": "Grookey",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "0313",
+      "abilities": [
+        {
+          "name": "Lay of the Land",
+          "text": "If you have a Stadium in play, this Pokémon has no Retreat Cost.",
+          "type": "Ability"
+        }
+      ],
+      "text": "The faster a Thwackey can beat out a rhythm with its two sticks, the more respect it wins from its peers.",
+      "attacks": [
+        {
+          "name": "Branch Poké",
+          "damage": "20",
+          "cost": [
+            "Grass"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Rillaboom",
+      "stage": "Stage 2",
+      "evolvesFrom": "Thwackey",
+      "hp": "170",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Anesaki Dynamic",
+      "abilities": [
+        {
+          "name": "Voltage Beat",
+          "text": "Once during your turn, you may search your deck for up to 2 Grass Energy cards and attach them to 1 of your Pokémon. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "text": "By drumming, it taps into the power of its special tree stump. The roots of the stump follow its direction in battle.",
+      "attacks": [
+        {
+          "name": "Hammer In",
+          "damage": "140",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Gossifleur",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Yukiko Baba",
+      "text": "It whirls around in the wind while singing a joyous song. This delightful display has charmed many into raising this Pokémon.",
+      "attacks": [
+        {
+          "name": "Leafage",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Eldegoss",
+      "stage": "Stage 1",
+      "evolvesFrom": "Gossifleur",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "kodama",
+      "text": "The cotton on the head of this Pokémon can be spun into a glossy, gorgeous yarn—a Galar regional specialty.",
+      "attacks": [
+        {
+          "name": "Enriching Seeds",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Heal all damage from 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Surprise Attack",
+          "damage": "50",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-16",
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Zarude",
+      "stage": "Basic",
+      "hp": "120",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Kouki Saitou",
+      "text": "Once the vines on Zarude's body tear off, they become nutrients in the soil. This helps the plants of the forest grow.",
+      "attacks": [
+        {
+          "name": "Suctioning Vines",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Heal 30 damage from this Pokémon."
+        },
+        {
+          "name": "Jungle Blast",
+          "damage": "110",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Reshiram",
+      "stage": "Basic",
+      "hp": "120",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Amazing Rare",
+      "artist": "PLANETA Tsuji",
+      "text": "When Reshiram's tail flares, the heat energy moves the atmosphere and changes the world's weather.",
+      "attacks": [
+        {
+          "name": "Amazing Blaze",
+          "damage": "270",
+          "cost": [
+            "Fire",
+            "Lightning",
+            "Darkness"
+          ],
+          "text": "This Pokémon also does 60 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-18",
+      "itemType": "Pokemon Card",
+      "number": "18",
+      "name": "Cinderace V",
+      "stage": "Basic",
+      "hp": "210",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo V",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Field Runner",
+          "text": "If a Stadium is in play, this Pokémon has no Retreat Cost.",
+          "type": "Ability"
+        }
+      ],
+      "text": "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Crimson Legs",
+          "damage": "140",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-19",
+      "itemType": "Pokemon Card",
+      "number": "19",
+      "name": "Cinderace VMAX",
+      "stage": "VMAX",
+      "evolvesFrom": "Cinderace V",
+      "hp": "320",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare Holo VMAX",
+      "artist": "PLANETA Mochizuki",
+      "text": "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.",
+      "attacks": [
+        {
+          "name": "Counter",
+          "damage": "30+",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "If this Pokémon was damaged by an attack during your opponent's last turn, this attack does that much more damage."
+        },
+        {
+          "name": "Max Pyro Ball",
+          "damage": "170",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Burned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-20",
+      "itemType": "Pokemon Card",
+      "number": "20",
+      "name": "Horsea",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Taira Akitsu",
+      "text": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-21",
+      "itemType": "Pokemon Card",
+      "number": "21",
+      "name": "Kyogre",
+      "stage": "Basic",
+      "hp": "120",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Amazing Rare",
+      "artist": "Anesaki Dynamic",
+      "text": "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.",
+      "attacks": [
+        {
+          "name": "Amazing Surge",
+          "cost": [
+            "Water",
+            "Lightning",
+            "Metal",
+            "Colorless"
+          ],
+          "text": "This attack does 80 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-22",
+      "itemType": "Pokemon Card",
+      "number": "22",
+      "name": "Buizel",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "ryoma uratsuka",
+      "text": "It inflates the flotation sac around its neck and pokes its head out of the water to see what is going on.",
+      "attacks": [
+        {
+          "name": "Rain Splash",
+          "damage": "20",
+          "cost": [
+            "Water"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-23",
+      "itemType": "Pokemon Card",
+      "number": "23",
+      "name": "Floatzel",
+      "stage": "Stage 1",
+      "evolvesFrom": "Buizel",
+      "hp": "110",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "AKIRA EGAWA",
+      "text": "Its flotation sac developed as a result of pursuing aquatic prey. It can double as a rubber raft.",
+      "attacks": [
+        {
+          "name": "Surf",
+          "damage": "50",
+          "cost": [
+            "Water"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-24",
+      "itemType": "Pokemon Card",
+      "number": "24",
+      "name": "Manaphy",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Narumi Sato",
+      "abilities": [
+        {
+          "name": "Ocean Search",
+          "text": "Once during your turn, if this Pokémon is in the Active Spot, you may look at the top 6 cards of your deck, reveal a Pokémon you find there, and put it into your hand. Shuffle the other cards back into your deck.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It starts its life with a wondrous power that permits it to bond with any kind of Pokémon.",
+      "attacks": [
+        {
+          "name": "Wave Splash",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-25",
+      "itemType": "Pokemon Card",
+      "number": "25",
+      "name": "Volcanion",
+      "stage": "Basic",
+      "hp": "130",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "nagimiso",
+      "text": "It expels its internal steam from the arms on its back. It has enough power to blow away a mountain.",
+      "attacks": [
+        {
+          "name": "Hammer In",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Dynamite Steam",
+          "damage": "120×",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 120 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-26",
+      "itemType": "Pokemon Card",
+      "number": "26",
+      "name": "Chewtle",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "sowsow",
+      "text": "It starts off battles by attacking with its rock-hard horn, but as soon as the opponent flinches, this Pokémon bites down and never lets go.",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ]
+        },
+        {
+          "name": "Bite",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-27",
+      "itemType": "Pokemon Card",
+      "number": "27",
+      "name": "Drednaw",
+      "stage": "Stage 1",
+      "evolvesFrom": "Chewtle",
+      "hp": "140",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Masakazu Fukuda",
+      "abilities": [
+        {
+          "name": "Exoskeleton",
+          "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "text": "This Pokémon rapidly extends its retractable neck to sink its sharp fangs into distant enemies and take them down.",
+      "attacks": [
+        {
+          "name": "Skull Bash",
+          "damage": "130",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-28",
+      "itemType": "Pokemon Card",
+      "number": "28",
+      "name": "Cramorant",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "HYOGONOSUKE",
+      "text": "This hungry Pokémon swallows Arrokuda whole. Occasionally, it makes a mistake and tries to swallow a Pokémon other than its preferred prey.",
+      "attacks": [
+        {
+          "name": "Spit-Out Shot",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "This attack does 50 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-29",
+      "itemType": "Pokemon Card",
+      "number": "29",
+      "name": "Snom",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Tika Matsuno",
+      "text": "It spits out thread imbued with a frigid sort of energy and uses it to tie its body to branches, disguising itself as an icicle while it sleeps.",
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Water"
+          ],
+          "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-30",
+      "itemType": "Pokemon Card",
+      "number": "30",
+      "name": "Frosmoth",
+      "stage": "Stage 1",
+      "evolvesFrom": "Snom",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Ice Dance",
+          "text": "As often as you like during your turn, you may attach a Water Energy card from your hand to 1 of your Benched Water Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "It shows no mercy to any who desecrate fields and mountains. It will fly around on its icy wings, causing a blizzard to chase offenders away.",
+      "attacks": [
+        {
+          "name": "Aurora Beam",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-31",
+      "itemType": "Pokemon Card",
+      "number": "31",
+      "name": "Shinx",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Uta",
+      "text": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
+      "attacks": [
+        {
+          "name": "Under Pressure",
+          "damage": "10+",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "If your opponent has 3 or fewer Prize cards remaining, this attack does 50 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-32",
+      "itemType": "Pokemon Card",
+      "number": "32",
+      "name": "Luxio",
+      "stage": "Stage 1",
+      "evolvesFrom": "Shinx",
+      "hp": "90",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "NC Empire",
+      "abilities": [
+        {
+          "name": "Top Entry",
+          "text": "Once during your turn, if you drew this Pokémon from your deck at the beginning of your turn and your Bench isn't full, before you put it into your hand, you may put it onto your Bench.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.",
+      "attacks": [
+        {
+          "name": "Zap Kick",
+          "damage": "30",
+          "cost": [
+            "Lightning"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-33",
+      "itemType": "Pokemon Card",
+      "number": "33",
+      "name": "Luxray",
+      "stage": "Stage 2",
+      "evolvesFrom": "Luxio",
+      "hp": "160",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Hasuno",
+      "text": "Luxray's ability to see through objects comes in handy when it's scouting for danger.",
+      "attacks": [
+        {
+          "name": "Raid",
+          "damage": "60+",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "If this Pokémon evolved from Luxio during this turn, this attack does 100 more damage."
+        },
+        {
+          "name": "Head Bolt",
+          "damage": "120",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-34",
+      "itemType": "Pokemon Card",
+      "number": "34",
+      "name": "Rotom",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "ryoma uratsuka",
+      "abilities": [
+        {
+          "name": "Roto Choice",
+          "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may search your deck for up to 2 Item cards that have the word \"Rotom\" in their name, reveal them, and put them into your hand. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "text": "One boy's invention led to the development of many different machines that take advantage of Rotom's unique capabilities.",
+      "attacks": [
+        {
+          "name": "Thunder Shock",
+          "damage": "30",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-35",
+      "itemType": "Pokemon Card",
+      "number": "35",
+      "name": "Morpeko",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Saya Tsuruta",
+      "text": "As it eats the seeds stored up in its pocket-like pouches, this Pokémon is not just satisfying its constant hunger. It's also generating electricity.",
+      "attacks": [
+        {
+          "name": "Famished",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw a card."
+        },
+        {
+          "name": "Thunder Shock",
+          "damage": "40",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-36",
+      "itemType": "Pokemon Card",
+      "number": "36",
+      "name": "Morpeko",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Hideki Ishikawa",
+      "text": "As it eats the seeds stored up in its pocket-like pouches, this Pokémon is not just satisfying its constant hunger. It's also generating electricity.",
+      "attacks": [
+        {
+          "name": "Famished",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw a card."
+        },
+        {
+          "name": "Thunder Shock",
+          "damage": "40",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-37",
+      "itemType": "Pokemon Card",
+      "number": "37",
+      "name": "Morpeko V",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo V",
+      "artist": "5ban Graphics",
+      "text": "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Spark",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Electro Wheel",
+          "damage": "150",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Discard an Energy from this Pokémon. If you do, switch it with 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-38",
+      "itemType": "Pokemon Card",
+      "number": "38",
+      "name": "Morpeko VMAX",
+      "stage": "VMAX",
+      "evolvesFrom": "Morpeko V",
+      "hp": "300",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Rare Holo VMAX",
+      "artist": "PLANETA Mochizuki",
+      "text": "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.",
+      "attacks": [
+        {
+          "name": "Max Discharge",
+          "damage": "180",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "This attack also does 20 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-39",
+      "itemType": "Pokemon Card",
+      "number": "39",
+      "name": "Indeedee V",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Holo V",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Watch Over",
+          "text": "Once during your turn, you may heal 20 damage from your Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Psychic",
+          "damage": "10+",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 60 more damage for each Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-40",
+      "itemType": "Pokemon Card",
+      "number": "40",
+      "name": "Trapinch",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "MAHOU",
+      "text": "Its nest is a sloped, bowl-like pit in the desert. Once something has fallen in, there is no escape.",
+      "attacks": [
+        {
+          "name": "Land's Pulse",
+          "damage": "10+",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "If a Stadium is in play, this attack does 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-41",
+      "itemType": "Pokemon Card",
+      "number": "41",
+      "name": "Koffing",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Pani Kobayashi",
+      "text": "Its body is full of poisonous gas. It floats into garbage dumps, seeking out the fumes of raw, rotting trash.",
+      "attacks": [
+        {
+          "name": "Ascension",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Search your deck for a card that evolves from this Pokémon and put it onto this Pokémon to evolve it. Then, shuffle your deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-42",
+      "itemType": "Pokemon Card",
+      "number": "42",
+      "name": "Galarian Weezing",
+      "stage": "Stage 1",
+      "evolvesFrom": "Koffing",
+      "hp": "130",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Neutralizing Gas",
+          "text": "As long as this Pokémon is in the Active Spot, your opponent's Pokémon in play have no Abilities, except for Neutralizing Gas.",
+          "type": "Ability"
+        }
+      ],
+      "text": "This Pokémon consumes particles that contaminate the air. Instead of leaving droppings, it expels clean air.",
+      "attacks": [
+        {
+          "name": "Severe Poison",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Your opponent's Active Pokémon is now Poisoned. Put 4 damage counters instead of 1 on that Pokémon during Pokémon Checkup."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-43",
+      "itemType": "Pokemon Card",
+      "number": "43",
+      "name": "Spinarak",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "sowsow",
+      "text": "Although the poison from its fangs isn't that strong, it's potent enough to weaken prey that gets caught in its web.",
+      "attacks": [
+        {
+          "name": "Hang Down",
+          "damage": "10",
+          "cost": [
+            "Darkness"
+          ]
+        },
+        {
+          "name": "Sting",
+          "damage": "20",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-44",
+      "itemType": "Pokemon Card",
+      "number": "44",
+      "name": "Crobat V",
+      "stage": "Basic",
+      "hp": "180",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo V",
+      "artist": "PLANETA Mochizuki",
+      "abilities": [
+        {
+          "name": "Dark Asset",
+          "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may draw cards until you have 6 cards in your hand. You can't use more than 1 Dark Asset Ability each turn.",
+          "type": "Ability"
+        }
+      ],
+      "text": "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Venomous Fang",
+          "damage": "70",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-45",
+      "itemType": "Pokemon Card",
+      "number": "45",
+      "name": "Crobat VMAX",
+      "stage": "VMAX",
+      "evolvesFrom": "Crobat V",
+      "hp": "300",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo VMAX",
+      "artist": "PLANETA Tsuji",
+      "text": "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.",
+      "attacks": [
+        {
+          "name": "Stealth Poison",
+          "damage": "70",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Poisoned. Switch this Pokémon with 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Max Cutter",
+          "damage": "180",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-46",
+      "itemType": "Pokemon Card",
+      "number": "46",
+      "name": "Yveltal",
+      "stage": "Basic",
+      "hp": "110",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Amazing Rare",
+      "artist": "Hasuno",
+      "text": "When its life comes to an end, it absorbs the life energy of every living thing and turns into a cocoon once more.",
+      "attacks": [
+        {
+          "name": "Amazing Destruction",
+          "cost": [
+            "Fire",
+            "Psychic",
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is Knocked Out."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-47",
+      "itemType": "Pokemon Card",
+      "number": "47",
+      "name": "Nickit",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "kirisAki",
+      "text": "Aided by the soft pads on its feet, it silently raids the food stores of other Pokémon. It survives off its ill-gotten gains.",
+      "attacks": [
+        {
+          "name": "Instigate",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Your opponent shuffles their hand and puts it on the bottom of their deck. If they put any cards on the bottom of their deck in this way, they draw 3 cards."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-48",
+      "itemType": "Pokemon Card",
+      "number": "48",
+      "name": "Thievul",
+      "stage": "Stage 1",
+      "evolvesFrom": "Nickit",
+      "hp": "100",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Hideki Ishikawa",
+      "text": "It secretly marks potential targets with a scent. By following the scent, it stalks its targets and steals from them when they least expect it.",
+      "attacks": [
+        {
+          "name": "Call for Goons",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 3 Basic Pokémon and put them onto your Bench. Then, shuffle your deck."
+        },
+        {
+          "name": "Corner",
+          "damage": "80",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-49",
+      "itemType": "Pokemon Card",
+      "number": "49",
+      "name": "Cufant",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Common",
+      "artist": "0313",
+      "text": "It digs up the ground with its trunk. It's also very strong, being able to carry loads of over five tons without any problem at all.",
+      "attacks": [
+        {
+          "name": "Strength",
+          "damage": "60",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-50",
+      "itemType": "Pokemon Card",
+      "number": "50",
+      "name": "Ditto V",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo V",
+      "artist": "Saki Hayashiro",
+      "abilities": [
+        {
+          "name": "V Transformation",
+          "text": "Once during your turn, you may choose a Basic Pokémon V from your discard pile and switch it with this Pokémon. Any attached cards, damage counters, Special Conditions, turns in play, and any other effects remain on the new Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "text": "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Stick On",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Attach a basic Energy card from your discard pile to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-51",
+      "itemType": "Pokemon Card",
+      "number": "51",
+      "name": "Ditto VMAX",
+      "stage": "VMAX",
+      "evolvesFrom": "Ditto V",
+      "hp": "320",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo VMAX",
+      "artist": "PLANETA Tsuji",
+      "text": "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.",
+      "attacks": [
+        {
+          "name": "Max Transform",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-52",
+      "itemType": "Pokemon Card",
+      "number": "52",
+      "name": "Eevee",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "so-taro",
+      "text": "It has the ability to alter the composition of its body to suit its surrounding environment.",
+      "attacks": [
+        {
+          "name": "Signs of Evolution",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a card that evolves from Eevee, reveal it, and put it into your hand. Then, shuffle your deck."
+        },
+        {
+          "name": "Wild Kick",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-53",
+      "itemType": "Pokemon Card",
+      "number": "53",
+      "name": "Greedent V",
+      "stage": "Basic",
+      "hp": "200",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo V",
+      "artist": "PLANETA Igarashi",
+      "text": "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Crunch",
+          "damage": "40",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard an Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Stumbling Press",
+          "damage": "180",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-54",
+      "itemType": "Pokemon Card",
+      "number": "54",
+      "name": "Cramorant V",
+      "stage": "Basic",
+      "hp": "200",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo V",
+      "artist": "aky CG Works",
+      "text": "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Beak Catch",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck."
+        },
+        {
+          "name": "Spit Shot",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard all Energy from this Pokémon. This attack does 160 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-55",
+      "itemType": "Pokemon Card",
+      "number": "55",
+      "name": "Cramorant VMAX",
+      "stage": "VMAX",
+      "evolvesFrom": "Cramorant V",
+      "hp": "320",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo VMAX",
+      "artist": "PLANETA Tsuji",
+      "text": "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.",
+      "attacks": [
+        {
+          "name": "Max Jet",
+          "damage": "80×",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin for each Energy attached to this Pokémon. This attack does 80 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-56",
+      "itemType": "Pokemon Card",
+      "number": "56",
+      "name": "Indeedee",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare Holo",
+      "artist": "Souichirou Gunjima",
+      "text": "It uses the horns on its head to sense the emotions of others. Males will act as valets for those they serve, looking after their every need.",
+      "attacks": [
+        {
+          "name": "Helping Hand",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a basic Energy card and attach it to 1 of your Benched Pokémon. Then, shuffle your deck."
+        },
+        {
+          "name": "Psychic",
+          "damage": "20+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-57",
+      "itemType": "Trainer Card",
+      "number": "57",
+      "name": "Ball Guy",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hitoshi Ariga",
+      "text": "Search your deck for up to 3 different Item cards that have the word \"Ball\" in their name, reveal them, and put them into your hand. Then, shuffle your deck.,You may play only 1 Supporter card during your turn."
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-58",
+      "itemType": "Trainer Card",
+      "number": "58",
+      "name": "Boss's Orders",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare",
+      "artist": "Ryuta Fuse",
+      "text": "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon.,You may play only 1 Supporter card during your turn."
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-59",
+      "itemType": "Trainer Card",
+      "number": "59",
+      "name": "Gym Trainer",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryuta Fuse",
+      "text": "Draw 2 cards. If any of your Pokémon were Knocked Out during your opponent's last turn, draw 2 more cards.,You may play only 1 Supporter card during your turn."
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-60",
+      "itemType": "Trainer Card",
+      "number": "60",
+      "name": "Professor's Research",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare",
+      "artist": "Hideki Ishikawa",
+      "text": "Discard your hand and draw 7 cards.,You may play only 1 Supporter card during your turn."
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-61",
+      "itemType": "Trainer Card",
+      "number": "61",
+      "name": "Rusted Shield",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.,The Zamazenta V this card is attached to gets +70 HP.,You may play any number of Item cards during your turn."
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-62",
+      "itemType": "Trainer Card",
+      "number": "62",
+      "name": "Rusted Sword",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.,The attacks of the Zacian V this card is attached to do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).,You may play any number of Item cards during your turn."
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-63",
+      "itemType": "Trainer Card",
+      "number": "63",
+      "name": "Team Yell Towel",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Studio Bora Inc.",
+      "text": "Heal 50 damage from both Active Pokémon.,You may play any number of Item cards during your turn."
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-64",
+      "itemType": "Pokemon Card",
+      "number": "64",
+      "name": "Alcremie V",
+      "stage": "Basic",
+      "hp": "170",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Ayaka Yoshida",
+      "text": "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Sugary Sprinkles",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Heal 30 damage from each of your Benched Pokémon."
+        },
+        {
+          "name": "Sweet Splash",
+          "damage": "100",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-65",
+      "itemType": "Trainer Card",
+      "number": "65",
+      "name": "Ball Guy",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Hitoshi Ariga",
+      "text": "Search your deck for up to 3 different Item cards that have the word \"Ball\" in their name, reveal them, and put them into your hand. Then, shuffle your deck.,You may play only 1 Supporter card during your turn."
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-66",
+      "itemType": "Trainer Card",
+      "number": "66",
+      "name": "Bird Keeper",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Hideki Ishikawa",
+      "text": "Switch your Active Pokémon with 1 of your Benched Pokémon. If you do, draw 3 cards.,You may play only 1 Supporter card during your turn."
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-67",
+      "itemType": "Trainer Card",
+      "number": "67",
+      "name": "Cara Liss",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Hitoshi Ariga",
+      "text": "Search your deck for up to 2 Rare Fossil cards and put them onto your Bench. Then, shuffle your deck.,You may play only 1 Supporter card during your turn."
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-68",
+      "itemType": "Trainer Card",
+      "number": "68",
+      "name": "Gym Trainer",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "nagimiso",
+      "text": "Draw 2 cards. If any of your Pokémon were Knocked Out during your opponent's last turn, draw 2 more cards.,You may play only 1 Supporter card during your turn."
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-69",
+      "itemType": "Trainer Card",
+      "number": "69",
+      "name": "Piers",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Megumi Mizutani",
+      "text": "Search your deck for an Energy card and a Darkness Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.,You may play only 1 Supporter card during your turn."
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-70",
+      "itemType": "Trainer Card",
+      "number": "70",
+      "name": "Poké Kid",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Sanosuke Sakuma",
+      "text": "Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.,You may play only 1 Supporter card during your turn."
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-71",
+      "itemType": "Trainer Card",
+      "number": "71",
+      "name": "Rose",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "Megumi Mizutani",
+      "text": "Attach up to 2 basic Energy cards from your discard pile to 1 of your Pokémon VMAX. If you attached any Energy cards in this way, discard your hand.,You may play only 1 Supporter card during your turn."
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-72",
+      "itemType": "Trainer Card",
+      "number": "72",
+      "name": "Skyla",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Rare Ultra",
+      "artist": "kirisAki",
+      "text": "Search your deck for a Trainer card, reveal it, and put it into your hand. Shuffle your deck afterward.,You may play only 1 Supporter card during your turn."
+    },
+    {
+      "id": "tcg-pokemon-shining-fates-73",
+      "itemType": "Pokemon Card",
+      "number": "73",
+      "name": "Alcremie VMAX",
+      "stage": "VMAX",
+      "evolvesFrom": "Alcremie V",
+      "hp": "310",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "text": "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.",
+      "attacks": [
+        {
+          "name": "Adornment",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "For each of your Benched Pokémon, search your deck for a Psychic Energy card and attach it to that Pokémon. Then, shuffle your deck."
+        },
+        {
+          "name": "G-Max Whisk",
+          "damage": "60×",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Discard any amount of Energy from your Pokémon. This attack does 60 damage for each card you discarded in this way."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    }
+  ]
+}
