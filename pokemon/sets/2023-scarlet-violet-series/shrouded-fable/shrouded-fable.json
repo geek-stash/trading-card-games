@@ -1,0 +1,3550 @@
+{
+  "setId": "tcg-pokemon-shrouded-fable",
+  "cardCount": "99",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-shrouded-fable-booster-pack",
+      "itemType": "Sealed Product",
+      "name": "Shrouded Fable Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-shrouded-fable-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Joltik",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Naoyo Kimura",
+      "attacks": [
+        {
+          "name": "Splashing Dodge",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Galvantula",
+      "stage": "Stage 1",
+      "evolvesFrom": "Joltik",
+      "hp": "100",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "mashu",
+      "abilities": [
+        {
+          "name": "Compound Eyes",
+          "text": "Attacks used by this Pokémon do 50 more damage to your opponent's Active Pokémon that has an Ability (before applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Shocking Web",
+          "damage": "50+",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "If this Pokémon has any Lightning Energy attached, this attack does 80 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-3",
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Rowlet",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Yoshimi Miyoshi",
+      "attacks": [
+        {
+          "name": "Add On",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw a card."
+        },
+        {
+          "name": "Leafage",
+          "damage": "10",
+          "cost": [
+            "Grass"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-4",
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Dartrix",
+      "stage": "Stage 1",
+      "evolvesFrom": "Rowlet",
+      "hp": "90",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Common",
+      "artist": "Tetsu Kayama",
+      "attacks": [
+        {
+          "name": "United Wings",
+          "damage": "20×",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage for each Pokémon in your discard pile that has the United Wings attack."
+        },
+        {
+          "name": "Cutting Wind",
+          "damage": "30",
+          "cost": [
+            "Grass"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Decidueye",
+      "stage": "Stage 2",
+      "evolvesFrom": "Dartrix",
+      "hp": "150",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "DOM",
+      "attacks": [
+        {
+          "name": "Stock Up on Feathers",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw cards until you have 7 cards in your hand."
+        },
+        {
+          "name": "Power Shot",
+          "damage": "170",
+          "cost": [
+            "Grass"
+          ],
+          "text": "Discard a Basic Grass Energy card from your hand. If you can't, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-6",
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Tapu Bulu",
+      "stage": "Basic",
+      "hp": "140",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "GOSSAN",
+      "attacks": [
+        {
+          "name": "Wood Hammer",
+          "damage": "220",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This Pokémon also does 30 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-7",
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Houndour",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "REND",
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Rear Kick",
+          "damage": "50",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-8",
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "Houndoom",
+      "stage": "Stage 1",
+      "evolvesFrom": "Houndour",
+      "hp": "120",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "artist": "burari",
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Snarl",
+          "damage": "100",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, attacks used by the Defending Pokémon do 100 less damage (before applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-9",
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Iron Moth",
+      "stage": "Basic",
+      "hp": "120",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shinji Kanda",
+      "attacks": [
+        {
+          "name": "Suction",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Anachronism Repulsor",
+          "damage": "120",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Ancient Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Horsea",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Shimaris Yukichi",
+      "attacks": [
+        {
+          "name": "Hold Still",
+          "cost": [
+            "Water"
+          ],
+          "text": "Heal 30 damage from this Pokémon."
+        },
+        {
+          "name": "Razor Fin",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Seadra",
+      "stage": "Stage 1",
+      "evolvesFrom": "Horsea",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Yuya Oka",
+      "attacks": [
+        {
+          "name": "Call for Backup",
+          "cost": [
+            "Water"
+          ],
+          "text": "Search your deck for up to 3 Pokémon, reveal them, and put them into your hand. Then, shuffle your deck."
+        },
+        {
+          "name": "Sharp Fin",
+          "damage": "40",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Kingdra ex",
+      "stage": "Stage 2",
+      "evolvesFrom": "Seadra",
+      "hp": "310",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Double Rare",
+      "artist": "toriyufu",
+      "text": "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "King's Order",
+          "cost": [
+            "Water"
+          ],
+          "text": "Put up to 3 Water Pokémon from your discard pile onto your Bench."
+        },
+        {
+          "name": "Hydro Pump",
+          "damage": "50+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 50 more damage for each Water Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Sneasel",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Krgc",
+      "attacks": [
+        {
+          "name": "Cut",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ]
+        },
+        {
+          "name": "Beset",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Weavile",
+      "stage": "Stage 1",
+      "evolvesFrom": "Sneasel",
+      "hp": "100",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "artist": "aspara",
+      "attacks": [
+        {
+          "name": "Slash",
+          "damage": "40",
+          "cost": [
+            "Water"
+          ]
+        },
+        {
+          "name": "Hail Claw",
+          "damage": "70",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "Discard all Energy from this Pokémon. Your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Revavroom ex",
+      "stage": "Stage 1",
+      "evolvesFrom": "Varoom",
+      "hp": "280",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Double Rare",
+      "artist": "PLANETA Mochizuki",
+      "text": "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's).,Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Accelerator Flash",
+          "damage": "20+",
+          "cost": [
+            "Metal"
+          ],
+          "text": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 120 more damage."
+        },
+        {
+          "name": "Shattering Speed",
+          "damage": "250",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Metal"
+          ],
+          "text": "Discard this Pokémon and all attached cards."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-16",
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Drowzee",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "OKUBO",
+      "attacks": [
+        {
+          "name": "Eerie Gaze",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Your opponent reveals their hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Hypno",
+      "stage": "Stage 1",
+      "evolvesFrom": "Drowzee",
+      "hp": "110",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Masako Tomii",
+      "attacks": [
+        {
+          "name": "Daydream",
+          "damage": "80",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, if they attach an Energy card from their hand to the Defending Pokémon, their turn ends."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-18",
+      "itemType": "Pokemon Card",
+      "number": "18",
+      "name": "Duskull",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "IKEDA Saki",
+      "attacks": [
+        {
+          "name": "Come and Get You",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Put up to 3 Duskull from your discard pile onto your Bench."
+        },
+        {
+          "name": "Mumble",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-19",
+      "itemType": "Pokemon Card",
+      "number": "19",
+      "name": "Dusclops",
+      "stage": "Stage 1",
+      "evolvesFrom": "Duskull",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Common",
+      "artist": "Aya Kusube",
+      "abilities": [
+        {
+          "name": "Cursed Blast",
+          "text": "Once during your turn, you may put 5 damage counters on 1 of your opponent's Pokémon. If you use this Ability, this Pokémon is Knocked Out.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Will-O-Wisp",
+          "damage": "50",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-20",
+      "itemType": "Pokemon Card",
+      "number": "20",
+      "name": "Dusknoir",
+      "stage": "Stage 2",
+      "evolvesFrom": "Dusclops",
+      "hp": "160",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "danciao",
+      "abilities": [
+        {
+          "name": "Cursed Blast",
+          "text": "Once during your turn, you may put 13 damage counters on 1 of your opponent's Pokémon. If you use this Ability, this Pokémon is Knocked Out.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Shadow Bind",
+          "damage": "150",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-21",
+      "itemType": "Pokemon Card",
+      "number": "21",
+      "name": "Cresselia",
+      "stage": "Basic",
+      "hp": "120",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "matazo",
+      "attacks": [
+        {
+          "name": "Healing Pirouette",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Heal 20 damage from each of your Pokémon."
+        },
+        {
+          "name": "Crescent Purge",
+          "damage": "80+",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "You may turn 1 of your face-down Prize cards face up. If you do, this attack does 80 more damage. (That Prize card remains face up for the rest of the game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-22",
+      "itemType": "Pokemon Card",
+      "number": "22",
+      "name": "Sylveon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Eevee",
+      "hp": "120",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kuroimori",
+      "attacks": [
+        {
+          "name": "Mystical Return",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, choose 1 of your opponent's Benched Pokémon. Shuffle that Pokémon and all attached cards into their deck."
+        },
+        {
+          "name": "Disarming Voice",
+          "damage": "90",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-23",
+      "itemType": "Pokemon Card",
+      "number": "23",
+      "name": "Croagunk",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Aliya Chen",
+      "attacks": [
+        {
+          "name": "Light Punch",
+          "damage": "10",
+          "cost": [
+            "Fighting"
+          ]
+        },
+        {
+          "name": "Frog Hop",
+          "damage": "20+",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-24",
+      "itemType": "Pokemon Card",
+      "number": "24",
+      "name": "Toxicroak",
+      "stage": "Stage 1",
+      "evolvesFrom": "Croagunk",
+      "hp": "130",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Anesaki Dynamic",
+      "attacks": [
+        {
+          "name": "Corkscrew Punch",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Clean Hit",
+          "damage": "90+",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 90 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-25",
+      "itemType": "Pokemon Card",
+      "number": "25",
+      "name": "Bloodmoon Ursaluna",
+      "stage": "Basic",
+      "hp": "150",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Souichirou Gunjima",
+      "abilities": [
+        {
+          "name": "Battle-Hardened",
+          "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may attach up to 2 Basic Fighting Energy cards from your hand to this Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Mad Bite",
+          "damage": "100+",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "This attack does 30 more damage for each damage counter on your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-26",
+      "itemType": "Pokemon Card",
+      "number": "26",
+      "name": "Slither Wing",
+      "stage": "Basic",
+      "hp": "140",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shinji Kanda",
+      "attacks": [
+        {
+          "name": "Iron Smasher",
+          "damage": "20+",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "If your opponent has any Future Pokémon in play, this attack does 120 more damage."
+        },
+        {
+          "name": "Smashing Wing",
+          "damage": "130",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Discard 2 Energy from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-27",
+      "itemType": "Pokemon Card",
+      "number": "27",
+      "name": "Zubat",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "osare",
+      "attacks": [
+        {
+          "name": "Lead",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck."
+        },
+        {
+          "name": "Darkness Fang",
+          "damage": "10",
+          "cost": [
+            "Darkness"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-28",
+      "itemType": "Pokemon Card",
+      "number": "28",
+      "name": "Golbat",
+      "stage": "Stage 1",
+      "evolvesFrom": "Zubat",
+      "hp": "80",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Teeziro",
+      "attacks": [
+        {
+          "name": "Speed Dive",
+          "damage": "30",
+          "cost": [
+            "Darkness"
+          ]
+        },
+        {
+          "name": "Pitch-Black Blade",
+          "damage": "80",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "During your next turn, this Pokémon can't attack."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-29",
+      "itemType": "Pokemon Card",
+      "number": "29",
+      "name": "Crobat",
+      "stage": "Stage 2",
+      "evolvesFrom": "Golbat",
+      "hp": "130",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Nisota Niso",
+      "abilities": [
+        {
+          "name": "Shadowy Envoy",
+          "text": "Once during your turn, if you played Janine's Secret Art from your hand this turn, you may draw cards until you have 8 cards in your hand.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Poison Fang",
+          "damage": "120",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Poisoned. During Pokémon Checkup, put 2 damage counters on that Pokémon instead of 1."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-30",
+      "itemType": "Pokemon Card",
+      "number": "30",
+      "name": "Absol",
+      "stage": "Basic",
+      "hp": "110",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "rika",
+      "attacks": [
+        {
+          "name": "Darkfall",
+          "damage": "20+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If you have at least 3 Darkness Energy in play, this attack does 50 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-31",
+      "itemType": "Pokemon Card",
+      "number": "31",
+      "name": "Zorua",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Yuu Nishida",
+      "attacks": [
+        {
+          "name": "Stampede",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Double Scratch",
+          "damage": "20×",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-32",
+      "itemType": "Pokemon Card",
+      "number": "32",
+      "name": "Zoroark",
+      "stage": "Stage 1",
+      "evolvesFrom": "Zorua",
+      "hp": "120",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "nagimiso",
+      "attacks": [
+        {
+          "name": "Illusory Hijacking",
+          "damage": "60×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 60 damage for each of your opponent's Pokémon ex and Pokémon V in play."
+        },
+        {
+          "name": "Claw Slash",
+          "damage": "110",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-33",
+      "itemType": "Pokemon Card",
+      "number": "33",
+      "name": "Inkay",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Mori Yuu",
+      "attacks": [
+        {
+          "name": "Mischievous Tentacles",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Look at the top card of your opponent's deck. You may have your opponent shuffle their deck."
+        },
+        {
+          "name": "Peck",
+          "damage": "10",
+          "cost": [
+            "Darkness"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-34",
+      "itemType": "Pokemon Card",
+      "number": "34",
+      "name": "Malamar",
+      "stage": "Stage 1",
+      "evolvesFrom": "Inkay",
+      "hp": "120",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "akagi",
+      "attacks": [
+        {
+          "name": "Colluding Tentacles",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Switch in 1 of your opponent's Benched Pokémon to the Active Spot. If you do, this attack does 120 damage to the new Active Pokémon. If you didn't play Xerosic's Machinations from your hand during this turn, this attack does nothing."
+        },
+        {
+          "name": "Spinning Attack",
+          "damage": "90",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-35",
+      "itemType": "Pokemon Card",
+      "number": "35",
+      "name": "Yveltal",
+      "stage": "Basic",
+      "hp": "120",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "SIE NANAHARA",
+      "attacks": [
+        {
+          "name": "Corrosive Winds",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Put 2 damage counters on each of your opponent's Pokémon that has any damage counters on it."
+        },
+        {
+          "name": "Destructive Beam",
+          "damage": "100",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-36",
+      "itemType": "Pokemon Card",
+      "number": "36",
+      "name": "Okidogi ex",
+      "stage": "Basic",
+      "hp": "250",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Double Rare",
+      "artist": "takuyoa",
+      "text": "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Poisonous Musculature",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 2 Basic Darkness Energy cards and attach them to this Pokémon. Then, shuffle your deck. If you attached Energy to a Pokémon in this way, this Pokémon is now Poisoned."
+        },
+        {
+          "name": "Chain-Crazed",
+          "damage": "130+",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "If this Pokémon is Poisoned, this attack does 130 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-37",
+      "itemType": "Pokemon Card",
+      "number": "37",
+      "name": "Munkidori ex",
+      "stage": "Basic",
+      "hp": "210",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Double Rare",
+      "artist": "takuyoa",
+      "abilities": [
+        {
+          "name": "Oh No You Don't",
+          "text": "If this Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon, and if you have any Pecharunt ex in play, your opponent takes 1 fewer Prize card.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Dirty Headbutt",
+          "damage": "190",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "During your next turn, this Pokémon can't use Dirty Headbutt."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-38",
+      "itemType": "Pokemon Card",
+      "number": "38",
+      "name": "Fezandipiti ex",
+      "stage": "Basic",
+      "hp": "210",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Double Rare",
+      "artist": "takuyoa",
+      "abilities": [
+        {
+          "name": "Flip the Script",
+          "text": "Once during your turn, if any of your Pokémon were Knocked Out during your opponent's last turn, you may draw 3 cards. You can't use more than 1 Flip the Script Ability each turn.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Cruel Arrow",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 100 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-39",
+      "itemType": "Pokemon Card",
+      "number": "39",
+      "name": "Pecharunt ex",
+      "stage": "Basic",
+      "hp": "190",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Double Rare",
+      "artist": "aky CG Works",
+      "abilities": [
+        {
+          "name": "Subjugating Chains",
+          "text": "Once during your turn, you may switch 1 of your Benched Darkness Pokémon, except any Pecharunt ex, with your Active Pokémon. If you do, the new Active Pokémon is now Poisoned. You can't use more than 1 Subjugating Chains Ability each turn.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Irritated Outburst",
+          "damage": "60×",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "text": "This attack does 60 damage for each Prize card your opponent has taken."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-40",
+      "itemType": "Pokemon Card",
+      "number": "40",
+      "name": "Genesect",
+      "stage": "Basic",
+      "hp": "110",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kazumasa Yasukuni",
+      "abilities": [
+        {
+          "name": "ACE Nullifier",
+          "text": "If this Pokémon has a Pokémon Tool attached, your opponent can't play any ACE SPEC cards from their hand.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Magnetic Blast",
+          "damage": "100",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-41",
+      "itemType": "Pokemon Card",
+      "number": "41",
+      "name": "Cufant",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Common",
+      "artist": "Shinya Mizuno",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "30",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Confront",
+          "damage": "70",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-42",
+      "itemType": "Pokemon Card",
+      "number": "42",
+      "name": "Copperajah",
+      "stage": "Stage 1",
+      "evolvesFrom": "Cufant",
+      "hp": "200",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "artist": "kawayoo",
+      "abilities": [
+        {
+          "name": "Massive Body",
+          "text": "As long as this Pokémon is in the Active Spot, your opponent can't play any Stadium cards from their hand.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Nasal Lariat",
+          "damage": "130+",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "text": "You may do 100 more damage. If you do, during your next turn, this Pokémon can't attack."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-43",
+      "itemType": "Pokemon Card",
+      "number": "43",
+      "name": "Varoom",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Common",
+      "artist": "HAGIYA Kaoru",
+      "attacks": [
+        {
+          "name": "Rigidify",
+          "cost": [
+            "Metal"
+          ],
+          "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Headbutt Bounce",
+          "damage": "20",
+          "cost": [
+            "Metal",
+            "Metal"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-44",
+      "itemType": "Pokemon Card",
+      "number": "44",
+      "name": "Axew",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Common",
+      "artist": "Orca",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "10",
+          "cost": [
+            "Fighting"
+          ]
+        },
+        {
+          "name": "Sharp Fang",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Metal"
+          ]
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-45",
+      "itemType": "Pokemon Card",
+      "number": "45",
+      "name": "Fraxure",
+      "stage": "Stage 1",
+      "evolvesFrom": "Axew",
+      "hp": "100",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Common",
+      "artist": "Uninori",
+      "abilities": [
+        {
+          "name": "Unnerve",
+          "text": "Whenever your opponent plays an Item or Supporter card from their hand, prevent all effects of that card done to this Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Dragon Pulse",
+          "damage": "80",
+          "cost": [
+            "Fighting",
+            "Metal"
+          ],
+          "text": "Discard the top card of your deck."
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-46",
+      "itemType": "Pokemon Card",
+      "number": "46",
+      "name": "Haxorus",
+      "stage": "Stage 2",
+      "evolvesFrom": "Fraxure",
+      "hp": "170",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Rare",
+      "artist": "Tsuyoshi Nagano",
+      "attacks": [
+        {
+          "name": "Bring Down the Axe",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "If your opponent's Active Pokémon has any Special Energy attached, it is Knocked Out."
+        },
+        {
+          "name": "Dragon Pulse",
+          "damage": "230",
+          "cost": [
+            "Fighting",
+            "Metal"
+          ],
+          "text": "Discard the top 3 cards of your deck."
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-47",
+      "itemType": "Pokemon Card",
+      "number": "47",
+      "name": "Kyurem",
+      "stage": "Basic",
+      "hp": "130",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shiburingaru",
+      "abilities": [
+        {
+          "name": "Plasma Bane",
+          "text": "If your opponent has any cards in their discard pile that have \"Colress\" in the name, this Pokémon can use the Trifrost attack for Colorless.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Trifrost",
+          "cost": [
+            "Water",
+            "Water",
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "text": "Discard all Energy from this Pokémon. This attack does 110 damage to 3 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-48",
+      "itemType": "Pokemon Card",
+      "number": "48",
+      "name": "Meowth",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "sui",
+      "attacks": [
+        {
+          "name": "Fury Swipes",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 20 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-49",
+      "itemType": "Pokemon Card",
+      "number": "49",
+      "name": "Persian",
+      "stage": "Stage 1",
+      "evolvesFrom": "Meowth",
+      "hp": "110",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "NC Empire",
+      "attacks": [
+        {
+          "name": "Fury Swipes",
+          "damage": "50×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 50 damage for each heads."
+        },
+        {
+          "name": "Slashing Claw",
+          "damage": "100",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-50",
+      "itemType": "Pokemon Card",
+      "number": "50",
+      "name": "Eevee",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Susumu Maeya",
+      "attacks": [
+        {
+          "name": "Colorful Catch",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 3 Basic Energy cards of different types, reveal them, and put them into your hand. Then, shuffle your deck."
+        },
+        {
+          "name": "Headbutt",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-51",
+      "itemType": "Pokemon Card",
+      "number": "51",
+      "name": "Furfrou",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Shinya Komatsu",
+      "attacks": [
+        {
+          "name": "Energy Assist",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Attach a Basic Energy card from your discard pile to 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-52",
+      "itemType": "Pokemon Card",
+      "number": "52",
+      "name": "Stufful",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "ryoma uratsuka",
+      "attacks": [
+        {
+          "name": "Take Down",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "This Pokémon also does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-53",
+      "itemType": "Pokemon Card",
+      "number": "53",
+      "name": "Bewear",
+      "stage": "Stage 1",
+      "evolvesFrom": "Stufful",
+      "hp": "130",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Takeshi Nakamura",
+      "attacks": [
+        {
+          "name": "Power Charger",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a Basic Energy card and attach it to this Pokémon. Then, shuffle your deck."
+        },
+        {
+          "name": "Hammer In",
+          "damage": "130",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-54",
+      "itemType": "Trainer Card",
+      "number": "54",
+      "name": "Academy at Night",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "AYUMI ODASHIMA",
+      "text": "Once during each player's turn, that player may put a card from their hand on top of their deck.,You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-55",
+      "itemType": "Trainer Card",
+      "number": "55",
+      "name": "Binding Mochi",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "5ban Graphics",
+      "text": "Attacks used by the Poisoned Pokémon this card is attached to do 40 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).,You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-56",
+      "itemType": "Trainer Card",
+      "number": "56",
+      "name": "Cassiopeia",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Atsushi Furusawa",
+      "text": "You can use this card only when it is the last card in your hand.  Search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck.,You may play only 1 Supporter card during your turn."
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-57",
+      "itemType": "Trainer Card",
+      "number": "57",
+      "name": "Colress's Tenacity",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "hncl",
+      "text": "Search your deck for a Stadium card and an Energy card, reveal them, and put them into your hand. Then, shuffle your deck.,You may play only 1 Supporter card during your turn."
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-58",
+      "itemType": "Trainer Card",
+      "number": "58",
+      "name": "Dangerous Laser",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "ACE SPEC Rare",
+      "artist": "inose yukie",
+      "text": "You can't have more than 1 ACE SPEC card in your deck.,Your opponent's Active Pokémon is now Burned and Confused.,You may play any number of Item cards during your turn."
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-59",
+      "itemType": "Trainer Card",
+      "number": "59",
+      "name": "Janine's Secret Art",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Taira Akitsu",
+      "text": "Choose up to 2 of your Darkness Pokémon. For each of those Pokémon, search your deck for a Basic Darkness Energy card and attach it to that Pokémon. Then, shuffle your deck. If you attached Energy to your Active Pokémon in this way, it is now Poisoned.,You may play only 1 Supporter card during your turn."
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-60",
+      "itemType": "Trainer Card",
+      "number": "60",
+      "name": "Neutralization Zone",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "ACE SPEC Rare",
+      "artist": "imoniii",
+      "text": "You can't have more than 1 ACE SPEC card in your deck.,Prevent all damage done to Pokémon that don't have a Rule Box (both yours and your opponent's) by attacks from the opponent's Pokémon ex and Pokémon V. (Pokémon ex, Pokémon V, etc. have Rule Boxes.)    This card can't be put into your hand or deck from the discard pile.,You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-61",
+      "itemType": "Trainer Card",
+      "number": "61",
+      "name": "Night Stretcher",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Toyste Beach",
+      "text": "Put a Pokémon or a Basic Energy card from your discard pile into your hand.,You may play any number of Item cards during your turn."
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-62",
+      "itemType": "Trainer Card",
+      "number": "62",
+      "name": "Poké Vital A",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "ACE SPEC Rare",
+      "artist": "Toyste Beach",
+      "text": "You can't have more than 1 ACE SPEC card in your deck.,Heal 150 damage from 1 of your Pokémon.    This card can't be put into your hand or deck from the discard pile.,You may play any number of Item cards during your turn."
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-63",
+      "itemType": "Trainer Card",
+      "number": "63",
+      "name": "Powerglass",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Studio Bora Inc.",
+      "text": "At the end of your turn (after your attack), if the Pokémon this card is attached to is in the Active Spot, you may attach a Basic Energy card from your discard pile to it.,You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-64",
+      "itemType": "Trainer Card",
+      "number": "64",
+      "name": "Xerosic's Machinations",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "GOSSAN",
+      "text": "Your opponent discards cards from their hand until they have 3 cards in their hand.,You may play only 1 Supporter card during your turn."
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-65",
+      "itemType": "Pokemon Card",
+      "number": "65",
+      "name": "Tapu Bulu",
+      "stage": "Basic",
+      "hp": "140",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Illustration Rare",
+      "artist": "IKEDA Saki",
+      "attacks": [
+        {
+          "name": "Wood Hammer",
+          "damage": "220",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This Pokémon also does 30 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-66",
+      "itemType": "Pokemon Card",
+      "number": "66",
+      "name": "Houndoom",
+      "stage": "Stage 1",
+      "evolvesFrom": "Houndour",
+      "hp": "120",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Illustration Rare",
+      "artist": "Taiga Kasai",
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Snarl",
+          "damage": "100",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, attacks used by the Defending Pokémon do 100 less damage (before applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-67",
+      "itemType": "Pokemon Card",
+      "number": "67",
+      "name": "Horsea",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Illustration Rare",
+      "artist": "Shinya Komatsu",
+      "attacks": [
+        {
+          "name": "Hold Still",
+          "cost": [
+            "Water"
+          ],
+          "text": "Heal 30 damage from this Pokémon."
+        },
+        {
+          "name": "Razor Fin",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-68",
+      "itemType": "Pokemon Card",
+      "number": "68",
+      "name": "Duskull",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Illustration Rare",
+      "artist": "James Turner",
+      "attacks": [
+        {
+          "name": "Come and Get You",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Put up to 3 Duskull from your discard pile onto your Bench."
+        },
+        {
+          "name": "Mumble",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-69",
+      "itemType": "Pokemon Card",
+      "number": "69",
+      "name": "Dusclops",
+      "stage": "Stage 1",
+      "evolvesFrom": "Duskull",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Illustration Rare",
+      "artist": "James Turner",
+      "abilities": [
+        {
+          "name": "Cursed Blast",
+          "text": "Once during your turn, you may put 5 damage counters on 1 of your opponent's Pokémon. If you use this Ability, this Pokémon is Knocked Out.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Will-O-Wisp",
+          "damage": "50",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-70",
+      "itemType": "Pokemon Card",
+      "number": "70",
+      "name": "Dusknoir",
+      "stage": "Stage 2",
+      "evolvesFrom": "Dusclops",
+      "hp": "160",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Illustration Rare",
+      "artist": "James Turner",
+      "abilities": [
+        {
+          "name": "Cursed Blast",
+          "text": "Once during your turn, you may put 13 damage counters on 1 of your opponent's Pokémon. If you use this Ability, this Pokémon is Knocked Out.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Shadow Bind",
+          "damage": "150",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-71",
+      "itemType": "Pokemon Card",
+      "number": "71",
+      "name": "Cresselia",
+      "stage": "Basic",
+      "hp": "120",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Illustration Rare",
+      "artist": "satoma",
+      "attacks": [
+        {
+          "name": "Healing Pirouette",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Heal 20 damage from each of your Pokémon."
+        },
+        {
+          "name": "Crescent Purge",
+          "damage": "80+",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "You may turn 1 of your face-down Prize cards face up. If you do, this attack does 80 more damage. (That Prize card remains face up for the rest of the game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-72",
+      "itemType": "Pokemon Card",
+      "number": "72",
+      "name": "Munkidori",
+      "stage": "Basic",
+      "hp": "110",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Illustration Rare",
+      "artist": "Teeziro",
+      "abilities": [
+        {
+          "name": "Adrena-Brain",
+          "text": "Once during your turn, if this Pokémon has any Darkness Energy attached, you may move up to 3 damage counters from 1 of your Pokémon to 1 of your opponent's Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Mind Bend",
+          "damage": "60",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-73",
+      "itemType": "Pokemon Card",
+      "number": "73",
+      "name": "Fezandipiti",
+      "stage": "Basic",
+      "hp": "120",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Illustration Rare",
+      "artist": "KEIICHIRO ITO",
+      "abilities": [
+        {
+          "name": "Adrena-Pheromone",
+          "text": "If this Pokémon has any Darkness Energy attached and is damaged by an attack, flip a coin. If heads, prevent that damage.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Energy Feather",
+          "damage": "30×",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "This attack does 30 damage for each Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-74",
+      "itemType": "Pokemon Card",
+      "number": "74",
+      "name": "Okidogi",
+      "stage": "Basic",
+      "hp": "130",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Illustration Rare",
+      "artist": "AKIRA EGAWA",
+      "abilities": [
+        {
+          "name": "Adrena-Power",
+          "text": "If this Pokémon has any Darkness Energy attached, it gets +100 HP, and the attacks it uses do 100 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Good Punch",
+          "damage": "70",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-75",
+      "itemType": "Pokemon Card",
+      "number": "75",
+      "name": "Zorua",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Illustration Rare",
+      "artist": "REND",
+      "attacks": [
+        {
+          "name": "Stampede",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Double Scratch",
+          "damage": "20×",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-76",
+      "itemType": "Pokemon Card",
+      "number": "76",
+      "name": "Cufant",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Illustration Rare",
+      "artist": "Mina Nakai",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "30",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Confront",
+          "damage": "70",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-77",
+      "itemType": "Pokemon Card",
+      "number": "77",
+      "name": "Fraxure",
+      "stage": "Stage 1",
+      "evolvesFrom": "Axew",
+      "hp": "100",
+      "types": [
+        "Dragon"
+      ],
+      "rarity": "Illustration Rare",
+      "artist": "MINAMINAMI Take",
+      "abilities": [
+        {
+          "name": "Unnerve",
+          "text": "Whenever your opponent plays an Item or Supporter card from their hand, prevent all effects of that card done to this Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Dragon Pulse",
+          "damage": "80",
+          "cost": [
+            "Fighting",
+            "Metal"
+          ],
+          "text": "Discard the top card of your deck."
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-78",
+      "itemType": "Pokemon Card",
+      "number": "78",
+      "name": "Persian",
+      "stage": "Stage 1",
+      "evolvesFrom": "Meowth",
+      "hp": "110",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Illustration Rare",
+      "artist": "Whisker",
+      "attacks": [
+        {
+          "name": "Fury Swipes",
+          "damage": "50×",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 50 damage for each heads."
+        },
+        {
+          "name": "Slashing Claw",
+          "damage": "100",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-79",
+      "itemType": "Pokemon Card",
+      "number": "79",
+      "name": "Bewear",
+      "stage": "Stage 1",
+      "evolvesFrom": "Stufful",
+      "hp": "130",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Illustration Rare",
+      "artist": "Takeshi Nakamura",
+      "attacks": [
+        {
+          "name": "Power Charger",
+          "damage": "30",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a Basic Energy card and attach it to this Pokémon. Then, shuffle your deck."
+        },
+        {
+          "name": "Hammer In",
+          "damage": "130",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-80",
+      "itemType": "Pokemon Card",
+      "number": "80",
+      "name": "Kingdra ex",
+      "stage": "Stage 2",
+      "evolvesFrom": "Seadra",
+      "hp": "310",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Ultra Rare",
+      "artist": "PLANETA Igarashi",
+      "text": "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "King's Order",
+          "cost": [
+            "Water"
+          ],
+          "text": "Put up to 3 Water Pokémon from your discard pile onto your Bench."
+        },
+        {
+          "name": "Hydro Pump",
+          "damage": "50+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 50 more damage for each Water Energy attached to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-81",
+      "itemType": "Pokemon Card",
+      "number": "81",
+      "name": "Revavroom ex",
+      "stage": "Stage 1",
+      "evolvesFrom": "Varoom",
+      "hp": "280",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Ultra Rare",
+      "artist": "PLANETA Mochizuki",
+      "text": "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's).,Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Accelerator Flash",
+          "damage": "20+",
+          "cost": [
+            "Metal"
+          ],
+          "text": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 120 more damage."
+        },
+        {
+          "name": "Shattering Speed",
+          "damage": "250",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Metal"
+          ],
+          "text": "Discard this Pokémon and all attached cards."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-82",
+      "itemType": "Pokemon Card",
+      "number": "82",
+      "name": "Okidogi ex",
+      "stage": "Basic",
+      "hp": "250",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Ultra Rare",
+      "artist": "5ban Graphics",
+      "text": "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Poisonous Musculature",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 2 Basic Darkness Energy cards and attach them to this Pokémon. Then, shuffle your deck. If you attached Energy to a Pokémon in this way, this Pokémon is now Poisoned."
+        },
+        {
+          "name": "Chain-Crazed",
+          "damage": "130+",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "If this Pokémon is Poisoned, this attack does 130 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-83",
+      "itemType": "Pokemon Card",
+      "number": "83",
+      "name": "Munkidori ex",
+      "stage": "Basic",
+      "hp": "210",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Ultra Rare",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Oh No You Don't",
+          "text": "If this Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon, and if you have any Pecharunt ex in play, your opponent takes 1 fewer Prize card.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Dirty Headbutt",
+          "damage": "190",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "During your next turn, this Pokémon can't use Dirty Headbutt."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-84",
+      "itemType": "Pokemon Card",
+      "number": "84",
+      "name": "Fezandipiti ex",
+      "stage": "Basic",
+      "hp": "210",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Ultra Rare",
+      "artist": "5ban Graphics",
+      "abilities": [
+        {
+          "name": "Flip the Script",
+          "text": "Once during your turn, if any of your Pokémon were Knocked Out during your opponent's last turn, you may draw 3 cards. You can't use more than 1 Flip the Script Ability each turn.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Cruel Arrow",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 100 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-85",
+      "itemType": "Pokemon Card",
+      "number": "85",
+      "name": "Pecharunt ex",
+      "stage": "Basic",
+      "hp": "190",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Ultra Rare",
+      "artist": "aky CG Works",
+      "abilities": [
+        {
+          "name": "Subjugating Chains",
+          "text": "Once during your turn, you may switch 1 of your Benched Darkness Pokémon, except any Pecharunt ex, with your Active Pokémon. If you do, the new Active Pokémon is now Poisoned. You can't use more than 1 Subjugating Chains Ability each turn.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Irritated Outburst",
+          "damage": "60×",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "text": "This attack does 60 damage for each Prize card your opponent has taken."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-86",
+      "itemType": "Trainer Card",
+      "number": "86",
+      "name": "Cassiopeia",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Ultra Rare",
+      "artist": "Atsushi Furusawa",
+      "text": "You can use this card only when it is the last card in your hand.  Search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck.,You may play only 1 Supporter card during your turn."
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-87",
+      "itemType": "Trainer Card",
+      "number": "87",
+      "name": "Colress's Tenacity",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Ultra Rare",
+      "artist": "hncl",
+      "text": "Search your deck for a Stadium card and an Energy card, reveal them, and put them into your hand. Then, shuffle your deck.,You may play only 1 Supporter card during your turn."
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-88",
+      "itemType": "Trainer Card",
+      "number": "88",
+      "name": "Janine's Secret Art",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Ultra Rare",
+      "artist": "Taira Akitsu",
+      "text": "Choose up to 2 of your Darkness Pokémon. For each of those Pokémon, search your deck for a Basic Darkness Energy card and attach it to that Pokémon. Then, shuffle your deck. If you attached Energy to your Active Pokémon in this way, it is now Poisoned.,You may play only 1 Supporter card during your turn."
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-89",
+      "itemType": "Trainer Card",
+      "number": "89",
+      "name": "Xerosic's Machinations",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Ultra Rare",
+      "artist": "GOSSAN",
+      "text": "Your opponent discards cards from their hand until they have 3 cards in their hand.,You may play only 1 Supporter card during your turn."
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-90",
+      "itemType": "Pokemon Card",
+      "number": "90",
+      "name": "Okidogi ex",
+      "stage": "Basic",
+      "hp": "250",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Special Illustration Rare",
+      "artist": "kantaro",
+      "text": "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Poisonous Musculature",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for up to 2 Basic Darkness Energy cards and attach them to this Pokémon. Then, shuffle your deck. If you attached Energy to a Pokémon in this way, this Pokémon is now Poisoned."
+        },
+        {
+          "name": "Chain-Crazed",
+          "damage": "130+",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "If this Pokémon is Poisoned, this attack does 130 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-91",
+      "itemType": "Pokemon Card",
+      "number": "91",
+      "name": "Munkidori ex",
+      "stage": "Basic",
+      "hp": "210",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Special Illustration Rare",
+      "artist": "kantaro",
+      "abilities": [
+        {
+          "name": "Oh No You Don't",
+          "text": "If this Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon, and if you have any Pecharunt ex in play, your opponent takes 1 fewer Prize card.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Dirty Headbutt",
+          "damage": "190",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "During your next turn, this Pokémon can't use Dirty Headbutt."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-92",
+      "itemType": "Pokemon Card",
+      "number": "92",
+      "name": "Fezandipiti ex",
+      "stage": "Basic",
+      "hp": "210",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Special Illustration Rare",
+      "artist": "kantaro",
+      "abilities": [
+        {
+          "name": "Flip the Script",
+          "text": "Once during your turn, if any of your Pokémon were Knocked Out during your opponent's last turn, you may draw 3 cards. You can't use more than 1 Flip the Script Ability each turn.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Cruel Arrow",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 100 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-93",
+      "itemType": "Pokemon Card",
+      "number": "93",
+      "name": "Pecharunt ex",
+      "stage": "Basic",
+      "hp": "190",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Special Illustration Rare",
+      "artist": "kantaro",
+      "abilities": [
+        {
+          "name": "Subjugating Chains",
+          "text": "Once during your turn, you may switch 1 of your Benched Darkness Pokémon, except any Pecharunt ex, with your Active Pokémon. If you do, the new Active Pokémon is now Poisoned. You can't use more than 1 Subjugating Chains Ability each turn.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Irritated Outburst",
+          "damage": "60×",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "text": "This attack does 60 damage for each Prize card your opponent has taken."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-94",
+      "itemType": "Trainer Card",
+      "number": "94",
+      "name": "Cassiopeia",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Special Illustration Rare",
+      "artist": "burari",
+      "text": "You can use this card only when it is the last card in your hand.  Search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck.,You may play only 1 Supporter card during your turn."
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-95",
+      "itemType": "Pokemon Card",
+      "number": "95",
+      "name": "Pecharunt ex",
+      "stage": "Basic",
+      "hp": "190",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Hyper Rare",
+      "artist": "aky CG Works",
+      "abilities": [
+        {
+          "name": "Subjugating Chains",
+          "text": "Once during your turn, you may switch 1 of your Benched Darkness Pokémon, except any Pecharunt ex, with your Active Pokémon. If you do, the new Active Pokémon is now Poisoned. You can't use more than 1 Subjugating Chains Ability each turn.",
+          "type": "Ability"
+        }
+      ],
+      "text": "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Irritated Outburst",
+          "damage": "60×",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "text": "This attack does 60 damage for each Prize card your opponent has taken."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-96",
+      "itemType": "Trainer Card",
+      "number": "96",
+      "name": "Earthen Vessel",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Hyper Rare",
+      "artist": "AYUMI ODASHIMA",
+      "text": "You can use this card only if you discard another card from your hand.  Search your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.,You may play any number of Item cards during your turn."
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-97",
+      "itemType": "Trainer Card",
+      "number": "97",
+      "name": "Powerglass",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Hyper Rare",
+      "artist": "Studio Bora Inc.",
+      "text": "At the end of your turn (after your attack), if the Pokémon this card is attached to is in the Active Spot, you may attach a Basic Energy card from your discard pile to it.,You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-98",
+      "itemType": "Energy Card",
+      "number": "98",
+      "name": "Basic Darkness Energy",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Hyper Rare"
+    },
+    {
+      "id": "tcg-pokemon-shrouded-fable-99",
+      "itemType": "Energy Card",
+      "number": "99",
+      "name": "Basic Metal Energy",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Hyper Rare"
+    }
+  ]
+}
