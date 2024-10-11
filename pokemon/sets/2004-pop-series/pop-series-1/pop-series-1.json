@@ -1,0 +1,763 @@
+{
+  "setId": "tcg-pokemon-pop-series-1",
+  "cardCount": "17",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-pop-series-1-booster-pack",
+      "itemType": "Sealed Product",
+      "name": "Pop Series 1 Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-pop-series-1-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Blaziken",
+      "stage": "Stage 2",
+      "evolvesFrom": "Combusken",
+      "hp": "110",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "artist": "Katsura Tabata",
+      "attacks": [
+        {
+          "name": "Fire Punch",
+          "damage": "40",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Double Kick",
+          "damage": "50×",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 50 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-pop-series-1-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Metagross",
+      "stage": "Stage 2",
+      "evolvesFrom": "Metang",
+      "hp": "100",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Rare",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Metal Claw",
+          "damage": "30",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Hyper Beam",
+          "damage": "50",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, discard 1 Energy attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-pop-series-1-3",
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Rayquaza",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Rare",
+      "artist": "Katsura Tabata",
+      "attacks": [
+        {
+          "name": "Fly",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing. If heads, prevent all effects of an attack, including damage, done to Rayquaza during your opponent's next turn."
+        },
+        {
+          "name": "Dragon Claw",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Lightning"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Colorless",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-pop-series-1-4",
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Sceptile",
+      "stage": "Stage 2",
+      "evolvesFrom": "Grovyle",
+      "hp": "100",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Rare",
+      "artist": "Hiromichi Sugiyama",
+      "attacks": [
+        {
+          "name": "Cling",
+          "damage": "20",
+          "cost": [
+            "Grass"
+          ],
+          "text": "After your attack, remove from Sceptile the number of damage counters equal to the damage you did to the Defending Pokémon. If Sceptile has fewer damage counters than that, remove all of them."
+        },
+        {
+          "name": "Leaf Blade",
+          "damage": "40+",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 40 damage plus 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-pop-series-1-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Swampert",
+      "stage": "Stage 2",
+      "evolvesFrom": "Marshtomp",
+      "hp": "100",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "artist": "Hiromichi Sugiyama",
+      "attacks": [
+        {
+          "name": "Bubble",
+          "damage": "20",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Mud Splash",
+          "damage": "50",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "If your opponent has any Benched Pokémon, choose 1 of them and flip a coin. If heads, this attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-pop-series-1-6",
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Beautifly",
+      "stage": "Stage 2",
+      "evolvesFrom": "Silcoon",
+      "hp": "100",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Blot",
+          "damage": "30",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Remove 1 damage counter from Beautifly."
+        },
+        {
+          "name": "Whirlwind",
+          "damage": "40",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-pop-series-1-7",
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Masquerain",
+      "stage": "Stage 1",
+      "evolvesFrom": "Surskit",
+      "hp": "70",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Kagemaru Himeno",
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "damage": "10+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage."
+        },
+        {
+          "name": "Gust",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-pop-series-1-8",
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "Murkrow",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Insomnia",
+          "text": "Murkrow can't be Asleep.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Feint Attack",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on that Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-pop-series-1-9",
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Pupitar",
+      "stage": "Stage 1",
+      "evolvesFrom": "Larvitar",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Hisao Nakamura",
+      "attacks": [
+        {
+          "name": "Rock Smash",
+          "damage": "20+",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-pop-series-1-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Torkoal",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Amnesia",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+        },
+        {
+          "name": "Body Slam",
+          "damage": "20",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-pop-series-1-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Larvitar",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Common",
+      "artist": "Hisao Nakamura",
+      "attacks": [
+        {
+          "name": "Sand Attack",
+          "damage": "10",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "If the Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-pop-series-1-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Minun",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Thunder Wave",
+          "damage": "10",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Spark",
+          "damage": "10",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Choose 2 of your opponent's Benched Pokémon. This attack does 10 damage to each of those Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-pop-series-1-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Plusle",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Ken Sugimori",
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "damage": "10+",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage."
+        },
+        {
+          "name": "Agility",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, prevent all effects of an attack, including damage, done to Plusle during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-pop-series-1-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Surskit",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "attacks": [
+        {
+          "name": "Bubble",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-pop-series-1-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Swellow",
+      "stage": "Stage 1",
+      "evolvesFrom": "Taillow",
+      "hp": "70",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Common",
+      "artist": "Kagemaru Himeno",
+      "attacks": [
+        {
+          "name": "Focus Energy",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "During your next turn, base damage of Swellow's Agility is 70 instead of 30."
+        },
+        {
+          "name": "Agility",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, prevent all effects of an attack, including damage, done to Swellow during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-pop-series-1-16",
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Armaldo ex",
+      "stage": "Stage 2",
+      "evolvesFrom": "Anorith",
+      "hp": "160",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Rare",
+      "artist": "Hikaru Koike",
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Twin-blade",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Does 30 damage to each Defending Pokémon."
+        },
+        {
+          "name": "Supersonic Claws",
+          "damage": "80",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack's damage is not affected by Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        },
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-pop-series-1-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Tyranitar ex",
+      "stage": "Stage 2",
+      "evolvesFrom": "Pupitar",
+      "hp": "150",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "Hisao Nakamura",
+      "text": "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards.",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Critical Crush",
+          "damage": "80",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard 2 Basic Energy cards attached to Tyranitar ex or this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        },
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    }
+  ]
+}
