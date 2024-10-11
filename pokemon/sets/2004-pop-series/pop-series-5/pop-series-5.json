@@ -1,0 +1,565 @@
+{
+  "setId": "tcg-pokemon-pop-series-5",
+  "cardCount": "17",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-pop-series-5-booster-pack",
+      "itemType": "Sealed Product",
+      "name": "Pop Series 5 Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-pop-series-5-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Ho-Oh",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Fire Wing",
+          "damage": "20",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Fire Blast",
+          "damage": "60",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Discard a Fire Energy attached to Ho-Oh."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-pop-series-5-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Lugia",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Super Psy Bolt",
+          "damage": "20",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Aerowing",
+          "damage": "30",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Before doing damage, you may flip a coin. If tails, this attack does nothing. If heads, this attack does 60 damage instead."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-pop-series-5-3",
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Mew δ",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "artist": "Masakazu Fukuda",
+      "attacks": [
+        {
+          "name": "Copy",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Choose 1 of the Defending Pokémon's attacks. Copy copies that attack. This attack does nothing if Mew doesn't have the Energy necessary to use that attack. (You must still do anything else required for that attack.) Mew performs that attack."
+        },
+        {
+          "name": "Extra Draw",
+          "cost": [
+            "Fire"
+          ],
+          "text": "If your opponent has any Pokémon-ex in play, search your deck for up to 2 basic Energy cards and attach them to Mew. Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-pop-series-5-4",
+      "itemType": "Energy Card",
+      "number": "4",
+      "name": "Double Rainbow Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Rare",
+      "artist": "Takumi Akabane",
+      "text": "Double Rainbow Energy can be attached only to an Evolved Pokémon (excluding Pokémon-ex). While in play, Double Rainbow Energy provides every type of Energy but provides 2 Energy at a time. (Has no effect other than providing Energy.) Damage done to your opponent's Pokémon by the Pokémon Double Rainbow Energy is attached to is reduced by 10 (before applying Weakness and Resistance). When the Pokémon Double Rainbow Energy is attached to is no longer an Evolved Pokémon, discard Double Rainbow Energy."
+    },
+    {
+      "id": "tcg-pokemon-pop-series-5-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Charmeleon δ",
+      "stage": "Stage 1",
+      "evolvesFrom": "Charmander",
+      "hp": "70",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Slash",
+          "damage": "20",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Thunder Jolt",
+          "damage": "50",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, Charmeleon does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-pop-series-5-6",
+      "itemType": "Trainer Card",
+      "number": "6",
+      "name": "Bill's Maintenance",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ken Sugimori",
+      "text": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.,If you have any cards in your hand, shuffle 1 of them into your deck, then draw 3 cards."
+    },
+    {
+      "id": "tcg-pokemon-pop-series-5-7",
+      "itemType": "Trainer Card",
+      "number": "7",
+      "name": "Rare Candy",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Ryo Ueda",
+      "text": "Choose 1 of your Basic Pokémon in play. If you have a Stage 1 or Stage 2 card that evolves from that Pokémon in your hand, put that card on the Basic Pokémon. (This counts as evolving that Pokémon.)"
+    },
+    {
+      "id": "tcg-pokemon-pop-series-5-8",
+      "itemType": "Energy Card",
+      "number": "8",
+      "name": "Boost Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Shin-ichi Yoshikawa",
+      "text": "Boost Energy can be attached only to an Evolved Pokémon. Discard Boost Energy at the end of the turn it was attached. Boost Energy provides ColorlessColorlessColorless Energy. The Pokémon Boost Energy is attached to can't retreat. If the Pokémon Boost Energy is attached to isn't an Evolved Pokémon, discard Boost Energy."
+    },
+    {
+      "id": "tcg-pokemon-pop-series-5-9",
+      "itemType": "Energy Card",
+      "number": "9",
+      "name": "δ Rainbow Energy",
+      "types": [
+        "Energy"
+      ],
+      "rarity": "Uncommon",
+      "artist": "Takumi Akabane",
+      "text": "δ Rainbow Energy provides Colorless Energy. While attached to a Pokémon that has δ on its card, δ Rainbow Energy provides every type of Energy but provides only 1 Energy at a time. (Has no effect other than providing Energy.)"
+    },
+    {
+      "id": "tcg-pokemon-pop-series-5-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Charmander δ",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Bite",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-pop-series-5-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Meowth δ",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Feint Attack",
+          "cost": [
+            "Darkness"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 10 damage to that Pokémon. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on that Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-pop-series-5-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Pikachu",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Naoyo Kimura",
+      "attacks": [
+        {
+          "name": "Lightning Ball",
+          "damage": "10",
+          "cost": [
+            "Lightning"
+          ]
+        },
+        {
+          "name": "Thunderbolt",
+          "damage": "50",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard all Energy cards attached to Pikachu."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-pop-series-5-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Pikachu δ",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Common",
+      "artist": "Ryo Ueda",
+      "attacks": [
+        {
+          "name": "Electric Punch",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Heavy Metal",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin for each Metal Energy attached to Pikachu. This attack does 10 damage plus 20 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-pop-series-5-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Pelipper δ",
+      "stage": "Stage 1",
+      "evolvesFrom": "Wingull",
+      "hp": "70",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Common",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Mist",
+          "text": "Any damage done to Pelipper by attacks from Stage 2 Evolved Pokémon (both yours and your opponent's) is reduced by 30 (after applying Weakness and Resistance).",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Lightning Wing",
+          "damage": "50",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 10 damage to 1 of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-pop-series-5-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Zangoose δ",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Common",
+      "artist": "Kouki Saitou",
+      "attacks": [
+        {
+          "name": "Detect",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, prevent all effects of an attack, including damage, done to Zangoose during your opponent's next turn."
+        },
+        {
+          "name": "Metal Claw",
+          "damage": "40",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-pop-series-5-16",
+      "itemType": "Pokemon Card",
+      "number": "16",
+      "name": "Espeon ★",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Rare",
+      "artist": "Masakazu Fukuda",
+      "abilities": [
+        {
+          "name": "Purple Ray",
+          "text": "Once during your turn, when you put Espeon Star from your hand onto your Bench, you may use this power. Each Active Pokémon (both yours and your opponent's) is now Confused.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "You can't have more than 1 Pokémon Star in your deck.",
+      "attacks": [
+        {
+          "name": "Psychic Boom",
+          "damage": "30+",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Does 30 damage plus 10 more damage for each Energy attached to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-pop-series-5-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Umbreon ★",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Rare",
+      "artist": "Masakazu Fukuda",
+      "abilities": [
+        {
+          "name": "Dark Ray",
+          "text": "Once during your turn, when you put Umbreon Star from your hand onto your Bench, you may choose 1 card from your opponent's hand without looking and discard it.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "You can't have more than 1 Pokémon Star in your deck.",
+      "attacks": [
+        {
+          "name": "Feint Attack",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on that Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    }
+  ]
+}
