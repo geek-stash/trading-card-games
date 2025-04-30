@@ -1,0 +1,2420 @@
+{
+  "setId": "tcg-pokemon-dp-black-star-promos",
+  "cardCount": "56",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-booster-box",
+      "itemType": "Sealed Product",
+      "name": "Dp-black-star-promos Booster Box"
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-booster-pack",
+      "itemType": "Sealed Product",
+      "name": "Dp-black-star-promos Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP01",
+      "itemType": "Pokemon Card",
+      "number": "DP01",
+      "name": "Turtwig",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Promo",
+      "artist": "Masakazu Fukuda",
+      "text": "Made from soil, the shell on its back hardens when it drinks water. It lives along lakes.",
+      "level": "10",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "damage": "10"
+        },
+        {
+          "name": "Razor Leaf",
+          "damage": "20",
+          "cost": [
+            "Grass"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP02",
+      "itemType": "Pokemon Card",
+      "number": "DP02",
+      "name": "Chimchar",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Promo",
+      "artist": "Kagemaru Himeno",
+      "text": "It agilely scales sheer cliffs to live atop craggy mountains. Its fire is put out when it sleeps.",
+      "level": "8",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "10"
+        },
+        {
+          "name": "Ember",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, discard a Fire Energy attached to Chimchar."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP03",
+      "itemType": "Pokemon Card",
+      "number": "DP03",
+      "name": "Piplup",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Promo",
+      "artist": "Atsuko Nishida",
+      "text": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
+      "level": "9",
+      "attacks": [
+        {
+          "name": "Peck",
+          "damage": "10"
+        },
+        {
+          "name": "Water Splash",
+          "damage": "20+",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP04",
+      "itemType": "Pokemon Card",
+      "number": "DP04",
+      "name": "Pachirisu",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Promo",
+      "artist": "Atsuko Nishida",
+      "text": "It makes fur balls that crackle with static electricity. It stores them with berries in tree holes.",
+      "level": "23",
+      "attacks": [
+        {
+          "name": "Minor Errand-Running",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Thunder Jolt",
+          "damage": "20",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Flip a coin. If tails, Pachirisu does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP05",
+      "itemType": "Trainer Card",
+      "number": "DP05",
+      "name": "Tropical Wind",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Promo",
+      "artist": "Sumiyoshi Kizuki",
+      "text": "Flip a coin. If heads, remove 2 damage counters from each Active Pokémon (remove 1 damage counter if a Pokémon has only 1). If tails, each Active Pokémon is now Asleep."
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP06",
+      "itemType": "Pokemon Card",
+      "number": "DP06",
+      "name": "Buneary",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Promo",
+      "artist": "Kagemaru Himeno",
+      "text": "It slams foes by sharply uncoiling its rolled ears. It stings enough to make a grown-up cry in pain.",
+      "level": "11",
+      "attacks": [
+        {
+          "name": "Splash",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Jump Kick",
+          "damage": "10",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP07",
+      "itemType": "Pokemon Card",
+      "number": "DP07",
+      "name": "Cranidos",
+      "stage": "Stage 1",
+      "evolvesFrom": "Skull Fossil",
+      "hp": "70",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Promo",
+      "artist": "Mitsuhiro Arita",
+      "text": "It lived in jungles around 100 million years ago. Its skull is as hard as iron.",
+      "level": "24",
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Steamroll",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP08",
+      "itemType": "Pokemon Card",
+      "number": "DP08",
+      "name": "Shieldon",
+      "stage": "Stage 1",
+      "evolvesFrom": "Armor Fossil",
+      "hp": "80",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Promo",
+      "artist": "Kouki Saitou",
+      "text": "A Pokémon that lived in jungles around 100 million years ago. Its facial hide is extremely hard.",
+      "level": "26",
+      "attacks": [
+        {
+          "name": "Hard Face",
+          "damage": "20",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done to Shieldon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Shield Attack",
+          "damage": "40+",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 40 damage plus 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP09",
+      "itemType": "Pokemon Card",
+      "number": "DP09",
+      "name": "Torterra LV.X",
+      "stage": "Level-Up",
+      "evolvesFrom": "Torterra",
+      "hp": "160",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Promo",
+      "artist": "Shizurow",
+      "abilities": [
+        {
+          "name": "Forest Murmurs",
+          "text": "Once during your turn (before your attack), if you have more Prize cards left than your opponent, you may choose 1 of your opponent's Benched Pokémon and switch it with 1 of the Defending Pokémon. This power can't be used if Torterra is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Put this card onto your Active Torterra. Torterra LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.",
+      "level": "X",
+      "attacks": [
+        {
+          "name": "Vigorous Dash",
+          "damage": "100",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Torterra does 30 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP10",
+      "itemType": "Pokemon Card",
+      "number": "DP10",
+      "name": "Infernape LV.X",
+      "stage": "Level-Up",
+      "evolvesFrom": "Infernape",
+      "hp": "120",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Promo",
+      "artist": "Shizurow",
+      "abilities": [
+        {
+          "name": "Burning Head",
+          "text": "Once during your turn (before your attack), you may look at the top 3 cards of your deck, choose 1 of them, and put it into your hand. Discard the other 2 cards. This power can't be used if Infernape is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Put this card onto your Active Infernape. Infernape LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.",
+      "level": "X",
+      "attacks": [
+        {
+          "name": "Flare Up",
+          "damage": "150",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "text": "Search your discard pile for 8 Fire Energy cards, show them to your opponent, and shuffle them into your deck. (This attack does nothing if you don't have 8 Fire Energy cards in your discard pile.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP11",
+      "itemType": "Pokemon Card",
+      "number": "DP11",
+      "name": "Empoleon LV.X",
+      "stage": "Level-Up",
+      "evolvesFrom": "Empoleon",
+      "hp": "140",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Promo",
+      "artist": "Shizurow",
+      "abilities": [
+        {
+          "name": "Supreme Command",
+          "text": "Once during your turn (before your attack), you may choose up to 2 cards from your opponent's hand without looking and put them face down next to the Defending Pokémon. (These cards are not in play or in your opponent's hand.) At the end of your opponent's next turn, return those cards to your opponent's hand. This power can't be used if Empoleon is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Put this card onto your Active Empoleon. Empoleon LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.",
+      "level": "X",
+      "attacks": [
+        {
+          "name": "Hydro Impact",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 80 damage to that Pokémon (Don't apply Weakness and Resistance for Benched Pokémon.) Empoleon can't attack during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP12",
+      "itemType": "Pokemon Card",
+      "number": "DP12",
+      "name": "Lucario LV.X",
+      "stage": "Level-Up",
+      "evolvesFrom": "Lucario",
+      "hp": "110",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Promo",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Stance",
+          "text": "Once during your turn (before your attack), when you put Lucario LV.X from your hand onto your Active Lucario, you may use this power. Prevent all effects of an attack, including damage, done to Lucario during your opponent's next turn. (If Lucario is no longer your Active Pokémon, this effect ends.)",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Put this card onto your Active Lucario. Lucario LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.",
+      "level": "X",
+      "attacks": [
+        {
+          "name": "Close Combat",
+          "damage": "80",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done to Lucario by attacks is increased by 30 (after applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP13",
+      "itemType": "Pokemon Card",
+      "number": "DP13",
+      "name": "Buizel",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Promo",
+      "artist": "Mitsuhiro Arita",
+      "text": "It has a flotation sac that is like an inflatable collar. It floats on water with its head out.",
+      "level": "10",
+      "attacks": [
+        {
+          "name": "Splash About",
+          "damage": "10+",
+          "cost": [
+            "Water"
+          ],
+          "text": "If Buizel has less Energy attached to it than the Defending Pokémon, this attack does 10 damage plus 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP14",
+      "itemType": "Pokemon Card",
+      "number": "DP14",
+      "name": "Chatot",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Promo",
+      "artist": "Masakazu Fukuda",
+      "text": "It can learn and speak human words. If they gather, they all learn the same saying.",
+      "level": "27",
+      "attacks": [
+        {
+          "name": "Me First",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw a card."
+        },
+        {
+          "name": "Tone-Deaf",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP15",
+      "itemType": "Pokemon Card",
+      "number": "DP15",
+      "name": "Shinx",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Promo",
+      "artist": "Kagemaru Himeno",
+      "text": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
+      "level": "7",
+      "attacks": [
+        {
+          "name": "Spark",
+          "damage": "10",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP16",
+      "itemType": "Pokemon Card",
+      "number": "DP16",
+      "name": "Pikachu",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Promo",
+      "artist": "Sumiyoshi Kizuki",
+      "abilities": [
+        {
+          "name": "Electro Recycle",
+          "text": "Once during your turn (before your attack), if Pichu is anywhere under Pikachu, you may search your discard pile for a Lightning Energy card, show it to your opponent, and put it into your hand. This power can't be used if Pikachu is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
+      "level": "15",
+      "attacks": [
+        {
+          "name": "BikaBika",
+          "damage": "20+",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP17",
+      "itemType": "Pokemon Card",
+      "number": "DP17",
+      "name": "Dialga LV.X",
+      "stage": "Level-Up",
+      "evolvesFrom": "Dialga",
+      "hp": "110",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Promo",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Time Skip",
+          "text": "Once during your turn (before your attack), you may have your opponent flip 2 coins. If both of them are heads, your turn ends. If both of them are tails, after your opponent draws a card at the beginning of his or her next turn, his or her turn ends. This power can't be used if Dialga is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Put this card onto your Active Dialga. Dialga LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.",
+      "level": "X",
+      "attacks": [
+        {
+          "name": "Metal Flash",
+          "damage": "80",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your next turn, Dialga can't use Metal Flash."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP18",
+      "itemType": "Pokemon Card",
+      "number": "DP18",
+      "name": "Palkia LV.X",
+      "stage": "Level-Up",
+      "evolvesFrom": "Palkia",
+      "hp": "120",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Promo",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Restructure",
+          "text": "Once during your turn (before your attack), you may have your opponent switch 1 of your Active Pokémon with 1 of your Benched Pokémon. Then, you switch 1 of the Defending Pokémon with 1 of your opponent's Benched Pokémon. This power can't be used if Palkia is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Put this card onto your Active Palkia. Palkia LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.",
+      "level": "X",
+      "attacks": [
+        {
+          "name": "Hydro Reflect",
+          "damage": "60",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "text": "You may move all Energy cards attached to Palkia to your Benched Pokémon in any way you like. (Ignore this effect if you don't have any Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP19",
+      "itemType": "Pokemon Card",
+      "number": "DP19",
+      "name": "Darkrai LV.X",
+      "stage": "Level-Up",
+      "evolvesFrom": "Darkrai",
+      "hp": "100",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Promo",
+      "artist": "Shizurow",
+      "abilities": [
+        {
+          "name": "Dark Shadow",
+          "text": "Each basic Darkness Energy card attached to your Darkness Pokémon now has the effect \"If the Pokémon Darkness Energy is attached to attacks, the attack does 10 more damage to the Active Pokémon (before applying Weakness and Resistance).\" You can't use more than 1 Dark Shadow Poké-Body each turn.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "Put this card onto your Active Darkrai. Darkrai LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.",
+      "level": "X",
+      "attacks": [
+        {
+          "name": "Endless Darkness",
+          "damage": "40",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Asleep. Flip 2 coins instead of 1 between turns. If either of them is tails, the Defending Pokémon is still Asleep. If both of them are tails, the Defending Pokémon is Knocked Out."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP20",
+      "itemType": "Pokemon Card",
+      "number": "DP20",
+      "name": "Magmortar",
+      "stage": "Stage 1",
+      "evolvesFrom": "Magmar",
+      "hp": "100",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Promo",
+      "artist": "Daisuke Ito",
+      "text": "It blasts fireballs of over 3,600 degrees F from the ends of its arms. It lives in volcanic craters.",
+      "level": "48",
+      "attacks": [
+        {
+          "name": "Smoke Bomb",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        },
+        {
+          "name": "Flame Drum",
+          "damage": "80",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "If Magby isn't anywhere under Magmortar, discard 2 Energy cards from your hand. (If you can't discard 2 Energy cards from your hand, this attack does nothing.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP21",
+      "itemType": "Pokemon Card",
+      "number": "DP21",
+      "name": "Raichu",
+      "stage": "Stage 1",
+      "evolvesFrom": "Pikachu",
+      "hp": "90",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Promo",
+      "artist": "Daisuke Ito",
+      "text": "It turns aggressive if it has too much electricity in its body. It discharges power through its tail.",
+      "level": "40",
+      "attacks": [
+        {
+          "name": "Electromagnetic Induction",
+          "text": "Search your deck for up to 2 Lightning Energy cards and attach them to 1 of your Pokémon. Shuffle your deck afterward."
+        },
+        {
+          "name": "Explosive Thunder",
+          "damage": "30×",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "text": "Discard all basic Lightning Energy cards attached to Raichu. This attack does 30 damage times the number of Lightning Energy cards you discarded."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP22",
+      "itemType": "Pokemon Card",
+      "number": "DP22",
+      "name": "Mime Jr.",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Promo",
+      "artist": "Mitsuhiro Arita",
+      "abilities": [
+        {
+          "name": "Baby Evolution",
+          "text": "Once during your turn (before your attack), you may put Mr. Mime from your hand onto Mime Jr. (this counts as evolving Mime Jr.) and remove all damage counters from Mime Jr.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "It habitually mimics foes. Once mimicked, the foe cannot take its eyes off this Pokémon.",
+      "level": "5",
+      "attacks": [
+        {
+          "name": "Mime",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Shuffle your hand into your deck. Then, draw a number of cards equal to the number of cards in your opponent's hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP23",
+      "itemType": "Pokemon Card",
+      "number": "DP23",
+      "name": "Glameow",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Promo",
+      "artist": "Mitsuhiro Arita",
+      "text": "It claws if displeased and purrs when affectionate. Its fickleness if very popular among some.",
+      "level": "12",
+      "attacks": [
+        {
+          "name": "Charm",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 (before applying Weakness and Resistance)."
+        },
+        {
+          "name": "Pose",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP24",
+      "itemType": "Pokemon Card",
+      "number": "DP24",
+      "name": "Darkrai",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Promo",
+      "artist": "Kouki Saitou",
+      "text": "Enigma Berry: If Darkrai is damaged by an attack from your opponent's Fighting Pokémon, remove 4 damage counters at the end of that turn.",
+      "level": "50",
+      "attacks": [
+        {
+          "name": "Spacial Rend",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ],
+          "text": "Search your deck for a Stadium card, show it to your opponent, and put it into your hand. Shuffle your deck afterward. If there is any Stadium card in play, discard it."
+        },
+        {
+          "name": "Roar of Time",
+          "damage": "80",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Metal"
+          ],
+          "text": "Search your discard pile for 3 Pokémon, show them to your opponent, and put them on top of your deck. Shuffle your deck afterward. (If you don't have 3 Pokémon in your discard pile, this attack does nothing.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP25",
+      "itemType": "Trainer Card",
+      "number": "DP25",
+      "name": "Tropical Wind",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Promo",
+      "artist": "Sumiyoshi Kizuki",
+      "text": "Flip a coin. If heads, remove 2 damage counters from each Active Pokémon (remove 1 damage counter if a Pokémon has only 1). If tails, each Active Pokémon is now Asleep."
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP26",
+      "itemType": "Pokemon Card",
+      "number": "DP26",
+      "name": "Dialga",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Promo",
+      "artist": "Kazuyuki Kano",
+      "text": "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.",
+      "level": "68",
+      "attacks": [
+        {
+          "name": "Time Bellow",
+          "damage": "10",
+          "cost": [
+            "Metal"
+          ],
+          "text": "Draw a card."
+        },
+        {
+          "name": "Flash Cannon",
+          "damage": "40",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "text": "You may return all Energy cards attached to Dialga to your hand. If you do, remove the highest Stage Evolution card from the Defending Pokémon and shuffle that card into your opponent's deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP27",
+      "itemType": "Pokemon Card",
+      "number": "DP27",
+      "name": "Palkia",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Promo",
+      "artist": "Daisuke Ito",
+      "text": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
+      "level": "67",
+      "attacks": [
+        {
+          "name": "Spacial Rend",
+          "damage": "10",
+          "cost": [
+            "Water"
+          ],
+          "text": "Search your deck for a Stadium card, show it to your opponent, and put it into your hand. Shuffle your deck afterward. If there is any Stadium card in play, discard it."
+        },
+        {
+          "name": "Transback",
+          "damage": "40",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "text": "You may flip a coin. If heads, discard all Energy attached to Palkia and put the Defending Pokémon and all cards attached to it on top of your opponent's deck. Your opponent shuffles his or her deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP28",
+      "itemType": "Pokemon Card",
+      "number": "DP28",
+      "name": "Mewtwo LV.X",
+      "stage": "Level-Up",
+      "evolvesFrom": "Mewtwo",
+      "hp": "120",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Promo",
+      "artist": "Shizurow",
+      "abilities": [
+        {
+          "name": "Psybarrier",
+          "text": "Prevent all effects of attacks, including damage, done to Mewtwo by your opponent's Pokémon that isn't an Evolved Pokémon.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "Put this card onto your Active Mewtwo. Mewtwo LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.",
+      "level": "X",
+      "attacks": [
+        {
+          "name": "Giga Burn",
+          "damage": "120",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Discard all Energy attached to Mewtwo."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP29",
+      "itemType": "Pokemon Card",
+      "number": "DP29",
+      "name": "Rhyperior LV.X",
+      "stage": "Level-Up",
+      "evolvesFrom": "Rhyperior",
+      "hp": "170",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Promo",
+      "artist": "Ryo Ueda",
+      "text": "Put this card onto your Active Rhyperior. Rhyperior LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.",
+      "level": "X",
+      "attacks": [
+        {
+          "name": "Hard Crush",
+          "damage": "50×",
+          "text": "Discard the top 5 cards from your deck. This attack does 50 damage for each Energy card you discarded."
+        },
+        {
+          "name": "Upthrow",
+          "damage": "60",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Search your discard pile for all Fighting Energy cards, show them to your opponent, and shuffle them into your deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP30",
+      "itemType": "Pokemon Card",
+      "number": "DP30",
+      "name": "Regigigas LV.X",
+      "stage": "Level-Up",
+      "evolvesFrom": "Regigigas",
+      "hp": "150",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Promo",
+      "artist": "Shizurow",
+      "abilities": [
+        {
+          "name": "Sacrifice",
+          "text": "Once during your turn (before your attack), you may choose 1 of your Pokémon in play and that Pokémon is Knocked Out. Then, search your discard pile for up to 2 basic Energy cards, attach them to Regigigas, and remove 8 damage counters from Regigigas. This power can't be used if Regigigas is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Put this card onto your Active Regigigas. Regigigas LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.",
+      "level": "X",
+      "attacks": [
+        {
+          "name": "Giga Blaster",
+          "damage": "100",
+          "cost": [
+            "Water",
+            "Fighting",
+            "Metal",
+            "Colorless"
+          ],
+          "text": "Discard the top card from your opponent's deck. Then, choose 1 card from your opponent's hand without looking and discard it. Regigigas can't use Giga Blaster during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP31",
+      "itemType": "Pokemon Card",
+      "number": "DP31",
+      "name": "Heatran LV.X",
+      "stage": "Level-Up",
+      "evolvesFrom": "Heatran",
+      "hp": "120",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Promo",
+      "artist": "Shizurow",
+      "abilities": [
+        {
+          "name": "Heat Metal",
+          "text": "Your opponent can't remove the Special Condition Burned by evolving or devolving his or her Burned Pokémon. (This also includes putting a Pokémon Level-Up card onto the Burned Pokémon.) Whenever your opponent flips a coin for the Special Condition Burned between turns, treat it as tails.",
+          "type": "Poké-Body"
+        },
+        {
+          "name": "Heat Wave",
+          "text": "Once at the end of your turn, if Heatran is on your Bench, you may use this power. If you discarded basic Energy cards attached to your Fire or Metal Active Pokémon by using that Pokémon's attack this turn, attach up to 2 of those Energy cards to that Pokémon.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Put this card onto your Active Heatran. Heatran LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.",
+      "level": "X",
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP32",
+      "itemType": "Pokemon Card",
+      "number": "DP32",
+      "name": "Magnezone",
+      "stage": "Stage 2",
+      "evolvesFrom": "Magneton",
+      "hp": "130",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Promo",
+      "artist": "Kent Kanetsuna",
+      "text": "It evolved from exposure to a special magnetic field. Three units generate magnetism.",
+      "level": "51",
+      "attacks": [
+        {
+          "name": "Mirror Shot",
+          "damage": "40",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        },
+        {
+          "name": "Magnet Slash",
+          "damage": "100",
+          "cost": [
+            "Lightning",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard all Lightning Energy attached to Magnezone."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP33",
+      "itemType": "Pokemon Card",
+      "number": "DP33",
+      "name": "Dusknoir",
+      "stage": "Stage 2",
+      "evolvesFrom": "Dusclops",
+      "hp": "130",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Promo",
+      "artist": "Kent Kanetsuna",
+      "abilities": [
+        {
+          "name": "Dark Hide",
+          "text": "Once during your turn (before your attack), you may flip a coin. If heads, look at your opponent's hand, choose a Pokémon you find there, and put it on the bottom of his or her deck. This power can't be used if Dusknoir is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "The antenna on its head captures radio waves from the world of spirits that command it to take people there.",
+      "level": "49",
+      "attacks": [
+        {
+          "name": "Reaper Pulse",
+          "damage": "70",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Move up to 2 damage counters from Dusknoir to 1 of your opponent's Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Colorless",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP34",
+      "itemType": "Pokemon Card",
+      "number": "DP34",
+      "name": "Drifblim",
+      "stage": "Stage 1",
+      "evolvesFrom": "Drifloon",
+      "hp": "80",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Promo",
+      "artist": "Mitsuhiro Arita",
+      "text": "It's drowzy in daytime, but flies off in the evening in big groups. No one knows where they go.",
+      "level": "40",
+      "attacks": [
+        {
+          "name": "Wind Wave",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your discard pile for up to 5 in any combination of Pokémon and Supporter cards. Show them to your opponent and shuffle them into your deck."
+        },
+        {
+          "name": "Explosive Smoke",
+          "damage": "60",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Does 10 damage to each Benched Pokémon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Colorless",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP35",
+      "itemType": "Pokemon Card",
+      "number": "DP35",
+      "name": "Porygon-Z",
+      "stage": "Stage 2",
+      "evolvesFrom": "Porygon2",
+      "hp": "120",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Promo",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Install",
+          "text": "As often as you like during your turn (before your attack), move a Technical Machine card attached to 1 of your Pokémon to another of your Pokémon. This power can't be used if Porygon-Z is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "level": "56",
+      "attacks": [
+        {
+          "name": "Learning",
+          "text": "Search your deck for a Pokémon LV.X that levels up from 1 of your Pokémon, and put it onto that Pokémon. (This counts as leveling up that Pokémon.) Shuffle your deck afterward."
+        },
+        {
+          "name": "Overload",
+          "damage": "40+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Does 40 damage plus 20 more damage for each Technical Machine card attached to Porygon-Z."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP36",
+      "itemType": "Pokemon Card",
+      "number": "DP36",
+      "name": "Gliscor",
+      "stage": "Stage 1",
+      "evolvesFrom": "Gligar",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Promo",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Bind Eye",
+          "text": "As long as Gliscor is your Active Pokémon, your opponent can't remove any Special Conditions by evolving or devolving his or her Pokémon. (This also includes putting a Pokémon Level-Up card onto that Pokémon.)",
+          "type": "Poké-Body"
+        }
+      ],
+      "level": "47",
+      "attacks": [
+        {
+          "name": "Cutting Turn",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, put damage counters on the Defending Pokémon until it is 10HP away from being Knocked Out. If you do, shuffle Gliscor and all cards attached to it back into your deck."
+        },
+        {
+          "name": "Friction Heat",
+          "damage": "20",
+          "cost": [
+            "Fighting"
+          ],
+          "text": "The Defending Pokémon is now Burned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP37",
+      "itemType": "Pokemon Card",
+      "number": "DP37",
+      "name": "Dialga LV.X",
+      "stage": "Level-Up",
+      "evolvesFrom": "Dialga",
+      "hp": "110",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Promo",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Time Skip",
+          "text": "Once during your turn (before your attack), you may have your opponent flip 2 coins. If both of them are heads, your turn ends. If both of them are tails, after your opponent draws a card at the beginning of his or her next turn, his or her turn ends. This power can't be used if Dialga is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Put this card onto your Active Dialga. Dialga LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.",
+      "level": "X",
+      "attacks": [
+        {
+          "name": "Metal Flash",
+          "damage": "80",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "During your next turn, Dialga can't use Metal Flash."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP38",
+      "itemType": "Pokemon Card",
+      "number": "DP38",
+      "name": "Giratina LV.X",
+      "stage": "Level-Up",
+      "evolvesFrom": "Giratina",
+      "hp": "130",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Promo",
+      "artist": "Shizurow",
+      "abilities": [
+        {
+          "name": "Invisible Tentacles",
+          "text": "Whenever your opponent's Pokémon tries to attack, your opponent discards 1 card from his or her hand. (If your opponent can't discard 1 card, your opponent's Pokémon can't attack.) You can't use more than 1 Invisible Tentacles Poké-Body each turn.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "Put this card onto your Active Giratina. Giratina LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.",
+      "level": "X",
+      "attacks": [
+        {
+          "name": "Darkness Lost",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "This attack does 30 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) If any of your opponent's Pokémon would be Knocked Out by damage from this attack, put that Pokémon and all cards attached to it in the Lost Zone instead of discarding it."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Colorless",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP39",
+      "itemType": "Pokemon Card",
+      "number": "DP39",
+      "name": "Shaymin LV.X",
+      "stage": "Level-Up",
+      "evolvesFrom": "Shaymin",
+      "hp": "110",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Promo",
+      "artist": "Shizurow",
+      "abilities": [
+        {
+          "name": "Revenge Seed",
+          "text": "If any of your Grass Pokémon were Knocked Out by damage from an opponent's attack during his or her last turn, each of Shaymin's attacks does 60 more damage to the Active Pokémon (before applying Weakness and Resistance).",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "Put this card onto your Active Shaymin. Shaymin LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.",
+      "level": "X",
+      "attacks": [
+        {
+          "name": "Energy Flare",
+          "damage": "50",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "You may move any number of Energy cards attached to your Pokémon to your other Pokémon in any way you like."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP40",
+      "itemType": "Pokemon Card",
+      "number": "DP40",
+      "name": "Regigigas",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Promo",
+      "artist": "Kagemaru Himeno",
+      "text": "There is an enduring legend that states this Pokémon towed continents with ropes.",
+      "level": "46",
+      "attacks": [
+        {
+          "name": "Drag Off",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Before doing damage, you may choose 1 of your opponent's Benched Pokémon and switch it with the Defending Pokémon."
+        },
+        {
+          "name": "Giga Hammer",
+          "damage": "80",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Regigigas can't use Giga Hammer during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP41",
+      "itemType": "Pokemon Card",
+      "number": "DP41",
+      "name": "Toxicroak G",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Promo",
+      "artist": "Ryota Saito",
+      "abilities": [
+        {
+          "name": "Leap Away",
+          "text": "Once during your turn (before your attack), if Toxicroak G is your Active Pokémon, you may flip a coin. If heads, return Toxicroak G and all cards attached to it to your hand. This power can't be used if Toxicroak G is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "level": "45",
+      "attacks": [
+        {
+          "name": "Poison Revenge",
+          "damage": "20+",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "If any of your Pokémon were Knocked Out by damage from an opponent's attack during his or her last turn, this attack does 20 damage plus 40 more damage and the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP42",
+      "itemType": "Pokemon Card",
+      "number": "DP42",
+      "name": "Carnivine G",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Promo",
+      "artist": "Makoto Imai",
+      "level": "43",
+      "attacks": [
+        {
+          "name": "Power Whip",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 10 damage for each Energy attached to Carnivine G to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Grass Knot",
+          "damage": "20+",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Does 20 damage plus 10 more damage for each Colorless Energy in the Defending Pokémon's Retreat Cost (after applying effects to the Retreat Cost)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP43",
+      "itemType": "Pokemon Card",
+      "number": "DP43",
+      "name": "Probopass G",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Promo",
+      "artist": "Ryota Saito",
+      "level": "53",
+      "attacks": [
+        {
+          "name": "Nose Unit",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "text": "This attack does 20 damage to each of your opponent's Pokémon that has any Poké-Bodies. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Loud Snort",
+          "damage": "70",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Probopass G's Retreat Cost is 0 until the end of your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP44",
+      "itemType": "Pokemon Card",
+      "number": "DP44",
+      "name": "Magnezone",
+      "stage": "Stage 2",
+      "evolvesFrom": "Magneton",
+      "hp": "130",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Promo",
+      "artist": "Kagemaru Himeno",
+      "text": "It evolved from exposure to a special magnetic field. Three units generate magnetism.",
+      "level": "53",
+      "attacks": [
+        {
+          "name": "Charge Beam",
+          "damage": "30",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Search your discard pile for an Energy card and attach it to Magnezone."
+        },
+        {
+          "name": "Metallic Bolt",
+          "damage": "60",
+          "cost": [
+            "Lightning",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may discard a Lightning Energy and a Metal Energy attached to Magnezone. If you do, this attack's base damage is 120 instead of 60."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP45",
+      "itemType": "Pokemon Card",
+      "number": "DP45",
+      "name": "Charizard G LV.X",
+      "stage": "Level-Up",
+      "evolvesFrom": "Charizard G",
+      "hp": "120",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Promo",
+      "artist": "Wataru Kawahara",
+      "abilities": [
+        {
+          "name": "Call for Power",
+          "text": "As often as you like during your turn (before your attack), you may move an Energy attached to 1 of your Pokémon to Charizard G. This power can't be used if Charizard G is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Put this card onto your Active Charizard G. Charizard G LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.",
+      "level": "X",
+      "attacks": [
+        {
+          "name": "Malevolent Fire",
+          "damage": "150",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, discard all Energy attached to Charizard G."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP46",
+      "itemType": "Pokemon Card",
+      "number": "DP46",
+      "name": "Garchomp C LV.X",
+      "stage": "Level-Up",
+      "evolvesFrom": "Garchomp C",
+      "hp": "110",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Promo",
+      "artist": "Shizurow",
+      "abilities": [
+        {
+          "name": "Healing Breath",
+          "text": "Once during your turn (before your attack), when you put Garchomp C LV.X from your hand onto your Active Garchomp C, you may remove all damage counters from each of your Pokémon SP.",
+          "type": "Poké-Power"
+        }
+      ],
+      "text": "Put this card onto your Active Garchomp C. Garchomp C LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.",
+      "level": "X",
+      "attacks": [
+        {
+          "name": "Dragon Rush",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard 2 Energy attached to Garchomp C. Choose 1 of your opponent's Pokémon. This attack does 80 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Garchomp C can't use Dragon Rush during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Colorless",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP47",
+      "itemType": "Pokemon Card",
+      "number": "DP47",
+      "name": "Rayquaza C LV.X",
+      "stage": "Level-Up",
+      "evolvesFrom": "Rayquaza C",
+      "hp": "120",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Promo",
+      "artist": "Shizurow",
+      "abilities": [
+        {
+          "name": "Dragon Spirit",
+          "text": "If Rayquaza C is your Active Pokémon and is damaged but not Knocked Out by an opponent's attack, you may search your discard pile for an Energy card and attach it to Rayquaza C.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "Put this card onto your Active Rayquaza C. Rayquaza C LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.",
+      "level": "X",
+      "attacks": [
+        {
+          "name": "Final Blowup",
+          "damage": "200",
+          "cost": [
+            "Water",
+            "Psychic",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "Discard all Energy attached to Rayquaza C. Ignore this effect if you have no cards in your hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Colorless",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP48",
+      "itemType": "Trainer Card",
+      "number": "DP48",
+      "name": "Tropical Wind",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Promo",
+      "artist": "Sumiyoshi Kizuki",
+      "text": "Flip a coin. If heads, remove 2 damage counters from each Active Pokémon (remove 1 damage counter if a Pokémon has only 1). If tails, each Active Pokémon is now Asleep."
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP49",
+      "itemType": "Pokemon Card",
+      "number": "DP49",
+      "name": "Dialga",
+      "stage": "Basic",
+      "hp": "100",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Promo",
+      "artist": "Kagemaru Himeno",
+      "text": "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.",
+      "level": "69",
+      "attacks": [
+        {
+          "name": "Time Call",
+          "cost": [
+            "Metal"
+          ],
+          "text": "Search your deck for a card that evolves from 1 of your Pokémon and put it onto that Pokémon. (This counts as evolving that Pokémon.) Shuffle your deck afterward."
+        },
+        {
+          "name": "Time Wager",
+          "damage": "100",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. If either of them is tails, this attack's base damage is 50 instead of 100."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP50",
+      "itemType": "Pokemon Card",
+      "number": "DP50",
+      "name": "Arceus",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Promo",
+      "artist": "Kunihiko Yuyama",
+      "text": "It is said to have emerged from an egg in a place where there was nothing, then shaped the world.",
+      "level": "100",
+      "attacks": [
+        {
+          "name": "Judgment",
+          "damage": "80",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Discard all Energy cards attached to Arceus and this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP51",
+      "itemType": "Pokemon Card",
+      "number": "DP51",
+      "name": "Cresselia",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Promo",
+      "artist": "Wataru Kawahara",
+      "abilities": [
+        {
+          "name": "Lunar Aura",
+          "text": "If you have Darkrai in play, remove 1 damage counter from Cresselia between turns.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "On nights around the quarter moon, the aurora from its tail extends and undulates beautifully.",
+      "level": "62",
+      "attacks": [
+        {
+          "name": "Lunar Flight",
+          "damage": "80-",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "Does 80 damage minus 10 damage for each damage counter on Cresselia."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP52",
+      "itemType": "Pokemon Card",
+      "number": "DP52",
+      "name": "Darkrai",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Darkness"
+      ],
+      "rarity": "Promo",
+      "artist": "Wataru Kawahara",
+      "abilities": [
+        {
+          "name": "Darkness Aura",
+          "text": "If you have Cresselia in play, each of Darkrai's attack does 20 more damage to the Defending Pokémon (before applying Weakness and Resistance).",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "To protect itself, it afflicts those around it with nightmares. However, it means no harm.",
+      "level": "61",
+      "attacks": [
+        {
+          "name": "Hypnoblast",
+          "damage": "60",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP53",
+      "itemType": "Pokemon Card",
+      "number": "DP53",
+      "name": "Arceus LV.X",
+      "stage": "Level-Up",
+      "evolvesFrom": "Arceus",
+      "hp": "120",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Promo",
+      "artist": "Shizurow",
+      "abilities": [
+        {
+          "name": "Multitype",
+          "text": "Arceus LV. X's type is the same type as its previous Level.",
+          "type": "Poké-Body"
+        },
+        {
+          "name": "Omniscient",
+          "text": "Arceus can use the attacks of all Arceus you have in play as its own. (You still need the necessary Energy to use each attack.)",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "You may have as many of this card in your deck as you like.,Put this card onto your Active Arceus. Arceus LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.",
+      "level": "X",
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP54",
+      "itemType": "Trainer Card",
+      "number": "DP54",
+      "name": "Beginning Door",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Promo",
+      "artist": "Ryo Ueda",
+      "text": "Search your deck for Arceus, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP55",
+      "itemType": "Trainer Card",
+      "number": "DP55",
+      "name": "Ultimate Zone",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Promo",
+      "artist": "Yusuke Ishikawa",
+      "text": "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.,During each player's turn, the player may move an Energy card attached to 1 of his or her Benched Pokémon to his or her Active Arceus as often as he or she likes."
+    },
+    {
+      "id": "tcg-pokemon-dp-black-star-promos-DP56",
+      "itemType": "Pokemon Card",
+      "number": "DP56",
+      "name": "Arceus LV.X",
+      "stage": "Level-Up",
+      "evolvesFrom": "Arceus",
+      "hp": "120",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Promo",
+      "artist": "Ryo Ueda",
+      "abilities": [
+        {
+          "name": "Multitype",
+          "text": "Arceus LV.X's type is the same as its previous Level.",
+          "type": "Poké-Body"
+        }
+      ],
+      "text": "You may have as many of this card in your deck as you like.,Put this card onto your Active Arceus. Arceus LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.",
+      "level": "X",
+      "attacks": [
+        {
+          "name": "Meteor Blast",
+          "damage": "100",
+          "cost": [
+            "Grass",
+            "Fire",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack's base damage is 50 instead of 100."
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    }
+  ]
+}
