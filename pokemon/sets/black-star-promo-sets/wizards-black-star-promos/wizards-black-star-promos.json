@@ -1,0 +1,2072 @@
+{
+  "setId": "tcg-pokemon-wizards-black-star-promos",
+  "cardCount": "53",
+  "sealedProducts": [
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-booster-box",
+      "itemType": "Sealed Product",
+      "name": "Wizards-black-star-promos Booster Box"
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-booster-pack",
+      "itemType": "Sealed Product",
+      "name": "Wizards-black-star-promos Booster Pack"
+    }
+  ],
+  "cards": [
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-1",
+      "itemType": "Pokemon Card",
+      "number": "1",
+      "name": "Pikachu",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Promo",
+      "artist": "Keiji Kinebuchi",
+      "text": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
+      "level": "16",
+      "attacks": [
+        {
+          "name": "Growl",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon attacks Pikachu during your opponent's next turn, any damage done by the attack is reduced by 10 (after applying Weakness and Resistance). (Benching either Pokémon ends this effect.)"
+        },
+        {
+          "name": "Thundershock",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-2",
+      "itemType": "Pokemon Card",
+      "number": "2",
+      "name": "Electabuzz",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "text": "A wild Pokémon with a short temper. It is able to distinguish colors, and likes the color red.",
+      "level": "20",
+      "attacks": [
+        {
+          "name": "Light Screen",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Whenever an attack does damage to Electabuzz (after applying Weakness and Resistance) during your opponent's next turn, that attack only does half the damage to Electabuzz (rounded down to the nearest 10). (Any other effects of attacks still happen.)"
+        },
+        {
+          "name": "Quick Attack",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-3",
+      "itemType": "Pokemon Card",
+      "number": "3",
+      "name": "Mewtwo",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "text": "Years of genetic experiments resulted in the creation of this never-before-seen violent Pokémon.",
+      "level": "60",
+      "attacks": [
+        {
+          "name": "Energy Absorption",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Choose up to 2 Energy cards from your discard pile and attach them to Mewtwo."
+        },
+        {
+          "name": "Psyburn",
+          "damage": "40",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-4",
+      "itemType": "Pokemon Card",
+      "number": "4",
+      "name": "Pikachu",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "text": "When several of these Pokémon gather, they attract so much electricity that they can cause lightning to strike.",
+      "level": "13",
+      "attacks": [
+        {
+          "name": "Recharge",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Search your deck for a Lightning Energy card and attach it to Pikachu. Shuffle your deck afterward."
+        },
+        {
+          "name": "Thunderbolt",
+          "damage": "50",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "text": "Discard all Energy cards attached to Pikachu in order to use this attack."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-5",
+      "itemType": "Pokemon Card",
+      "number": "5",
+      "name": "Dragonite",
+      "stage": "Stage 2",
+      "evolvesFrom": "Dragonair",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Promo",
+      "artist": "Toshinao Aoki",
+      "abilities": [
+        {
+          "name": "Special Delivery",
+          "text": "Once during your turn (before your attack), you may draw a card. If you do, choose a card from your hand and put it on top of your deck. This power can't be used if Dragonite is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "This Pokémon can fly is spite of its large bulk. It is said to be able to circumnavigate the earth in just 16 hours.",
+      "level": "43",
+      "attacks": [
+        {
+          "name": "Supersonic Flight",
+          "damage": "60",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-6",
+      "itemType": "Pokemon Card",
+      "number": "6",
+      "name": "Arcanine",
+      "stage": "Stage 1",
+      "evolvesFrom": "Growlithe",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "text": "A legendary Pokémon famous for its beauty. It looks almost as if it flies when it runs.",
+      "level": "34",
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "damage": "10+",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
+        },
+        {
+          "name": "Flames of Rage",
+          "damage": "40+",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "text": "Discard 2 Fire Energy cards attached to Arcanine in order to use this attack. This attack does 40 damage plus 10 more damage for each damage counter on Arcanine."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-7",
+      "itemType": "Pokemon Card",
+      "number": "7",
+      "name": "Jigglypuff",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Promo",
+      "artist": "Keiji Kinebuchi",
+      "text": "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
+      "level": "12",
+      "attacks": [
+        {
+          "name": "First Aid",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Remove 1 damage counter from Jigglypuff."
+        },
+        {
+          "name": "Double-edge",
+          "damage": "40",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Jigglypuff does 20 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-8",
+      "itemType": "Pokemon Card",
+      "number": "8",
+      "name": "Mew",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "text": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+      "level": "23",
+      "attacks": [
+        {
+          "name": "Psywave",
+          "damage": "10×",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Does 10 damage times the number of Energy cards attached to the Defending Pokémon."
+        },
+        {
+          "name": "Devolution Beam",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Choose an evolved Pokémon (your own or your opponent's). Return the highest Stage Evolution card on that Pokémon to its player's hand. That Pokémon is no longer Asleep, Confused, Paralyzed, or Poisoned, or anything else that might be the result of an attack (just as if you had evolved it)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-9",
+      "itemType": "Pokemon Card",
+      "number": "9",
+      "name": "Mew",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "text": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+      "level": "51",
+      "attacks": [
+        {
+          "name": "Psywave",
+          "damage": "10×",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Does 10 damage times the number of Energy cards attached to the Defending Pokémon."
+        },
+        {
+          "name": "Devolution Beam",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Choose an evolved Pokémon (your own or your opponent's). Return the highest Stage Evolution card on that Pokémon to its player's hand. That Pokémon is no longer Asleep, Confused, Paralyzed, or Poisoned, or anything else that might be the result of an attack (just as if you had evolved it)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-10",
+      "itemType": "Pokemon Card",
+      "number": "10",
+      "name": "Meowth",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Promo",
+      "artist": "Kagemaru Himeno",
+      "text": "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change.",
+      "level": "13",
+      "attacks": [
+        {
+          "name": "Cat Punch",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 20 damage. If tails and if your opponent has any Benched Pokémon, he or she chooses 1 of them and this attack does 20 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-11",
+      "itemType": "Pokemon Card",
+      "number": "11",
+      "name": "Eevee",
+      "stage": "Basic",
+      "hp": "30",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Promo",
+      "artist": "Kagemaru Himeno",
+      "abilities": [
+        {
+          "name": "Chain Reaction",
+          "text": "This power can only be used when a Pokémon evolves. Search your deck for a card that evolves from Eevee and attach it to Eevee. This counts as evolving Eevee. Shuffle your deck afterward. This power can't be used if Eevee is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "Its genetic code is irregular. It may mutate if it is exposed to radiation from elemental stones.",
+      "level": "7",
+      "attacks": [
+        {
+          "name": "Bite",
+          "damage": "20",
+          "cost": [
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-12",
+      "itemType": "Pokemon Card",
+      "number": "12",
+      "name": "Mewtwo",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Promo",
+      "artist": "Christopher Rush",
+      "text": "A scientist created this Pokémon after years of horrific gene-splicing and DNA engineering experiments.",
+      "level": "13",
+      "attacks": [
+        {
+          "name": "Energy Control",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, choose a basic Energy card attached to 1 of your opponent's Pokémon and attach it to another of your opponent's Pokémon of your choice."
+        },
+        {
+          "name": "Telekinesis",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon. Don't apply Weakness and Resistance for this attack. (Any other effects that would happen after applying Weakness and Resistance still happen.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-13",
+      "itemType": "Pokemon Card",
+      "number": "13",
+      "name": "Venusaur",
+      "stage": "Stage 2",
+      "evolvesFrom": "Ivysaur",
+      "hp": "100",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Solar Power",
+          "text": "Once during your turn (before your attack), you may use this power. Your Active Pokémon and the Defending Pokémon are no longer Asleep, Confused, Paralyzed, or Poisoned. This power can't be used if Venusaur is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "This plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+      "level": "16",
+      "attacks": [
+        {
+          "name": "Mega Drain",
+          "damage": "40",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "text": "Remove a number of damage counters from Venusaur equal to half the damage done to the Defending Pokémon (after applying Weakness and Resistance) (rounded up to the nearest 10). If Venusaur has fewer damage counters than that, remove all of them."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-14",
+      "itemType": "Pokemon Card",
+      "number": "14",
+      "name": "Mewtwo",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Promo",
+      "artist": "Benimaru Itoh",
+      "text": "Years of genetic experiments resulted in the creation of this never-before-seen violent Pokémon.",
+      "level": "60",
+      "attacks": [
+        {
+          "name": "Energy Absorption",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Choose up to 2 Energy cards from your discard pile and attach them to Mewtwo."
+        },
+        {
+          "name": "Psyburn",
+          "damage": "40",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-15",
+      "itemType": "Pokemon Card",
+      "number": "15",
+      "name": "Cool Porygon",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Promo",
+      "artist": "Hiromichi Sugiyama",
+      "text": "A Pokémon that consists entirely of programming code. Capable of moving freely in cyberspace.",
+      "level": "15",
+      "attacks": [
+        {
+          "name": "Texture Magic",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "You may change Cool Porygon's Resistance to a type of your choice other than Colorless. If the Defending Pokémon has a Weakness, you may change it to a type of your choice other than Colorless. (Benching either Pokémon ends the effect on that Pokémon.)"
+        },
+        {
+          "name": "3-D Attack",
+          "damage": "20×",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip 3 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-16",
+      "itemType": "Trainer Card",
+      "number": "16",
+      "name": "Computer Error",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Promo",
+      "artist": "Sumiyoshi Kizuki",
+      "text": "You may draw up to 5 cards, then your opponent may draw up to 5 cards. Your turn is over now (you don't get to attack)."
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-17",
+      "itemType": "Pokemon Card",
+      "number": "17",
+      "name": "Dark Persian",
+      "stage": "Stage 1",
+      "evolvesFrom": "Meowth",
+      "hp": "60",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "text": "Popular with women because of its beautiful fur. The leader of the Rockets keeps one as a pet.",
+      "level": "28",
+      "attacks": [
+        {
+          "name": "Tempt",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If your opponent has any Benched Pokémon, flip a coin. If heads, choose 1 of your opponent's Benched Pokémon and switch it with the Defending Pokémon."
+        },
+        {
+          "name": "Poison Claws",
+          "damage": "10",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. if heads, the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-18",
+      "itemType": "Pokemon Card",
+      "number": "18",
+      "name": "Team Rocket's Meowth",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Promo",
+      "artist": "Kunihiko Yuyama",
+      "text": "This Pokémon is more active at night. It likes bright, shiny things and cannot resist taking them and adding them to its collection.",
+      "level": "30",
+      "attacks": [
+        {
+          "name": "Miraculous Comeback",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a number of coins equal to the number of Pokémon in play. This attack does 10 damage times the number of heads. Then Team Rocket's Meowth does 10 damage times the number of tails to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-19",
+      "itemType": "Pokemon Card",
+      "number": "19",
+      "name": "Sabrina's Abra",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Promo",
+      "artist": "Atsuko Nishida",
+      "level": "15",
+      "attacks": [
+        {
+          "name": "Pound",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Synchronize",
+          "damage": "40",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "text": "This attack can't be used unless Sabrina's Abra and the Defending Pokémon have the same number of Energy cards attached to them."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-20",
+      "itemType": "Pokemon Card",
+      "number": "20",
+      "name": "Psyduck",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Promo",
+      "artist": "Kagemaru Himeno",
+      "text": "While lulling its enemies with its vacant look, this wily Pokémon will use psychokinetic powers.",
+      "level": "15",
+      "attacks": [
+        {
+          "name": "Headache",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Your opponent can't play Trainer cards during his or her next turn."
+        },
+        {
+          "name": "Fury Swipes",
+          "damage": "10×",
+          "cost": [
+            "Water"
+          ],
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-21",
+      "itemType": "Pokemon Card",
+      "number": "21",
+      "name": "Moltres",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Promo",
+      "artist": "Toshinao Aoki",
+      "text": "The flames on this legendary Pokémon's wings burn so brightly that they can make night seem like day.",
+      "level": "33",
+      "attacks": [
+        {
+          "name": "Hyper Flame",
+          "damage": "60",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "text": "Flip a coin. If heads, discard 1 Fire Energy card attached to Moltres. If tails, discard all Energy cards attached to Moltres. If you can't discard Energy cards, this attack does nothing."
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-22",
+      "itemType": "Pokemon Card",
+      "number": "22",
+      "name": "Articuno",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Promo",
+      "artist": "Toshinao Aoki",
+      "text": "This legendary Pokémon is said to freeze the water in the air during winter, causing snow.",
+      "level": "34",
+      "attacks": [
+        {
+          "name": "Diamond Dust",
+          "damage": "20",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed and this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-23",
+      "itemType": "Pokemon Card",
+      "number": "23",
+      "name": "Zapdos",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Promo",
+      "artist": "Toshinao Aoki",
+      "text": "This legendary Pokémon is said to be present wherever there is a lightning storm.",
+      "level": "30",
+      "attacks": [
+        {
+          "name": "Lightning Burn",
+          "damage": "30",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "text": "Flip a coin. If heads, and if your opponent has any Benched Pokémon, choose 1 of them. This attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) If tails, Zapdos does 30 damage to itself."
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-24",
+      "itemType": "Pokemon Card",
+      "number": "24",
+      "name": "_____'s Pikachu",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Promo",
+      "artist": "Kagemaru Himeno",
+      "text": "Your Birthdate: ______________________________",
+      "level": "17",
+      "attacks": [
+        {
+          "name": "Birthday Surprise",
+          "damage": "30+",
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "text": "If it's not your birthday, this attack does 30 damage. If it is your birthday, flip a coin. If heads, this attack does 30 damage plus 50 more damage; if tails, this attack does 30 damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-25",
+      "itemType": "Pokemon Card",
+      "number": "25",
+      "name": "Flying Pikachu",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Promo",
+      "artist": "Toshinao Aoki",
+      "text": "By learning how to fly, Pikachu overcame its weakness to Fighting Pokémon.",
+      "level": "12",
+      "attacks": [
+        {
+          "name": "Thundershock",
+          "damage": "10",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Fly",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Flying Pikachu; if tails, this attack does nothing (not even damage)."
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-26",
+      "itemType": "Pokemon Card",
+      "number": "26",
+      "name": "Pikachu",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Promo",
+      "artist": "Gakuji Nomoto",
+      "text": "It uses its sensitive tail to sense its environment and has been known to react violently if its tail is grabbed.",
+      "level": "9",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "damage": "10",
+          "cost": [
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Thunderbolt",
+          "damage": "40",
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "text": "Discard all Energy cards attached to Pikachu."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-27",
+      "itemType": "Pokemon Card",
+      "number": "27",
+      "name": "Pikachu",
+      "stage": "Basic",
+      "hp": "30",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Promo",
+      "artist": "Atsuko Nishida",
+      "text": "When several of these Pokémon gather, their electricity can cause lightning storms.",
+      "level": "5",
+      "attacks": [
+        {
+          "name": "Thundershock",
+          "damage": "10",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Agility",
+          "damage": "20",
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Pikachu."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-28",
+      "itemType": "Pokemon Card",
+      "number": "28",
+      "name": "Surfing Pikachu",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Promo",
+      "artist": "Toshinao Aoki",
+      "text": "One summer, a group of Pikachus was found riding the waves at the local beach.",
+      "level": "32",
+      "attacks": [
+        {
+          "name": "Surf",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Water"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-29",
+      "itemType": "Pokemon Card",
+      "number": "29",
+      "name": "Marill",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "text": "The tip of its tail, which contains oil that is lighter than water, lets it swim without drowning.",
+      "level": "64",
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "damage": "20+",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "text": "Does 20 damage plus 10 more damage for each Energy attached to Marill but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-30",
+      "itemType": "Pokemon Card",
+      "number": "30",
+      "name": "Togepi",
+      "stage": "Basic",
+      "hp": "30",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "text": "Still only a hatchling, it uses poison to chase off its enemies when threatened.",
+      "level": "8",
+      "attacks": [
+        {
+          "name": "Snivel",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "If the Defending Pokémon attacks Togepi during your opponent's next turn, any damage done to Togepi is reduced by 20 (before applying Weakness and Resistance). (Benching either Pokémon ends this effect.)"
+        },
+        {
+          "name": "Mini-Metronome",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, choose 1 of the Defending Pokémon's attacks. Mini-Metronome copies that attack except for its Energy cost. (You must still do anything else in order to use that attack.) (No matter what type the Defending Pokémon is, Togepi's type is still Colorless.) Togepi performs that attack."
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-31",
+      "itemType": "Pokemon Card",
+      "number": "31",
+      "name": "Cleffa",
+      "stage": "Baby",
+      "hp": "30",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "text": "Because of its unusual, star-like silhouette, people believe that it came here on a meteor.",
+      "level": "5",
+      "attacks": [
+        {
+          "name": "Eek",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Draw 2 cards."
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-32",
+      "itemType": "Pokemon Card",
+      "number": "32",
+      "name": "Smeargle",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Promo",
+      "artist": "Tomokazu Komiya",
+      "text": "Once it becomes an adult, it has a tendency to let its comrades plant footprints on its back.",
+      "level": "21",
+      "attacks": [
+        {
+          "name": "Paint",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, choose a type (other than Colorless) and put a Coloring counter on the Defending Pokémon. That Pokémon is now the type you chose. If it already had a Coloring counter, remove the old one. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-33",
+      "itemType": "Pokemon Card",
+      "number": "33",
+      "name": "Scizor",
+      "stage": "Stage 1",
+      "evolvesFrom": "Scyther",
+      "hp": "70",
+      "types": [
+        "Metal"
+      ],
+      "rarity": "Promo",
+      "artist": "Hironobu Yoshida",
+      "text": "Its wings are not used for flying. They are flapped at high speed to adjust its body temperature.",
+      "level": "36",
+      "attacks": [
+        {
+          "name": "Leer",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon can't attack Scizor during your opponent's next turn. (Benching either Pokémon ends this effect.)"
+        },
+        {
+          "name": "Metal Pincer",
+          "damage": "30+",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin until you get tails. This attack does 30 damage plus 10 more damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-34",
+      "itemType": "Pokemon Card",
+      "number": "34",
+      "name": "Entei",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Bolt",
+          "text": "Whenever your opponent's attack damages Entei, unless that attack Knocks Out Entei, flip a coin. If heads, shuffle Entei and all cards attached to it into your deck. This power can't be used if Entei is already Asleep, Confused, or Paralyzed when it is damaged.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "Volcanoes erupt when it barks. Unable to restrain its extreme power, it races headlong around the land.",
+      "level": "37",
+      "attacks": [
+        {
+          "name": "Protective Flame",
+          "damage": "50",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "text": "During your opponent's next turn, prevent all effects of attacks, including damage, done to your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-35",
+      "itemType": "Pokemon Card",
+      "number": "35",
+      "name": "Pichu",
+      "stage": "Baby",
+      "hp": "30",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "text": "It is not yet skilled at storing electricity. It may send out a jolt if amused or startled.",
+      "level": "4",
+      "attacks": [
+        {
+          "name": "Let's Play!",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "Search your deck for a Baby Pokémon card and put it onto your Bench. Shuffle your deck afterward. (You can't use this attack if your Bench is full.)"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-36",
+      "itemType": "Pokemon Card",
+      "number": "36",
+      "name": "Igglybuff",
+      "stage": "Baby",
+      "hp": "30",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Promo",
+      "artist": "Kagemaru Himeno",
+      "text": "Its extremely flexible and elastic body makes it bounce continuously—anytime, anywhere.",
+      "level": "5",
+      "attacks": [
+        {
+          "name": "Good Night Song",
+          "cost": [
+            "Colorless"
+          ],
+          "text": "The Defending Pokémon is now Asleep."
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-37",
+      "itemType": "Pokemon Card",
+      "number": "37",
+      "name": "Hitmontop",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Promo",
+      "artist": "Atsuko Nishida",
+      "text": "It launches kicks while spinning. If it spins at high speed, it may bore its way into the ground.",
+      "level": "29",
+      "attacks": [
+        {
+          "name": "Repeating Kick",
+          "damage": "20×",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "Flip a coin until you get tails. This attack does 20 damage times the number of heads."
+        },
+        {
+          "name": "Rapid Spin",
+          "damage": "30",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "text": "If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with his or her Active Pokémon, then, if you have any Benched Pokémon, you switch 1 of them with your Active Pokémon. (Do the damage before switching the Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-38",
+      "itemType": "Pokemon Card",
+      "number": "38",
+      "name": "Unown [J]",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Promo",
+      "artist": "Hideki Kazama",
+      "abilities": [
+        {
+          "name": "[Join]",
+          "text": "Once during your turn (before your attack), if you have Unown [J], Unown [O], Unown [I], and Unown Dragon on your Bench, you may search your deck for a Basic Pokémon or Evolution card. Show that card to your opponent, then put it into your hand. Shuffle your deck afterward.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "Their shapes look like hieroglyphs on ancient tablets. It is said that the two are somehow related.",
+      "level": "17",
+      "attacks": [
+        {
+          "name": "Hidden Power",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-39",
+      "itemType": "Pokemon Card",
+      "number": "39",
+      "name": "Misdreavus",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Promo",
+      "artist": "Shin-ichi Yoshida",
+      "text": "It loves to bite and yank people's hair from behind without warning, just to see their shocked reactions.",
+      "level": "23",
+      "attacks": [
+        {
+          "name": "Pain Split",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Put 1 damage counter on the Defending Pokémon for each damage counter on Misdreavus."
+        },
+        {
+          "name": "Confuse Ray",
+          "damage": "10",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-40",
+      "itemType": "Trainer Card",
+      "number": "40",
+      "name": "Pokémon Center",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Promo",
+      "artist": "\"Big Mama\" Tagawa",
+      "text": "Remove all damage counters from all of your own Pokémon with damage counters on them, then discard all Energy cards attached to those Pokémon."
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-41",
+      "itemType": "Trainer Card",
+      "number": "41",
+      "name": "Lucky Stadium",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Promo",
+      "artist": "\"Big Mama\" Tagawa",
+      "text": "This card stays in play when you play it. Discard this card if another Stadium card comes into play.,Once during each player's turn (before attacking), that player may flip a coin. If heads, that player draws a card."
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-42",
+      "itemType": "Trainer Card",
+      "number": "42",
+      "name": "Pokémon Tower",
+      "types": [
+        "Trainer"
+      ],
+      "rarity": "Promo",
+      "artist": "Keiji Kinebuchi",
+      "text": "This card stays in play when you play it. Discard this card if another Stadium card comes into play.,If the effect of a Pokémon Power, attack, Energy card, or Trainer card would put a card in a discard pile into its owner's hand, that card stays in that discard pile instead."
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-43",
+      "itemType": "Pokemon Card",
+      "number": "43",
+      "name": "Machamp",
+      "stage": "Stage 2",
+      "evolvesFrom": "Machoke",
+      "hp": "90",
+      "types": [
+        "Fighting"
+      ],
+      "rarity": "Promo",
+      "artist": "Tomokazu Komiya",
+      "text": "Using its amazing muscles, it throws powerful punches that can knock its victim clear over the horizon.",
+      "level": "54",
+      "attacks": [
+        {
+          "name": "Seething Anger",
+          "damage": "20+",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "text": "Flip a number of coins equal to the number of damage counters on Machamp. This attack does 20 damage plus 10 more damage for each heads."
+        },
+        {
+          "name": "Fling",
+          "damage": "50",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-44",
+      "itemType": "Pokemon Card",
+      "number": "44",
+      "name": "Magmar",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Promo",
+      "artist": "Atsuko Nishida",
+      "text": "Its body always burns with an orange glow that enables it to hide perfectly among flames.",
+      "level": "27",
+      "attacks": [
+        {
+          "name": "Burning Fire",
+          "damage": "10+",
+          "cost": [
+            "Fire"
+          ],
+          "text": "When you use this attack, you may discard any number of Fire Energy cards attached to your Pokémon in play. This attack does 10 damage plus 10 more damage for each Fire Energy card you discarded in this way."
+        },
+        {
+          "name": "Magma Punch",
+          "damage": "40",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ]
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-45",
+      "itemType": "Pokemon Card",
+      "number": "45",
+      "name": "Scyther",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Promo",
+      "artist": "Hironobu Yoshida",
+      "text": "With ninja-like agility and speed, it can create the illusion that there is more than one.",
+      "level": "23",
+      "attacks": [
+        {
+          "name": "Slashing Strike",
+          "damage": "40",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "text": "Scyther can't use this attack during your next turn. (Benching or evolving Scyther ends this effect.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-46",
+      "itemType": "Pokemon Card",
+      "number": "46",
+      "name": "Electabuzz",
+      "stage": "Basic",
+      "hp": "60",
+      "types": [
+        "Lightning"
+      ],
+      "rarity": "Promo",
+      "artist": "Miki Tanaka",
+      "text": "Normally found near power plants, it can wander away and cause major blackouts in cities.",
+      "level": "22",
+      "attacks": [
+        {
+          "name": "Lightning Rod",
+          "cost": [
+            "Lightning"
+          ],
+          "text": "Choose 1 of your opponent's Pokémon and put a Lightning Rod marker on it. (A Pokémon can have only 1 Lightning Rod marker on it at a time.)"
+        },
+        {
+          "name": "Lightning Bolt",
+          "damage": "10",
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "text": "This attack does 20 damage to any Pokémon with a Lightning Rod marker on it. Apply Weakness and Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-47",
+      "itemType": "Pokemon Card",
+      "number": "47",
+      "name": "Mew",
+      "stage": "Basic",
+      "hp": "40",
+      "types": [
+        "Psychic"
+      ],
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "abilities": [
+        {
+          "name": "Neutral Shield",
+          "text": "Prevent all effects of attacks, including damage, done to Mew by Evolved Pokémon. You can't use this power if Mew is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+      "level": "8",
+      "attacks": [
+        {
+          "name": "Psyshock",
+          "damage": "10",
+          "cost": [
+            "Psychic"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-48",
+      "itemType": "Pokemon Card",
+      "number": "48",
+      "name": "Articuno",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Promo",
+      "artist": "Atsuko Nishida",
+      "abilities": [
+        {
+          "name": "Aurora Veil",
+          "text": "As long as Articuno is your Active Pokémon, your Benched Pokémon do not take damage from and are not affected by attacks. This power cannot be used if Articuno is affected by a Special Condition.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "A legendary bird Pokémon that is said to appear to doomed people who are lost in icy mountains.",
+      "level": "34",
+      "attacks": [
+        {
+          "name": "Ice Beam",
+          "damage": "30",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-49",
+      "itemType": "Pokemon Card",
+      "number": "49",
+      "name": "Snorlax",
+      "stage": "Basic",
+      "hp": "90",
+      "types": [
+        "Colorless"
+      ],
+      "rarity": "Promo",
+      "artist": "Craig Turvey",
+      "abilities": [
+        {
+          "name": "Guard",
+          "text": "As long as Snorlax is your Active Pokémon, the Defending Pokémon can't Retreat. This power stops working when Snorlax is affected by a Special Condition.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "text": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",
+      "level": "35",
+      "attacks": [
+        {
+          "name": "Roll Over",
+          "damage": "30",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Snorlax is now Asleep. Flip a coin. If heads, the Defending Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-50",
+      "itemType": "Pokemon Card",
+      "number": "50",
+      "name": "Celebi",
+      "stage": "Basic",
+      "hp": "50",
+      "types": [
+        "Grass"
+      ],
+      "rarity": "Promo",
+      "artist": "Hajime Kusajima",
+      "attacks": [
+        {
+          "name": "Leaf Slice",
+          "damage": "20×",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-51",
+      "itemType": "Pokemon Card",
+      "number": "51",
+      "name": "Rapidash",
+      "stage": "Stage 1",
+      "evolvesFrom": "Ponyta",
+      "hp": "60",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Promo",
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Jump Over",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "If your opponent has any Benched Pokémon, choose 1 of them. Flip a coin. If heads, this attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Super Singe",
+          "damage": "30",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Burned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-52",
+      "itemType": "Pokemon Card",
+      "number": "52",
+      "name": "Ho-oh",
+      "stage": "Basic",
+      "hp": "80",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Promo",
+      "artist": "Mitsuhiro Arita",
+      "attacks": [
+        {
+          "name": "Sacred Wing",
+          "damage": "60",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If tails, this attack's base damage is 20 instead of 60."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ]
+    },
+    {
+      "id": "tcg-pokemon-wizards-black-star-promos-53",
+      "itemType": "Pokemon Card",
+      "number": "53",
+      "name": "Suicune",
+      "stage": "Basic",
+      "hp": "70",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Promo",
+      "artist": "Atsuko Nishida",
+      "abilities": [
+        {
+          "name": "Pure Body",
+          "text": "To attach a Water Energy card from your hand to Suicune, you must discard an Energy card attached to Suicune. (Attach the Water Energy, and then discard an Energy card from Suicune.)",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hypno Wave",
+          "damage": "30+",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "text": "Flip a coin. If heads, this attack does 30 damage plus 20 more damage. If tails, this attack does 30 damage and the Defending Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreatCost": [
+        "Colorless"
+      ]
+    }
+  ]
+}
